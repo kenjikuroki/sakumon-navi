@@ -54,17 +54,11 @@
       text-decoration: none;
     }
 
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-
     .container {
       width: min(100% - 40px, var(--max));
       margin: 0 auto;
     }
 
-    /* Header */
     .site-header {
       position: sticky;
       top: 0;
@@ -149,7 +143,6 @@
       cursor: pointer;
     }
 
-    /* Hero */
     .hero {
       position: relative;
       overflow: hidden;
@@ -279,21 +272,10 @@
       margin-bottom: 16px;
     }
 
-    .paper-line:nth-child(1) {
-      width: 86%;
-    }
-
-    .paper-line:nth-child(2) {
-      width: 74%;
-    }
-
-    .paper-line:nth-child(3) {
-      width: 92%;
-    }
-
-    .paper-line:nth-child(4) {
-      width: 58%;
-    }
+    .paper-line:nth-child(1) { width: 86%; }
+    .paper-line:nth-child(2) { width: 74%; }
+    .paper-line:nth-child(3) { width: 92%; }
+    .paper-line:nth-child(4) { width: 58%; }
 
     .magnifier {
       position: absolute;
@@ -338,7 +320,6 @@
       bottom: 22px;
     }
 
-    /* Sections */
     section {
       padding: 64px 0;
     }
@@ -466,7 +447,7 @@
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
-      margin: 18px 0;
+      margin: 18px 0 14px;
     }
 
     .tag {
@@ -478,27 +459,57 @@
       font-weight: 800;
     }
 
-    .card-button {
+    .pdf-list {
+      display: grid;
+      gap: 10px;
+      margin-top: 16px;
+    }
+
+    .pdf-list a {
       display: flex;
       align-items: center;
-      justify-content: center;
-      gap: 8px;
-      height: 46px;
-      border-radius: 14px;
-      border: 1px solid #93c5fd;
+      justify-content: space-between;
+      gap: 12px;
+      min-height: 44px;
+      padding: 10px 14px;
+      border-radius: 13px;
+      background: #f8fafc;
+      border: 1px solid var(--line);
       color: var(--blue);
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 900;
+      line-height: 1.4;
       transition: 0.2s ease;
     }
 
-    .card-button:hover {
-      background: var(--blue);
-      color: #fff;
-      border-color: var(--blue);
+    .pdf-list a::after {
+      content: "開く";
+      flex: 0 0 auto;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 900;
     }
 
-    /* App / Ad */
+    .pdf-list a:hover {
+      background: #eff6ff;
+      border-color: #bfdbfe;
+      transform: translateY(-1px);
+    }
+
+    .official-link {
+      display: inline-flex;
+      margin-top: 14px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+
+    .official-link:hover {
+      color: var(--blue);
+    }
+
     .promo-layout {
       display: grid;
       grid-template-columns: 1fr 280px;
@@ -602,7 +613,6 @@
       font-size: 12px;
     }
 
-    /* Footer */
     .footer {
       border-top: 1px solid var(--line);
       background: #fff;
@@ -636,7 +646,6 @@
       color: var(--blue);
     }
 
-    /* Responsive */
     @media (max-width: 900px) {
       .nav {
         display: none;
@@ -763,6 +772,16 @@
 
       .qualification-card {
         padding: 20px;
+      }
+
+      .pdf-list a {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 4px;
+      }
+
+      .pdf-list a::after {
+        content: "PDFを開く";
       }
 
       .app-promo {
@@ -904,18 +923,33 @@
               <div class="card-icon">🚚</div>
               <div>
                 <h3>運行管理者（貨物）</h3>
-                <p>過去問PDF・解答PDFを年度別に整理</p>
+                <p>過去問PDF・正答PDFを年度別に整理</p>
               </div>
             </div>
 
             <div class="tags">
               <span class="tag">令和6年</span>
               <span class="tag">令和5年</span>
-              <span class="tag">令和4年</span>
+              <span class="tag">公式PDF</span>
             </div>
 
-            <a class="card-button" href="#">
-              過去問を見る ＞
+            <div class="pdf-list">
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2024/kamotsu/mondai.pdf?202604010900=" target="_blank" rel="noopener">
+                令和6年度 問題PDF
+              </a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2024/kamotsu/seitou.pdf?202604010900=" target="_blank" rel="noopener">
+                令和6年度 正答PDF
+              </a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2023/kamotsu/mondai.pdf?202604010900=" target="_blank" rel="noopener">
+                令和5年度 問題PDF
+              </a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2023/kamotsu/seitou.pdf?202604010900=" target="_blank" rel="noopener">
+                令和5年度 正答PDF
+              </a>
+            </div>
+
+            <a class="official-link" href="https://www.unkan.or.jp/past.html" target="_blank" rel="noopener">
+              公式の過去問題一覧を見る
             </a>
           </article>
 
@@ -924,18 +958,33 @@
               <div class="card-icon">🚌</div>
               <div>
                 <h3>運行管理者（旅客）</h3>
-                <p>過去問PDF・解答PDFを年度別に整理</p>
+                <p>過去問PDF・正答PDFを年度別に整理</p>
               </div>
             </div>
 
             <div class="tags">
               <span class="tag">令和6年</span>
               <span class="tag">令和5年</span>
-              <span class="tag">令和4年</span>
+              <span class="tag">公式PDF</span>
             </div>
 
-            <a class="card-button" href="#">
-              過去問を見る ＞
+            <div class="pdf-list">
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2024/ryokaku/mondai.pdf?202604010900=" target="_blank" rel="noopener">
+                令和6年度 問題PDF
+              </a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2024/ryokaku/seitou.pdf?202604010900=" target="_blank" rel="noopener">
+                令和6年度 正答PDF
+              </a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2023/ryokaku/mondai.pdf?202604010900=" target="_blank" rel="noopener">
+                令和5年度 問題PDF
+              </a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2023/ryokaku/seitou.pdf?202604010900=" target="_blank" rel="noopener">
+                令和5年度 正答PDF
+              </a>
+            </div>
+
+            <a class="official-link" href="https://www.unkan.or.jp/past.html" target="_blank" rel="noopener">
+              公式の過去問題一覧を見る
             </a>
           </article>
 
@@ -944,18 +993,24 @@
               <div class="card-icon">🏠</div>
               <div>
                 <h3>宅建</h3>
-                <p>過去問PDF・解答PDFを年度別に整理</p>
+                <p>過去問・正答PDFを整理</p>
               </div>
             </div>
 
             <div class="tags">
               <span class="tag">令和6年</span>
-              <span class="tag">令和5年</span>
-              <span class="tag">令和4年</span>
+              <span class="tag">問題・正答</span>
+              <span class="tag">公式PDF</span>
             </div>
 
-            <a class="card-button" href="#">
-              過去問を見る ＞
+            <div class="pdf-list">
+              <a href="https://www.retio.or.jp/wp-content/uploads/2025/03/R6_question_answer.pdf" target="_blank" rel="noopener">
+                令和6年度 問題・正答PDF
+              </a>
+            </div>
+
+            <a class="official-link" href="https://www.retio.or.jp/exam/takken_shiken.html" target="_blank" rel="noopener">
+              公式情報を見る
             </a>
           </article>
         </div>
