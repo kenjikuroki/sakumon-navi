@@ -24,372 +24,196 @@
       --max: 1120px;
     }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
 
-    html {
-      scroll-behavior: smooth;
-    }
+    html { scroll-behavior: smooth; }
 
     body {
-      font-family:
-        -apple-system,
-        BlinkMacSystemFont,
-        "Segoe UI",
-        "Hiragino Sans",
-        "Hiragino Kaku Gothic ProN",
-        "Noto Sans JP",
-        Meiryo,
-        sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans",
+        "Hiragino Kaku Gothic ProN", "Noto Sans JP", Meiryo, sans-serif;
       background: var(--bg);
       color: var(--text);
       line-height: 1.7;
     }
 
-    a {
-      color: inherit;
-      text-decoration: none;
-    }
+    a { color: inherit; text-decoration: none; }
 
-    .container {
-      width: min(100% - 40px, var(--max));
-      margin: 0 auto;
-    }
+    .container { width: min(100% - 40px, var(--max)); margin: 0 auto; }
 
     .site-header {
-      position: sticky;
-      top: 0;
-      z-index: 50;
-      background: rgba(255, 255, 255, 0.86);
+      position: sticky; top: 0; z-index: 50;
+      background: rgba(255,255,255,0.86);
       backdrop-filter: blur(16px);
-      border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+      border-bottom: 1px solid rgba(226,232,240,0.8);
     }
 
     .header-inner {
-      height: 72px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 24px;
+      height: 72px; display: flex; align-items: center;
+      justify-content: space-between; gap: 24px;
     }
 
     .logo {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      font-weight: 900;
-      letter-spacing: -0.02em;
-      font-size: 20px;
+      display: flex; align-items: center; gap: 10px;
+      font-weight: 900; letter-spacing: -0.02em; font-size: 20px;
     }
 
     .logo-mark {
-      width: 34px;
-      height: 34px;
-      border-radius: 12px;
+      width: 34px; height: 34px; border-radius: 12px;
       background: linear-gradient(135deg, var(--blue), #60a5fa);
-      display: grid;
-      place-items: center;
-      color: #fff;
-      font-size: 18px;
-      box-shadow: 0 10px 22px rgba(37, 99, 235, 0.28);
+      display: grid; place-items: center; color: #fff; font-size: 18px;
+      box-shadow: 0 10px 22px rgba(37,99,235,0.28);
     }
 
-    .logo span {
-      color: var(--blue);
-    }
+    .logo span { color: var(--blue); }
 
     .nav {
-      display: flex;
-      align-items: center;
-      gap: 28px;
-      font-size: 14px;
-      font-weight: 700;
-      color: #334155;
+      display: flex; align-items: center; gap: 28px;
+      font-size: 14px; font-weight: 700; color: #334155;
     }
 
-    .nav a {
-      position: relative;
-      padding: 24px 0;
-    }
+    .nav a { position: relative; padding: 24px 0; }
 
-    .nav a.active,
-    .nav a:hover {
-      color: var(--blue);
-    }
+    .nav a.active, .nav a:hover { color: var(--blue); }
 
     .nav a.active::after {
-      content: "";
-      position: absolute;
-      left: 0;
-      right: 0;
-      bottom: 15px;
-      height: 3px;
-      border-radius: 999px;
-      background: var(--blue);
+      content: ""; position: absolute; left: 0; right: 0; bottom: 15px;
+      height: 3px; border-radius: 999px; background: var(--blue);
     }
 
     .menu-button {
-      display: none;
-      width: 42px;
-      height: 42px;
-      border: 1px solid var(--line);
-      border-radius: 14px;
-      background: #fff;
-      color: var(--text);
-      font-size: 24px;
-      cursor: pointer;
+      display: none; width: 42px; height: 42px;
+      border: 1px solid var(--line); border-radius: 14px;
+      background: #fff; color: var(--text); font-size: 24px; cursor: pointer;
     }
 
+    section, footer { scroll-margin-top: 80px; }
+
     .hero {
-      position: relative;
-      overflow: hidden;
+      position: relative; overflow: hidden;
       background:
-        radial-gradient(circle at 78% 25%, rgba(37, 99, 235, 0.16), transparent 28%),
+        radial-gradient(circle at 78% 25%, rgba(37,99,235,0.16), transparent 28%),
         linear-gradient(180deg, #ffffff 0%, #eff6ff 100%);
-      border-bottom: 1px solid rgba(226, 232, 240, 0.9);
+      border-bottom: 1px solid rgba(226,232,240,0.9);
     }
 
     .hero-inner {
-      min-height: 430px;
-      display: grid;
+      min-height: 430px; display: grid;
       grid-template-columns: 1.05fr 0.95fr;
-      align-items: center;
-      gap: 42px;
-      padding: 74px 0;
+      align-items: center; gap: 42px; padding: 74px 0;
     }
 
     .badge {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 8px 14px;
-      border-radius: 999px;
-      background: #ffffff;
-      color: var(--blue);
-      font-size: 13px;
-      font-weight: 800;
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 8px 14px; border-radius: 999px; background: #ffffff;
+      color: var(--blue); font-size: 13px; font-weight: 800;
       border: 1px solid var(--blue-soft);
-      box-shadow: 0 8px 24px rgba(37, 99, 235, 0.08);
-      margin-bottom: 18px;
+      box-shadow: 0 8px 24px rgba(37,99,235,0.08); margin-bottom: 18px;
     }
 
     .hero h1 {
-      font-size: clamp(34px, 5vw, 56px);
-      line-height: 1.16;
-      letter-spacing: -0.055em;
-      margin-bottom: 18px;
+      font-size: clamp(34px, 5vw, 56px); line-height: 1.16;
+      letter-spacing: -0.055em; margin-bottom: 18px;
     }
 
-    .hero h1 span {
-      color: var(--blue);
-    }
+    .hero h1 span { color: var(--blue); }
 
-    .hero p {
-      color: var(--muted);
-      font-size: 16px;
-      max-width: 640px;
-      margin-bottom: 30px;
-    }
+    .hero p { color: var(--muted); font-size: 16px; max-width: 640px; margin-bottom: 30px; }
 
-    .search-box {
-      display: flex;
-      gap: 12px;
-      max-width: 620px;
-    }
+    .search-box { display: flex; gap: 12px; max-width: 620px; }
 
     .search-input {
-      flex: 1;
-      min-width: 0;
-      height: 58px;
-      border: 1px solid var(--line);
-      border-radius: 16px;
-      background: #fff;
-      padding: 0 18px;
-      font-size: 16px;
-      box-shadow: 0 12px 28px rgba(15, 23, 42, 0.07);
-      outline: none;
+      flex: 1; min-width: 0; height: 58px;
+      border: 1px solid var(--line); border-radius: 16px;
+      background: #fff; padding: 0 18px; font-size: 16px;
+      box-shadow: 0 12px 28px rgba(15,23,42,0.07); outline: none;
     }
 
     .search-input:focus {
       border-color: var(--blue);
-      box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.12);
+      box-shadow: 0 0 0 4px rgba(37,99,235,0.12);
     }
 
     .primary-button {
-      height: 58px;
-      border: none;
-      border-radius: 16px;
-      background: var(--blue);
-      color: #fff;
-      padding: 0 28px;
-      font-size: 15px;
-      font-weight: 900;
-      cursor: pointer;
-      box-shadow: 0 14px 28px rgba(37, 99, 235, 0.28);
-      transition: 0.2s ease;
-      white-space: nowrap;
+      height: 58px; border: none; border-radius: 16px;
+      background: var(--blue); color: #fff; padding: 0 28px;
+      font-size: 15px; font-weight: 900; cursor: pointer;
+      box-shadow: 0 14px 28px rgba(37,99,235,0.28);
+      transition: 0.2s ease; white-space: nowrap;
     }
 
-    .primary-button:hover {
-      background: var(--blue-dark);
-      transform: translateY(-1px);
-    }
+    .primary-button:hover { background: var(--blue-dark); transform: translateY(-1px); }
 
-    .hero-visual {
-      position: relative;
-      min-height: 320px;
-      display: grid;
-      place-items: center;
-    }
+    .hero-visual { position: relative; min-height: 320px; display: grid; place-items: center; }
 
     .visual-card {
-      position: relative;
-      width: min(360px, 100%);
-      padding: 28px;
-      border-radius: 34px;
-      background: rgba(255, 255, 255, 0.72);
-      border: 1px solid rgba(191, 219, 254, 0.9);
-      box-shadow: var(--shadow);
-      transform: rotate(-2deg);
+      position: relative; width: min(360px, 100%); padding: 28px;
+      border-radius: 34px; background: rgba(255,255,255,0.72);
+      border: 1px solid rgba(191,219,254,0.9);
+      box-shadow: var(--shadow); transform: rotate(-2deg);
     }
 
     .paper {
-      height: 220px;
-      border-radius: 22px;
-      background: #fff;
-      border: 1px solid var(--line);
-      padding: 28px;
-      box-shadow: 0 18px 35px rgba(15, 23, 42, 0.08);
+      height: 220px; border-radius: 22px; background: #fff;
+      border: 1px solid var(--line); padding: 28px;
+      box-shadow: 0 18px 35px rgba(15,23,42,0.08);
     }
 
-    .paper-line {
-      height: 12px;
-      border-radius: 999px;
-      background: #dbeafe;
-      margin-bottom: 16px;
-    }
-
+    .paper-line { height: 12px; border-radius: 999px; background: #dbeafe; margin-bottom: 16px; }
     .paper-line:nth-child(1) { width: 86%; }
     .paper-line:nth-child(2) { width: 74%; }
     .paper-line:nth-child(3) { width: 92%; }
     .paper-line:nth-child(4) { width: 58%; }
 
     .magnifier {
-      position: absolute;
-      right: 18px;
-      bottom: 18px;
-      width: 96px;
-      height: 96px;
-      border: 14px solid #60a5fa;
-      border-radius: 50%;
-      background: rgba(255, 255, 255, 0.7);
+      position: absolute; right: 18px; bottom: 18px;
+      width: 96px; height: 96px; border: 14px solid #60a5fa;
+      border-radius: 50%; background: rgba(255,255,255,0.7);
     }
 
     .magnifier::after {
-      content: "";
-      position: absolute;
-      width: 52px;
-      height: 14px;
-      border-radius: 999px;
-      background: #60a5fa;
-      right: -36px;
-      bottom: -18px;
-      transform: rotate(45deg);
+      content: ""; position: absolute; width: 52px; height: 14px;
+      border-radius: 999px; background: #60a5fa;
+      right: -36px; bottom: -18px; transform: rotate(45deg);
     }
 
-    .floating-dot {
-      position: absolute;
-      border-radius: 50%;
-      background: rgba(37, 99, 235, 0.12);
-    }
+    .floating-dot { position: absolute; border-radius: 50%; background: rgba(37,99,235,0.12); }
+    .dot-1 { width: 150px; height: 150px; right: 20px; top: 10px; }
+    .dot-2 { width: 86px; height: 86px; left: 40px; bottom: 22px; }
 
-    .dot-1 {
-      width: 150px;
-      height: 150px;
-      right: 20px;
-      top: 10px;
-    }
-
-    .dot-2 {
-      width: 86px;
-      height: 86px;
-      left: 40px;
-      bottom: 22px;
-    }
-
-    section {
-      padding: 64px 0;
-    }
+    section { padding: 64px 0; }
 
     .section-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: end;
-      gap: 20px;
-      margin-bottom: 24px;
+      display: flex; justify-content: space-between; align-items: end;
+      gap: 20px; margin-bottom: 24px;
     }
 
-    .section-kicker {
-      color: var(--blue);
-      font-weight: 900;
-      font-size: 13px;
-      margin-bottom: 4px;
-    }
+    .section-kicker { color: var(--blue); font-weight: 900; font-size: 13px; margin-bottom: 4px; }
+    .section-title { font-size: 26px; letter-spacing: -0.03em; line-height: 1.35; }
+    .section-link { color: var(--blue); font-weight: 900; font-size: 14px; white-space: nowrap; }
 
-    .section-title {
-      font-size: 26px;
-      letter-spacing: -0.03em;
-      line-height: 1.35;
-    }
-
-    .section-link {
-      color: var(--blue);
-      font-weight: 900;
-      font-size: 14px;
-      white-space: nowrap;
-    }
-
-    .category-grid {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 14px;
-    }
+    .category-grid { display: flex; flex-wrap: wrap; gap: 10px; }
 
     .category-chip {
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      min-height: 50px;
-      padding: 0 18px;
-      border-radius: 999px;
-      background: #fff;
-      border: 1px solid var(--line);
-      box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
-      color: #334155;
-      font-weight: 800;
-      font-size: 14px;
-      transition: 0.2s ease;
+      display: inline-flex; align-items: center; gap: 8px;
+      min-height: 46px; padding: 0 16px; border-radius: 999px;
+      background: #fff; border: 1px solid var(--line);
+      box-shadow: 0 6px 16px rgba(15,23,42,0.05);
+      color: #334155; font-weight: 800; font-size: 13px;
+      transition: 0.2s ease; cursor: pointer;
     }
 
-    .category-chip:hover {
-      border-color: #bfdbfe;
-      color: var(--blue);
-      transform: translateY(-1px);
+    .category-chip:hover, .category-chip.selected {
+      border-color: #bfdbfe; color: var(--blue);
+      background: var(--blue-soft); transform: translateY(-1px);
     }
 
     .chip-icon {
-      width: 30px;
-      height: 30px;
-      border-radius: 11px;
-      background: var(--blue-soft);
-      color: var(--blue);
-      display: grid;
-      place-items: center;
-      font-size: 16px;
+      width: 26px; height: 26px; border-radius: 9px;
+      background: var(--blue-soft); color: var(--blue);
+      display: grid; place-items: center; font-size: 14px;
     }
+
+    .category-chip.selected .chip-icon { background: rgba(255,255,255,0.6); }
 
     .cards-grid {
       display: grid;
@@ -398,410 +222,167 @@
     }
 
     .qualification-card {
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: var(--radius);
-      padding: 24px;
-      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.05);
+      background: var(--card); border: 1px solid var(--line);
+      border-radius: var(--radius); padding: 24px;
+      box-shadow: 0 12px 30px rgba(15,23,42,0.05);
       transition: 0.2s ease;
     }
 
     .qualification-card:hover {
-      transform: translateY(-3px);
-      box-shadow: var(--shadow);
-      border-color: #bfdbfe;
+      transform: translateY(-3px); box-shadow: var(--shadow); border-color: #bfdbfe;
     }
 
-    .card-top {
-      display: flex;
-      gap: 14px;
-      align-items: flex-start;
-      margin-bottom: 18px;
-    }
+    .qualification-card.hidden { display: none; }
+
+    .card-top { display: flex; gap: 14px; align-items: flex-start; margin-bottom: 18px; }
 
     .card-icon {
-      flex: 0 0 auto;
-      width: 48px;
-      height: 48px;
-      border-radius: 17px;
-      background: var(--blue-soft);
-      color: var(--blue);
-      display: grid;
-      place-items: center;
-      font-size: 24px;
+      flex: 0 0 auto; width: 48px; height: 48px; border-radius: 17px;
+      background: var(--blue-soft); color: var(--blue);
+      display: grid; place-items: center; font-size: 24px;
     }
 
-    .qualification-card h3 {
-      font-size: 18px;
-      letter-spacing: -0.02em;
-      margin-bottom: 4px;
-    }
+    .qualification-card h3 { font-size: 17px; letter-spacing: -0.02em; margin-bottom: 4px; }
+    .qualification-card p { color: var(--muted); font-size: 13px; line-height: 1.6; }
 
-    .qualification-card p {
-      color: var(--muted);
-      font-size: 13px;
-      line-height: 1.6;
-    }
-
-    .tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin: 18px 0 14px;
-    }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 10px; }
 
     .tag {
-      padding: 6px 10px;
-      border-radius: 999px;
-      background: #f1f5f9;
-      color: #475569;
-      font-size: 12px;
-      font-weight: 800;
+      padding: 5px 9px; border-radius: 999px; background: #f1f5f9;
+      color: #475569; font-size: 11px; font-weight: 800;
     }
 
-    .pdf-list {
-      display: grid;
-      gap: 10px;
-      margin-top: 16px;
-    }
+    .pdf-list { display: grid; gap: 8px; margin-top: 12px; }
 
     .pdf-list a {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-      min-height: 44px;
-      padding: 10px 14px;
-      border-radius: 13px;
-      background: #f8fafc;
-      border: 1px solid var(--line);
-      color: var(--blue);
-      font-size: 13px;
-      font-weight: 900;
-      line-height: 1.4;
-      transition: 0.2s ease;
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 12px; min-height: 40px; padding: 8px 12px;
+      border-radius: 11px; background: #f8fafc; border: 1px solid var(--line);
+      color: var(--blue); font-size: 12px; font-weight: 900;
+      line-height: 1.4; transition: 0.2s ease;
     }
 
     .pdf-list a::after {
-      content: "開く";
-      flex: 0 0 auto;
-      color: var(--muted);
-      font-size: 12px;
-      font-weight: 900;
+      content: "開く"; flex: 0 0 auto;
+      color: var(--muted); font-size: 11px; font-weight: 900;
     }
 
     .pdf-list a:hover {
-      background: #eff6ff;
-      border-color: #bfdbfe;
-      transform: translateY(-1px);
+      background: #eff6ff; border-color: #bfdbfe; transform: translateY(-1px);
     }
 
     .official-link {
-      display: inline-flex;
-      margin-top: 14px;
-      color: var(--muted);
-      font-size: 12px;
-      font-weight: 800;
-      text-decoration: underline;
-      text-underline-offset: 3px;
+      display: inline-flex; margin-top: 12px; color: var(--muted);
+      font-size: 12px; font-weight: 800;
+      text-decoration: underline; text-underline-offset: 3px;
     }
 
-    .official-link:hover {
-      color: var(--blue);
+    .official-link:hover { color: var(--blue); }
+
+    .no-pdf-note {
+      margin-top: 12px; padding: 10px 12px; border-radius: 10px;
+      background: #fef9c3; border: 1px solid #fde68a;
+      color: #92400e; font-size: 12px; font-weight: 700;
     }
 
     .promo-layout {
-      display: grid;
-      grid-template-columns: 1fr 280px;
-      gap: 20px;
-      align-items: stretch;
+      display: grid; grid-template-columns: 1fr 280px; gap: 20px; align-items: stretch;
     }
 
     .app-promo {
-      overflow: hidden;
-      display: grid;
-      grid-template-columns: 180px 1fr auto;
-      gap: 28px;
-      align-items: center;
+      overflow: hidden; display: grid;
+      grid-template-columns: 180px 1fr auto; gap: 28px; align-items: center;
       background:
-        radial-gradient(circle at 8% 15%, rgba(37, 99, 235, 0.12), transparent 26%),
+        radial-gradient(circle at 8% 15%, rgba(37,99,235,0.12), transparent 26%),
         linear-gradient(135deg, #eff6ff, #ffffff);
-      border: 1px solid #bfdbfe;
-      border-radius: 28px;
-      padding: 28px;
-      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.05);
+      border: 1px solid #bfdbfe; border-radius: 28px; padding: 28px;
+      box-shadow: 0 12px 30px rgba(15,23,42,0.05);
     }
 
     .phone-mini {
-      width: 120px;
-      height: 190px;
-      margin: 0 auto;
-      border-radius: 28px;
-      background: #0f172a;
-      padding: 10px;
-      box-shadow: 0 18px 35px rgba(15, 23, 42, 0.18);
-      transform: rotate(-7deg);
+      width: 120px; height: 190px; margin: 0 auto;
+      border-radius: 28px; background: #0f172a; padding: 10px;
+      box-shadow: 0 18px 35px rgba(15,23,42,0.18); transform: rotate(-7deg);
     }
 
-    .phone-screen {
-      height: 100%;
-      border-radius: 20px;
-      background: #fff;
-      padding: 16px 12px;
-    }
+    .phone-screen { height: 100%; border-radius: 20px; background: #fff; padding: 16px 12px; }
+    .question-mini { font-size: 11px; color: var(--muted); margin-top: 10px; }
 
-    .question-mini {
-      font-size: 11px;
-      color: var(--muted);
-      margin-top: 10px;
-    }
-
-    .answer-row {
-      display: flex;
-      gap: 10px;
-      margin-top: 28px;
-    }
+    .answer-row { display: flex; gap: 10px; margin-top: 28px; }
 
     .circle-answer {
-      width: 38px;
-      height: 38px;
-      border-radius: 50%;
-      display: grid;
-      place-items: center;
-      font-weight: 900;
-      font-size: 18px;
+      width: 38px; height: 38px; border-radius: 50%;
+      display: grid; place-items: center; font-weight: 900; font-size: 18px;
     }
 
-    .circle-answer.ok {
-      color: var(--blue);
-      background: var(--blue-soft);
-    }
+    .circle-answer.ok { color: var(--blue); background: var(--blue-soft); }
+    .circle-answer.ng { color: #ef4444; background: #fee2e2; }
 
-    .circle-answer.ng {
-      color: #ef4444;
-      background: #fee2e2;
-    }
-
-    .app-promo h2 {
-      font-size: 28px;
-      letter-spacing: -0.04em;
-      margin-bottom: 6px;
-    }
-
-    .app-promo p {
-      color: var(--muted);
-      font-size: 14px;
-    }
+    .app-promo h2 { font-size: 28px; letter-spacing: -0.04em; margin-bottom: 6px; }
+    .app-promo p { color: var(--muted); font-size: 14px; }
 
     .ad-box {
-      min-height: 190px;
-      display: grid;
-      place-items: center;
-      text-align: center;
-      border-radius: 28px;
-      background: #f1f5f9;
-      border: 1px dashed #cbd5e1;
-      color: #94a3b8;
-      font-size: 14px;
-      font-weight: 800;
+      min-height: 190px; display: grid; place-items: center; text-align: center;
+      border-radius: 28px; background: #f1f5f9; border: 1px dashed #cbd5e1;
+      color: #94a3b8; font-size: 14px; font-weight: 800;
     }
 
-    .ad-box small {
-      display: block;
-      font-weight: 700;
-      margin-top: 4px;
-      font-size: 12px;
-    }
+    .ad-box small { display: block; font-weight: 700; margin-top: 4px; font-size: 12px; }
 
-    .footer {
-      border-top: 1px solid var(--line);
-      background: #fff;
-      padding: 34px 0;
-    }
+    .footer { border-top: 1px solid var(--line); background: #fff; padding: 34px 0; }
 
     .footer-inner {
-      display: flex;
-      justify-content: space-between;
-      gap: 24px;
-      align-items: center;
-      color: var(--muted);
-      font-size: 13px;
+      display: flex; justify-content: space-between; gap: 24px;
+      align-items: center; color: var(--muted); font-size: 13px;
     }
 
-    .footer-brand {
-      font-weight: 900;
-      color: var(--text);
-      margin-bottom: 4px;
-    }
+    .footer-brand { font-weight: 900; color: var(--text); margin-bottom: 4px; }
 
-    .footer-links {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 16px;
-      justify-content: flex-end;
-      font-weight: 700;
-    }
-
-    .footer-links a:hover {
-      color: var(--blue);
-    }
+    .footer-links { display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-end; font-weight: 700; }
+    .footer-links a:hover { color: var(--blue); }
 
     @media (max-width: 900px) {
-      .nav {
-        display: none;
-      }
+      .nav { display: none; }
+      .menu-button { display: grid; place-items: center; }
 
-      .menu-button {
-        display: grid;
-        place-items: center;
-      }
+      .hero-inner { grid-template-columns: 1fr; padding: 48px 0 54px; gap: 26px; }
+      .hero-visual { min-height: 220px; order: -1; }
+      .visual-card { width: min(280px, 86%); }
+      .paper { height: 160px; }
+      .magnifier { width: 72px; height: 72px; border-width: 10px; }
 
-      .hero-inner {
-        grid-template-columns: 1fr;
-        padding: 48px 0 54px;
-        gap: 26px;
-      }
+      .cards-grid { grid-template-columns: 1fr 1fr; }
 
-      .hero-visual {
-        min-height: 220px;
-        order: -1;
-      }
+      .promo-layout { grid-template-columns: 1fr; }
+      .app-promo { grid-template-columns: 120px 1fr; }
+      .app-promo .primary-button { grid-column: 1 / -1; width: 100%; }
 
-      .visual-card {
-        width: min(280px, 86%);
-      }
-
-      .paper {
-        height: 160px;
-      }
-
-      .magnifier {
-        width: 72px;
-        height: 72px;
-        border-width: 10px;
-      }
-
-      .cards-grid {
-        grid-template-columns: 1fr;
-      }
-
-      .promo-layout {
-        grid-template-columns: 1fr;
-      }
-
-      .app-promo {
-        grid-template-columns: 120px 1fr;
-      }
-
-      .app-promo .primary-button {
-        grid-column: 1 / -1;
-        width: 100%;
-      }
-
-      .footer-inner {
-        align-items: flex-start;
-        flex-direction: column;
-      }
-
-      .footer-links {
-        justify-content: flex-start;
-      }
+      .footer-inner { align-items: flex-start; flex-direction: column; }
+      .footer-links { justify-content: flex-start; }
     }
 
     @media (max-width: 560px) {
-      .container {
-        width: min(100% - 28px, var(--max));
-      }
-
-      .header-inner {
-        height: 64px;
-      }
-
-      .logo {
-        font-size: 17px;
-      }
-
-      .logo-mark {
-        width: 30px;
-        height: 30px;
-        border-radius: 10px;
-      }
-
-      .hero h1 {
-        font-size: 31px;
-      }
-
-      .hero p {
-        font-size: 14px;
-      }
-
-      .search-box {
-        flex-direction: column;
-      }
-
-      .search-input,
-      .primary-button {
-        width: 100%;
-        height: 54px;
-      }
-
-      section {
-        padding: 46px 0;
-      }
-
-      .section-header {
-        align-items: flex-start;
-        flex-direction: column;
-        gap: 8px;
-      }
-
-      .section-title {
-        font-size: 22px;
-      }
-
-      .category-grid {
-        flex-wrap: nowrap;
-        overflow-x: auto;
-        padding-bottom: 8px;
-        margin-right: -14px;
-      }
-
-      .category-chip {
-        flex: 0 0 auto;
-      }
-
-      .qualification-card {
-        padding: 20px;
-      }
-
-      .pdf-list a {
-        align-items: flex-start;
-        flex-direction: column;
-        gap: 4px;
-      }
-
-      .pdf-list a::after {
-        content: "PDFを開く";
-      }
-
-      .app-promo {
-        grid-template-columns: 1fr;
-        text-align: center;
-        padding: 24px;
-      }
-
-      .phone-mini {
-        width: 110px;
-        height: 174px;
-      }
-
-      .app-promo h2 {
-        font-size: 24px;
-      }
-
-      .ad-box {
-        min-height: 140px;
-      }
+      .container { width: min(100% - 28px, var(--max)); }
+      .header-inner { height: 64px; }
+      .logo { font-size: 17px; }
+      .logo-mark { width: 30px; height: 30px; border-radius: 10px; }
+      .hero h1 { font-size: 31px; }
+      .hero p { font-size: 14px; }
+      .search-box { flex-direction: column; }
+      .search-input, .primary-button { width: 100%; height: 54px; }
+      section { padding: 46px 0; }
+      .section-header { align-items: flex-start; flex-direction: column; gap: 8px; }
+      .section-title { font-size: 22px; }
+      .category-grid { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 8px; margin-right: -14px; }
+      .category-chip { flex: 0 0 auto; }
+      .qualification-card { padding: 20px; }
+      .pdf-list a { align-items: flex-start; flex-direction: column; gap: 4px; }
+      .pdf-list a::after { content: "PDFを開く"; }
+      .app-promo { grid-template-columns: 1fr; text-align: center; padding: 24px; }
+      .phone-mini { width: 110px; height: 174px; }
+      .app-promo h2 { font-size: 24px; }
+      .ad-box { min-height: 140px; }
+      .cards-grid { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -841,11 +422,12 @@
             目的の過去問へ、迷わずたどり着けるナビサイトです。
           </p>
 
-          <form class="search-box" action="#popular">
+          <form class="search-box" onsubmit="handleSearch(event)">
             <input
+              id="search-input"
               class="search-input"
               type="search"
-              placeholder="資格名で検索"
+              placeholder="資格名で検索（例：危険物、消防設備士、ドローン）"
               aria-label="資格名で検索"
             />
             <button class="primary-button" type="submit">資格を探す</button>
@@ -855,7 +437,6 @@
         <div class="hero-visual" aria-hidden="true">
           <div class="floating-dot dot-1"></div>
           <div class="floating-dot dot-2"></div>
-
           <div class="visual-card">
             <div class="paper">
               <div class="paper-line"></div>
@@ -876,33 +457,31 @@
             <div class="section-kicker">CATEGORY</div>
             <h2 class="section-title">カテゴリから探す</h2>
           </div>
+          <a class="section-link" href="#popular">すべて見る ＞</a>
         </div>
 
         <div class="category-grid">
-          <a class="category-chip" href="#">
-            <span class="chip-icon">🚚</span>
-            運輸・交通
-          </a>
-          <a class="category-chip" href="#">
-            <span class="chip-icon">🛠</span>
-            建設・設備
-          </a>
-          <a class="category-chip" href="#">
-            <span class="chip-icon">♡</span>
-            医療・福祉
-          </a>
-          <a class="category-chip" href="#">
-            <span class="chip-icon">⚖</span>
-            法律・会計
-          </a>
-          <a class="category-chip" href="#">
-            <span class="chip-icon">💻</span>
-            IT・事務
-          </a>
-          <a class="category-chip" href="#">
-            <span class="chip-icon">…</span>
-            その他
-          </a>
+          <button class="category-chip selected" data-filter="all" type="button">
+            <span class="chip-icon">📋</span>すべて
+          </button>
+          <button class="category-chip" data-filter="it" type="button">
+            <span class="chip-icon">💻</span>IT・事務
+          </button>
+          <button class="category-chip" data-filter="transport" type="button">
+            <span class="chip-icon">🚚</span>運輸・交通
+          </button>
+          <button class="category-chip" data-filter="construction" type="button">
+            <span class="chip-icon">🛠</span>建設・設備
+          </button>
+          <button class="category-chip" data-filter="industry" type="button">
+            <span class="chip-icon">⚗️</span>工業・化学
+          </button>
+          <button class="category-chip" data-filter="welfare" type="button">
+            <span class="chip-icon">♡</span>医療・福祉
+          </button>
+          <button class="category-chip" data-filter="law" type="button">
+            <span class="chip-icon">⚖</span>法律・会計
+          </button>
         </div>
       </div>
     </section>
@@ -912,13 +491,76 @@
         <div class="section-header">
           <div>
             <div class="section-kicker">POPULAR</div>
-            <h2 class="section-title">人気の資格</h2>
+            <h2 class="section-title">資格一覧</h2>
           </div>
-          <a class="section-link" href="#">資格一覧を見る ＞</a>
+          <span id="card-count" style="color:var(--muted);font-size:13px;font-weight:700;"></span>
         </div>
 
-        <div class="cards-grid">
-          <article class="qualification-card">
+        <div class="cards-grid" id="cards-grid">
+
+          <!-- ===== IT・事務 ===== -->
+          <article class="qualification-card" data-category="it">
+            <div class="card-top">
+              <div class="card-icon">💻</div>
+              <div>
+                <h3>ITパスポート</h3>
+                <p>IPA公式の公開問題・解答例PDF（年度別）</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和6年</span><span class="tag">令和5年</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/pdf/questions/2024r06_ip_qs.pdf" target="_blank" rel="noopener">令和6年度 公開問題PDF</a>
+              <a href="https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/pdf/questions/2024r06_ip_ans.pdf" target="_blank" rel="noopener">令和6年度 解答例PDF</a>
+              <a href="https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/pdf/questions/2023r05_ip_qs.pdf" target="_blank" rel="noopener">令和5年度 公開問題PDF</a>
+              <a href="https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/pdf/questions/2023r05_ip_ans.pdf" target="_blank" rel="noopener">令和5年度 解答例PDF</a>
+            </div>
+            <a class="official-link" href="https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/questions.html" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="it">
+            <div class="card-top">
+              <div class="card-icon">🖥️</div>
+              <div>
+                <h3>基本情報技術者</h3>
+                <p>IPA公式の科目A・科目B公開問題PDF</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和6年</span><span class="tag">令和5年</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.ipa.go.jp/shiken/mondai-kaiotu/sg_fe/koukai/eid2eo0000007g1d-att/2024r06_fe_kamoku_a_qs.pdf" target="_blank" rel="noopener">令和6年度 科目A 問題PDF</a>
+              <a href="https://www.ipa.go.jp/shiken/mondai-kaiotu/sg_fe/koukai/eid2eo0000007g1d-att/2024r06_fe_kamoku_a_ans.pdf" target="_blank" rel="noopener">令和6年度 科目A 解答PDF</a>
+              <a href="https://www.ipa.go.jp/shiken/mondai-kaiotu/sg_fe/koukai/eid2eo0000007g1d-att/2024r06_fe_kamoku_b_qs.pdf" target="_blank" rel="noopener">令和6年度 科目B 問題PDF</a>
+              <a href="https://www.ipa.go.jp/shiken/mondai-kaiotu/sg_fe/koukai/eid2eo0000007g1d-att/2024r06_fe_kamoku_b_ans.pdf" target="_blank" rel="noopener">令和6年度 科目B 解答PDF</a>
+              <a href="https://www.ipa.go.jp/shiken/mondai-kaiotu/sg_fe/koukai/t6hhco0000003zx0-att/2023r05_fe_kamoku_b_qs.pdf" target="_blank" rel="noopener">令和5年度 科目B 問題PDF</a>
+            </div>
+            <a class="official-link" href="https://www.ipa.go.jp/shiken/mondai-kaiotu/index.html" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="it">
+            <div class="card-top">
+              <div class="card-icon">📡</div>
+              <div>
+                <h3>工事担任者（第2級デジタル通信）</h3>
+                <p>日本データ通信協会公式の試験問題PDF</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和5年</span><span class="tag">令和4年</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.dekyo.or.jp/shiken/assets/files/articles/2447/files244765667595e48d8.pdf" target="_blank" rel="noopener">令和5年度 第2回 試験問題PDF</a>
+              <a href="https://www.dekyo.or.jp/shiken/assets/files/articles/369/files36962ba6c8177252.pdf" target="_blank" rel="noopener">令和4年度 第1回 試験問題PDF</a>
+            </div>
+            <div class="no-pdf-note">※令和6年度よりCBT移行。R5以前が最後の紙試験問題PDF</div>
+            <a class="official-link" href="https://www.dekyo.or.jp/shiken/charge/exam" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
+          </article>
+
+          <!-- ===== 運輸・交通 ===== -->
+          <article class="qualification-card" data-category="transport">
             <div class="card-top">
               <div class="card-icon">🚚</div>
               <div>
@@ -926,34 +568,19 @@
                 <p>過去問PDF・正答PDFを年度別に整理</p>
               </div>
             </div>
-
             <div class="tags">
-              <span class="tag">令和6年</span>
-              <span class="tag">令和5年</span>
-              <span class="tag">公式PDF</span>
+              <span class="tag">令和6年</span><span class="tag">令和5年</span><span class="tag">公式PDF</span>
             </div>
-
             <div class="pdf-list">
-              <a href="https://www.unkan.or.jp/contents/pdf/past/2024/kamotsu/mondai.pdf?202604010900=" target="_blank" rel="noopener">
-                令和6年度 問題PDF
-              </a>
-              <a href="https://www.unkan.or.jp/contents/pdf/past/2024/kamotsu/seitou.pdf?202604010900=" target="_blank" rel="noopener">
-                令和6年度 正答PDF
-              </a>
-              <a href="https://www.unkan.or.jp/contents/pdf/past/2023/kamotsu/mondai.pdf?202604010900=" target="_blank" rel="noopener">
-                令和5年度 問題PDF
-              </a>
-              <a href="https://www.unkan.or.jp/contents/pdf/past/2023/kamotsu/seitou.pdf?202604010900=" target="_blank" rel="noopener">
-                令和5年度 正答PDF
-              </a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2024/kamotsu/mondai.pdf?202604010900=" target="_blank" rel="noopener">令和6年度 問題PDF</a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2024/kamotsu/seitou.pdf?202604010900=" target="_blank" rel="noopener">令和6年度 正答PDF</a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2023/kamotsu/mondai.pdf?202604010900=" target="_blank" rel="noopener">令和5年度 問題PDF</a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2023/kamotsu/seitou.pdf?202604010900=" target="_blank" rel="noopener">令和5年度 正答PDF</a>
             </div>
-
-            <a class="official-link" href="https://www.unkan.or.jp/past.html" target="_blank" rel="noopener">
-              公式の過去問題一覧を見る
-            </a>
+            <a class="official-link" href="https://www.unkan.or.jp/past.html" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
           </article>
 
-          <article class="qualification-card">
+          <article class="qualification-card" data-category="transport">
             <div class="card-top">
               <div class="card-icon">🚌</div>
               <div>
@@ -961,58 +588,392 @@
                 <p>過去問PDF・正答PDFを年度別に整理</p>
               </div>
             </div>
-
             <div class="tags">
-              <span class="tag">令和6年</span>
-              <span class="tag">令和5年</span>
-              <span class="tag">公式PDF</span>
+              <span class="tag">令和6年</span><span class="tag">令和5年</span><span class="tag">公式PDF</span>
             </div>
-
             <div class="pdf-list">
-              <a href="https://www.unkan.or.jp/contents/pdf/past/2024/ryokaku/mondai.pdf?202604010900=" target="_blank" rel="noopener">
-                令和6年度 問題PDF
-              </a>
-              <a href="https://www.unkan.or.jp/contents/pdf/past/2024/ryokaku/seitou.pdf?202604010900=" target="_blank" rel="noopener">
-                令和6年度 正答PDF
-              </a>
-              <a href="https://www.unkan.or.jp/contents/pdf/past/2023/ryokaku/mondai.pdf?202604010900=" target="_blank" rel="noopener">
-                令和5年度 問題PDF
-              </a>
-              <a href="https://www.unkan.or.jp/contents/pdf/past/2023/ryokaku/seitou.pdf?202604010900=" target="_blank" rel="noopener">
-                令和5年度 正答PDF
-              </a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2024/ryokaku/mondai.pdf?202604010900=" target="_blank" rel="noopener">令和6年度 問題PDF</a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2024/ryokaku/seitou.pdf?202604010900=" target="_blank" rel="noopener">令和6年度 正答PDF</a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2023/ryokaku/mondai.pdf?202604010900=" target="_blank" rel="noopener">令和5年度 問題PDF</a>
+              <a href="https://www.unkan.or.jp/contents/pdf/past/2023/ryokaku/seitou.pdf?202604010900=" target="_blank" rel="noopener">令和5年度 正答PDF</a>
             </div>
-
-            <a class="official-link" href="https://www.unkan.or.jp/past.html" target="_blank" rel="noopener">
-              公式の過去問題一覧を見る
-            </a>
+            <a class="official-link" href="https://www.unkan.or.jp/past.html" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
           </article>
 
-          <article class="qualification-card">
+          <article class="qualification-card" data-category="transport">
+            <div class="card-top">
+              <div class="card-icon">🚁</div>
+              <div>
+                <h3>ドローン国家資格（一等・二等）</h3>
+                <p>国土交通省公式のサンプル問題PDF（CBT試験のため過去問は非公開）</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">一等</span><span class="tag">二等</span><span class="tag">サンプル問題</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.mlit.go.jp/common/001493224.pdf" target="_blank" rel="noopener">二等 学科試験 サンプル問題PDF</a>
+              <a href="https://www.mlit.go.jp/koku/content/001520518.pdf" target="_blank" rel="noopener">一等 学科試験 サンプル問題PDF</a>
+              <a href="https://www.mlit.go.jp/koku/content/001860312.pdf" target="_blank" rel="noopener">無人航空機 教則（第4版）PDF</a>
+            </div>
+            <a class="official-link" href="https://www.mlit.go.jp/koku/license.html" target="_blank" rel="noopener">国土交通省 公式情報を見る</a>
+          </article>
+
+          <!-- ===== 建設・設備 ===== -->
+          <article class="qualification-card" data-category="construction">
+            <div class="card-top">
+              <div class="card-icon">⚡</div>
+              <div>
+                <h3>第二種電気工事士</h3>
+                <p>電気技術者試験センター公式（上期・下期）</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和6年</span><span class="tag">上期・下期</span><span class="tag">公式</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.shiken.or.jp/construction/second/qa/detail/000195.html" target="_blank" rel="noopener">令和6年度 上期（7月）問題・解答</a>
+              <a href="https://www.shiken.or.jp/construction/upload/20240526_co_second_a01.pdf" target="_blank" rel="noopener">令和6年度 上期（5月）解答PDF</a>
+              <a href="https://www.shiken.or.jp/construction/second/qa/detail/000481.html" target="_blank" rel="noopener">令和6年度 下期（12月）問題・解答</a>
+              <a href="https://www.shiken.or.jp/construction/upload/20241027_co_second_a01.pdf" target="_blank" rel="noopener">令和6年度 下期（10月）解答PDF</a>
+            </div>
+            <a class="official-link" href="https://www.shiken.or.jp/construction/second/qa/" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="construction">
+            <div class="card-top">
+              <div class="card-icon">🔥</div>
+              <div>
+                <h3>消防設備士（甲4類・乙6類）</h3>
+                <p>消防試験研究センター公式の過去出題問題PDF</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">甲種4類</span><span class="tag">乙種6類</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.shoubo-shiken.or.jp/pdf_files/shoubou_otsu.pdf" target="_blank" rel="noopener">消防設備士 乙種 過去出題問題PDF</a>
+            </div>
+            <a class="official-link" href="https://www.shoubo-shiken.or.jp/shoubou/exercise.html" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="construction">
+            <div class="card-top">
+              <div class="card-icon">🏢</div>
+              <div>
+                <h3>建築物環境衛生管理技術者（ビル管理士）</h3>
+                <p>日本建築衛生管理教育センター公式の試験問題PDF</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">2023年度</span><span class="tag">午前・午後</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.jahmec.or.jp/kokka/shiken_pdf/2023/2023shiken_am.pdf" target="_blank" rel="noopener">2023年度 午前 試験問題PDF</a>
+              <a href="https://www.jahmec.or.jp/kokka/shiken_pdf/2024/2024kizyun_seitou.pdf" target="_blank" rel="noopener">2024年度 合格基準・正答PDF</a>
+            </div>
+            <a class="official-link" href="https://www.jahmec.or.jp/kokka/" target="_blank" rel="noopener">公式の試験情報を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="construction">
+            <div class="card-top">
+              <div class="card-icon">🌿</div>
+              <div>
+                <h3>2級造園施工管理技士</h3>
+                <p>全国建設研修センター公式の試験問題PDF</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和7年</span><span class="tag">前期・後期</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.jctc.jp/wjctcp/wp-content/uploads/2025/09/20250908z_mondaib.pdf" target="_blank" rel="noopener">令和7年度 第一次検定（前期）問題PDF</a>
+              <a href="https://www.jctc.jp/wjctcp/wp-content/uploads/2025/12/20251208z_mondai.pdf" target="_blank" rel="noopener">令和7年度 第一次検定（後期）問題PDF</a>
+            </div>
+            <div class="no-pdf-note">※公表から1年間のみ公開。古い年度は削除されます</div>
+            <a class="official-link" href="https://www.jctc.jp/mondai/" target="_blank" rel="noopener">公式の試験問題ページを見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="construction">
+            <div class="card-top">
+              <div class="card-icon">🔧</div>
+              <div>
+                <h3>2級管工事施工管理技士</h3>
+                <p>全国建設研修センター公式の試験問題PDF</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和7年</span><span class="tag">前期・後期</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.jctc.jp/wjctcp/wp-content/uploads/2025/09/20250908k_mondaia.pdf" target="_blank" rel="noopener">令和7年度 第一次検定（前期）問題PDF</a>
+              <a href="https://www.jctc.jp/wjctcp/wp-content/uploads/2025/11/20251117k_seitou.pdf" target="_blank" rel="noopener">令和7年度 第一次検定（後期）正答肢PDF</a>
+            </div>
+            <div class="no-pdf-note">※公表から1年間のみ公開。古い年度は削除されます</div>
+            <a class="official-link" href="https://www.jctc.jp/mondai/" target="_blank" rel="noopener">公式の試験問題ページを見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="construction">
+            <div class="card-top">
+              <div class="card-icon">🛣️</div>
+              <div>
+                <h3>2級舗装施工管理技術者</h3>
+                <p>日本道路建設業協会公式の試験問題PDF</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和4年</span><span class="tag">令和5年</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.dohkenkyo.or.jp/pavement/pdf/mondai/2023_H2_o.pdf" target="_blank" rel="noopener">令和5年度 2級 応用試験問題PDF</a>
+              <a href="https://www.dohkenkyo.or.jp/pavement/pdf/mondai/2022_H2_o.pdf" target="_blank" rel="noopener">令和4年度 2級 応用試験問題PDF</a>
+            </div>
+            <a class="official-link" href="https://www.dohkenkyo.or.jp/pavement/mondai_top.htm" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="construction">
+            <div class="card-top">
+              <div class="card-icon">💧</div>
+              <div>
+                <h3>第3種下水道技術検定</h3>
+                <p>日本下水道事業団公式の試験問題・正答PDF</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和7年</span><span class="tag">問題・正答</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.jswa.go.jp/kentei/pdf/r7mondai_seito/mondai_3syu.pdf" target="_blank" rel="noopener">令和7年度 第51回 問題PDF</a>
+              <a href="https://www.jswa.go.jp/kentei/pdf/r7mondai_seito/seito_3syu.pdf" target="_blank" rel="noopener">令和7年度 第51回 正答PDF</a>
+            </div>
+            <a class="official-link" href="https://www.jswa.go.jp/kentei/shikengaiyo.html" target="_blank" rel="noopener">公式の試験概要を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="construction">
+            <div class="card-top">
+              <div class="card-icon">🌊</div>
+              <div>
+                <h3>浄化槽管理士</h3>
+                <p>日本環境整備教育センター公式の試験問題（3か年分）</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和5〜7年</span><span class="tag">問題・正答</span><span class="tag">公式</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.jeces.or.jp/pages/173/" target="_blank" rel="noopener">過去3か年 試験問題・正答ページ</a>
+            </div>
+            <a class="official-link" href="https://www.jeces.or.jp/" target="_blank" rel="noopener">日本環境整備教育センター 公式サイト</a>
+          </article>
+
+          <!-- ===== 工業・化学 ===== -->
+          <article class="qualification-card" data-category="industry">
+            <div class="card-top">
+              <div class="card-icon">🔴</div>
+              <div>
+                <h3>危険物取扱者（乙種第4類）</h3>
+                <p>消防試験研究センター公式の過去出題問題PDF</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">乙4</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.shoubo-shiken.or.jp/content/kikenbutsu_otsu4.pdf" target="_blank" rel="noopener">乙種第4類 過去出題問題PDF</a>
+              <a href="https://www.shoubo-shiken.or.jp/content/kikenbutsu_otsu.pdf" target="_blank" rel="noopener">乙種1・2・3・5・6類 過去出題問題PDF</a>
+            </div>
+            <a class="official-link" href="https://www.shoubo-shiken.or.jp/kikenbutsu/exercise.html" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="industry">
+            <div class="card-top">
+              <div class="card-icon">🧪</div>
+              <div>
+                <h3>高圧ガス（丙種化学・液石）</h3>
+                <p>高圧ガス保安協会公式の試験問題・正解答PDF</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和6年</span><span class="tag">法令・保安</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://shiken.khk.or.jp/shiken.html" target="_blank" rel="noopener">KHK 試験問題・正解答 公表ページ</a>
+            </div>
+            <a class="official-link" href="https://shiken.khk.or.jp/" target="_blank" rel="noopener">高圧ガス保安協会 試験情報</a>
+          </article>
+
+          <article class="qualification-card" data-category="industry">
+            <div class="card-top">
+              <div class="card-icon">🧊</div>
+              <div>
+                <h3>第三種冷凍機械責任者</h3>
+                <p>高圧ガス保安協会公式の試験問題PDF（法令・保安管理技術）</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和7年</span><span class="tag">令和6年</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.khk.or.jp/Portals/0/khk/exam/2025/1110/R7ACIX-W.pdf" target="_blank" rel="noopener">令和7年度 法令 試験問題PDF</a>
+              <a href="https://www.khk.or.jp/Portals/0/khk/exam/2025/1110/R7ACIY-W.pdf" target="_blank" rel="noopener">令和7年度 保安管理技術 試験問題PDF</a>
+              <a href="https://www.khk.or.jp/Portals/0/khk/exam/2024/R6ACIX-W.pdf" target="_blank" rel="noopener">令和6年度 法令 試験問題PDF</a>
+            </div>
+            <a class="official-link" href="https://shiken.khk.or.jp/shiken.html" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="industry">
+            <div class="card-top">
+              <div class="card-icon">🔥</div>
+              <div>
+                <h3>液化石油ガス設備士</h3>
+                <p>高圧ガス保安協会公式の試験問題PDF（法令・配管理論等）</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和6年</span><span class="tag">令和7年</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.khk.or.jp/Portals/0/khk/exam/2024/R6ACLX-W.pdf" target="_blank" rel="noopener">令和6年度 LX（法令）試験問題PDF</a>
+              <a href="https://www.khk.or.jp/Portals/0/khk/exam/2024/R6ACLY-W-W.pdf" target="_blank" rel="noopener">令和6年度 LY（配管理論等）試験問題PDF</a>
+              <a href="https://www.khk.or.jp/Portals/0/khk/exam/2025/1110/R7ACLY-W-W.pdf" target="_blank" rel="noopener">令和7年度 LY（配管理論等）試験問題PDF</a>
+            </div>
+            <a class="official-link" href="https://shiken.khk.or.jp/shiken.html" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="industry">
+            <div class="card-top">
+              <div class="card-icon">☣️</div>
+              <div>
+                <h3>毒物劇物取扱責任者</h3>
+                <p>各都道府県が公開する試験問題PDF（都道府県ごとに実施）</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">都道府県別</span><span class="tag">一般・農業用</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.pref.fukui.lg.jp/doc/iei/dokugekisiken_d/fil/R06-ippan-mondai.pdf" target="_blank" rel="noopener">福井県 令和6年度 一般 問題PDF</a>
+              <a href="https://www.pref.aichi.jp/uploaded/attachment/432700.pdf" target="_blank" rel="noopener">愛知県 令和4年度 一般 問題PDF</a>
+              <a href="https://www.kouiki-kansai.jp/koikirengo/jisijimu/shikakumenkyo/dokugeki_1/7605.html" target="_blank" rel="noopener">関西広域連合（大阪・京都・兵庫等）過去問ページ</a>
+              <a href="https://www.pref.fukuoka.lg.jp/contents/dokugeki-shiken-kakomon-keisai1.html" target="_blank" rel="noopener">福岡県 過去問題ページ</a>
+            </div>
+            <a class="official-link" href="https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/sonota/d_g/shiken" target="_blank" rel="noopener">東京都 試験問題ページ</a>
+          </article>
+
+          <article class="qualification-card" data-category="industry">
+            <div class="card-top">
+              <div class="card-icon">🌫️</div>
+              <div>
+                <h3>公害防止管理者（大気・水質）</h3>
+                <p>産業環境管理協会公式の正解PDF（問題本体は非公開）</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和5〜7年</span><span class="tag">正解のみ</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.jemai.or.jp/polconman/examination/d3ldbs00000011pg-att/answerR07.pdf" target="_blank" rel="noopener">令和7年度 正解PDF</a>
+              <a href="https://www.jemai.or.jp/polconman/examination/dd4ht300000005fn-att/answerR06.pdf" target="_blank" rel="noopener">令和6年度 正解PDF</a>
+              <a href="https://www.jemai.or.jp/polconman/examination/d3ldbs00000011pg-att/answerR05.pdf" target="_blank" rel="noopener">令和5年度 正解PDF</a>
+            </div>
+            <div class="no-pdf-note">※試験問題（問題冊子）は公式非公開。正解のみ公開</div>
+            <a class="official-link" href="https://www.jemai.or.jp/polconman/examination/past.html" target="_blank" rel="noopener">公式の過去問題ページを見る</a>
+          </article>
+
+          <!-- ===== 医療・福祉 ===== -->
+          <article class="qualification-card" data-category="welfare">
+            <div class="card-top">
+              <div class="card-icon">🏥</div>
+              <div>
+                <h3>介護福祉士</h3>
+                <p>社会福祉振興・試験センター公式の筆記試験問題</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">第37回（令和6年度）</span><span class="tag">公式</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.sssc.or.jp/kaigo/past_exam/pdf/no37/listen_k_am_37.html" target="_blank" rel="noopener">第37回 午前の試験問題</a>
+              <a href="https://www.sssc.or.jp/kaigo/past_exam/pdf/no37/listen_k_pm_37.html" target="_blank" rel="noopener">第37回 午後の試験問題</a>
+              <a href="https://www.sssc.or.jp/kaigo/past_exam/pdf/no37/k_happyou.pdf" target="_blank" rel="noopener">第37回 合格発表・正答PDF</a>
+            </div>
+            <a class="official-link" href="https://www.sssc.or.jp/kaigo/past_exam/index.html" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="welfare">
+            <div class="card-top">
+              <div class="card-icon">🤿</div>
+              <div>
+                <h3>潜水士</h3>
+                <p>安全衛生技術試験協会公式の公表試験問題PDF</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和7年</span><span class="tag">令和4年</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.exam.or.jp/wp-content/uploads/2025/04/LC20251119.pdf" target="_blank" rel="noopener">令和7年（2025年11月実施）試験問題PDF</a>
+              <a href="https://www.exam.or.jp/lc_r041/LC20221119.pdf" target="_blank" rel="noopener">令和4年（2022年11月実施）試験問題PDF</a>
+            </div>
+            <a class="official-link" href="https://www.exam.or.jp/lckohyo/" target="_blank" rel="noopener">公表試験問題の一覧を見る</a>
+          </article>
+
+          <!-- ===== 法律・会計 ===== -->
+          <article class="qualification-card" data-category="law">
+            <div class="card-top">
+              <div class="card-icon">⚖️</div>
+              <div>
+                <h3>行政書士</h3>
+                <p>行政書士試験研究センター公式の問題PDF</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">令和6年</span><span class="tag">令和5年</span><span class="tag">令和4年</span><span class="tag">公式PDF</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://gyosei-shiken.or.jp/pdf/r6_mondai.pdf" target="_blank" rel="noopener">令和6年度 問題PDF</a>
+              <a href="https://gyosei-shiken.or.jp/doc/exam/r6ans.html" target="_blank" rel="noopener">令和6年度 正解一覧</a>
+              <a href="https://gyosei-shiken.or.jp/pdf/r5_mondai.pdf" target="_blank" rel="noopener">令和5年度 問題PDF</a>
+              <a href="https://gyosei-shiken.or.jp/pdf/r4_mondai.pdf" target="_blank" rel="noopener">令和4年度 問題PDF</a>
+            </div>
+            <a class="official-link" href="https://gyosei-shiken.or.jp/doc/exam/index.html" target="_blank" rel="noopener">公式の過去問題一覧を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="law">
+            <div class="card-top">
+              <div class="card-icon">💰</div>
+              <div>
+                <h3>FP技能検定（3級・2級）</h3>
+                <p>日本FP協会公式の試験問題・模範解答</p>
+              </div>
+            </div>
+            <div class="tags">
+              <span class="tag">3級・2級</span><span class="tag">CBT移行済</span><span class="tag">公式</span>
+            </div>
+            <div class="pdf-list">
+              <a href="https://www.jafp.or.jp/exam/mohan/files/j3_202401_a.pdf" target="_blank" rel="noopener">3級 2024年1月 実技 解答例PDF</a>
+              <a href="https://www.jafp.or.jp/exam/mohan/" target="_blank" rel="noopener">試験問題・模範解答 一覧ページ</a>
+            </div>
+            <a class="official-link" href="https://www.jafp.or.jp/exam/" target="_blank" rel="noopener">日本FP協会 試験情報を見る</a>
+          </article>
+
+          <article class="qualification-card" data-category="law">
             <div class="card-top">
               <div class="card-icon">🏠</div>
               <div>
-                <h3>宅建</h3>
+                <h3>宅建（宅地建物取引士）</h3>
                 <p>過去問・正答PDFを整理</p>
               </div>
             </div>
-
             <div class="tags">
-              <span class="tag">令和6年</span>
-              <span class="tag">問題・正答</span>
-              <span class="tag">公式PDF</span>
+              <span class="tag">令和6年</span><span class="tag">問題・正答</span><span class="tag">公式PDF</span>
             </div>
-
             <div class="pdf-list">
-              <a href="https://www.retio.or.jp/wp-content/uploads/2025/03/R6_question_answer.pdf" target="_blank" rel="noopener">
-                令和6年度 問題・正答PDF
-              </a>
+              <a href="https://www.retio.or.jp/wp-content/uploads/2025/03/R6_question_answer.pdf" target="_blank" rel="noopener">令和6年度 問題・正答PDF</a>
             </div>
-
-            <a class="official-link" href="https://www.retio.or.jp/exam/takken_shiken.html" target="_blank" rel="noopener">
-              公式情報を見る
-            </a>
+            <a class="official-link" href="https://www.retio.or.jp/exam/takken_shiken.html" target="_blank" rel="noopener">公式情報を見る</a>
           </article>
+
         </div>
       </div>
     </section>
@@ -1046,10 +1007,7 @@
         </div>
 
         <aside class="ad-box">
-          <div>
-            広告スペース
-            <small>スポンサー</small>
-          </div>
+          <div>広告スペース<small>スポンサー</small></div>
         </aside>
       </div>
     </section>
@@ -1061,11 +1019,10 @@
         <div class="footer-brand">サクサク過去問ナビ</div>
         <div>© 2026 SakuSaku Kakomon Navi All Rights Reserved.</div>
       </div>
-
       <div class="footer-links">
         <a href="#">ホーム</a>
         <a href="#qualifications">資格一覧</a>
-        <a href="#popular">人気資格</a>
+        <a href="#popular">資格一覧</a>
         <a href="#app">アプリ</a>
         <a href="#">運営者情報</a>
         <a href="#">プライバシーポリシー</a>
@@ -1073,5 +1030,81 @@
       </div>
     </div>
   </footer>
+
+  <script>
+    const chips = document.querySelectorAll('.category-chip');
+    const cards = document.querySelectorAll('.qualification-card');
+    const countEl = document.getElementById('card-count');
+
+    function updateCount() {
+      const visible = document.querySelectorAll('.qualification-card:not(.hidden)').length;
+      countEl.textContent = `${visible}件`;
+    }
+
+    chips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        const filter = chip.dataset.filter;
+        chips.forEach(c => c.classList.remove('selected'));
+        chip.classList.add('selected');
+
+        cards.forEach(card => {
+          if (filter === 'all' || card.dataset.category === filter) {
+            card.classList.remove('hidden');
+          } else {
+            card.classList.add('hidden');
+          }
+        });
+
+        updateCount();
+        document.getElementById('popular').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    });
+
+    updateCount();
+
+    // Search
+    const searchKeywords = {
+      it: ['itパスポート', 'itp', '基本情報', 'fe', '工事担任者', 'デジタル通信'],
+      transport: ['運行管理', '貨物', '旅客', 'ドローン', '無人航空機'],
+      construction: ['電気工事士', '消防設備士', 'ビル管', '建築物環境衛生', '造園', '管工事', '施工管理', '舗装', '下水道', '浄化槽'],
+      industry: ['危険物', '乙4', '高圧ガス', '冷凍機械', '液化石油ガス', 'lpガス', '毒物', '劇物', '公害防止'],
+      welfare: ['介護', '福祉', '潜水士', '潜水'],
+      law: ['行政書士', 'fp', 'ファイナンシャル', '宅建', '宅地建物'],
+    };
+
+    function handleSearch(e) {
+      e.preventDefault();
+      const query = document.getElementById('search-input').value.trim().toLowerCase();
+      if (!query) return;
+
+      for (const [category, keywords] of Object.entries(searchKeywords)) {
+        if (keywords.some(k => query.includes(k) || k.includes(query))) {
+          const targetChip = document.querySelector(`.category-chip[data-filter="${category}"]`);
+          if (targetChip) { targetChip.click(); return; }
+        }
+      }
+
+      document.querySelector('.category-chip[data-filter="all"]').click();
+    }
+
+    // Active nav highlight on scroll
+    const sections = document.querySelectorAll('section[id], footer[id]');
+    const navLinks = document.querySelectorAll('.nav a');
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          navLinks.forEach(link => {
+            link.classList.remove('active');
+            if (link.getAttribute('href') === `#${entry.target.id}`) {
+              link.classList.add('active');
+            }
+          });
+        }
+      });
+    }, { rootMargin: '-50% 0px -50% 0px' });
+
+    sections.forEach(s => observer.observe(s));
+  </script>
 </body>
 </html>
