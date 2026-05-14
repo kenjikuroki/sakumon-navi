@@ -1,0 +1,1377 @@
+{
+  "apps": {
+    "kaigo_fukushi": {
+      "qualificationName": "介護福祉士",
+      "config": {
+        "app_name": "介護福祉士 過去問",
+        "ios_premium_id": "unlock_1",
+        "android_premium_id": "unlock_1",
+        "ios_ad_banner": "ca-app-pub-3331079517737737/XXXXXXXXXX",
+        "ios_ad_inter": "ca-app-pub-3331079517737737/XXXXXXXXXX"
+      },
+      "years": [
+        {
+          "examYear": "第38回（令和7年1月試験）",
+          "sourceType": "official_exam",
+          "categories": [
+            {
+              "categoryName": "介護福祉士",
+              "questions": [
+                {
+                  "id": "kaigo_no38_Q014_c4",
+                  "groupId": "kaigo_no38_Q014",
+                  "statement": "介護が必要となった理由の第1位は，骨折・転倒である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q024_c4",
+                  "groupId": "kaigo_no38_Q024",
+                  "statement": "資産・能力を活用した上で保護を行う。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q059_c3",
+                  "groupId": "kaigo_no38_Q059",
+                  "statement": "悲嘆は特異な反応のため注意する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q088_c4",
+                  "groupId": "kaigo_no38_Q088",
+                  "statement": "調理の手順を順序だてて行うことができない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q040_c5",
+                  "groupId": "kaigo_no38_Q040",
+                  "statement": "介護福祉職は，利用者が握っている上肢を振って歩く。ト",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q062_c3",
+                  "groupId": "kaigo_no38_Q062",
+                  "statement": "セロトニン（serotonin）は，神経伝達物質の1つである。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q036_c5",
+                  "groupId": "kaigo_no38_Q036",
+                  "statement": "靴音を小さくするために，硬い床材にする。22",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q009_c5",
+                  "groupId": "kaigo_no38_Q009",
+                  "statement": "作業療法士が，自宅の玄関の段差を確認する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q036_c1",
+                  "groupId": "kaigo_no38_Q036",
+                  "statement": "風の通り道をつくって，換気を行う。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q018_c2",
+                  "groupId": "kaigo_no38_Q018",
+                  "statement": "基幹相談支援センターには，介護福祉士の配置が義務となっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q074_c2",
+                  "groupId": "kaigo_no38_Q074",
+                  "statement": "同じ動作や行動を繰り返す。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q034_c2",
+                  "groupId": "kaigo_no38_Q034",
+                  "statement": "利用者Ａは，朝食のパンを残した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q092_c1",
+                  "groupId": "kaigo_no38_Q092",
+                  "statement": "障害が発達期にあらわれる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q110_c2",
+                  "groupId": "kaigo_no38_Q110",
+                  "statement": "自宅での生活を続けること",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q037_c2",
+                  "groupId": "kaigo_no38_Q037",
+                  "statement": "廊下の床には，歩幅に合わせて目印をつける。 パ",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q006_c3",
+                  "groupId": "kaigo_no38_Q006",
+                  "statement": "一人で外出できるように，自発的活動支援を勧める。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q112_c3",
+                  "groupId": "kaigo_no38_Q112",
+                  "statement": "Ａさんが自信をなくした理由",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q079_c4",
+                  "groupId": "kaigo_no38_Q079",
+                  "statement": "複数の疾患を持ちやすい。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q086_c4",
+                  "groupId": "kaigo_no38_Q086",
+                  "statement": "ＩＡＤＬ（Instrumental Activities of Daily Living：手段的日常生活動作）ト",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q080_c5",
+                  "groupId": "kaigo_no38_Q080",
+                  "statement": "閉塞性動脈硬化症（arteriosclerosis obliterans）11",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q123_c2",
+                  "groupId": "kaigo_no38_Q123",
+                  "statement": "コーチング（coaching）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q011_c2",
+                  "groupId": "kaigo_no38_Q011",
+                  "statement": "提供する食品は，加熱調理を徹底する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q001_c2",
+                  "groupId": "kaigo_no38_Q001",
+                  "statement": "ニィリエ（Nirje, B.）は，「ノーマライゼーション（normalization）の8つの原理」を提唱した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q039_c3",
+                  "groupId": "kaigo_no38_Q039",
+                  "statement": "端座位になった利用者の右側に，車いすを置く。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q044_c3",
+                  "groupId": "kaigo_no38_Q044",
+                  "statement": "食事が楽しくなるような雰囲気をつくる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q115_c2",
+                  "groupId": "kaigo_no38_Q115",
+                  "statement": "下肢筋力を維持するために，毎日決まった時間に同じ運動をする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q055_c2",
+                  "groupId": "kaigo_no38_Q055",
+                  "statement": "おつりとレシート，購入した食材の確認を，Ａさんにすべて任せた。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q099_c5",
+                  "groupId": "kaigo_no38_Q099",
+                  "statement": "市町村は，地域生活支援事業を行う。22",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q022_c1",
+                  "groupId": "kaigo_no38_Q022",
+                  "statement": "入居する高齢者に，介護，食事の提供，家事，健康管理のうち1つ以上のサービスを提供する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q076_c3",
+                  "groupId": "kaigo_no38_Q076",
+                  "statement": "女性は，高齢になると性交痛を感じやすくなる。 ー",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q012_c1",
+                  "groupId": "kaigo_no38_Q012",
+                  "statement": "3年に1回の実施が義務づけられている。パ 2 労働者数が常時100名の事業場は受検が免除される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q119_c3",
+                  "groupId": "kaigo_no38_Q119",
+                  "statement": "認知症（dementia）の人のその人らしさを支える。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q111_c1",
+                  "groupId": "kaigo_no38_Q111",
+                  "statement": "通所介護（デイサービス）を利用しない日の過ごし方",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q074_c3",
+                  "groupId": "kaigo_no38_Q074",
+                  "statement": "注意の持続が難しい。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q014_c1",
+                  "groupId": "kaigo_no38_Q014",
+                  "statement": "65歳以上の者のいる世帯の世帯構造で最も多いのは，親と未婚の子のみの世帯である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q053_c4",
+                  "groupId": "kaigo_no38_Q053",
+                  "statement": "「お金の使い方について，一緒に考えてみませんか」と提案する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q107_c5",
+                  "groupId": "kaigo_no38_Q107",
+                  "statement": "目標達成時の介護福祉職の満足度を記載する。ート28",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q066_c4",
+                  "groupId": "kaigo_no38_Q066",
+                  "statement": "偏りのある食べ方をする。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q067_c2",
+                  "groupId": "kaigo_no38_Q067",
+                  "statement": "角質層ー 3 基底層ゆうきょくそう",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q116_c4",
+                  "groupId": "kaigo_no38_Q116",
+                  "statement": "介護予防小規模多機能型居宅介護",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q038_c4",
+                  "groupId": "kaigo_no38_Q038",
+                  "statement": "歩行の不安定さに合わせて，移動範囲を縮小する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q017_c1",
+                  "groupId": "kaigo_no38_Q017",
+                  "statement": "国際連合の障害者の権利に関する条約の影響を受け，障害者基本法に「社会的障壁の除去」が規定された。 パ",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q038_c3",
+                  "groupId": "kaigo_no38_Q038",
+                  "statement": "成功体験を積み重ねることができるように，達成可能な歩行の目標距離を設定する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q085_c2",
+                  "groupId": "kaigo_no38_Q085",
+                  "statement": "自律神経症状による起立性低血圧（orthostatic hypotension）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q113_c5",
+                  "groupId": "kaigo_no38_Q113",
+                  "statement": "自室を整理整頓する。Ｃパート33",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q059_c5",
+                  "groupId": "kaigo_no38_Q059",
+                  "statement": "悲嘆が長期化した場合は，専門医等へ相談するように助言する。32",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q055_c1",
+                  "groupId": "kaigo_no38_Q055",
+                  "statement": "依頼された食材が安かったので，リストに書かれた数より多く購入した。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q033_c3",
+                  "groupId": "kaigo_no38_Q033",
+                  "statement": "「調理師さんのことは気にしなくていいですよ」",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q048_c3",
+                  "groupId": "kaigo_no38_Q048",
+                  "statement": "バスタオルで両下肢を包む。ー",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q114_c2",
+                  "groupId": "kaigo_no38_Q114",
+                  "statement": "ドーパミン（dopamine）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q042_c4",
+                  "groupId": "kaigo_no38_Q042",
+                  "statement": "スポンジブラシは乾いた状態で使用する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q060_c4",
+                  "groupId": "kaigo_no38_Q060",
+                  "statement": "両手の握力が保たれていて，数秒程度の立位保持ができる人",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q063_c4",
+                  "groupId": "kaigo_no38_Q063",
+                  "statement": "リンパ管には血液が流れている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q051_c1",
+                  "groupId": "kaigo_no38_Q051",
+                  "statement": "骨盤底筋訓練を行う。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q002_c4",
+                  "groupId": "kaigo_no38_Q002",
+                  "statement": "「Ａさんとお互いの気持ちを話し合う時間をつくりませんか」",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q106_c2",
+                  "groupId": "kaigo_no38_Q106",
+                  "statement": "利用者が望む暮らしを実現すること",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q098_c5",
+                  "groupId": "kaigo_no38_Q098",
+                  "statement": "ストーマ装具（注） 「障害者総合支援法」とは，「障害者の日常生活及び社会生活を総合的に支援するための法律」のことである。Ｂパ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q012_c3",
+                  "groupId": "kaigo_no38_Q012",
+                  "statement": "結果は労務管理を行う介護主任へ提供され，面接指導に活用する。ー",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q006_c5",
+                  "groupId": "kaigo_no38_Q006",
+                  "statement": "本人が買物に行けるように，行動援護を勧める。5",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q092_c4",
+                  "groupId": "kaigo_no38_Q092",
+                  "statement": "療育手帳の等級は障害支援区分で決める。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q087_c1",
+                  "groupId": "kaigo_no38_Q087",
+                  "statement": "視覚的認識を容易にするために，廊下の手すりに色をつけて目立つようにする。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q021_c3",
+                  "groupId": "kaigo_no38_Q021",
+                  "statement": "市町村長は，後見開始の審判を請求することができない。 パ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q008_c5",
+                  "groupId": "kaigo_no38_Q008",
+                  "statement": "「一人暮らしで自宅で最期を迎えるのは，不安がありますよね」6",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q051_c4",
+                  "groupId": "kaigo_no38_Q051",
+                  "statement": "ほかの利用者と同じ時間にトイレへ誘導する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q003_c1",
+                  "groupId": "kaigo_no38_Q003",
+                  "statement": "導入した施設は，人員配置基準が撤廃される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q021_c2",
+                  "groupId": "kaigo_no38_Q021",
+                  "statement": "判断能力が十分ある者には，後見人をつけることができない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q055_c5",
+                  "groupId": "kaigo_no38_Q055",
+                  "statement": "購入した食材で調理しにくいものがないか，Ａさんに確認した。30",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q010_c3",
+                  "groupId": "kaigo_no38_Q010",
+                  "statement": "利用者の私物を壊したときは，介護福祉職の自己判断で弁償する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q057_c3",
+                  "groupId": "kaigo_no38_Q057",
+                  "statement": "両膝窩部に，クッションを入れる。みぎそくがい",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q008_c2",
+                  "groupId": "kaigo_no38_Q008",
+                  "statement": "「近所の方の力も借りて，この地域で暮らしていけるように考えていきましょう」",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q013_c5",
+                  "groupId": "kaigo_no38_Q013",
+                  "statement": "養子と養親の間には，親族関係は生じない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q076_c2",
+                  "groupId": "kaigo_no38_Q076",
+                  "statement": "男性は，高齢になっても性ホルモンの分泌が維持される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q006_c2",
+                  "groupId": "kaigo_no38_Q006",
+                  "statement": "身体機能の維持・向上のために，自立訓練（機能訓練）を勧める。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q029_c4",
+                  "groupId": "kaigo_no38_Q029",
+                  "statement": "利用者との信頼関係を形成するため",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q011_c3",
+                  "groupId": "kaigo_no38_Q011",
+                  "statement": "循環式浴槽は，塩素系薬剤を使用して消毒する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q082_c1",
+                  "groupId": "kaigo_no38_Q082",
+                  "statement": "本人ミーティングでは，当事者たちが語り合い社会に発信も行う。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q084_c5",
+                  "groupId": "kaigo_no38_Q084",
+                  "statement": "記憶障害は，初期から認められる。13",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q042_c3",
+                  "groupId": "kaigo_no38_Q042",
+                  "statement": "歯ブラシで歯を1，2本ずつ磨く。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q031_c2",
+                  "groupId": "kaigo_no38_Q031",
+                  "statement": "介護福祉職のペースで話を進める。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q102_c5",
+                  "groupId": "kaigo_no38_Q102",
+                  "statement": "サイドチューブから，カフの上部の貯留物を吸引することができる。24",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q079_c1",
+                  "groupId": "kaigo_no38_Q079",
+                  "statement": "典型的な症状を呈する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q020_c4",
+                  "groupId": "kaigo_no38_Q020",
+                  "statement": "地域ケア会議において，関係者と地域課題について話し合う。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q033_c5",
+                  "groupId": "kaigo_no38_Q033",
+                  "statement": "「何かお願いがあるのではありませんか」",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q111_c2",
+                  "groupId": "kaigo_no38_Q111",
+                  "statement": "通所介護（デイサービス）での様子",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q070_c4",
+                  "groupId": "kaigo_no38_Q070",
+                  "statement": "腹部のマッサージを行う。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q025_c1",
+                  "groupId": "kaigo_no38_Q025",
+                  "statement": "つらさから逃げず，学びが足りないことを自覚する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q080_c4",
+                  "groupId": "kaigo_no38_Q080",
+                  "statement": "老人性皮膚掻痒症（senile pruritus）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q063_c1",
+                  "groupId": "kaigo_no38_Q063",
+                  "statement": "心臓は体性神経が支配している。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q089_c3",
+                  "groupId": "kaigo_no38_Q089",
+                  "statement": "リアリティ・オリエンテーション（reality orientation）パ",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q057_c4",
+                  "groupId": "kaigo_no38_Q057",
+                  "statement": "右側臥位にして，クッションを抱いてもらう。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q124_c1",
+                  "groupId": "kaigo_no38_Q124",
+                  "statement": "背中とバックサポートの間ひだりだいたいぶ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q124_c4",
+                  "groupId": "kaigo_no38_Q124",
+                  "statement": "右大腿部と左大腿部の間",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q008_c1",
+                  "groupId": "kaigo_no38_Q008",
+                  "statement": "「3匹の猫は，今後は地域の皆さんに預けましょう」",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q101_c5",
+                  "groupId": "kaigo_no38_Q101",
+                  "statement": "意識レベルは，まず身体を揺さぶって反応をみる。ート",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q026_c5",
+                  "groupId": "kaigo_no38_Q026",
+                  "statement": "Ａさんの部屋のドアを指差した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q023_c4",
+                  "groupId": "kaigo_no38_Q023",
+                  "statement": "生活困窮者住居確保給付金の支給は，市にとって必須事業である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q125_c2",
+                  "groupId": "kaigo_no38_Q125",
+                  "statement": "公共職業安定所（ハローワーク）",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q005_c1",
+                  "groupId": "kaigo_no38_Q005",
+                  "statement": "安全で使いやすいデザインにする。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q097_c4",
+                  "groupId": "kaigo_no38_Q097",
+                  "statement": "社会的行動障害によってすぐに怒りだすことがあるため，感情が落ち着くように場面や話題を変える。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q028_c3",
+                  "groupId": "kaigo_no38_Q028",
+                  "statement": "上司がＡ介護福祉職の気持ちの理解に努めつつ，状況を確認する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q073_c2",
+                  "groupId": "kaigo_no38_Q073",
+                  "statement": "成人としての市民的・社会的責任を達成する。Ｂ",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q115_c1",
+                  "groupId": "kaigo_no38_Q115",
+                  "statement": "視覚的環境からの影響を防ぐために，自室のカーテンを無地のものに変更する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q105_c4",
+                  "groupId": "kaigo_no38_Q105",
+                  "statement": "胃ろう周囲の皮膚は石けんとぬるま湯で洗浄して，清潔を保つ。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q033_c4",
+                  "groupId": "kaigo_no38_Q033",
+                  "statement": "「どこかからだの具合が悪いのではないですか」",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q045_c4",
+                  "groupId": "kaigo_no38_Q045",
+                  "statement": "体幹を後方に傾けてもらう。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q002_c5",
+                  "groupId": "kaigo_no38_Q002",
+                  "statement": "「病院や施設の情報がほしいと介護支援専門員に伝えてはどうですか」3",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q043_c4",
+                  "groupId": "kaigo_no38_Q043",
+                  "statement": "「着るときは，右袖を肘まで通してから，左袖を通しましょう」",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q040_c4",
+                  "groupId": "kaigo_no38_Q040",
+                  "statement": "階段利用時は，介護福祉職は階段の前で声かけして止まる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q063_c2",
+                  "groupId": "kaigo_no38_Q063",
+                  "statement": "肺動脈には静脈血が流れている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q081_c5",
+                  "groupId": "kaigo_no38_Q081",
+                  "statement": "身体的疾患がないにもかかわらず，自分が病気だと思い込むのは，心気妄想である。12",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q054_c1",
+                  "groupId": "kaigo_no38_Q054",
+                  "statement": "綿の柄物シャツには酸素系漂白剤を使う。パ 2 ナイロンのレインウエアは脱水時間を長くする。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q024_c5",
+                  "groupId": "kaigo_no38_Q024",
+                  "statement": "世帯を単位として保護を行う。ト14",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q013_c4",
+                  "groupId": "kaigo_no38_Q013",
+                  "statement": "同居する親族は互いに扶け合わなければならないと規定している。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q104_c3",
+                  "groupId": "kaigo_no38_Q104",
+                  "statement": "左下方の縁を小弯という。せいりてききょうさくぶ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q045_c5",
+                  "groupId": "kaigo_no38_Q045",
+                  "statement": "顎を上げてもらう。25そしゃくきのう",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q083_c3",
+                  "groupId": "kaigo_no38_Q083",
+                  "statement": "通所介護（デイサービス）を利用中に，出口を探して歩き回る。 ー",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q124_c5",
+                  "groupId": "kaigo_no38_Q124",
+                  "statement": "右上肢と右アームサポートの間Ｃパート45",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q058_c3",
+                  "groupId": "kaigo_no38_Q058",
+                  "statement": "好きなものや食べたいものがある場合は，家族に持ってきてもらう。ー",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q070_c5",
+                  "groupId": "kaigo_no38_Q070",
+                  "statement": "医療機関の受診を促す。Ｂパ",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q014_c3",
+                  "groupId": "kaigo_no38_Q014",
+                  "statement": "要介護者等と同居の主な介護者の年齢の組合せでは，65歳以上同士が約6割を占めている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q015_c1",
+                  "groupId": "kaigo_no38_Q015",
+                  "statement": "Ａさんが身辺のことを，時間をかけてもやること",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q018_c3",
+                  "groupId": "kaigo_no38_Q018",
+                  "statement": "都道府県は，身体障害者更生相談所を設置しなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q045_c1",
+                  "groupId": "kaigo_no38_Q045",
+                  "statement": "足底を床につけてもらう。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q043_c5",
+                  "groupId": "kaigo_no38_Q043",
+                  "statement": "「着るときは，右袖を肩まで通してから，左袖を通しましょう」ト",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q093_c1",
+                  "groupId": "kaigo_no38_Q093",
+                  "statement": "脳血管障害（cerebrovascular disorder）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q025_c4",
+                  "groupId": "kaigo_no38_Q025",
+                  "statement": "上司や同僚などに悩みを話して，助言を受ける。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q091_c5",
+                  "groupId": "kaigo_no38_Q091",
+                  "statement": "障害のある人もない人も包摂する社会ート",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q104_c2",
+                  "groupId": "kaigo_no38_Q104",
+                  "statement": "左上方を胃底部といい，食べ物を一時的にためる。しょうわん",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q056_c3",
+                  "groupId": "kaigo_no38_Q056",
+                  "statement": "入浴は，就寝の1〜2時間前に行う。ー",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q102_c2",
+                  "groupId": "kaigo_no38_Q102",
+                  "statement": "気管カニューレは，交換の必要がない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q064_c1",
+                  "groupId": "kaigo_no38_Q064",
+                  "statement": "立位を保持するときは大殿筋が収縮する。Ｂだいたいしとうきん",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q047_c2",
+                  "groupId": "kaigo_no38_Q047",
+                  "statement": "口腔の状況を観察する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q097_c3",
+                  "groupId": "kaigo_no38_Q097",
+                  "statement": "遂行機能障害によって指示されないと作業ができないため，自分の判断でやるように促す。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q035_c4",
+                  "groupId": "kaigo_no38_Q035",
+                  "statement": "利用者の生活の効率化を図ることを目標にする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q003_c3",
+                  "groupId": "kaigo_no38_Q003",
+                  "statement": "導入することによって，利用者の自立支援や生活の質の向上が期待される。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q044_c5",
+                  "groupId": "kaigo_no38_Q044",
+                  "statement": "照明は，明るさを25ルクス（lx）以下にする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q108_c5",
+                  "groupId": "kaigo_no38_Q108",
+                  "statement": "利用者に支援内容を説明して同意を得る。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q027_c2",
+                  "groupId": "kaigo_no38_Q027",
+                  "statement": "給与を引き上げること",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q012_c4",
+                  "groupId": "kaigo_no38_Q012",
+                  "statement": "心理的な負担の程度を把握するためのものである。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q051_c5",
+                  "groupId": "kaigo_no38_Q051",
+                  "statement": "トイレの出入口に「トイレ」と書いた紙を貼る。28",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q101_c1",
+                  "groupId": "kaigo_no38_Q101",
+                  "statement": "非接触型体温計による測定では，環境温度に注意する。とうこつどうみゃく ぼ し",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q059_c1",
+                  "groupId": "kaigo_no38_Q059",
+                  "statement": "悲しみの表出があった時点からかかわりを開始する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q094_c2",
+                  "groupId": "kaigo_no38_Q094",
+                  "statement": "ノーマライゼーションの理念が徐々に浸透した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q020_c1",
+                  "groupId": "kaigo_no38_Q020",
+                  "statement": "高齢者本人による相談が原則のため，Ａさん自身が相談に来るように促す。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q039_c1",
+                  "groupId": "kaigo_no38_Q039",
+                  "statement": "利用者に右側臥位になって起き上がるように促す。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q031_c5",
+                  "groupId": "kaigo_no38_Q031",
+                  "statement": "利用者支援で協働するパートナーとして接する。19",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q109_c1",
+                  "groupId": "kaigo_no38_Q109",
+                  "statement": "個別支援計画の取り組みの報告",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q103_c2",
+                  "groupId": "kaigo_no38_Q103",
+                  "statement": "水分摂取を控えるように伝える。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q010_c1",
+                  "groupId": "kaigo_no38_Q010",
+                  "statement": "安全対策担当者を置き，事故発生予防のための委員会を定期的に開催する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kaigo_no38_Q075_c5",
+                  "groupId": "kaigo_no38_Q075",
+                  "statement": "フレイル（frailty）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

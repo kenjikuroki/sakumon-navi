@@ -1,0 +1,558 @@
+{
+  "apps": {
+    "kanri_gyomu": {
+      "qualificationName": "管理業務主任者",
+      "config": {
+        "app_name": "管理業務主任者 過去問",
+        "ios_premium_id": "unlock_1",
+        "android_premium_id": "unlock_1",
+        "ios_ad_banner": "ca-app-pub-3331079517737737/XXXXXXXXXX",
+        "ios_ad_inter": "ca-app-pub-3331079517737737/XXXXXXXXXX"
+      },
+      "years": [
+        {
+          "examYear": "令和6年度",
+          "sourceType": "official_exam",
+          "categories": [
+            {
+              "categoryName": "管理業務主任者",
+              "questions": [
+                {
+                  "id": "kanri_R6_Q40_c3",
+                  "groupId": "kanri_R6_Q40",
+                  "statement": "Ａが,同一の年に同一の簡易裁判所において,少額訴訟による審理及び裁判を求めることができる回数には制限がある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q17_c4",
+                  "groupId": "kanri_R6_Q17",
+                  "statement": "二酸化炭素 低下 平方根",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q32_c4",
+                  "groupId": "kanri_R6_Q32",
+                  "statement": "理事長は,総会の決議によって,理事のうちから選任する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q46_c3",
+                  "groupId": "kanri_R6_Q46",
+                  "statement": "管理費及び修繕積立金等について明確に区分して経理が行われていること",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q16_c3",
+                  "groupId": "kanri_R6_Q16",
+                  "statement": "権原者は,防火管理者に,消防計画を作成させなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q13_c3",
+                  "groupId": "kanri_R6_Q13",
+                  "statement": "調査は,一級建築士,二級建築士又は建築物調査員にさせなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q14_c3",
+                  "groupId": "kanri_R6_Q14",
+                  "statement": "専ら防災のために設ける備蓄倉庫の用途に供する部分",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q14_c4",
+                  "groupId": "kanri_R6_Q14",
+                  "statement": "宅配ボックスを設ける部分",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q17_c3",
+                  "groupId": "kanri_R6_Q17",
+                  "statement": "二酸化炭素 上昇 2乗",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q15_c1",
+                  "groupId": "kanri_R6_Q15",
+                  "statement": "住宅用スプリンクラー",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q36_c3",
+                  "groupId": "kanri_R6_Q36",
+                  "statement": "婚姻の届出をしていないが組合員と事実上婚姻関係と同様の事情にある者は,組合員の代理人となることができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q03_c1",
+                  "groupId": "kanri_R6_Q03",
+                  "statement": "委任者は,受任者に不利な時期になる場合や,当該委任契約が受任者の利益（専ら報酬を得ることによるものを除く。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q08_c2",
+                  "groupId": "kanri_R6_Q08",
+                  "statement": "出納業務として,マンションの各専有部分の水道料の計算,収納をマンション管理業者に委託することができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q14_c2",
+                  "groupId": "kanri_R6_Q14",
+                  "statement": "共用の廊下又は階段の用に供する部分",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q11_c3",
+                  "groupId": "kanri_R6_Q11",
+                  "statement": "（借 方） （貸 方）支払保険料 720,000 普通預金 1,440,000保険積立金 720,000",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q23_c4",
+                  "groupId": "kanri_R6_Q23",
+                  "statement": "収支計画の不確定な要素として,修繕積立金の運用利率,借入金の金利,物価・工事費価格及び消費税率の変動などがある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q16_c4",
+                  "groupId": "kanri_R6_Q16",
+                  "statement": "権原者は,防火管理者に,消防計画に基づく消火,通報及び避難の訓練を実施させなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q12_c2",
+                  "groupId": "kanri_R6_Q12",
+                  "statement": "普通預金 3,000,000 未収入金 90,000管理費収入 1,940,000修繕積立金収入 970,000",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q46_c1",
+                  "groupId": "kanri_R6_Q46",
+                  "statement": "管理者等が定められていること",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q11_c2",
+                  "groupId": "kanri_R6_Q11",
+                  "statement": "（借 方） （貸 方）保険積立金 1,440,000 普通預金 1,440,000",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q17_c1",
+                  "groupId": "kanri_R6_Q17",
+                  "statement": "酸素 上昇 平方根",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q17_c2",
+                  "groupId": "kanri_R6_Q17",
+                  "statement": "酸素 低下 2乗",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q40_c1",
+                  "groupId": "kanri_R6_Q40",
+                  "statement": "少額訴訟によって訴えを提起する場合,その上限額は60万円である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q45_c4",
+                  "groupId": "kanri_R6_Q45",
+                  "statement": "ＡはＢに対し,当該マンションの管理が委託されているときは,その管理委託契約の内容について説明しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q13_c2",
+                  "groupId": "kanri_R6_Q13",
+                  "statement": "特定行政庁への報告は,建築物の所有者と管理者が異なる場合においては,管理者が行わなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q19_c3",
+                  "groupId": "kanri_R6_Q19",
+                  "statement": "簡易専用水道の供給を受けるために設けられる水槽の有効容量の合計は,10m3を超えるものとする。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q04_c2",
+                  "groupId": "kanri_R6_Q04",
+                  "statement": "管理組合は,マンション管理業者に管理事務を行わせるために管理事務室を使用させる場合は,有償で使用させるものとする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q05_c1",
+                  "groupId": "kanri_R6_Q05",
+                  "statement": "Ａ及びＢは,管理委託契約の成立の証として契約書1通を作成し,Ａ及びＢが記名押印した上,Ａが当該契約書を保有した。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q05_c4",
+                  "groupId": "kanri_R6_Q05",
+                  "statement": "Ａは,Ｂがマンション管理業の登録の取消しの処分を受けたため,Ｂに対して何らの催告をせず,Ｂとの管理委託契約を解除した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q46_c4",
+                  "groupId": "kanri_R6_Q46",
+                  "statement": "長期修繕計画の作成または見直しが10年以内に行われていること",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q36_c4",
+                  "groupId": "kanri_R6_Q36",
+                  "statement": "組合員が代理人により議決権を行使しようとする場合は,当該組合員が代理権を証する書面を理事長に提出しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q12_c4",
+                  "groupId": "kanri_R6_Q12",
+                  "statement": "普通預金 3,000,000 管理費収入 180,000修繕積立金収入 90,000前受金 2,730,000",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q26_c1",
+                  "groupId": "kanri_R6_Q26",
+                  "statement": "区分所有者は,集会において,区分所有者及び議決権の各4分の3以上の多数で,復旧決議をすることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q44_c2",
+                  "groupId": "kanri_R6_Q44",
+                  "statement": "特定転貸事業者又は勧誘者（特定転貸事業者が特定賃貸借契約の締結についての勧誘を行わせる者をいう。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q13_c1",
+                  "groupId": "kanri_R6_Q13",
+                  "statement": "特定行政庁への報告は,5年間隔で行わなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q43_c1",
+                  "groupId": "kanri_R6_Q43",
+                  "statement": "マンションの新規供給戸数は,2008年以降,一貫して減少している。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q41_c3",
+                  "groupId": "kanri_R6_Q41",
+                  "statement": "マンション建替事業を行う団体を法人とするか否かは,当該団体の任意で決めることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q15_c4",
+                  "groupId": "kanri_R6_Q15",
+                  "statement": "漏電ブレーカー（漏電遮断機）",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q18_c3",
+                  "groupId": "kanri_R6_Q18",
+                  "statement": "中性化により発生した,鉄筋の腐食に伴うコンクリートの浮きに対し,断面修復による工法を選定した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q43_c4",
+                  "groupId": "kanri_R6_Q43",
+                  "statement": "建替え工事が完了したマンションの件数は,2023年3月時点の累計で,250件を超えている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q36_c2",
+                  "groupId": "kanri_R6_Q36",
+                  "statement": "収支予算を変更しようとする場合に,理事長は,その案を理事会に提出し,その承認を得れば足りる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q18_c1",
+                  "groupId": "kanri_R6_Q18",
+                  "statement": "コンクリートの乾燥収縮による幅0．3mm程度の挙動のあるひび割れ先行型劣化の補修に,Ｕカットシール材充填工法を選定した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q16_c2",
+                  "groupId": "kanri_R6_Q16",
+                  "statement": "防火管理者は,政令で定める資格を有している必要がある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q11_c1",
+                  "groupId": "kanri_R6_Q11",
+                  "statement": "（借 方） （貸 方）支払保険料 1,440,000 普通預金 1,440,000",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q43_c3",
+                  "groupId": "kanri_R6_Q43",
+                  "statement": "マンション建替円滑化法に基づくマンション敷地売却の実績は,2016年以降毎年10件以上ある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q41_c4",
+                  "groupId": "kanri_R6_Q41",
+                  "statement": "マンション建替事業を行う団体を構成することができる者は,その施行マンションの建替え合意者又はその包括承継人に限られない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q18_c4",
+                  "groupId": "kanri_R6_Q18",
+                  "statement": "塩害によりコンクリートが浮きかかって生じたひび割れに対し,樹脂注入工法を選定した。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q41_c2",
+                  "groupId": "kanri_R6_Q41",
+                  "statement": "マンション建替事業を行う団体は,その名称中に「マンション建替組合」という文字を用いなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q40_c2",
+                  "groupId": "kanri_R6_Q40",
+                  "statement": "30万円を超える少額訴訟の場合には,地方裁判所に提起しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q22_c3",
+                  "groupId": "kanri_R6_Q22",
+                  "statement": "推定修繕工事項目に建物及び設備の性能を向上する改修工事に係る項目を設定する場合には,その費用を含めた収支計画とする。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q16_c1",
+                  "groupId": "kanri_R6_Q16",
+                  "statement": "居住者が30人のマンションでは,権原者は,防火管理者を定める必要がある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q43_c2",
+                  "groupId": "kanri_R6_Q43",
+                  "statement": "2022年末時点における築40年以上のマンションのストック戸数は,10年前と比べると,約2倍に増加している。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q18_c2",
+                  "groupId": "kanri_R6_Q18",
+                  "statement": "コンクリートのコールドジョイントによる幅0．2mm未満の,挙動のないひび割れ先行型劣化の補修に,シール工法を選定した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q12_c1",
+                  "groupId": "kanri_R6_Q12",
+                  "statement": "（借 方） （貸 方）普通預金 3,000,000 管理費収入 2,000,000修繕積立金収入 1,000,000",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q11_c4",
+                  "groupId": "kanri_R6_Q11",
+                  "statement": "支払保険料 60,000 普通預金 1,440,000前払保険料 660,000保険積立金 720,000",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q13_c4",
+                  "groupId": "kanri_R6_Q13",
+                  "statement": "調査の項目,方法及び結果の判定基準は国土交通大臣の定めるところによるものとする。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q14_c1",
+                  "groupId": "kanri_R6_Q14",
+                  "statement": "エレベーターの昇降路の部分",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q42_c2",
+                  "groupId": "kanri_R6_Q42",
+                  "statement": "権利に関する登記の申請は,法令に別段の定めがある場合を除き,登記権利者及び登記義務者が共同してしなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_R6_Q50_c1",
+                  "groupId": "kanri_R6_Q50",
+                  "statement": "Ａは,基幹事務のうち,Ｂの会計の収入及び支出の調定に関する業務のみを第三者に再委託した。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

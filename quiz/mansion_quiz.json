@@ -1,0 +1,1143 @@
+{
+  "apps": {
+    "mansion_kanrishi": {
+      "qualificationName": "マンション管理士",
+      "config": {
+        "app_name": "マンション管理士 過去問",
+        "ios_premium_id": "unlock_1",
+        "android_premium_id": "unlock_1",
+        "ios_ad_banner": "ca-app-pub-3331079517737737/XXXXXXXXXX",
+        "ios_ad_inter": "ca-app-pub-3331079517737737/XXXXXXXXXX"
+      },
+      "years": [
+        {
+          "examYear": "令和7年度",
+          "sourceType": "official_exam",
+          "categories": [
+            {
+              "categoryName": "マンション管理士",
+              "questions": [
+                {
+                  "id": "mansion_R7_Q09_c2",
+                  "groupId": "mansion_R7_Q09",
+                  "statement": "建物の取壊し及び再建建物の建築に要する費用の概算額",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q18_c3",
+                  "groupId": "mansion_R7_Q18",
+                  "statement": "専有部分の所有権の移転登記がされた場合、当該専有部分の区分所有者が持分を有する共用部分についても。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q09_c4",
+                  "groupId": "mansion_R7_Q09",
+                  "statement": "再建建物の区分所有権の帰属に関する事項",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q32_c1",
+                  "groupId": "mansion_R7_Q32",
+                  "statement": "Ａ棟の共用部分の変更は、Ａ棟の棟総会ではなく、団地総会で決議すべき事項となります。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q28_c2",
+                  "groupId": "mansion_R7_Q28",
+                  "statement": "理事会の決議により、法令違反をしている理事長の役職を解き、当面は副理事長が理事長の職務を行い。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q12_c1",
+                  "groupId": "mansion_R7_Q12",
+                  "statement": "Ａが、Ｂとの間で302号室の売買契約を締結し、Ｂにその所有権の移転登記がされない間に。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q14_c3",
+                  "groupId": "mansion_R7_Q14",
+                  "statement": "Ａが、本件契約に基づく令和7年8月分の賃料債権をＣに譲渡した後、同債権をＤにも譲渡し。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q15_c2",
+                  "groupId": "mansion_R7_Q15",
+                  "statement": "ＡとＣが101号室について定期建物賃貸借契約を締結する意図であったが。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q12_c4",
+                  "groupId": "mansion_R7_Q12",
+                  "statement": "Ａが遺言をせずに死亡し、子Ｂと子ＣがＡを共同で相続して302号室の所有権を共有している場合において。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q16_c3",
+                  "groupId": "mansion_R7_Q16",
+                  "statement": "Ｂの仕事が完成するまでの間であれば、Ａはいつでも請負契約を解除することができるが。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q35_c4",
+                  "groupId": "mansion_R7_Q35",
+                  "statement": "令和7年3月に令和7年3月分及び同年4月分の2か月分のリース料8万円を支払ったため。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q50_c3",
+                  "groupId": "mansion_R7_Q50",
+                  "statement": "マンション管理業者は、管理組合から委託を受けた管理事務のうち基幹事務について。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q41_c1",
+                  "groupId": "mansion_R7_Q41",
+                  "statement": "杭基礎のうち、摩擦杭は、建築物の重量が比較的重く強固な地耐力が期待される地盤に採用され。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q41_c4",
+                  "groupId": "mansion_R7_Q41",
+                  "statement": "地上部分にある建築物のある層に作用する地震力は、その層が支える荷重に、地震活動の地域性や地盤の種類。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q08_c3",
+                  "groupId": "mansion_R7_Q08",
+                  "statement": "管理組合と理事との利益が相反する事項については、裁判所により選任された特別代理人が管理組合法人を代表する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q38_c1",
+                  "groupId": "mansion_R7_Q38",
+                  "statement": "長期修繕計画では、計画修繕工事を円滑に実施するために、計画修繕工事に要する費用を長期に渡って予測している。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q15_c3",
+                  "groupId": "mansion_R7_Q15",
+                  "statement": "Ａが101号室をＤに賃貸し、ＥがＡとの間でＤの賃貸債務の保証をする契約をしたが。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q02_c1",
+                  "groupId": "mansion_R7_Q02",
+                  "statement": "Ａは、Ｘが管理者として、区分所有者全部でなく区分所有者の1人であるＡに損害を被らせる不正な行為を行ったことを理由として。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q14_c1",
+                  "groupId": "mansion_R7_Q14",
+                  "statement": "本件契約に基づく賃料債権について譲渡を禁止する旨の特約がある場合には、Ａが同債権を譲渡しても、その効力は生じない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q48_c1",
+                  "groupId": "mansion_R7_Q48",
+                  "statement": "マンションの適切な管理のため、管理規約において災害等の緊急時や管理上必要なときの専有部の立ち入り。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q15_c1",
+                  "groupId": "mansion_R7_Q15",
+                  "statement": "Ａが101号室をＢに贈与する契約をしたが、これを書面によってしなかったときは。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q40_c2",
+                  "groupId": "mansion_R7_Q40",
+                  "statement": "地上2階建て延べ面積200m2の鉄筋コンクリート造の共同住宅について。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q25_c4",
+                  "groupId": "mansion_R7_Q25",
+                  "statement": "規約及び使用細則に定める区分所有建物の使用方法を遵守する旨の誓約書を、専有部分の占有者が。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q11_c1",
+                  "groupId": "mansion_R7_Q11",
+                  "statement": "区分所有者集会を招集するための通知と説明会を開催するための通知を一括して発出することができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q11_c2",
+                  "groupId": "mansion_R7_Q11",
+                  "statement": "区分所有者集会の招集通知においては、復旧又は建替えをしない理由、復旧に要する費用の概算額。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q33_c2",
+                  "groupId": "mansion_R7_Q33",
+                  "statement": "店舗一部共用部分の変更（その形状又は効用の著しい変更を伴わないものを除く。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q11_c3",
+                  "groupId": "mansion_R7_Q11",
+                  "statement": "区分所有者集会における建物取壊し決議において、建物の取壊しに要する費用の分担については。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q06_c4",
+                  "groupId": "mansion_R7_Q06",
+                  "statement": "専有部分が数人の共有に属するときは、共有者は、議決権を行使すべき者を複数人定めることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q18_c2",
+                  "groupId": "mansion_R7_Q18",
+                  "statement": "共用部分に対する各共有者の持分は、規約で別段の定めがない場合。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q10_c4",
+                  "groupId": "mansion_R7_Q10",
+                  "statement": "一括建替え決議の日から2年以内に、Ａ棟の取壊し工事に着手したが、Ｂ棟の取壊し工事には着手しなかった場合。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q42_c2",
+                  "groupId": "mansion_R7_Q42",
+                  "statement": "床衝撃音には、子どものとび跳ねのような重量床衝撃音と硬くて軽い物体が落下したときに発生する軽量床衝撃音があり。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q50_c4",
+                  "groupId": "mansion_R7_Q50",
+                  "statement": "マンション管理業者は、法第72条に定める重要事項を記載した書面を作成するときは。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q34_c3",
+                  "groupId": "mansion_R7_Q34",
+                  "statement": "令和7年3月末の銀行預金残高について、帳簿上の残高より預金残高証明書の金額が7万円少なかったため調査したところ。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q15_c4",
+                  "groupId": "mansion_R7_Q15",
+                  "statement": "Ａが管理組合とのトラブルの解決を弁護士Ｆに委任する契約をし、これを書面によってしたときであっても。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q36_c4",
+                  "groupId": "mansion_R7_Q36",
+                  "statement": "コンクリート用骨材とはコンクリートに用いる砂、砂利、砕石などを指し、粒径により細骨材と粗骨材に分けられる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q32_c4",
+                  "groupId": "mansion_R7_Q32",
+                  "statement": "Ｄ棟の棟総会議事録は、理事長が団地外に居住する区分所有者である場合。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q21_c4",
+                  "groupId": "mansion_R7_Q21",
+                  "statement": "延べ面積が1,000m2である共同住宅の昇降機の乗降のための乗降ロビーの部分には、排煙設備を設けなくてもよい。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q40_c4",
+                  "groupId": "mansion_R7_Q40",
+                  "statement": "共同住宅のバルコニーについて、形状が連続しており避難経路となっているものには。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q19_c2",
+                  "groupId": "mansion_R7_Q19",
+                  "statement": "マンション建替組合は、都道府県知事等による組合の設立認可の公告があるまでは。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q29_c4",
+                  "groupId": "mansion_R7_Q29",
+                  "statement": "区分所有法第59条に基づく区分所有権の競売の請求に関する訴訟提起を会議の目的とする総会を招集するときは。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q13_c3",
+                  "groupId": "mansion_R7_Q13",
+                  "statement": "Ａが、Ｂに対して借入金の半額を弁済した場合、Ｂは、全額の弁済を受けるまで。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q42_c1",
+                  "groupId": "mansion_R7_Q42",
+                  "statement": "開口部に取り付けるサッシの遮音性について、日本産業規格で音響透過損失に応じて4段階のＴ等級が定められており。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q46_c4",
+                  "groupId": "mansion_R7_Q46",
+                  "statement": "四つ",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q10_c3",
+                  "groupId": "mansion_R7_Q10",
+                  "statement": "団地内建物の一括建替え決議を行う場合には、各団地建物所有者は。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q23_c4",
+                  "groupId": "mansion_R7_Q23",
+                  "statement": "政令に基づく防火管理に関する講習の受講に関すること。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q31_c2",
+                  "groupId": "mansion_R7_Q31",
+                  "statement": "当日出席と記載された出席票の余白に、万一欠席の場合は議長に一任との添書きがあったが。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q21_c1",
+                  "groupId": "mansion_R7_Q21",
+                  "statement": "共同住宅の屋上広場の周囲には、安全上必要な高さが1.1m以上の手すり壁、さく又は金網を設けなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q01_c4",
+                  "groupId": "mansion_R7_Q01",
+                  "statement": "建物の部分又は附属の建物が抵当権の目的とされている場合には、抵当権者が抵当権の消滅を承諾しない限り。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q12_c3",
+                  "groupId": "mansion_R7_Q12",
+                  "statement": "Ａが、Ｂとの間で302号室の売買契約を締結し、Ｂにその所有権の移転登記がされたが。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q26_c4",
+                  "groupId": "mansion_R7_Q26",
+                  "statement": "調査の結果、Ｂが専用使用権を有する屋上テラスの経年劣化による破損が漏水の原因であることが判明したときは。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q14_c4",
+                  "groupId": "mansion_R7_Q14",
+                  "statement": "Ａが本件契約に基づく令和7年9月分の賃料債権をＥに譲渡し、その対抗要件が具備された場合であっても。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q07_c4",
+                  "groupId": "mansion_R7_Q07",
+                  "statement": "Ａは、集会の議題に利害関係を有する場合には、自ら集会に出席し、意見を述べ、議決権を行使することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q06_c1",
+                  "groupId": "mansion_R7_Q06",
+                  "statement": "集会の議事録が書面で作成されているときは、議長及び集会に出席した区分所有者の2人がこれに署名しなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q21_c3",
+                  "groupId": "mansion_R7_Q21",
+                  "statement": "防火地域又は準防火地域内にある共同住宅で、外壁が耐火構造のものであっても。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q32_c2",
+                  "groupId": "mansion_R7_Q32",
+                  "statement": "Ｂ棟の各棟修繕積立金の額の引上げは、Ｂ棟の棟総会の決議を経た後に、団地総会で決議すべき事項となります。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q38_c2",
+                  "groupId": "mansion_R7_Q38",
+                  "statement": "予防保全とは、計画的に点検を行い、建物の部分や設備が壊れる前に交換、修繕を行い故障や不具合を未然に防止することであり。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q35_c2",
+                  "groupId": "mansion_R7_Q35",
+                  "statement": "令和7年3月に組合員から、令和7年3月分の管理費3万円と令和7年4月分の管理費3万円の合計6万円の入金があったため。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q28_c1",
+                  "groupId": "mansion_R7_Q28",
+                  "statement": "住戸内の間取りの変更工事につき、共用部分や他の専有部分に影響を与えるおそれがないものとして。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q03_c3",
+                  "groupId": "mansion_R7_Q03",
+                  "statement": "各共有者の共有持分の割合を定める場合、一部共用部分で床面積を有するものがあるときは。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q39_c1",
+                  "groupId": "mansion_R7_Q39",
+                  "statement": "中性化とは、コンクリートが空気中の炭酸ガス、その他の酸性ガスあるいは塩類の作用によりアルカリ性を失っていく現象をいう。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q03_c1",
+                  "groupId": "mansion_R7_Q03",
+                  "statement": "すべての一部共用部分について、その管理のすべてを区分所有者全員で行う場合には。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q48_c4",
+                  "groupId": "mansion_R7_Q48",
+                  "statement": "長期修繕計画の計画期間全体での修繕積立金の総額から算定された修繕積立金の平均額が著しく低額でないこと。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q17_c4",
+                  "groupId": "mansion_R7_Q17",
+                  "statement": "賃料の増額を正当とする裁判が確定した場合において、既にＢが支払った額に不足があるときは。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q08_c2",
+                  "groupId": "mansion_R7_Q08",
+                  "statement": "管理組合法人には、理事を置かなければならず、その任期は、2年とされているが。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q16_c1",
+                  "groupId": "mansion_R7_Q16",
+                  "statement": "Ａの責めに帰することができない事由によってＢが仕事を完成することができなくなった場合において。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q30_c2",
+                  "groupId": "mansion_R7_Q30",
+                  "statement": "総会でペット飼育を禁止する規約改正を議題とする場合において、Ｂが住戸内で現に犬を飼っていたとしても。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q24_c1",
+                  "groupId": "mansion_R7_Q24",
+                  "statement": "共用玄関の存する階のエレベーターホールは、共用玄関又は管理人室等からの見通しが確保された位置に配置する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q23_c3",
+                  "groupId": "mansion_R7_Q23",
+                  "statement": "火災、地震その他の災害が発生した場合における消火活動、通報連絡及び避難誘導に関すること。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q22_c3",
+                  "groupId": "mansion_R7_Q22",
+                  "statement": "簡易専用水道の設置者は、給水栓における水の色、濁り、臭い、味その他の状態により供給する水に異常を認めたときは。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q29_c1",
+                  "groupId": "mansion_R7_Q29",
+                  "statement": "会議の目的が建替え決議である総会の招集の通知は、あて先の届出のない組合員に対しては。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q18_c4",
+                  "groupId": "mansion_R7_Q18",
+                  "statement": "区分建物が属する一棟の建物とは別棟の建物で、一棟の建物の附属の建物である倉庫は。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q22_c1",
+                  "groupId": "mansion_R7_Q22",
+                  "statement": "簡易専用水道の設置者は、給水栓における水質について、2年以内ごとに1回、定期に水質検査業者の検査を受けなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q08_c4",
+                  "groupId": "mansion_R7_Q08",
+                  "statement": "監事が事務を行えなくなった場合において、事務が遅滞することにより損害を生ずるおそれがあるときは。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q09_c1",
+                  "groupId": "mansion_R7_Q09",
+                  "statement": "新たに建築する建物（以下「再建建物」という。）の設計の概要",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q13_c4",
+                  "groupId": "mansion_R7_Q13",
+                  "statement": "501号室が火災により損害を受け、Ａが自らの加入する火災保険に基づき保険会社に対して保険金請求権を有する場合。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q27_c1",
+                  "groupId": "mansion_R7_Q27",
+                  "statement": "理事会の中に部会を設け、当該部会に分担された業務については、部会の決議により理事会の決議に代えることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q04_c2",
+                  "groupId": "mansion_R7_Q04",
+                  "statement": "規約に別段の定めがない限り、区分所有者及び議決権の各4分の3以上の多数による集会の決議がなければ、決めることができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q47_c3",
+                  "groupId": "mansion_R7_Q47",
+                  "statement": "管理計画の認定を受けた者は、認定を受けた管理計画の変更をしようとするときは。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q28_c3",
+                  "groupId": "mansion_R7_Q28",
+                  "statement": "共用部分である排水管の取替工事で住戸内に立ち入らなければならないが。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q45_c2",
+                  "groupId": "mansion_R7_Q45",
+                  "statement": "ガス給湯器の能力表示には「号」が一般に用いられ、1号とは入水温度を25℃上昇させた湯を毎分1ℓ出湯できる能力をいう。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q07_c2",
+                  "groupId": "mansion_R7_Q07",
+                  "statement": "Ｂが管理費を滞納している場合、Ｂが建物に備え付けた動産をＡが占有し使用している場合であっても。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q18_c1",
+                  "groupId": "mansion_R7_Q18",
+                  "statement": "数個の専有部分に通ずる廊下（例えば、マンションの各住戸に通ずる廊下）又は階段室。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q19_c3",
+                  "groupId": "mansion_R7_Q19",
+                  "statement": "施行マンションについて借家権を有していた者は、権利変換期日において、権利変換計画の定めるところに従い。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q03_c2",
+                  "groupId": "mansion_R7_Q03",
+                  "statement": "一部共用部分に関する事項で区分所有者全員の利害に関係しない事項について区分所有者全員の規約に定めがある場合。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q37_c3",
+                  "groupId": "mansion_R7_Q37",
+                  "statement": "露出アスファルト防水は、液状の防水材料を塗り重ね、表面にトップコートを塗る防水工法で。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q13_c1",
+                  "groupId": "mansion_R7_Q13",
+                  "statement": "Ａが、Ｂに対して借入金の全額を弁済した場合、Ｂの抵当権は消滅する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q08_c1",
+                  "groupId": "mansion_R7_Q08",
+                  "statement": "管理組合法人の集会において、区分所有者及び議決権の各4分の3以上の多数の決議があれば。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q02_c3",
+                  "groupId": "mansion_R7_Q02",
+                  "statement": "Ｃは、Ｘに管理者の職務を行うに適しない事情がある場合であっても、管理者としての不正な行為がないときには。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q49_c2",
+                  "groupId": "mansion_R7_Q49",
+                  "statement": "国土交通大臣は、マンション管理士の登録が効力を失った場合には、その登録を消除しなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q49_c4",
+                  "groupId": "mansion_R7_Q49",
+                  "statement": "マンション管理士でない者が、マンション管理士又はこれに紛らわしい名称を使用した場合には、30万円以下の罰金に処される。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q26_c1",
+                  "groupId": "mansion_R7_Q26",
+                  "statement": "漏水を発見したＡは、Ａ所有の住戸の使用に支障が生じ、緊急を要するときは。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q30_c1",
+                  "groupId": "mansion_R7_Q30",
+                  "statement": "Ａが管理組合に対し、Ｂに賃貸した住戸を送付先として届け出ている場合は。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q04_c3",
+                  "groupId": "mansion_R7_Q04",
+                  "statement": "専有部分が2人の共有に属する場合、議決権を行使する者が定められていなかったときは。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q10_c1",
+                  "groupId": "mansion_R7_Q10",
+                  "statement": "Ａ棟及びＢ棟の各棟の集会の決議がなくても、団地管理組合の集会において、団地内の建物の一括建替えの決議をすることができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q39_c2",
+                  "groupId": "mansion_R7_Q39",
+                  "statement": "エフロレッセンスとは、コンクリート表面に出る黒色の汚れを指し、コンクリート内部のアルカリ成分が水分とともに表面に移動し。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q16_c4",
+                  "groupId": "mansion_R7_Q16",
+                  "statement": "Ａが破産手続開始の決定を受けたときは、Ｂは、仕事が完成するまでの間であれば請負契約を解除することができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q27_c2",
+                  "groupId": "mansion_R7_Q27",
+                  "statement": "監事は、理事が不正の行為をし、又は当該行為をするおそれがあり、遅滞なくその旨を報告する必要があると認めるときは。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q14_c2",
+                  "groupId": "mansion_R7_Q14",
+                  "statement": "Ａは、本件契約に基づく将来の賃料債権を譲渡することはできない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q31_c1",
+                  "groupId": "mansion_R7_Q31",
+                  "statement": "提出された委任状には他の組合員の氏名が代理人として記載されていたが、当日その代理人が欠席したので。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q40_c3",
+                  "groupId": "mansion_R7_Q40",
+                  "statement": "避難階とは、地上又は地上に準ずる避難上安全な場所に直接通ずる出入口のある階をいい。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q45_c1",
+                  "groupId": "mansion_R7_Q45",
+                  "statement": "専有部分に設置するさや管ヘッダー方式による給湯用配管には、耐食性、耐熱性。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q27_c3",
+                  "groupId": "mansion_R7_Q27",
+                  "statement": "共用部分の軽微な変更や狭義の管理行為について、災害等により総会の開催が困難な場合でなくても。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q39_c4",
+                  "groupId": "mansion_R7_Q39",
+                  "statement": "錆汚れとは、コンクリート表面が金属の錆により汚れる現象であるが。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q07_c1",
+                  "groupId": "mansion_R7_Q07",
+                  "statement": "ＡＢ間の賃貸借契約でペット飼育可と合意されていた場合、Ａは、甲マンションが規約でペット飼育を禁止している場合であっても。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q01_c1",
+                  "groupId": "mansion_R7_Q01",
+                  "statement": "専有部分に属する建物の附属物のみを当該専有部分から独立した構造にしないまま規約共用部分とすることはできない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q38_c4",
+                  "groupId": "mansion_R7_Q38",
+                  "statement": "長期修繕計画における大規模修繕工事は、建物の初期の性能を回復することに努め。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q31_c4",
+                  "groupId": "mansion_R7_Q31",
+                  "statement": "所定の委任状のみを配付している管理組合で、区分所有者が、ある議案については自ら作成した議決権行使書で賛成し。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q11_c4",
+                  "groupId": "mansion_R7_Q11",
+                  "statement": "区分所有者集会において建物取壊し決議に賛成した区分所有者については。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q23_c2",
+                  "groupId": "mansion_R7_Q23",
+                  "statement": "消火、通報及び避難の訓練その他防火管理上必要な訓練の定期的な実施に関すること。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q37_c1",
+                  "groupId": "mansion_R7_Q37",
+                  "statement": "建築物の屋根のうち、1/100程度の勾配による平らな屋根を陸屋根と呼び、大きな勾配がある屋根を勾配屋根と呼ぶ。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q20_c2",
+                  "groupId": "mansion_R7_Q20",
+                  "statement": "都市再開発の方針は、市街化区域内において、計画的な再開発が必要な市街地について定める。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q02_c2",
+                  "groupId": "mansion_R7_Q02",
+                  "statement": "Ｂは、甲マンションの集会で、Ｘを管理者から解任する旨の議案が否決されている場合には。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q20_c4",
+                  "groupId": "mansion_R7_Q20",
+                  "statement": "市街化区域及び区域区分が定められていない都市計画区域については、少なくとも道路、公園及び上水道を定めるものとされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q46_c3",
+                  "groupId": "mansion_R7_Q46",
+                  "statement": "三つ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q30_c3",
+                  "groupId": "mansion_R7_Q30",
+                  "statement": "理事会が特定の課題を調査又は検討させるために専門委員会を設置する場合、Ｂは。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q36_c3",
+                  "groupId": "mansion_R7_Q36",
+                  "statement": "コンクリートは圧縮力に強いが、引張力には弱く、圧縮力の1/10程度しか期待できない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q01_c3",
+                  "groupId": "mansion_R7_Q01",
+                  "statement": "規約共用部分については、共用部分である旨の表示に関する登記をしなければ、これをもって第三者に対抗することはできない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q45_c4",
+                  "groupId": "mansion_R7_Q45",
+                  "statement": "敷地内に埋設するガス配管には、耐食性、耐震性に優れたポリエチレン管やポリエチレン被覆鋼管を用い。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q28_c4",
+                  "groupId": "mansion_R7_Q28",
+                  "statement": "管理費等の滞納者からの支払額が納入すべき管理費等の全額に満たなかったので。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q24_c2",
+                  "groupId": "mansion_R7_Q24",
+                  "statement": "共用玄関の存する階のエレベーターホールの照明設備は。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q27_c4",
+                  "groupId": "mansion_R7_Q27",
+                  "statement": "区分所有者が共用部分や他の専有部分に影響を与えるおそれがある専有部分の修繕を実施する際は。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q04_c1",
+                  "groupId": "mansion_R7_Q04",
+                  "statement": "集会の招集の通知を送るに当たっては、議案の要領を通知しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q43_c2",
+                  "groupId": "mansion_R7_Q43",
+                  "statement": "イとウ",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R7_Q48_c2",
+                  "groupId": "mansion_R7_Q48",
+                  "statement": "長期修繕計画が「長期修繕計画標準様式」に準拠し作成され。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1377 @@
+{
+  "apps": {
+    "gyosei_shoshi": {
+      "qualificationName": "行政書士",
+      "config": {
+        "app_name": "行政書士 過去問",
+        "ios_premium_id": "unlock_1",
+        "android_premium_id": "unlock_1",
+        "ios_ad_banner": "ca-app-pub-3331079517737737/XXXXXXXXXX",
+        "ios_ad_inter": "ca-app-pub-3331079517737737/XXXXXXXXXX"
+      },
+      "years": [
+        {
+          "examYear": "令和6年度",
+          "sourceType": "official_exam",
+          "categories": [
+            {
+              "categoryName": "行政書士",
+              "questions": [
+                {
+                  "id": "gyosei_R6_Q55_c4",
+                  "groupId": "gyosei_R6_Q55",
+                  "statement": "米国では、児童オンラインプライバシー保護など分野ごとに様々な個人情報保護関連の連邦法が存在する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q36_c3",
+                  "groupId": "gyosei_R6_Q36",
+                  "statement": "出資が損失によって減少したときは、その損失をてん補した後でなければ、匿名組合員は、利益の配当を請求することができない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q02_c4",
+                  "groupId": "gyosei_R6_Q02",
+                  "statement": "民事訴訟手続において、裁判所は、判決をするに当たり、口頭弁論の全趣旨および証拠調べの結果をしん酌して。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q29_c4",
+                  "groupId": "gyosei_R6_Q29",
+                  "statement": "Ｂが相続を放棄したため、甲はＣが単独で相続することとなったが、Ｃが相続登記手続をしないうちに。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q51_c2",
+                  "groupId": "gyosei_R6_Q51",
+                  "statement": "出生時に割り当てられた性別に対し苦痛を感じている人が受けるホルモン療法や性別適合手術等の医療技術のことを、フェムテックという。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q33_c1",
+                  "groupId": "gyosei_R6_Q33",
+                  "statement": "組合の業務の決定は、組合契約の定めるところにより、一人または数人の組合員に委任することができるが、第三者に委任することはできない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q32_c5",
+                  "groupId": "gyosei_R6_Q32",
+                  "statement": "Ａが法人で、Ｂがその理事である場合、Ａの定款に甲の売却に関しては理事会の承認が必要である旨の定めがあり、Ｂが、理事会の承認を得ないままにＡを売主。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q19_c5",
+                  "groupId": "gyosei_R6_Q19",
+                  "statement": "行訴法においては、行政事件訴訟に関し、同法に定めがない事項については、「民事訴訟の例による」との規定がなされているが、当該規定には。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q07_c4",
+                  "groupId": "gyosei_R6_Q07",
+                  "statement": "参議院の緊急集会は、衆議院の解散中に開催されるものであるが、その際にも、議員に不逮捕特権や免責特権の保障が及ぶ。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q49_c3",
+                  "groupId": "gyosei_R6_Q49",
+                  "statement": "1973年には固定相場制が廃止され、変動相場制に移行したため、その後の為替レートは、IMF（国際通貨基金）理事会で決定されている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q55_c1",
+                  "groupId": "gyosei_R6_Q55",
+                  "statement": "EUのデジタルサービス法（DSA）は、SNSなどのプラットフォーム事業者に対して、事業者の規模などに応じた利用者保護などのための義務を課している。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q10_c2",
+                  "groupId": "gyosei_R6_Q10",
+                  "statement": "特定の事業者の廃棄物処理施設設置計画を知った上で定められた町の水道水源保護条例に基づき、当該事業者に対して規制対象事業場を認定する処分を行うに際しては。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q26_c1",
+                  "groupId": "gyosei_R6_Q26",
+                  "statement": "公文書管理法に定める「行政文書」とは、同法の定める例外を除き、行政機関の職員が職務上作成しまたは取得した文書で。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q35_c4",
+                  "groupId": "gyosei_R6_Q35",
+                  "statement": "共同相続人は、原則としていつでも協議によって遺産の全部または一部の分割をすることができ、協議が調わないときは。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q36_c1",
+                  "groupId": "gyosei_R6_Q36",
+                  "statement": "匿名組合員の出資は、営業者の財産に属する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q49_c5",
+                  "groupId": "gyosei_R6_Q49",
+                  "statement": "2014年には、「戦後レジーム（ワシントン・コンセンサス）を取り戻す」ことを目指した通称「アベノミクス」により、1ドル＝360円になった。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q06_c5",
+                  "groupId": "gyosei_R6_Q06",
+                  "statement": "参議院の比例代表選出議員について、政党が優先的に当選者となるべき候補者を定めることができる特定枠制度は、選挙人の総意によって当選人が決定される点で。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q54_c1",
+                  "groupId": "gyosei_R6_Q54",
+                  "statement": "生成AIが、利用者からの質問を受けて、誤った情報をあたかも真実であるかのように回答する現象を、アノテーションという。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q49_c4",
+                  "groupId": "gyosei_R6_Q49",
+                  "statement": "1985 年のいわゆるレイキャビック合意により、合意直前の 1 ドル＝ 240 円から、数年後には1ドル＝120円へと、円安ドル高が起きた。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q38_c3",
+                  "groupId": "gyosei_R6_Q38",
+                  "statement": "監査等委員会が選定する監査等委員は、株主総会において、監査等委員である取締役以外の取締役の報酬等について監査等委員会の意見を述べることができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q23_c4",
+                  "groupId": "gyosei_R6_Q23",
+                  "statement": "住民訴訟において原告住民がすることができる請求は、地方自治法が列挙するものに限定される。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q48_c4",
+                  "groupId": "gyosei_R6_Q48",
+                  "statement": "1993年に、パレスチナ解放機構（PLO）とイスラエルとの間で暫定自治協定が結ばれ、（ヨルダン川）西岸地区・ガザ地区でパレスチナの先行自治が始まった。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q52_c1",
+                  "groupId": "gyosei_R6_Q52",
+                  "statement": "行政書士は、その事務所の見やすい場所に、その業務に関し受ける報酬の額を掲示しなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q29_c1",
+                  "groupId": "gyosei_R6_Q29",
+                  "statement": "遺産分割が終了していないにもかかわらず、甲につきＢが虚偽の登記申請に基づいて単独所有名義で相続登記手続を行った上で。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q26_c5",
+                  "groupId": "gyosei_R6_Q26",
+                  "statement": "行政機関の長は、行政文書ファイル管理簿の記載状況その他の行政文書の管理の状況について、毎年度、内閣総理大臣に報告しなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q30_c5",
+                  "groupId": "gyosei_R6_Q30",
+                  "statement": "ＣがＡの承諾を得て甲をＦに転貸借した場合、Ｂは、特段の事情がない限り、ＣがＦに対して有する転貸賃料債権につき、物上代位権を行使することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q31_c3",
+                  "groupId": "gyosei_R6_Q31",
+                  "statement": "ＢのＡに対する履行の請求その他の事由による時効の完成猶予及び更新は、Ｃに対しても、その効力を生ずる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q03_c1",
+                  "groupId": "gyosei_R6_Q03",
+                  "statement": "氏名は、社会的にみれば、個人を他人から識別し特定する機能を有するものであるが、同時に、その個人からみれば、人が個人として尊重される基礎であり。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q06_c2",
+                  "groupId": "gyosei_R6_Q06",
+                  "statement": "小選挙区制は、死票を多く生む可能性があることは否定し難いが、死票はいかなる制度でも生ずるものであり。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q54_c5",
+                  "groupId": "gyosei_R6_Q54",
+                  "statement": "SNSなどのアルゴリズムにより、自分の興味のある情報だけに囲まれてしまう状況を、フィルターバブルという。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q33_c3",
+                  "groupId": "gyosei_R6_Q33",
+                  "statement": "各組合員の出資その他の組合財産は、総組合員の共有に属し、各組合員は、いつでも組合財産の分割を請求することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q10_c3",
+                  "groupId": "gyosei_R6_Q10",
+                  "statement": "法の一般原則である信義則の法理は、行政法関係においても一般に適用されるものであるとはいえ、租税法律主義の原則が貫かれるべき租税法律関係においては。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q29_c3",
+                  "groupId": "gyosei_R6_Q29",
+                  "statement": "Ａが甲をＣに遺贈していたが、Ｃが所有権移転登記手続をしないうちに、Ｂが甲に関する自己の法定相続分に基づく持分権につき相続登記手続を行った上で。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q04_c5",
+                  "groupId": "gyosei_R6_Q04",
+                  "statement": "過去の逮捕歴がプライバシーに含まれるとしても、児童買春のように、児童への性的搾取・虐待として強い社会的非難の対象とされ、罰則で禁止されている行為は。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q35_c3",
+                  "groupId": "gyosei_R6_Q35",
+                  "statement": "共同相続人の1人が、相続開始後遺産分割の前に、被相続人が自宅に保管していた現金を自己のために費消した場合であっても、遺産分割の対象となる財産は。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q49_c2",
+                  "groupId": "gyosei_R6_Q49",
+                  "statement": "1949年に1ドル＝360円の単一為替レートが設定されたが、ニクソンショックを受けて、1971年には1ドル＝308円に変更された。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q19_c1",
+                  "groupId": "gyosei_R6_Q19",
+                  "statement": "機関訴訟は、国または公共団体の機関相互間における権限の存否またはその行使に関する紛争についての訴訟であり、そのような紛争の一方の当事者たる機関は。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q29_c5",
+                  "groupId": "gyosei_R6_Q29",
+                  "statement": "Ａが「甲をＣに相続させる」旨の特定財産承継遺言を行っていたが、Ｃが相続登記手続をしないうちに。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q38_c2",
+                  "groupId": "gyosei_R6_Q38",
+                  "statement": "監査等委員である取締役は、株主総会において、監査等委員である取締役の報酬等について意見を述べることができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q05_c3",
+                  "groupId": "gyosei_R6_Q05",
+                  "statement": "公教育に関する国民全体の教育意思は、法律を通じて具体化されるべきものであるから、公教育の内容・方法は専ら法律により定められ。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q54_c3",
+                  "groupId": "gyosei_R6_Q54",
+                  "statement": "SNSなどを運営する事業者が、違法コンテンツや利用規約違反コンテンツを削除することなどを、コンテンツモデレーションという。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q17_c2",
+                  "groupId": "gyosei_R6_Q17",
+                  "statement": "保安林指定解除処分の取消訴訟における訴えの利益は、原告適格の基礎とされた個別具体的な利益侵害状況が代替施設の設置によって解消するに至った場合には、消滅する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q05_c1",
+                  "groupId": "gyosei_R6_Q05",
+                  "statement": "義務教育は無償とするとの憲法の規定は、授業料不徴収を意味しており、それ以外に、教科書。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q19_c2",
+                  "groupId": "gyosei_R6_Q19",
+                  "statement": "民衆訴訟とは、特に法律が定める場合に国または公共団体の機関の法規に適合しない行為の是正を求める訴訟で。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q57_c3",
+                  "groupId": "gyosei_R6_Q57",
+                  "statement": "個人情報取扱事業者は、個人データの第三者提供をした場合には、原則として、当該個人データを提供した年月日。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q57_c5",
+                  "groupId": "gyosei_R6_Q57",
+                  "statement": "国の行政機関や地方公共団体の機関にも、個人情報保護法の規定は適用される。（注） ＊ 個人情報の保護に関する法律",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q08_c5",
+                  "groupId": "gyosei_R6_Q08",
+                  "statement": "瑕疵が重大であるとされた処分は、当該瑕疵の存在が明白なものであるとまでは認められなくても、無効とされる場合がある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q03_c2",
+                  "groupId": "gyosei_R6_Q03",
+                  "statement": "氏は、婚姻及び家族に関する法制度の一部として、法律がその具体的な内容を規律しているものであるから、氏に関する人格権の内容も。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q03_c4",
+                  "groupId": "gyosei_R6_Q03",
+                  "statement": "現行の法制度の下における氏の性質等に鑑みると、婚姻の際に「氏の変更を強制されない自由」が憲法上の権利として保障される人格権の一内容であるとはいえない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q28_c1",
+                  "groupId": "gyosei_R6_Q28",
+                  "statement": "贈与契約が無効であるにもかかわらず、既に贈与者の履行が完了している場合、受贈者は受け取った目的物を贈与者に返還しなければならず。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q33_c2",
+                  "groupId": "gyosei_R6_Q33",
+                  "statement": "組合の業務の執行は、組合契約の定めるところにより、一人または数人の組合員に委任することができるが、第三者に委任することはできない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q39_c5",
+                  "groupId": "gyosei_R6_Q39",
+                  "statement": "株式交換契約新株予約権が付された、株式交換完全子会社の新株予約権付社債の社債権者は、当該株式交換完全子会社に対し、株式交換について異議を述べることはできない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q22_c1",
+                  "groupId": "gyosei_R6_Q22",
+                  "statement": "普通地方公共団体が処理する事務には、地域における事務と、その他の事務で法律またはこれに基づく政令により処理することとされるものとがある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q07_c2",
+                  "groupId": "gyosei_R6_Q07",
+                  "statement": "両議院の議員は、国会の会期中は、法律の定める場合を除いては逮捕されることがなく、また所属する議院の同意がなければ訴追されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q06_c3",
+                  "groupId": "gyosei_R6_Q06",
+                  "statement": "同時に行われる二つの選挙に同一の候補者が重複して立候補することを認めるか否かは、国会が裁量により決定することができる事項であり。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q08_c4",
+                  "groupId": "gyosei_R6_Q08",
+                  "statement": "処分Ａの違法がこれに後続する処分Ｂに承継されることが認められる場合であっても、処分Ａの取消訴訟の出訴期間が経過している場合には。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q27_c1",
+                  "groupId": "gyosei_R6_Q27",
+                  "statement": "不在者の生死が7年間明らかでない場合において、利害関係人の請求により家庭裁判所が失踪の宣告をしたときは、失踪の宣告を受けた者は。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q15_c2",
+                  "groupId": "gyosei_R6_Q15",
+                  "statement": "行審法が審査請求の対象とする「行政庁の不作為」には、法令に違反する事実がある場合において、その是正のためにされるべき処分がされていない場合も含まれる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q38_c5",
+                  "groupId": "gyosei_R6_Q38",
+                  "statement": "監査等委員である取締役を除く取締役の個人別の報酬等の内容が定款又は株主総会の決議により定められている場合を除き。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q15_c4",
+                  "groupId": "gyosei_R6_Q15",
+                  "statement": "地方公共団体またはその機関に対する処分で、当該団体または機関がその固有の資格において処分の相手方となるものについては、行審法の規定は適用されない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q13_c1",
+                  "groupId": "gyosei_R6_Q13",
+                  "statement": "審査基準を公にすることによって行政上特別の支障が生じる場合、行政庁が当該審査基準を公にしなかったとしても違法とはならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q08_c1",
+                  "groupId": "gyosei_R6_Q08",
+                  "statement": "処分に瑕疵があることを理由とする処分の取消しは、行政事件訴訟法上の取消訴訟における判決のほか。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q22_c2",
+                  "groupId": "gyosei_R6_Q22",
+                  "statement": "都道府県の法定受託事務とは、国においてその適正な処理を特に確保する必要があるものとして法律またはこれに基づく政令に特に定めるものであり。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q22_c3",
+                  "groupId": "gyosei_R6_Q22",
+                  "statement": "市町村の法定受託事務とは、国または都道府県においてその適正な処理を特に確保する必要があるものとして法律またはこれに基づく政令に特に定めるものであるから。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q24_c5",
+                  "groupId": "gyosei_R6_Q24",
+                  "statement": "普通地方公共団体は条例で罰則を設けることができるが、その内容は禁錮、罰金、科料などの行政刑罰に限られ、行政上の秩序罰である過料については。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q54_c4",
+                  "groupId": "gyosei_R6_Q54",
+                  "statement": "SNSなどで流通する情報について、第三者がその真偽を検証して結果を公表するなどの活動を、ファクトチェックという。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q06_c4",
+                  "groupId": "gyosei_R6_Q06",
+                  "statement": "政党を媒体として国民の政治意思を国政に反映させる名簿式比例代表制を採用することは国会の裁量に属し。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q03_c3",
+                  "groupId": "gyosei_R6_Q03",
+                  "statement": "家族は社会の自然かつ基礎的な集団単位であるから、氏をその個人の属する集団を想起させるものとして一つに定めることにも合理性があり。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q36_c4",
+                  "groupId": "gyosei_R6_Q36",
+                  "statement": "匿名組合員は、営業年度の終了時において、営業者の営業時間内に、営業者の業務及び財産の状況を検査することができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q39_c1",
+                  "groupId": "gyosei_R6_Q39",
+                  "statement": "株式交換完全親会社は、株式会社でなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q17_c4",
+                  "groupId": "gyosei_R6_Q17",
+                  "statement": "運転免許停止処分の取消訴訟における訴えの利益は、免許停止期間が経過した場合であっても、取消判決により原告の名誉・感情・信用等の回復可能性がある場合には。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q26_c4",
+                  "groupId": "gyosei_R6_Q26",
+                  "statement": "行政機関の長は、行政文書の管理が公文書管理法の規定に基づき適正に行われることを確保するため、行政文書の管理に関する定めを設けなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q36_c5",
+                  "groupId": "gyosei_R6_Q36",
+                  "statement": "匿名組合員が破産手続開始の決定を受けた場合、匿名組合契約は終了する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q35_c2",
+                  "groupId": "gyosei_R6_Q35",
+                  "statement": "被相続人が、相続財産中の特定の銀行預金を共同相続人中の特定の1人に相続させる旨の遺言をしていた場合。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q47_c5",
+                  "groupId": "gyosei_R6_Q47",
+                  "statement": "性差に起因して起こる女性に対する差別や不平等に反対し、それらの権利を男性と同等にして女性の能力や役割の発展を目指す主張や運動は、ポピュリズムと呼ばれる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q04_c1",
+                  "groupId": "gyosei_R6_Q04",
+                  "statement": "個人のプライバシーに属する事実をみだりに公表されない利益は、法的保護の対象となるというべきであり、過去の逮捕歴もこれに含まれる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q40_c4",
+                  "groupId": "gyosei_R6_Q40",
+                  "statement": "6か月前から引き続き株式を有する株主は、公開会社に対し、役員等の責任を追及する訴えの提起を請求することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q10_c4",
+                  "groupId": "gyosei_R6_Q10",
+                  "statement": "地方公共団体が将来にわたって継続すべき施策を決定した場合でも、当該施策が社会情勢の変動等に伴って変更されることがあることは当然であるが。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q39_c2",
+                  "groupId": "gyosei_R6_Q39",
+                  "statement": "株式交換完全親会社は、株式交換完全子会社の発行済株式の一部のみを取得することとなる株式交換を行うことができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q47_c3",
+                  "groupId": "gyosei_R6_Q47",
+                  "statement": "政治資金規正法は、政治資金の収支の公開や寄附の規制などを通じ政治活動の公明と公正を確保するためのルールを規定している。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q11_c1",
+                  "groupId": "gyosei_R6_Q11",
+                  "statement": "本件処分は、許認可等の効力を失わせる処分であるが、当該許認可等の基礎となった事実が消滅した旨の届出に対する応答としてなされるものであるから。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q26_c2",
+                  "groupId": "gyosei_R6_Q26",
+                  "statement": "公文書管理法は、行政機関の職員に対し、処理に係る事案が軽微なものである場合を除き文書を作成しなければならないという文書作成義務を定め。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q23_c1",
+                  "groupId": "gyosei_R6_Q23",
+                  "statement": "住民監査請求は、普通地方公共団体の住民が当該普通地方公共団体の監査委員に対して行う。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q23_c5",
+                  "groupId": "gyosei_R6_Q23",
+                  "statement": "損害賠償の請求をすることを普通地方公共団体の執行機関に対して求める住民訴訟において、原告住民の請求を認容する判決が確定した場合は。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q23_c2",
+                  "groupId": "gyosei_R6_Q23",
+                  "statement": "住民訴訟は、あらかじめ、地方自治法に基づく住民監査請求をしていなければ、適法に提起することができない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q22_c5",
+                  "groupId": "gyosei_R6_Q22",
+                  "statement": "地方自治法は、かつての同法が定めていた機関委任事務制度のような仕組みを定めていないため、現行法の下で普通地方公共団体が処理する事務は、その全てが自治事務である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q53_c2",
+                  "groupId": "gyosei_R6_Q53",
+                  "statement": "緊急時に連絡可能な者の連絡先",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q31_c4",
+                  "groupId": "gyosei_R6_Q31",
+                  "statement": "Ｃの保証債務は、Ａの債務に関する利息、違約金、損害賠償その他その債務に従たるすべてのものを包含する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q48_c3",
+                  "groupId": "gyosei_R6_Q48",
+                  "statement": "1987年に、イスラエルの占領地で始まり、大規模な民衆蜂起に発展したパレスチナ人による抵抗運動を、第一次インティファーダ（民衆蜂起）という。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q11_c2",
+                  "groupId": "gyosei_R6_Q11",
+                  "statement": "本件処分は、刑事事件に関する法令に基づいて検察官、検察事務官または司法警察職員がする処分を契機とするものであるので、行政手続法の規定は適用されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q32_c4",
+                  "groupId": "gyosei_R6_Q32",
+                  "statement": "Ｂが、Ｂ自身をＡの代理人と偽って、Ａを売主、Ｃを買主として本件契約を締結した場合、Ｂに本件契約の代理権がないことを知らなかったが。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q07_c3",
+                  "groupId": "gyosei_R6_Q07",
+                  "statement": "両議院の議員には、議院で行った演説、討論、表決について免責特権が認められているが、議場外の行為については、議員の職務として行ったものであっても。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q53_c5",
+                  "groupId": "gyosei_R6_Q53",
+                  "statement": "世帯主についてはその旨、世帯主でない者については世帯主の氏名及び世帯主との続柄",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q14_c4",
+                  "groupId": "gyosei_R6_Q14",
+                  "statement": "審査請求人本人が死亡した場合、当該審査請求人の地位は消滅することから、当該審査請求の目的である処分に係る権利が承継されるか否かにかかわらず。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q13_c4",
+                  "groupId": "gyosei_R6_Q13",
+                  "statement": "審査基準を公にする方法としては、法令により申請の提出先とされている機関の事務所において備え付けることのみが認められており、その他の方法は許容されていない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q55_c2",
+                  "groupId": "gyosei_R6_Q55",
+                  "statement": "EUのデジタル市場法（DMA）は、SNSなどのプラットフォーム事業者に対して、著作権侵害コンテンツへの対策を義務付けている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q56_c4",
+                  "groupId": "gyosei_R6_Q56",
+                  "statement": "デジタル庁は、官民データ活用推進基本計画の作成及び推進に関する事務を行っている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q38_c1",
+                  "groupId": "gyosei_R6_Q38",
+                  "statement": "取締役の報酬等に関する事項は、監査等委員である取締役とそれ以外の取締役とを区別して定めなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q15_c1",
+                  "groupId": "gyosei_R6_Q15",
+                  "statement": "納付すべき金銭の額を確定し、一定の額の金銭の納付を命じ、または金銭の給付決定の取消しその他の金銭の給付を制限する不利益処分については。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q55_c3",
+                  "groupId": "gyosei_R6_Q55",
+                  "statement": "EUの一般データ保護規則（GDPR）では、個人データによるプロファイリングに異議を唱える権利や、データポータビリティの権利が個人に付与されている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q24_c4",
+                  "groupId": "gyosei_R6_Q24",
+                  "statement": "普通地方公共団体の委員会は、個別の法律の定めるところにより、法令等に違反しない限りにおいて、その権限に属する事務に関し、規則を定めることができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q04_c2",
+                  "groupId": "gyosei_R6_Q04",
+                  "statement": "検索結果として提供される情報は、プログラムによって自動的に収集・整理・提供されるものにすぎず、検索結果の提供は、検索事業者自身による表現行為とはいえない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q23_c3",
+                  "groupId": "gyosei_R6_Q23",
+                  "statement": "住民訴訟で争うことができる事項は、住民監査請求の対象となるものに限定される。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q26_c3",
+                  "groupId": "gyosei_R6_Q26",
+                  "statement": "行政機関の職員が行政文書を作成・取得したときには、当該行政機関の長は、政令で定めるところにより、当該行政文書について分類し。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q02_c3",
+                  "groupId": "gyosei_R6_Q02",
+                  "statement": "非訟事件手続において、裁判所は、利害関係者の申出により非公開が相当と認める場合を除き、その手続を公開しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q19_c3",
+                  "groupId": "gyosei_R6_Q19",
+                  "statement": "機関訴訟で、処分の取消しを求めるものについては、行訴法所定の規定を除き、取消訴訟に関する規定が準用される。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q27_c4",
+                  "groupId": "gyosei_R6_Q27",
+                  "statement": "失踪の宣告によって失踪者の財産を得た者は、失踪の宣告が取り消されたときは、その受けた利益の全部を返還しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q31_c5",
+                  "groupId": "gyosei_R6_Q31",
+                  "statement": "Ｃは、その保証債務についてのみ、違約金又は損害賠償の額を約定することができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q15_c5",
+                  "groupId": "gyosei_R6_Q15",
+                  "statement": "行審法は、国または公共団体の機関の法規に適合しない行為の是正を求める審査請求で、自己の法律上の利益にかかわらない資格でするものについても規定している。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q10_c5",
+                  "groupId": "gyosei_R6_Q10",
+                  "statement": "国の通達に基づいて、地方公共団体が被爆者援護法＊等に基づく健康管理手当の支給を打ち切った後。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q33_c5",
+                  "groupId": "gyosei_R6_Q33",
+                  "statement": "組合契約の定めるところにより一人または数人の組合員に業務の決定および執行を委任した場合、その組合員は、正当な事由があるときに限り。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q51_c3",
+                  "groupId": "gyosei_R6_Q51",
+                  "statement": "レインボーフラッグは、性の多様性を尊重するシンボルとして用いられている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q32_c2",
+                  "groupId": "gyosei_R6_Q32",
+                  "statement": "Ｂが、Ｂ自身を売主、Ｃを買主として本件契約を締結した場合であっても、契約は原則として有効であり、Ｂは、Ａから甲の所有権を取得してＣに移転する義務を負うところ。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q27_c2",
+                  "groupId": "gyosei_R6_Q27",
+                  "statement": "失踪の宣告を受けた者が実際には生存しており、不法行為により身体的被害を受けていたとしても、失踪の宣告が取り消されなければ、損害賠償請求権は発生しない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q29_c2",
+                  "groupId": "gyosei_R6_Q29",
+                  "statement": "遺産分割により甲をＣが単独で相続することとなったが、Ｃが相続登記手続をしないうちに、Ｂが甲に関する自己の法定相続分に基づく持分権につき相続登記手続を行った上で。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q47_c4",
+                  "groupId": "gyosei_R6_Q47",
+                  "statement": "有権者のうち、特定の支持政党を持たない層は、無党派層と呼ばれる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q04_c3",
+                  "groupId": "gyosei_R6_Q04",
+                  "statement": "検索事業者による検索結果の提供は、公衆の情報発信や情報の入手を支援するものとして、インターネット上の情報流通の基盤としての役割を果たしている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q05_c4",
+                  "groupId": "gyosei_R6_Q05",
+                  "statement": "国民の教育を受ける権利を定める憲法規定の背後には、みずから学習することのできない子どもは。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q28_c5",
+                  "groupId": "gyosei_R6_Q28",
+                  "statement": "取り消すことができる契約につき、取消権を有する当事者が、追認をすることができる時以後に、異議をとどめずにその履行を請求した場合、これにより同人は取消権を失う。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q08_c2",
+                  "groupId": "gyosei_R6_Q08",
+                  "statement": "金銭納付義務を課す処分の違法を理由として国家賠償請求をするためには、事前に当該処分が取り消されていなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q54_c2",
+                  "groupId": "gyosei_R6_Q54",
+                  "statement": "情報が大量に流通する環境の中で、人々が費やせるアテンションや消費時間が希少になり、それらが経済的価値を持つようになることを、アテンションエコノミーという。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q56_c2",
+                  "groupId": "gyosei_R6_Q56",
+                  "statement": "デジタル庁に対して、個人情報保護委員会は行政指導を行うことができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q32_c1",
+                  "groupId": "gyosei_R6_Q32",
+                  "statement": "Ｂが、Ｂ自身を売主、Ｃを買主として本件契約を締結した場合であっても、契約は原則として有効であり、Ｂは、Ａから甲の所有権を取得してＣに移転する義務を負うが。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q57_c2",
+                  "groupId": "gyosei_R6_Q57",
+                  "statement": "個人情報取扱事業者は、違法または不当な行為を助長し、または誘発するおそれがある方法により個人情報を利用してはならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q11_c3",
+                  "groupId": "gyosei_R6_Q11",
+                  "statement": "本件処分は、その根拠となる規定が法律に置かれているが、地方公共団体の機関がする処分であることから、行政手続法の規定は適用されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q56_c5",
+                  "groupId": "gyosei_R6_Q56",
+                  "statement": "デジタル庁の所掌事務には、マイナンバーとマイナンバーカードに関する事務は含まれていない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q35_c5",
+                  "groupId": "gyosei_R6_Q35",
+                  "statement": "相続財産中に銀行預金が含まれる場合、当該預金は遺産分割の対象となるから、相続開始後遺産分割の前に。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q14_c5",
+                  "groupId": "gyosei_R6_Q14",
+                  "statement": "法人でない社団または財団であっても、代表者または管理人の定めがあるものは、当該社団または財団の名で審査請求をすることができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q11_c5",
+                  "groupId": "gyosei_R6_Q11",
+                  "statement": "本件処分は、法令上必要とされる資格が失われるに至ったことが判明した場合に必ずすることとされている処分であり。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q40_c5",
+                  "groupId": "gyosei_R6_Q40",
+                  "statement": "株式会社の役員の解任の訴えは、当該株式会社及び当該解任を請求された役員を被告とする。［問題41〜問題43は択一式（多肢選択式）］",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q21_c3",
+                  "groupId": "gyosei_R6_Q21",
+                  "statement": "国または公共団体の公権力の行使に当たる複数の公務員が、その職務を行うについて、共同して故意によって違法に他人に加えた損害につき。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q02_c1",
+                  "groupId": "gyosei_R6_Q02",
+                  "statement": "民事訴訟手続において、裁判長は、口頭弁論の期日または期日外に、訴訟関係を明確にするため、事実上および法律上の事項に関し、当事者に対して問いを発し。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q15_c3",
+                  "groupId": "gyosei_R6_Q15",
+                  "statement": "地方公共団体の機関がする処分でその根拠となる規定が条例または規則に置かれているものについては、行審法の規定は適用されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q52_c5",
+                  "groupId": "gyosei_R6_Q52",
+                  "statement": "地方公務員が懲戒免職の処分を受けた場合、無期限に行政書士となる資格を有しない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q02_c5",
+                  "groupId": "gyosei_R6_Q02",
+                  "statement": "刑事訴訟手続において、検察官は、起訴状には、裁判官に事件につき予断を生ぜしめる虞のある書類その他の物を添付し、またはその内容を引用してはならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q48_c2",
+                  "groupId": "gyosei_R6_Q48",
+                  "statement": "1948年に、イスラエルの建国が宣言されると、これに反発したアラブ諸国との間で第一次中東戦争が勃発した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q09_c2",
+                  "groupId": "gyosei_R6_Q09",
+                  "statement": "法律の規定を実施するために政令を定めるのは内閣の事務であるが、その法律による委任がある場合には、政令に罰則を設けることもできる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q24_c1",
+                  "groupId": "gyosei_R6_Q24",
+                  "statement": "普通地方公共団体の長が規則を定めるのは、法律または条例による個別の委任がある場合に限られる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q31_c1",
+                  "groupId": "gyosei_R6_Q31",
+                  "statement": "ＡがＢに対し保証人を立てる義務を負う場合において、ＢがＣを指名したときは、Ｃが弁済をする資力を有しなくなったときでも、Ｂは。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q47_c2",
+                  "groupId": "gyosei_R6_Q47",
+                  "statement": "マス・メディアなどの情報に対して、主体的に世論を形成するためなどに、それらを批判的に読み解く能力は、メディア・リテラシーと呼ばれる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q39_c3",
+                  "groupId": "gyosei_R6_Q39",
+                  "statement": "株式交換完全親会社は、株式交換完全子会社の株主に対し、当該株式交換完全親会社の株式に代わる金銭等を交付することができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q30_c3",
+                  "groupId": "gyosei_R6_Q30",
+                  "statement": "ＡがＣに対して有する賃料債権をＥに譲渡し、その旨の債権譲渡通知が内容証明郵便によって行われた後。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q47_c1",
+                  "groupId": "gyosei_R6_Q47",
+                  "statement": "政党助成法は、衆議院または参議院に一定数以上の議席を有するか、議席を有して一定の国政選挙で有効投票総数の一定割合以上の得票があった政党に対して。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q09_c1",
+                  "groupId": "gyosei_R6_Q09",
+                  "statement": "行政手続法が定める意見公募手続の対象となるのは、法規命令のみであり、行政規則はその対象とはされていない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q40_c1",
+                  "groupId": "gyosei_R6_Q40",
+                  "statement": "株主総会の決議の内容が法令に違反するときは、当該株主総会決議の日から3か月以内に、訴えをもってのみ当該決議の取消しを請求することができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q55_c5",
+                  "groupId": "gyosei_R6_Q55",
+                  "statement": "米国では、包括的な個人情報保護を定めた州法が存在する州がある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q48_c1",
+                  "groupId": "gyosei_R6_Q48",
+                  "statement": "1947年に、国際連合総会において、パレスチナをアラブ人国家とユダヤ人国家と国際管理地区とに分割する決議が採択された。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q04_c4",
+                  "groupId": "gyosei_R6_Q04",
+                  "statement": "当該事実を公表されない法的利益と、当該情報を検索結果として提供する理由に関する諸事情を比較衡量した結果、前者が優越することが明らかな場合には。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q57_c1",
+                  "groupId": "gyosei_R6_Q57",
+                  "statement": "個人情報取扱事業者は、個人データの漏えい等が発生し、個人の権利利益を害するおそれが大きい場合には、個人情報保護委員会への報告を行わなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R6_Q02_c2",
+                  "groupId": "gyosei_R6_Q02",
+                  "statement": "刑事訴訟手続において、検察官は、犯人の性格、年齢および境遇、犯罪の軽重および情状ならびに犯罪後の状況により訴追を必要としないときは。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

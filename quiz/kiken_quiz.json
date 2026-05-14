@@ -1,0 +1,954 @@
+{
+  "apps": {
+    "kiken_otsu4": {
+      "qualificationName": "危険物取扱者（乙種第4類）",
+      "config": {
+        "app_name": "危険物乙4 過去問",
+        "ios_premium_id": "unlock_1",
+        "android_premium_id": "unlock_1",
+        "ios_ad_banner": "ca-app-pub-3331079517737737/XXXXXXXXXX",
+        "ios_ad_inter": "ca-app-pub-3331079517737737/XXXXXXXXXX"
+      },
+      "years": [
+        {
+          "examYear": "公開問題（過去出題）",
+          "sourceType": "official_exam",
+          "categories": [
+            {
+              "categoryName": "危険物乙4",
+              "questions": [
+                {
+                  "id": "kiken_sample_Q21_c4",
+                  "groupId": "kiken_sample_Q21",
+                  "statement": "静電気現象が起こるのは、摩擦などによって陽子の移動が起こり、一方が陽子を得て正に、他方が陽子を失い負に帯電するためである。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q06_c5",
+                  "groupId": "kiken_sample_Q06",
+                  "statement": "危険物を取り扱うにあたって静電気が発生するおそれのある設備には、静電気を有効に除去する装置を設けなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q32_c5",
+                  "groupId": "kiken_sample_Q32",
+                  "statement": "塗料などの溶剤として使用されている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q33_c5",
+                  "groupId": "kiken_sample_Q33",
+                  "statement": "水、エタノールに溶ける。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q26_c5",
+                  "groupId": "kiken_sample_Q26",
+                  "statement": "第6類の危険物は、不燃性であるが酸化力が強く、多くは腐食性があり、蒸気は有毒である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q32_c1",
+                  "groupId": "kiken_sample_Q32",
+                  "statement": "淡黄色の液体である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q34_c5",
+                  "groupId": "kiken_sample_Q34",
+                  "statement": "常温（20℃）で引火の危険性がある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q22_c1",
+                  "groupId": "kiken_sample_Q22",
+                  "statement": "107 kJ/mol",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q27_c3",
+                  "groupId": "kiken_sample_Q27",
+                  "statement": "発生する蒸気は、なるべく屋外の低所に排出する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q19_c5",
+                  "groupId": "kiken_sample_Q19",
+                  "statement": "二酸化炭素消火剤は、使用によって室内の二酸化炭素濃度が高くなっても人体に悪影響を及ぼすおそれはない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q12_c2",
+                  "groupId": "kiken_sample_Q12",
+                  "statement": "危険物取扱者が乗車しなければならないのは、危険等級Ⅰの危険物を移送する場合のみである。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q09_c4",
+                  "groupId": "kiken_sample_Q09",
+                  "statement": "点検を行った危険物取扱者若しくは危険物施設保安員又は点検に立ち会った危険物取扱者の氏名",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q07_c3",
+                  "groupId": "kiken_sample_Q07",
+                  "statement": "製造所の構造を変更するときは、市町村長等の変更の許可を受けなければ、工事に着手できない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q25_c3",
+                  "groupId": "kiken_sample_Q25",
+                  "statement": "沸点は外圧が高くなると低くなる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q06_c1",
+                  "groupId": "kiken_sample_Q06",
+                  "statement": "危険物を取り扱う機械器具その他の設備は、危険物のもれ、あふれ又は飛散を防止する構造としなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q29_c3",
+                  "groupId": "kiken_sample_Q29",
+                  "statement": "可燃性蒸気を滞留させないため、貯蔵場所の通風や換気をよく行うこと。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q12_c4",
+                  "groupId": "kiken_sample_Q12",
+                  "statement": "移動貯蔵タンクから引火点が40℃未満の危険物を他のタンクに注入するときは、移動タンク貯蔵所の原動機を停止させなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q33_c3",
+                  "groupId": "kiken_sample_Q33",
+                  "statement": "比重は1より大きい。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q31_c5",
+                  "groupId": "kiken_sample_Q31",
+                  "statement": "灯油と間違わないように、淡青色に着色されている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q19_c3",
+                  "groupId": "kiken_sample_Q19",
+                  "statement": "二酸化炭素消火剤は、電気絶縁性に優れていることから電気火災に適している。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q06_c4",
+                  "groupId": "kiken_sample_Q06",
+                  "statement": "危険物を加圧する設備又は危険物の圧力が上昇するおそれのある設備には、圧力計及び規則で定める安全装置を設けなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q21_c5",
+                  "groupId": "kiken_sample_Q21",
+                  "statement": "物体間で電荷のやりとりがあっても、電気量の総和は変わらない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q35_c1",
+                  "groupId": "kiken_sample_Q35",
+                  "statement": "無色無臭の液体である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q07_c1",
+                  "groupId": "kiken_sample_Q07",
+                  "statement": "製造所の保有空地を変更するときは、市町村長等の変更の許可が必要である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q29_c1",
+                  "groupId": "kiken_sample_Q29",
+                  "statement": "引火を防止するため、みだりに火気を近づけないこと。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q09_c1",
+                  "groupId": "kiken_sample_Q09",
+                  "statement": "点検をした製造所等の名称",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q30_c3",
+                  "groupId": "kiken_sample_Q30",
+                  "statement": "軽油の火災にハロゲン化物消火剤を使用した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q06_c2",
+                  "groupId": "kiken_sample_Q06",
+                  "statement": "危険物を加熱し、若しくは冷却する設備又は危険物の取扱により温度の変化が起る設備には、温度測定装置を設けなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q14_c1",
+                  "groupId": "kiken_sample_Q14",
+                  "statement": "第2類の危険物にあっては、「衝撃注意」",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q31_c1",
+                  "groupId": "kiken_sample_Q31",
+                  "statement": "引火点は、－40℃以下である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q12_c5",
+                  "groupId": "kiken_sample_Q12",
+                  "statement": "移送のため乗車している危険物取扱者は、移動タンク貯蔵所の走行中に消防吏員から停止を命じられ。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q30_c5",
+                  "groupId": "kiken_sample_Q30",
+                  "statement": "ガソリンの火災に棒状の水を使用した。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q05_c1",
+                  "groupId": "kiken_sample_Q05",
+                  "statement": "りん酸塩類等の粉末を使用する消火器",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q14_c4",
+                  "groupId": "kiken_sample_Q14",
+                  "statement": "第5類の危険物にあっては、「取扱注意」",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q25_c2",
+                  "groupId": "kiken_sample_Q25",
+                  "statement": "状態の変化には熱エネルギーの出入りが伴う。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q26_c4",
+                  "groupId": "kiken_sample_Q26",
+                  "statement": "第5類の危険物は、燃焼速度が極めて大きく、加熱、衝撃、摩擦などにより発火・爆発のおそれがある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q31_c2",
+                  "groupId": "kiken_sample_Q31",
+                  "statement": "流動により静電気が発生しやすい。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q32_c3",
+                  "groupId": "kiken_sample_Q32",
+                  "statement": "引火点は35℃以下である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q19_c4",
+                  "groupId": "kiken_sample_Q19",
+                  "statement": "不活性ガス消火剤には、二酸化炭素や窒素などがある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q27_c2",
+                  "groupId": "kiken_sample_Q27",
+                  "statement": "かくはんや流動に伴う静電気の発生をできるだけ抑制する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q14_c3",
+                  "groupId": "kiken_sample_Q14",
+                  "statement": "第4類の危険物にあっては、「火気厳禁」",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q11_c2",
+                  "groupId": "kiken_sample_Q11",
+                  "statement": "指定数量の倍数が30を超える危険物を容器に詰め替える一般取扱所",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q34_c2",
+                  "groupId": "kiken_sample_Q34",
+                  "statement": "水やエタノールに任意の割合で溶解する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q02_c1",
+                  "groupId": "kiken_sample_Q02",
+                  "statement": "製造所等における危険物保安監督者及び危険物取扱者の責務を定めた規程をいう。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q11_c4",
+                  "groupId": "kiken_sample_Q11",
+                  "statement": "指定数量の倍数が30を超える引火点が40℃以上の第4類の危険物のみを取り扱う販売取扱所",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q35_c3",
+                  "groupId": "kiken_sample_Q35",
+                  "statement": "引火点は常温（20℃）より低い。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q05_c2",
+                  "groupId": "kiken_sample_Q05",
+                  "statement": "霧状の強化液を放射する消火器",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q02_c2",
+                  "groupId": "kiken_sample_Q02",
+                  "statement": "製造所等の点検について定めた規程をいう。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q29_c5",
+                  "groupId": "kiken_sample_Q29",
+                  "statement": "可燃性蒸気を発生させないため、液面に水を張って貯蔵する危険物もある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q11_c5",
+                  "groupId": "kiken_sample_Q11",
+                  "statement": "指定数量の倍数が30を超える引火点が40℃以上の第4類の危険物のみを貯蔵する屋内タンク貯蔵所",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q14_c2",
+                  "groupId": "kiken_sample_Q14",
+                  "statement": "第3類の危険物にあっては、「火気・衝撃注意」",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q27_c5",
+                  "groupId": "kiken_sample_Q27",
+                  "statement": "引火性のある危険物を取り扱う場合には、人体に帯電した静電気を除去する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q21_c3",
+                  "groupId": "kiken_sample_Q21",
+                  "statement": "物体の電荷を検出する装置には、箔検電器がある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q02_c5",
+                  "groupId": "kiken_sample_Q02",
+                  "statement": "危険物の危険性をまとめた規程をいう。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q27_c4",
+                  "groupId": "kiken_sample_Q27",
+                  "statement": "容器からの液体や蒸気の漏れには十分注意する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q19_c1",
+                  "groupId": "kiken_sample_Q19",
+                  "statement": "ハロゲン化物消火剤は、燃焼反応を抑制して消火する効果がある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q28_c3",
+                  "groupId": "kiken_sample_Q28",
+                  "statement": "取扱作業をする場合は、電気絶縁性のよい靴やナイロンその他の化学繊維などの衣類は着用しない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q26_c1",
+                  "groupId": "kiken_sample_Q26",
+                  "statement": "第1類の危険物の多くは、無色または白色の酸化性固体である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q25_c1",
+                  "groupId": "kiken_sample_Q25",
+                  "statement": "水には気体、液体および固体の3つの状態がある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q30_c1",
+                  "groupId": "kiken_sample_Q30",
+                  "statement": "重油の火災に泡消火剤を使用した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q28_c4",
+                  "groupId": "kiken_sample_Q28",
+                  "statement": "貯蔵および取扱いは、換気を十分に行う。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q11_c1",
+                  "groupId": "kiken_sample_Q11",
+                  "statement": "指定数量の倍数が30の屋外貯蔵所",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q07_c4",
+                  "groupId": "kiken_sample_Q07",
+                  "statement": "設置工事が終了し、市町村長等から完成検査済証を交付された場合は、製造所を使用できる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q19_c2",
+                  "groupId": "kiken_sample_Q19",
+                  "statement": "窒素ガス消火剤は、火災室内の酸素濃度を低下させて消火する効果がある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q11_c3",
+                  "groupId": "kiken_sample_Q11",
+                  "statement": "指定数量の倍数が30を超える移動タンク貯蔵所",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q30_c4",
+                  "groupId": "kiken_sample_Q30",
+                  "statement": "ベンゼンの火災にりん酸塩類等の粉末消火剤を使用した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q09_c5",
+                  "groupId": "kiken_sample_Q09",
+                  "statement": "点検を実施した日を市町村長等へ報告した年月日",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q22_c4",
+                  "groupId": "kiken_sample_Q22",
+                  "statement": "2899 kJ/mol",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q02_c4",
+                  "groupId": "kiken_sample_Q02",
+                  "statement": "製造所等における危険物保安統括管理者の責務を定めた規程をいう。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q21_c1",
+                  "groupId": "kiken_sample_Q21",
+                  "statement": "良導体に帯電体を近づけると、良導体の帯電体に近い側の表面には帯電体と異種の電荷が現れ、遠い側の表面には帯電体と同種の電荷が現れる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q30_c2",
+                  "groupId": "kiken_sample_Q30",
+                  "statement": "トルエンの火災に二酸化炭素消火剤を使用した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q14_c5",
+                  "groupId": "kiken_sample_Q14",
+                  "statement": "第6類の危険物にあっては、「火気注意」",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q33_c4",
+                  "groupId": "kiken_sample_Q33",
+                  "statement": "特有の芳香を有している。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q28_c2",
+                  "groupId": "kiken_sample_Q28",
+                  "statement": "液体から発生する蒸気は、地上をはって離れた低いところにたまることがあるので、周囲の火気に気をつける。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q12_c3",
+                  "groupId": "kiken_sample_Q12",
+                  "statement": "危険物の移送のため乗車している危険物取扱者は免状を携帯していなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q28_c5",
+                  "groupId": "kiken_sample_Q28",
+                  "statement": "貯蔵倉庫内の電気設備は、すべて防爆構造のものを使用する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q27_c1",
+                  "groupId": "kiken_sample_Q27",
+                  "statement": "火花や高熱を発する場所に接近させない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q31_c4",
+                  "groupId": "kiken_sample_Q31",
+                  "statement": "燃焼範囲は、おおむね1～8vol％である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q06_c3",
+                  "groupId": "kiken_sample_Q06",
+                  "statement": "危険物を加熱し、又は乾燥する設備は、高温で、かつ、早期に乾燥するため、すべて直火を用いて加熱する構造としなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q15_c5",
+                  "groupId": "kiken_sample_Q15",
+                  "statement": "緑色基 礎 的 な 物 理 学 及 び 基 礎 的 な 化 学",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q34_c4",
+                  "groupId": "kiken_sample_Q34",
+                  "statement": "熱または光により分解して、メタンと二酸化炭素を発生する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q01_c4",
+                  "groupId": "kiken_sample_Q01",
+                  "statement": "アルキルアルミニウム",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q22_c3",
+                  "groupId": "kiken_sample_Q22",
+                  "statement": "1539 kJ/mol",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q26_c2",
+                  "groupId": "kiken_sample_Q26",
+                  "statement": "第2類の危険物は、燃焼により有毒ガスを発生するものがあり、金属粉は、水または酸の接触により発熱・発火のおそれがある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q25_c5",
+                  "groupId": "kiken_sample_Q25",
+                  "statement": "固体が液体に変わることを融解といい、逆に液体が固体に変わることを凝固という。危険物の性質並びにその火災予防及び消火の方法",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q34_c1",
+                  "groupId": "kiken_sample_Q34",
+                  "statement": "酸化されると、酢酸になる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q33_c1",
+                  "groupId": "kiken_sample_Q33",
+                  "statement": "無色の粘稠性の液体である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q22_c2",
+                  "groupId": "kiken_sample_Q22",
+                  "statement": "215 kJ/mol",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q29_c2",
+                  "groupId": "kiken_sample_Q29",
+                  "statement": "みだりに蒸気を発生させないため、容器は密栓すること。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q07_c2",
+                  "groupId": "kiken_sample_Q07",
+                  "statement": "製造所を設置するときは、工事期間の中間で、完成検査時に目視できない地下埋設配管の完成検査前検査を行った後でなければ、完成検査は実施できない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q29_c4",
+                  "groupId": "kiken_sample_Q29",
+                  "statement": "自然発火を防止するため、必ず液温を引火点以下に保つこと。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q12_c1",
+                  "groupId": "kiken_sample_Q12",
+                  "statement": "移動タンク貯蔵所には完成検査済証を備え付けておかなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q26_c3",
+                  "groupId": "kiken_sample_Q26",
+                  "statement": "第3類の危険物は、自然発火性と禁水性の両方の危険性を有している物質である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q34_c3",
+                  "groupId": "kiken_sample_Q34",
+                  "statement": "強い還元性物質である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q35_c5",
+                  "groupId": "kiken_sample_Q35",
+                  "statement": "アルコール、エーテルに溶ける。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q22_c5",
+                  "groupId": "kiken_sample_Q22",
+                  "statement": "4545 kJ/mol",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q21_c2",
+                  "groupId": "kiken_sample_Q21",
+                  "statement": "帯電体に分布している流れのない電気を静電気という。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q25_c4",
+                  "groupId": "kiken_sample_Q25",
+                  "statement": "固体から直接気体に状態変化することを昇華という。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q07_c5",
+                  "groupId": "kiken_sample_Q07",
+                  "statement": "市町村長等に変更の許可を申請する場合は、変更の内容に関する図面その他規則で定める書類を添付しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q28_c1",
+                  "groupId": "kiken_sample_Q28",
+                  "statement": "静電気の発生を少なくするために、危険物を取り扱う場合の流動、ろ過などは短時間に速度を上げて行う。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q05_c5",
+                  "groupId": "kiken_sample_Q05",
+                  "statement": "ハロゲン化物を放射する消火器",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q35_c2",
+                  "groupId": "kiken_sample_Q35",
+                  "statement": "水と任意の割合で混ざり合う。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kiken_sample_Q02_c3",
+                  "groupId": "kiken_sample_Q02",
+                  "statement": "製造所等の火災を予防するため、危険物の保安に関し必要な事項を定めた規程をいう。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
