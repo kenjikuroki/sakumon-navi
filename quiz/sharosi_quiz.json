@@ -2563,7 +2563,11 @@
             }
           ]
         }
-      ]
+      ],
+      "config": {
+        "ios_premium_id": "unlock_sharosi",
+        "android_premium_id": "unlock_sharosi"
+      }
     }
   }
 }

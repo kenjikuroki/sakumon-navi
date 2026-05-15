@@ -4,8 +4,8 @@
       "qualificationName": "宅地建物取引士（宅建）",
       "config": {
         "app_name": "宅建 過去問",
-        "ios_premium_id": "unlock_1",
-        "android_premium_id": "unlock_1",
+        "ios_premium_id": "unlock_takken",
+        "android_premium_id": "unlock_takken",
         "ios_ad_banner": "ca-app-pub-3331079517737737/XXXXXXXXXX",
         "ios_ad_inter": "ca-app-pub-3331079517737737/XXXXXXXXXX"
       },

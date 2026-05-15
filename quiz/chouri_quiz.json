@@ -6590,7 +6590,11 @@
             }
           ]
         }
-      ]
+      ],
+      "config": {
+        "ios_premium_id": "unlock_chouri",
+        "android_premium_id": "unlock_chouri"
+      }
     }
   }
 }

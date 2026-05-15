@@ -9427,7 +9427,11 @@
             }
           ]
         }
-      ]
+      ],
+      "config": {
+        "ios_premium_id": "unlock_eiyoshi",
+        "android_premium_id": "unlock_eiyoshi"
+      }
     }
   }
 }

@@ -6515,7 +6515,11 @@
             }
           ]
         }
-      ]
+      ],
+      "config": {
+        "ios_premium_id": "unlock_fp2",
+        "android_premium_id": "unlock_fp2"
+      }
     }
   }
 }

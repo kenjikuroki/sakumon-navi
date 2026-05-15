@@ -9822,7 +9822,11 @@
             }
           ]
         }
-      ]
+      ],
+      "config": {
+        "ios_premium_id": "unlock_kango",
+        "android_premium_id": "unlock_kango"
+      }
     }
   }
 }

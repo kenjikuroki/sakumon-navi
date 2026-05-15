@@ -11805,7 +11805,11 @@
             }
           ]
         }
-      ]
+      ],
+      "config": {
+        "ios_premium_id": "unlock_shakai",
+        "android_premium_id": "unlock_shakai"
+      }
     }
   }
 }

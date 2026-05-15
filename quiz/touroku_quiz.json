@@ -16295,7 +16295,11 @@
             }
           ]
         }
-      ]
+      ],
+      "config": {
+        "ios_premium_id": "unlock_touroku",
+        "android_premium_id": "unlock_touroku"
+      }
     }
   }
 }

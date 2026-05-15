@@ -9622,7 +9622,11 @@
             }
           ]
         }
-      ]
+      ],
+      "config": {
+        "ios_premium_id": "unlock_rigaku",
+        "android_premium_id": "unlock_rigaku"
+      }
     }
   }
 }

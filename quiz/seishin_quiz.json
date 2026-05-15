@@ -12065,7 +12065,11 @@
             }
           ]
         }
-      ]
+      ],
+      "config": {
+        "ios_premium_id": "unlock_seishin",
+        "android_premium_id": "unlock_seishin"
+      }
     }
   }
 }

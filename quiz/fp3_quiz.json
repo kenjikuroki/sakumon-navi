@@ -3290,7 +3290,11 @@
             }
           ]
         }
-      ]
+      ],
+      "config": {
+        "ios_premium_id": "unlock_fp3",
+        "android_premium_id": "unlock_fp3"
+      }
     }
   }
 }
