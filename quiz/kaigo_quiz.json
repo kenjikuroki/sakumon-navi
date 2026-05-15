@@ -22,7 +22,7 @@
                   "groupId": "kaigo_no38_Q014",
                   "statement": "介護が必要となった理由の第1位は，骨折・転倒である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "2022年の国民生活基礎調査によると、介護が必要となった主な原因の第1位は認知症（2位は脳血管疾患）。骨折・転倒は上位だが1位ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -31,7 +31,7 @@
                   "groupId": "kaigo_no38_Q024",
                   "statement": "資産・能力を活用した上で保護を行う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "生活保護の補足性の原理では、資産・能力その他あらゆるものを活用した上で保護が行われる（生活保護法4条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -40,7 +40,7 @@
                   "groupId": "kaigo_no38_Q059",
                   "statement": "悲嘆は特異な反応のため注意する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "悲嘆（グリーフ）は死別などの喪失体験に対する自然な反応であり、特異な反応ではなく正常なプロセスとして理解する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -49,7 +49,7 @@
                   "groupId": "kaigo_no38_Q088",
                   "statement": "調理の手順を順序だてて行うことができない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "調理の手順を順序立てて実行できない（実行機能障害）は前頭葉機能の低下による症状で、認知症の中核症状の一つ。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -58,7 +58,7 @@
                   "groupId": "kaigo_no38_Q040",
                   "statement": "介護福祉職は，利用者が握っている上肢を振って歩く。ト",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "歩行介助では利用者の歩行リズムを促すため、介護職が腕を振るのではなく利用者の体幹・骨盤のリズムに合わせる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -67,7 +67,7 @@
                   "groupId": "kaigo_no38_Q062",
                   "statement": "セロトニン（serotonin）は，神経伝達物質の1つである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "セロトニンは神経伝達物質の一つで、気分・感情の調節、睡眠・食欲にも関与する。うつ病との関連でも注目されている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -76,7 +76,7 @@
                   "groupId": "kaigo_no38_Q036",
                   "statement": "靴音を小さくするために，硬い床材にする。22",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症利用者への環境整備では、生活音（靴音等）を減らすため硬い床材より弾力性のある素材や絨毯が適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -85,7 +85,7 @@
                   "groupId": "kaigo_no38_Q009",
                   "statement": "作業療法士が，自宅の玄関の段差を確認する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "在宅復帰に向けた多職種連携では、作業療法士による家屋調査（段差・動線の確認）が退院前から行われる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -94,7 +94,7 @@
                   "groupId": "kaigo_no38_Q036",
                   "statement": "風の通り道をつくって，換気を行う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "認知症利用者への環境整備では、生活音（靴音等）を減らすため硬い床材より弾力性のある素材や絨毯が適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -103,7 +103,7 @@
                   "groupId": "kaigo_no38_Q018",
                   "statement": "基幹相談支援センターには，介護福祉士の配置が義務となっている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "基幹相談支援センターには社会福祉士・精神保健福祉士・主任相談支援専門員の配置が求められるが、介護福祉士の配置義務規定はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -112,7 +112,7 @@
                   "groupId": "kaigo_no38_Q074",
                   "statement": "同じ動作や行動を繰り返す。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "同じ動作・行動の繰り返し（常同行動）は、前頭側頭型認知症（ピック病等）や自閉スペクトラム症に特徴的に見られる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -121,7 +121,7 @@
                   "groupId": "kaigo_no38_Q034",
                   "statement": "利用者Ａは，朝食のパンを残した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "食事の残量は食欲低下・嚥下機能低下・口腔状態悪化などの兆候を示すことがあり、原因のアセスメントが必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -130,7 +130,7 @@
                   "groupId": "kaigo_no38_Q092",
                   "statement": "障害が発達期にあらわれる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "知的障害は発達期（18歳未満）に知的機能の明らかな制限が現れる障害。成人後の発症は知的障害には含まない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -139,7 +139,7 @@
                   "groupId": "kaigo_no38_Q110",
                   "statement": "自宅での生活を続けること",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "介護過程は利用者の「自宅での生活を続けたい」等の希望・ニーズを把握し、それを実現するための計画・実施・評価のプロセス。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -148,7 +148,7 @@
                   "groupId": "kaigo_no38_Q037",
                   "statement": "廊下の床には，歩幅に合わせて目印をつける。 パ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "認知症の歩行障害への対応では、廊下の床に歩幅に合わせた目印（視覚的手がかり）をつけることが有効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -157,7 +157,7 @@
                   "groupId": "kaigo_no38_Q006",
                   "statement": "一人で外出できるように，自発的活動支援を勧める。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症等で外出リスクのある利用者への支援は、本人の意思を尊重しつつ安全確保の両立が必要。自発的活動支援は適切だが個別アセスメントが前提。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -166,7 +166,7 @@
                   "groupId": "kaigo_no38_Q112",
                   "statement": "Ａさんが自信をなくした理由",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "利用者が自信をなくした理由のアセスメントには、身体機能・認知機能の変化だけでなく心理的要因（失敗体験等）も確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -175,7 +175,7 @@
                   "groupId": "kaigo_no38_Q079",
                   "statement": "複数の疾患を持ちやすい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "高齢者は複数の疾患（多疾患罹患）を抱えていることが多く、多剤服用（ポリファーマシー）や薬物相互作用のリスクが高い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -184,7 +184,7 @@
                   "groupId": "kaigo_no38_Q086",
                   "statement": "ＩＡＤＬ（Instrumental Activities of Daily Living：手段的日常生活動作）ト",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "IADLは買い物・料理・電話の使用・服薬管理・金銭管理等の手段的日常生活動作。ADLより高次の生活機能を指す。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -193,7 +193,7 @@
                   "groupId": "kaigo_no38_Q080",
                   "statement": "閉塞性動脈硬化症（arteriosclerosis obliterans）11",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "閉塞性動脈硬化症（ASO）は下肢の動脈硬化による血流障害で、間欠性跛行（歩くと足が痛くなり休むと回復）が特徴的症状。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -202,7 +202,7 @@
                   "groupId": "kaigo_no38_Q123",
                   "statement": "コーチング（coaching）",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "コーチングは相手の能力を引き出す支援技法で、質問・傾聴・承認を通じて自発的な行動変容を促す。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -211,7 +211,7 @@
                   "groupId": "kaigo_no38_Q011",
                   "statement": "提供する食品は，加熱調理を徹底する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "食中毒予防には食品の加熱調理（75℃以上1分以上）が有効。ただし食品の種類により適切な温度・時間が異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -220,7 +220,7 @@
                   "groupId": "kaigo_no38_Q001",
                   "statement": "ニィリエ（Nirje, B.）は，「ノーマライゼーション（normalization）の8つの原理」を提唱した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ニィリエのノーマライゼーション8原理とは、障害のある人が一般市民と同様の生活リズム・経験・選択・尊厳を持って生活できることを目指す原理。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -229,7 +229,7 @@
                   "groupId": "kaigo_no38_Q039",
                   "statement": "端座位になった利用者の右側に，車いすを置く。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "片麻痺利用者の移乗では麻痺側（右麻痺なら左側）に車いすを置くのではなく、健側（左側）に置くのが原則。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -238,7 +238,7 @@
                   "groupId": "kaigo_no38_Q044",
                   "statement": "食事が楽しくなるような雰囲気をつくる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "食事介助では食欲・楽しみを引き出す環境づくり（食事の雰囲気）が大切。食欲のない利用者に対しても声かけ・環境調整が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -247,7 +247,7 @@
                   "groupId": "kaigo_no38_Q115",
                   "statement": "下肢筋力を維持するために，毎日決まった時間に同じ運動をする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高齢者の下肢筋力維持には定期的な運動が有効だが、毎日同じ運動を強制するより楽しみながら継続できる運動の選択が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -256,7 +256,7 @@
                   "groupId": "kaigo_no38_Q055",
                   "statement": "おつりとレシート，購入した食材の確認を，Ａさんにすべて任せた。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "買い物支援では利用者の生活能力維持のため、できる限り本人に任せて（自立支援）見守る姿勢が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -265,7 +265,7 @@
                   "groupId": "kaigo_no38_Q099",
                   "statement": "市町村は，地域生活支援事業を行う。22",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "地域生活支援事業は市町村・都道府県が地域の実情に応じて実施する障害者への支援事業（障害者総合支援法77条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -274,7 +274,7 @@
                   "groupId": "kaigo_no38_Q022",
                   "statement": "入居する高齢者に，介護，食事の提供，家事，健康管理のうち1つ以上のサービスを提供する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "有料老人ホームは食事・介護・家事・健康管理のうち1以上のサービスを提供する施設（老人福祉法29条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -283,7 +283,7 @@
                   "groupId": "kaigo_no38_Q076",
                   "statement": "女性は，高齢になると性交痛を感じやすくなる。 ー",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "高齢女性では閉経後のエストロゲン減少により膣の萎縮・乾燥が起こり、性交痛を感じやすくなる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -292,7 +292,7 @@
                   "groupId": "kaigo_no38_Q012",
                   "statement": "3年に1回の実施が義務づけられている。パ 2 労働者数が常時100名の事業場は受検が免除される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ストレスチェック制度（労働安全衛生法）は労働者数50人以上の事業場に年1回の実施が義務。100人以上でも免除規定はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -301,7 +301,7 @@
                   "groupId": "kaigo_no38_Q119",
                   "statement": "認知症（dementia）の人のその人らしさを支える。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "認知症ケアでは「その人らしさ」（パーソン・センタード・ケア）を支えることが重要で、本人の尊厳と個性を大切にする。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -310,7 +310,7 @@
                   "groupId": "kaigo_no38_Q111",
                   "statement": "通所介護（デイサービス）を利用しない日の過ごし方",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "在宅介護の利用者がデイサービス利用日以外をどのように過ごしているかの把握は、生活全体の支援計画に不可欠。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -319,7 +319,7 @@
                   "groupId": "kaigo_no38_Q074",
                   "statement": "注意の持続が難しい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "同じ動作・行動の繰り返し（常同行動）は、前頭側頭型認知症（ピック病等）や自閉スペクトラム症に特徴的に見られる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -328,7 +328,7 @@
                   "groupId": "kaigo_no38_Q014",
                   "statement": "65歳以上の者のいる世帯の世帯構造で最も多いのは，親と未婚の子のみの世帯である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "2022年の国民生活基礎調査によると、介護が必要となった主な原因の第1位は認知症（2位は脳血管疾患）。骨折・転倒は上位だが1位ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -337,7 +337,7 @@
                   "groupId": "kaigo_no38_Q053",
                   "statement": "「お金の使い方について，一緒に考えてみませんか」と提案する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "金銭管理の支援では、利用者の意思決定能力を最大限尊重しながら、不足部分を補完する（一緒に考える）姿勢が適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -346,7 +346,7 @@
                   "groupId": "kaigo_no38_Q107",
                   "statement": "目標達成時の介護福祉職の満足度を記載する。ート28",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "介護計画の評価欄には目標の達成状況を記載し、介護職の満足度ではなく利用者の状態変化・目標達成度を中心に評価する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -355,7 +355,7 @@
                   "groupId": "kaigo_no38_Q066",
                   "statement": "偏りのある食べ方をする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "高齢者に多い低栄養の兆候として、特定の食べ物への偏りや食事量の低下が見られる。偏りのある食べ方はアセスメントが必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -364,7 +364,7 @@
                   "groupId": "kaigo_no38_Q067",
                   "statement": "角質層ー 3 基底層ゆうきょくそう",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "皮膚の構造は表皮（角質層・顆粒層・有棘層・基底層）・真皮・皮下組織の3層。角質層は表皮の最外層、基底層は最内層。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -373,7 +373,7 @@
                   "groupId": "kaigo_no38_Q116",
                   "statement": "介護予防小規模多機能型居宅介護",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "介護予防小規模多機能型居宅介護は要支援者を対象とした通い・訪問・泊まりを組み合わせたサービス。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -382,7 +382,7 @@
                   "groupId": "kaigo_no38_Q038",
                   "statement": "歩行の不安定さに合わせて，移動範囲を縮小する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "歩行不安定な利用者への支援は移動範囲の縮小より、安全な環境を整えて活動を維持することが基本。自立支援の観点から。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -391,7 +391,7 @@
                   "groupId": "kaigo_no38_Q017",
                   "statement": "国際連合の障害者の権利に関する条約の影響を受け，障害者基本法に「社会的障壁の除去」が規定された。 パ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "国連の障害者権利条約（2006年）の影響で、日本では障害者基本法（2011年改正）に「社会的障壁の除去」が明記された。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -400,7 +400,7 @@
                   "groupId": "kaigo_no38_Q038",
                   "statement": "成功体験を積み重ねることができるように，達成可能な歩行の目標距離を設定する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "歩行不安定な利用者への支援は移動範囲の縮小より、安全な環境を整えて活動を維持することが基本。自立支援の観点から。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -409,7 +409,7 @@
                   "groupId": "kaigo_no38_Q085",
                   "statement": "自律神経症状による起立性低血圧（orthostatic hypotension）",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "レビー小体型認知症では自律神経症状（起立性低血圧・便秘等）が起こりやすく、立位時のめまい・失神に注意が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -418,7 +418,7 @@
                   "groupId": "kaigo_no38_Q113",
                   "statement": "自室を整理整頓する。Ｃパート33",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "生活環境の整理整頓は日常生活の自立支援の一環。本人の意欲・能力に合わせて支援する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -427,7 +427,7 @@
                   "groupId": "kaigo_no38_Q059",
                   "statement": "悲嘆が長期化した場合は，専門医等へ相談するように助言する。32",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "悲嘆（グリーフ）は死別などの喪失体験に対する自然な反応であり、特異な反応ではなく正常なプロセスとして理解する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -436,7 +436,7 @@
                   "groupId": "kaigo_no38_Q055",
                   "statement": "依頼された食材が安かったので，リストに書かれた数より多く購入した。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "買い物支援では利用者の生活能力維持のため、できる限り本人に任せて（自立支援）見守る姿勢が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -445,7 +445,7 @@
                   "groupId": "kaigo_no38_Q033",
                   "statement": "「調理師さんのことは気にしなくていいですよ」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "食事場面での介護では利用者の選択・意思を尊重し、調理担当者への配慮より利用者本位の対応が優先される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -454,7 +454,7 @@
                   "groupId": "kaigo_no38_Q048",
                   "statement": "バスタオルで両下肢を包む。ー",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "入浴介助では羞恥心への配慮としてバスタオル等で適切に覆うことが大切。両下肢を包むことは保温・羞恥心配慮の観点から適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -463,7 +463,7 @@
                   "groupId": "kaigo_no38_Q114",
                   "statement": "ドーパミン（dopamine）",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ドーパミンは神経伝達物質で、運動調節・意欲・報酬系に関与する。パーキンソン病ではドーパミン産生細胞の減少が起こる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -472,7 +472,7 @@
                   "groupId": "kaigo_no38_Q042",
                   "statement": "スポンジブラシは乾いた状態で使用する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "口腔ケアのスポンジブラシは乾燥状態では使用せず、適度に湿らせてから使用する（粘膜を傷つけないため）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -481,7 +481,7 @@
                   "groupId": "kaigo_no38_Q060",
                   "statement": "両手の握力が保たれていて，数秒程度の立位保持ができる人",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "トイレ使用が可能な利用者の条件として、両手の握力保持と数秒程度の立位保持が目安の一つとなる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -490,7 +490,7 @@
                   "groupId": "kaigo_no38_Q063",
                   "statement": "リンパ管には血液が流れている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "リンパ管にはリンパ液が流れており、血液は流れていない。リンパ液は組織間液を回収して静脈へ戻す役割を持つ。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -499,7 +499,7 @@
                   "groupId": "kaigo_no38_Q051",
                   "statement": "骨盤底筋訓練を行う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "骨盤底筋訓練は腹圧性尿失禁（くしゃみ等の腹圧上昇で漏れる）に有効。切迫性尿失禁には行動療法（排尿訓練）が用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -508,7 +508,7 @@
                   "groupId": "kaigo_no38_Q002",
                   "statement": "「Ａさんとお互いの気持ちを話し合う時間をつくりませんか」",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "介護福祉職は利用者の気持ちに寄り添うコミュニケーション（傾聴・共感）を基本とし、一緒に考える姿勢が大切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -517,7 +517,7 @@
                   "groupId": "kaigo_no38_Q106",
                   "statement": "利用者が望む暮らしを実現すること",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "介護過程の目的は利用者が望む暮らし（QOL向上）の実現であり、介護職の都合ではなく本人中心の視点が基本。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -526,7 +526,7 @@
                   "groupId": "kaigo_no38_Q098",
                   "statement": "ストーマ装具（注） 「障害者総合支援法」とは，「障害者の日常生活及び社会生活を総合的に支援するための法律」のことである。Ｂパ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ストーマ（人工肛門・人工膀胱）装具の交換は入浴前後が望ましく、適切な皮膚保護材の使用が重要。障害者総合支援法の対象となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -535,7 +535,7 @@
                   "groupId": "kaigo_no38_Q012",
                   "statement": "結果は労務管理を行う介護主任へ提供され，面接指導に活用する。ー",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ストレスチェック制度（労働安全衛生法）は労働者数50人以上の事業場に年1回の実施が義務。100人以上でも免除規定はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -544,7 +544,7 @@
                   "groupId": "kaigo_no38_Q006",
                   "statement": "本人が買物に行けるように，行動援護を勧める。5",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "認知症等で外出リスクのある利用者への支援は、本人の意思を尊重しつつ安全確保の両立が必要。自発的活動支援は適切だが個別アセスメントが前提。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -553,7 +553,7 @@
                   "groupId": "kaigo_no38_Q092",
                   "statement": "療育手帳の等級は障害支援区分で決める。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "知的障害は発達期（18歳未満）に知的機能の明らかな制限が現れる障害。成人後の発症は知的障害には含まない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -562,7 +562,7 @@
                   "groupId": "kaigo_no38_Q087",
                   "statement": "視覚的認識を容易にするために，廊下の手すりに色をつけて目立つようにする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "廊下の手すりに色を付けて視覚的に目立たせることは、視覚的認識を助け認知症利用者の安全な移動を促す環境支援。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -571,7 +571,7 @@
                   "groupId": "kaigo_no38_Q021",
                   "statement": "市町村長は，後見開始の審判を請求することができない。 パ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "後見開始の審判は本人・配偶者・四親等内親族・検察官のほか市町村長も請求できる（老人福祉法32条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -580,7 +580,7 @@
                   "groupId": "kaigo_no38_Q008",
                   "statement": "「一人暮らしで自宅で最期を迎えるのは，不安がありますよね」6",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "終末期における意思確認では、本人の言葉を繰り返したり感情を反射する技法（オウム返し・感情の反映）が有効。「不安がある」と断定するのは適切でない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -589,7 +589,7 @@
                   "groupId": "kaigo_no38_Q051",
                   "statement": "ほかの利用者と同じ時間にトイレへ誘導する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "骨盤底筋訓練は腹圧性尿失禁（くしゃみ等の腹圧上昇で漏れる）に有効。切迫性尿失禁には行動療法（排尿訓練）が用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -598,7 +598,7 @@
                   "groupId": "kaigo_no38_Q003",
                   "statement": "導入した施設は，人員配置基準が撤廃される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "介護ロボット等の導入は業務効率化に役立つが、人員配置基準が撤廃されるわけではなく、基準を満たした上で活用が求められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -607,7 +607,7 @@
                   "groupId": "kaigo_no38_Q021",
                   "statement": "判断能力が十分ある者には，後見人をつけることができない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "後見開始の審判は本人・配偶者・四親等内親族・検察官のほか市町村長も請求できる（老人福祉法32条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -616,7 +616,7 @@
                   "groupId": "kaigo_no38_Q055",
                   "statement": "購入した食材で調理しにくいものがないか，Ａさんに確認した。30",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "買い物支援では利用者の生活能力維持のため、できる限り本人に任せて（自立支援）見守る姿勢が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -625,7 +625,7 @@
                   "groupId": "kaigo_no38_Q010",
                   "statement": "利用者の私物を壊したときは，介護福祉職の自己判断で弁償する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "利用者の私物を壊した場合の対応は、施設のルールや保険に従い報告・賠償を行う。自己判断での弁償は適切でない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -634,7 +634,7 @@
                   "groupId": "kaigo_no38_Q057",
                   "statement": "両膝窩部に，クッションを入れる。みぎそくがい",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "側臥位（横向き）での体位保持では、膝窩部（膝の裏）にクッションを入れると膝関節の屈曲を保ち安楽な体位を保てる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -643,7 +643,7 @@
                   "groupId": "kaigo_no38_Q008",
                   "statement": "「近所の方の力も借りて，この地域で暮らしていけるように考えていきましょう」",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "終末期における意思確認では、本人の言葉を繰り返したり感情を反射する技法（オウム返し・感情の反映）が有効。「不安がある」と断定するのは適切でない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -652,7 +652,7 @@
                   "groupId": "kaigo_no38_Q013",
                   "statement": "養子と養親の間には，親族関係は生じない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "養子縁組が成立すると養子と養親の間に親族関係が生じ、法定血族として相互に扶養義務・相続権が発生する（民法727条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -661,7 +661,7 @@
                   "groupId": "kaigo_no38_Q076",
                   "statement": "男性は，高齢になっても性ホルモンの分泌が維持される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高齢女性では閉経後のエストロゲン減少により膣の萎縮・乾燥が起こり、性交痛を感じやすくなる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -670,7 +670,7 @@
                   "groupId": "kaigo_no38_Q006",
                   "statement": "身体機能の維持・向上のために，自立訓練（機能訓練）を勧める。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症等で外出リスクのある利用者への支援は、本人の意思を尊重しつつ安全確保の両立が必要。自発的活動支援は適切だが個別アセスメントが前提。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -679,7 +679,7 @@
                   "groupId": "kaigo_no38_Q029",
                   "statement": "利用者との信頼関係を形成するため",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "介護職の倫理として、利用者との信頼関係形成には正直さ・誠実さ・守秘義務の遵守が基盤となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -688,7 +688,7 @@
                   "groupId": "kaigo_no38_Q011",
                   "statement": "循環式浴槽は，塩素系薬剤を使用して消毒する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "食中毒予防には食品の加熱調理（75℃以上1分以上）が有効。ただし食品の種類により適切な温度・時間が異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -697,7 +697,7 @@
                   "groupId": "kaigo_no38_Q082",
                   "statement": "本人ミーティングでは，当事者たちが語り合い社会に発信も行う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "認知症の本人ミーティングは当事者が自らの体験を語り合い、社会への発信・提言も行うピアサポート活動。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -706,7 +706,7 @@
                   "groupId": "kaigo_no38_Q084",
                   "statement": "記憶障害は，初期から認められる。13",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "アルツハイマー型認知症では、記憶障害（特に近時記憶障害）が初期から現れることが特徴。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -715,7 +715,7 @@
                   "groupId": "kaigo_no38_Q042",
                   "statement": "歯ブラシで歯を1，2本ずつ磨く。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "口腔ケアのスポンジブラシは乾燥状態では使用せず、適度に湿らせてから使用する（粘膜を傷つけないため）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -724,7 +724,7 @@
                   "groupId": "kaigo_no38_Q031",
                   "statement": "介護福祉職のペースで話を進める。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "傾聴の原則として、介護職自身のペースではなく利用者のペースに合わせてコミュニケーションを進めることが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -733,7 +733,7 @@
                   "groupId": "kaigo_no38_Q102",
                   "statement": "サイドチューブから，カフの上部の貯留物を吸引することができる。24",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "気管切開チューブのサイドチューブ（カフ上部吸引用）からカフ上部の貯留物を吸引することができる（誤嚥性肺炎予防）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -742,7 +742,7 @@
                   "groupId": "kaigo_no38_Q079",
                   "statement": "典型的な症状を呈する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高齢者は複数の疾患（多疾患罹患）を抱えていることが多く、多剤服用（ポリファーマシー）や薬物相互作用のリスクが高い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -751,7 +751,7 @@
                   "groupId": "kaigo_no38_Q020",
                   "statement": "地域ケア会議において，関係者と地域課題について話し合う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "地域ケア会議は多職種が集まり個別ケースの検討と地域課題の抽出・解決策の検討を行う場（介護保険法115条の48）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -760,7 +760,7 @@
                   "groupId": "kaigo_no38_Q033",
                   "statement": "「何かお願いがあるのではありませんか」",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "食事場面での介護では利用者の選択・意思を尊重し、調理担当者への配慮より利用者本位の対応が優先される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -769,7 +769,7 @@
                   "groupId": "kaigo_no38_Q111",
                   "statement": "通所介護（デイサービス）での様子",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "在宅介護の利用者がデイサービス利用日以外をどのように過ごしているかの把握は、生活全体の支援計画に不可欠。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -778,7 +778,7 @@
                   "groupId": "kaigo_no38_Q070",
                   "statement": "腹部のマッサージを行う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "便秘への対応として、腹部マッサージ（の字マッサージ）は腸の蠕動運動を促進する効果がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -787,7 +787,7 @@
                   "groupId": "kaigo_no38_Q025",
                   "statement": "つらさから逃げず，学びが足りないことを自覚する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "介護職のバーンアウト（燃え尽き症候群）予防にはスーパービジョンや職場内サポートが重要。つらさから逃げないことは精神的健康上問題がある場合もある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -796,7 +796,7 @@
                   "groupId": "kaigo_no38_Q080",
                   "statement": "老人性皮膚掻痒症（senile pruritus）",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "閉塞性動脈硬化症（ASO）は下肢の動脈硬化による血流障害で、間欠性跛行（歩くと足が痛くなり休むと回復）が特徴的症状。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -805,7 +805,7 @@
                   "groupId": "kaigo_no38_Q063",
                   "statement": "心臓は体性神経が支配している。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "リンパ管にはリンパ液が流れており、血液は流れていない。リンパ液は組織間液を回収して静脈へ戻す役割を持つ。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -814,7 +814,7 @@
                   "groupId": "kaigo_no38_Q089",
                   "statement": "リアリティ・オリエンテーション（reality orientation）パ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "リアリティ・オリエンテーション（現実見当識訓練）は日時・場所・人物に関する情報を繰り返し提示して見当識を改善する技法。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -823,7 +823,7 @@
                   "groupId": "kaigo_no38_Q057",
                   "statement": "右側臥位にして，クッションを抱いてもらう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "側臥位（横向き）での体位保持では、膝窩部（膝の裏）にクッションを入れると膝関節の屈曲を保ち安楽な体位を保てる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -832,7 +832,7 @@
                   "groupId": "kaigo_no38_Q124",
                   "statement": "背中とバックサポートの間ひだりだいたいぶ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "車いすのバックサポート（背もたれ）の高さや位置の調整は、利用者の姿勢保持・座位の安定に影響する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -841,7 +841,7 @@
                   "groupId": "kaigo_no38_Q124",
                   "statement": "右大腿部と左大腿部の間",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "車いすのバックサポート（背もたれ）の高さや位置の調整は、利用者の姿勢保持・座位の安定に影響する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -850,7 +850,7 @@
                   "groupId": "kaigo_no38_Q008",
                   "statement": "「3匹の猫は，今後は地域の皆さんに預けましょう」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "終末期における意思確認では、本人の言葉を繰り返したり感情を反射する技法（オウム返し・感情の反映）が有効。「不安がある」と断定するのは適切でない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -859,7 +859,7 @@
                   "groupId": "kaigo_no38_Q101",
                   "statement": "意識レベルは，まず身体を揺さぶって反応をみる。ート",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "意識レベルの確認は、まず声かけ（肩をたたきながら呼びかける）から始め、身体を激しく揺さぶることは頸椎損傷等のリスクがあるため避ける。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -868,7 +868,7 @@
                   "groupId": "kaigo_no38_Q026",
                   "statement": "Ａさんの部屋のドアを指差した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "認知症の利用者がドアを指差す行動は意思表示や要求の表現である可能性がある。非言語コミュニケーションへの注目が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -877,7 +877,7 @@
                   "groupId": "kaigo_no38_Q023",
                   "statement": "生活困窮者住居確保給付金の支給は，市にとって必須事業である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "生活困窮者住居確保給付金は、生活困窮者自立支援法に基づく必須事業（市・都道府県が実施しなければならない事業）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -886,7 +886,7 @@
                   "groupId": "kaigo_no38_Q125",
                   "statement": "公共職業安定所（ハローワーク）",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "公共職業安定所（ハローワーク）は厚生労働省所管の機関で、求職者への就職支援・事業主への採用支援などを行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -895,7 +895,7 @@
                   "groupId": "kaigo_no38_Q005",
                   "statement": "安全で使いやすいデザインにする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ユニバーサルデザインとは、年齢・障害の有無にかかわらず誰もが使いやすいデザインにすること（安全性・使いやすさの追求）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -904,7 +904,7 @@
                   "groupId": "kaigo_no38_Q097",
                   "statement": "社会的行動障害によってすぐに怒りだすことがあるため，感情が落ち着くように場面や話題を変える。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "高次脳機能障害による社会的行動障害（感情コントロール困難等）への対応は、刺激を減らした環境調整・感情が落ち着くまで待つことが有効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -913,7 +913,7 @@
                   "groupId": "kaigo_no38_Q028",
                   "statement": "上司がＡ介護福祉職の気持ちの理解に努めつつ，状況を確認する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スーパービジョンでは上司が部下の気持ちを理解しながら実践の振り返りと支援を行う（管理的・教育的・支持的機能）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -922,7 +922,7 @@
                   "groupId": "kaigo_no38_Q073",
                   "statement": "成人としての市民的・社会的責任を達成する。Ｂ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ハヴィガーストの発達課題では、成人期に「成人としての市民的・社会的責任を達成すること」が課題として挙げられている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -931,7 +931,7 @@
                   "groupId": "kaigo_no38_Q115",
                   "statement": "視覚的環境からの影響を防ぐために，自室のカーテンを無地のものに変更する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "高齢者の下肢筋力維持には定期的な運動が有効だが、毎日同じ運動を強制するより楽しみながら継続できる運動の選択が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -940,7 +940,7 @@
                   "groupId": "kaigo_no38_Q105",
                   "statement": "胃ろう周囲の皮膚は石けんとぬるま湯で洗浄して，清潔を保つ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "胃ろう周囲の皮膚は石けんとぬるま湯で清潔を保ち、乾燥させてから固定する。清潔保持が感染予防に重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -949,7 +949,7 @@
                   "groupId": "kaigo_no38_Q033",
                   "statement": "「どこかからだの具合が悪いのではないですか」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "食事場面での介護では利用者の選択・意思を尊重し、調理担当者への配慮より利用者本位の対応が優先される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -958,7 +958,7 @@
                   "groupId": "kaigo_no38_Q045",
                   "statement": "体幹を後方に傾けてもらう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "嚥下困難な利用者の食事姿勢は、頸部を前屈（顎を引く）すると誤嚥しにくくなる。体幹を後方に傾けると誤嚥のリスクが高まる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -967,7 +967,7 @@
                   "groupId": "kaigo_no38_Q002",
                   "statement": "「病院や施設の情報がほしいと介護支援専門員に伝えてはどうですか」3",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "介護福祉職は利用者の気持ちに寄り添うコミュニケーション（傾聴・共感）を基本とし、一緒に考える姿勢が大切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -976,7 +976,7 @@
                   "groupId": "kaigo_no38_Q043",
                   "statement": "「着るときは，右袖を肘まで通してから，左袖を通しましょう」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "片麻痺（右麻痺）の更衣介助では脱健着患の原則に従い、着るときは患側（右袖）から先に通す。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -985,7 +985,7 @@
                   "groupId": "kaigo_no38_Q040",
                   "statement": "階段利用時は，介護福祉職は階段の前で声かけして止まる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "歩行介助では利用者の歩行リズムを促すため、介護職が腕を振るのではなく利用者の体幹・骨盤のリズムに合わせる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -994,7 +994,7 @@
                   "groupId": "kaigo_no38_Q063",
                   "statement": "肺動脈には静脈血が流れている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "リンパ管にはリンパ液が流れており、血液は流れていない。リンパ液は組織間液を回収して静脈へ戻す役割を持つ。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1003,7 +1003,7 @@
                   "groupId": "kaigo_no38_Q081",
                   "statement": "身体的疾患がないにもかかわらず，自分が病気だと思い込むのは，心気妄想である。12",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "心気妄想とは、実際には重篤な病気でないのに不治の病にかかっていると確信する妄想。うつ病や統合失調症に見られる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1012,7 +1012,7 @@
                   "groupId": "kaigo_no38_Q054",
                   "statement": "綿の柄物シャツには酸素系漂白剤を使う。パ 2 ナイロンのレインウエアは脱水時間を長くする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "綿の柄物に酸素系漂白剤は使用可能（色落ちしにくい）。ナイロン製レインウエアの脱水は短時間にする（長時間は生地を傷める）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1021,7 +1021,7 @@
                   "groupId": "kaigo_no38_Q024",
                   "statement": "世帯を単位として保護を行う。ト14",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "生活保護の補足性の原理では、資産・能力その他あらゆるものを活用した上で保護が行われる（生活保護法4条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1030,7 +1030,7 @@
                   "groupId": "kaigo_no38_Q013",
                   "statement": "同居する親族は互いに扶け合わなければならないと規定している。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "養子縁組が成立すると養子と養親の間に親族関係が生じ、法定血族として相互に扶養義務・相続権が発生する（民法727条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1039,7 +1039,7 @@
                   "groupId": "kaigo_no38_Q104",
                   "statement": "左下方の縁を小弯という。せいりてききょうさくぶ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "胃の小弯は胃の右側（内側の弯曲）、大弯は左側（外側の弯曲）。生理的狭窄部（食道・幽門等）は内視鏡検査の目標点。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1048,7 +1048,7 @@
                   "groupId": "kaigo_no38_Q045",
                   "statement": "顎を上げてもらう。25そしゃくきのう",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "嚥下困難な利用者の食事姿勢は、頸部を前屈（顎を引く）すると誤嚥しにくくなる。体幹を後方に傾けると誤嚥のリスクが高まる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1057,7 +1057,7 @@
                   "groupId": "kaigo_no38_Q083",
                   "statement": "通所介護（デイサービス）を利用中に，出口を探して歩き回る。 ー",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "認知症デイサービス利用中の出口を探す行動（帰宅欲求）は、見当識障害や環境への不安が原因のことが多い。安心感の提供が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1066,7 +1066,7 @@
                   "groupId": "kaigo_no38_Q124",
                   "statement": "右上肢と右アームサポートの間Ｃパート45",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "車いすのバックサポート（背もたれ）の高さや位置の調整は、利用者の姿勢保持・座位の安定に影響する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1075,7 +1075,7 @@
                   "groupId": "kaigo_no38_Q058",
                   "statement": "好きなものや食べたいものがある場合は，家族に持ってきてもらう。ー",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "終末期の食事支援では、本人が食べたいものを食べることが生きる喜びにつながる。家族からの差し入れも積極的に活用する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1084,7 +1084,7 @@
                   "groupId": "kaigo_no38_Q070",
                   "statement": "医療機関の受診を促す。Ｂパ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "便秘への対応として、腹部マッサージ（の字マッサージ）は腸の蠕動運動を促進する効果がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1093,7 +1093,7 @@
                   "groupId": "kaigo_no38_Q014",
                   "statement": "要介護者等と同居の主な介護者の年齢の組合せでは，65歳以上同士が約6割を占めている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "2022年の国民生活基礎調査によると、介護が必要となった主な原因の第1位は認知症（2位は脳血管疾患）。骨折・転倒は上位だが1位ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1102,7 +1102,7 @@
                   "groupId": "kaigo_no38_Q015",
                   "statement": "Ａさんが身辺のことを，時間をかけてもやること",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "自立支援の観点から、利用者が時間をかけてでも自分でできることは自分で行う（できることを奪わない）ことが基本。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1111,7 +1111,7 @@
                   "groupId": "kaigo_no38_Q018",
                   "statement": "都道府県は，身体障害者更生相談所を設置しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "基幹相談支援センターには社会福祉士・精神保健福祉士・主任相談支援専門員の配置が求められるが、介護福祉士の配置義務規定はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1120,7 +1120,7 @@
                   "groupId": "kaigo_no38_Q045",
                   "statement": "足底を床につけてもらう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "嚥下困難な利用者の食事姿勢は、頸部を前屈（顎を引く）すると誤嚥しにくくなる。体幹を後方に傾けると誤嚥のリスクが高まる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1129,7 +1129,7 @@
                   "groupId": "kaigo_no38_Q043",
                   "statement": "「着るときは，右袖を肩まで通してから，左袖を通しましょう」ト",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "片麻痺（右麻痺）の更衣介助では脱健着患の原則に従い、着るときは患側（右袖）から先に通す。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1138,7 +1138,7 @@
                   "groupId": "kaigo_no38_Q093",
                   "statement": "脳血管障害（cerebrovascular disorder）",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "脳血管障害による障害（半身麻痺・言語障害等）の介護では、麻痺の程度・ADLの状況に合わせた個別的な支援が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1147,7 +1147,7 @@
                   "groupId": "kaigo_no38_Q025",
                   "statement": "上司や同僚などに悩みを話して，助言を受ける。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "介護職のバーンアウト（燃え尽き症候群）予防にはスーパービジョンや職場内サポートが重要。つらさから逃げないことは精神的健康上問題がある場合もある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1156,7 +1156,7 @@
                   "groupId": "kaigo_no38_Q091",
                   "statement": "障害のある人もない人も包摂する社会ート",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "インクルーシブ社会とは障害のある人もない人も地域で共に暮らせる社会。ノーマライゼーションの理念に基づく。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1165,7 +1165,7 @@
                   "groupId": "kaigo_no38_Q104",
                   "statement": "左上方を胃底部といい，食べ物を一時的にためる。しょうわん",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "胃の小弯は胃の右側（内側の弯曲）、大弯は左側（外側の弯曲）。生理的狭窄部（食道・幽門等）は内視鏡検査の目標点。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1174,7 +1174,7 @@
                   "groupId": "kaigo_no38_Q056",
                   "statement": "入浴は，就寝の1〜2時間前に行う。ー",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "入浴の睡眠促進効果は就寝1〜2時間前の入浴が有効（深部体温の低下により眠りやすくなる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1183,7 +1183,7 @@
                   "groupId": "kaigo_no38_Q102",
                   "statement": "気管カニューレは，交換の必要がない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "気管切開チューブのサイドチューブ（カフ上部吸引用）からカフ上部の貯留物を吸引することができる（誤嚥性肺炎予防）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1192,7 +1192,7 @@
                   "groupId": "kaigo_no38_Q064",
                   "statement": "立位を保持するときは大殿筋が収縮する。Ｂだいたいしとうきん",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "立位保持では大殿筋（股関節伸展）・大腿四頭筋（膝関節伸展）・腓腹筋（足関節底屈）が収縮する。大殿筋は立位保持に重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1201,7 +1201,7 @@
                   "groupId": "kaigo_no38_Q047",
                   "statement": "口腔の状況を観察する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "口腔内の状況観察（残留食物・義歯の適合・口腔乾燥等）は口腔ケアの前後に必ず行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1210,7 +1210,7 @@
                   "groupId": "kaigo_no38_Q097",
                   "statement": "遂行機能障害によって指示されないと作業ができないため，自分の判断でやるように促す。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高次脳機能障害による社会的行動障害（感情コントロール困難等）への対応は、刺激を減らした環境調整・感情が落ち着くまで待つことが有効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1219,7 +1219,7 @@
                   "groupId": "kaigo_no38_Q035",
                   "statement": "利用者の生活の効率化を図ることを目標にする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "生活リハビリの観点から、目標は利用者の生活の質（QOL）向上であり、効率化を図ることが主目的ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1228,7 +1228,7 @@
                   "groupId": "kaigo_no38_Q003",
                   "statement": "導入することによって，利用者の自立支援や生活の質の向上が期待される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "介護ロボット等の導入は業務効率化に役立つが、人員配置基準が撤廃されるわけではなく、基準を満たした上で活用が求められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1237,7 +1237,7 @@
                   "groupId": "kaigo_no38_Q044",
                   "statement": "照明は，明るさを25ルクス（lx）以下にする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "食事介助では食欲・楽しみを引き出す環境づくり（食事の雰囲気）が大切。食欲のない利用者に対しても声かけ・環境調整が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1246,7 +1246,7 @@
                   "groupId": "kaigo_no38_Q108",
                   "statement": "利用者に支援内容を説明して同意を得る。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ケアを提供する前に、支援内容を利用者に説明し同意を得ること（インフォームドコンセント）は介護の基本原則。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1255,7 +1255,7 @@
                   "groupId": "kaigo_no38_Q027",
                   "statement": "給与を引き上げること",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "介護人材確保のためには給与引上げだけでなく職場環境改善・キャリアパスの整備なども重要な取り組みとされている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1264,7 +1264,7 @@
                   "groupId": "kaigo_no38_Q012",
                   "statement": "心理的な負担の程度を把握するためのものである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ストレスチェック制度（労働安全衛生法）は労働者数50人以上の事業場に年1回の実施が義務。100人以上でも免除規定はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1273,7 +1273,7 @@
                   "groupId": "kaigo_no38_Q051",
                   "statement": "トイレの出入口に「トイレ」と書いた紙を貼る。28",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "骨盤底筋訓練は腹圧性尿失禁（くしゃみ等の腹圧上昇で漏れる）に有効。切迫性尿失禁には行動療法（排尿訓練）が用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1282,7 +1282,7 @@
                   "groupId": "kaigo_no38_Q101",
                   "statement": "非接触型体温計による測定では，環境温度に注意する。とうこつどうみゃく ぼ し",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "意識レベルの確認は、まず声かけ（肩をたたきながら呼びかける）から始め、身体を激しく揺さぶることは頸椎損傷等のリスクがあるため避ける。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1291,7 +1291,7 @@
                   "groupId": "kaigo_no38_Q059",
                   "statement": "悲しみの表出があった時点からかかわりを開始する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "悲嘆（グリーフ）は死別などの喪失体験に対する自然な反応であり、特異な反応ではなく正常なプロセスとして理解する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1300,7 +1300,7 @@
                   "groupId": "kaigo_no38_Q094",
                   "statement": "ノーマライゼーションの理念が徐々に浸透した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "日本では1980〜90年代以降、ノーマライゼーションの理念が浸透し、障害者施策が施設中心から地域生活支援へ転換した。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1309,7 +1309,7 @@
                   "groupId": "kaigo_no38_Q020",
                   "statement": "高齢者本人による相談が原則のため，Ａさん自身が相談に来るように促す。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "地域ケア会議は多職種が集まり個別ケースの検討と地域課題の抽出・解決策の検討を行う場（介護保険法115条の48）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1318,7 +1318,7 @@
                   "groupId": "kaigo_no38_Q039",
                   "statement": "利用者に右側臥位になって起き上がるように促す。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "片麻痺利用者の移乗では麻痺側（右麻痺なら左側）に車いすを置くのではなく、健側（左側）に置くのが原則。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1327,7 +1327,7 @@
                   "groupId": "kaigo_no38_Q031",
                   "statement": "利用者支援で協働するパートナーとして接する。19",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "傾聴の原則として、介護職自身のペースではなく利用者のペースに合わせてコミュニケーションを進めることが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1336,7 +1336,7 @@
                   "groupId": "kaigo_no38_Q109",
                   "statement": "個別支援計画の取り組みの報告",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "介護職員が担当する利用者の個別支援計画に関する取り組みの報告は、チームケアの情報共有として定期的に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1345,7 +1345,7 @@
                   "groupId": "kaigo_no38_Q103",
                   "statement": "水分摂取を控えるように伝える。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "膀胱炎等の尿路感染予防には水分摂取を積極的に行い、尿の排泄を促すことが重要。水分制限は逆効果。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1354,7 +1354,7 @@
                   "groupId": "kaigo_no38_Q010",
                   "statement": "安全対策担当者を置き，事故発生予防のための委員会を定期的に開催する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "利用者の私物を壊した場合の対応は、施設のルールや保険に従い報告・賠償を行う。自己判断での弁償は適切でない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1363,7 +1363,7 @@
                   "groupId": "kaigo_no38_Q075",
                   "statement": "フレイル（frailty）",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "フレイルは高齢者の虚弱状態（体重減少・疲労感・筋力低下・歩行速度低下・活動低下）を指し、要介護状態の前段階として介入が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -1383,7 +1383,7 @@
                   "groupId": "kaigo37_Q055",
                   "statement": "手話は意思の伝達に役立たない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "手話は聴覚障害者にとって有効なコミュニケーション手段であり、意思伝達に大いに役立つ（手話は言語として認められている）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1392,7 +1392,7 @@
                   "groupId": "kaigo37_Q001",
                   "statement": "希望を言い出しにくい利用者の意思をくみ取り，その実現に向けて働きかける。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "介護福祉職のアドボカシー（権利擁護）として、利用者が希望を言い出しにくい場合でも意思をくみ取り、その実現に向けて働きかけることが求められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1401,7 +1401,7 @@
                   "groupId": "kaigo37_Q039",
                   "statement": "「認知症高齢者等にやさしい地域づくり」を推進する7つの柱が示された。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症施策推進大綱（2019年）では「共生」と「予防」の両輪で施策を推進するための7つの柱が示された。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1410,7 +1410,7 @@
                   "groupId": "kaigo37_Q061",
                   "statement": "吸引チューブを回転させながら痰を吸引する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "吸引チューブを回転させながら吸引することで粘膜への一点集中を避け、吸引効率を高めることができる（適切な技術）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1419,7 +1419,7 @@
                   "groupId": "kaigo37_Q024",
                   "statement": "皮脂腺は皮下組織にある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "皮脂腺は真皮に存在し（皮下組織ではない）、皮脂を分泌して皮膚を保護する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1428,7 +1428,7 @@
                   "groupId": "kaigo37_Q040",
                   "statement": "「私を疑っているんですか」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "「私を疑っているんですか」という言葉は、認知症の物盗られ妄想への対応場面でよく見られる。否定せず共感的に関わることが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1437,7 +1437,7 @@
                   "groupId": "kaigo37_Q008",
                   "statement": "認知症対応型共同生活介護（認知症高齢者グループホーム）に入居する利用者に対",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症対応型共同生活介護（グループホーム）では少人数（5〜9人）の家庭的な環境での共同生活支援を行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1446,7 +1446,7 @@
                   "groupId": "kaigo37_Q013",
                   "statement": "第1号被保険者の保険料は，都道府県が徴収する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "第1号被保険者（65歳以上）の保険料は市町村が徴収する（年金から天引きまたは普通徴収）。都道府県は収納しない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1455,7 +1455,7 @@
                   "groupId": "kaigo37_Q017",
                   "statement": "「高齢者住まい法」に基づく，高齢者のための住まいである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "高齢者住まい法（高齢者の居住の安定確保に関する法律）に基づく住まいにはサービス付き高齢者向け住宅（サ高住）が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1464,7 +1464,7 @@
                   "groupId": "kaigo37_Q039",
                   "statement": "策定後は，毎年施策の進(cid:7743)を確認することが示された。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症施策推進大綱（2019年）では「共生」と「予防」の両輪で施策を推進するための7つの柱が示された。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1473,7 +1473,7 @@
                   "groupId": "kaigo37_Q002",
                   "statement": "「Ａさんの腕は痛くないので，気にしないでください」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "麻痺のある利用者への声かけは、痛みや感覚に配慮した言葉を使う。「痛くない」と断定するのではなく、状態を確認しながら丁寧に対応する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1482,7 +1482,7 @@
                   "groupId": "kaigo37_Q050",
                   "statement": "障害のある人が自らの能力や長所に気づき，課題に対応する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ストレングス（強み）視点は、障害のある人自身の能力・長所・意欲に着目して支援する考え方。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1491,7 +1491,7 @@
                   "groupId": "kaigo37_Q004",
                   "statement": "感覚機能の低下への配慮",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高齢者の感覚機能低下（視力・聴力・皮膚感覚等）への配慮は、コミュニケーションや生活環境設定において必須。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1500,7 +1500,7 @@
                   "groupId": "kaigo37_Q015",
                   "statement": "地域生活支援事業は，国が実施主体である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "地域生活支援事業は市町村・都道府県が実施主体（国が直接実施するわけではない）。相談支援・移動支援等が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1509,7 +1509,7 @@
                   "groupId": "kaigo37_Q041",
                   "statement": "覚醒レベルが重度に低下した状態である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "植物状態は覚醒・意識は保たれているが自発的な行動は皆無な状態。遷延性意識障害（コーマ）とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1518,7 +1518,7 @@
                   "groupId": "kaigo37_Q015",
                   "statement": "短期入所は介護給付の1つである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "地域生活支援事業は市町村・都道府県が実施主体（国が直接実施するわけではない）。相談支援・移動支援等が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1527,7 +1527,7 @@
                   "groupId": "kaigo37_Q053",
                   "statement": "ロービジョンは，視覚情報をまったく得られない状態である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ロービジョンは視覚情報が全く得られない状態（全盲）ではなく、矯正しても生活に支障が生じる程度の視力低下の状態。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1536,7 +1536,7 @@
                   "groupId": "kaigo37_Q057",
                   "statement": "聴覚障害者の手話による注文がわからなかったので，最も人気のあるメニューを",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "聴覚障害者への対応では、筆談・コミュニケーションボード等の代替手段を活用して意思疎通を図ることが求められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1545,7 +1545,7 @@
                   "groupId": "kaigo37_Q036",
                   "statement": "Ｂさんには，エイジズム（ageism）の考え方がみられる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "エイジズム（年齢差別）は高齢者を一括りにして否定的・ステレオタイプ的に扱う偏見・差別。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1554,7 +1554,7 @@
                   "groupId": "kaigo37_Q057",
                   "statement": "車いすの身体障害者から，陳列棚にある商品を見せてほしいと言われたが，口頭",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "聴覚障害者への対応では、筆談・コミュニケーションボード等の代替手段を活用して意思疎通を図ることが求められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1563,7 +1563,7 @@
                   "groupId": "kaigo37_Q004",
                   "statement": "コミュニケーション能力の評価",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高齢者の感覚機能低下（視力・聴力・皮膚感覚等）への配慮は、コミュニケーションや生活環境設定において必須。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1572,7 +1572,7 @@
                   "groupId": "kaigo37_Q041",
                   "statement": "認知機能障害がみられることはまれである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "植物状態は覚醒・意識は保たれているが自発的な行動は皆無な状態。遷延性意識障害（コーマ）とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1581,7 +1581,7 @@
                   "groupId": "kaigo37_Q010",
                   "statement": "業務には精神保健に関する事項が含まれている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "精神保健福祉士の業務には精神保健に関する相談・支援が含まれる。介護福祉士との役割の違いを理解することが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1590,7 +1590,7 @@
                   "groupId": "kaigo37_Q014",
                   "statement": "週所定労働時間が10時間以上20時間未満の労働は認められていない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "週所定労働時間10時間以上20時間未満の短時間労働者も、雇用保険法の改正により一定条件を満たせば加入が認められる（2022年改正）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1599,7 +1599,7 @@
                   "groupId": "kaigo37_Q038",
                   "statement": "脂質異常症（dyslipidemia）",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "脂質異常症（コレステロール・中性脂肪の異常）は動脈硬化・心疾患のリスクとなる。食事・運動療法と薬物療法が基本。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1608,7 +1608,7 @@
                   "groupId": "kaigo37_Q032",
                   "statement": "太ることへの恐怖はみられない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "摂食障害のうち神経性やせ症（拒食症）では太ることへの強い恐怖がみられる。過食症でも体重・体型への強いこだわりがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1617,7 +1617,7 @@
                   "groupId": "kaigo37_Q001",
                   "statement": "介護を行う前には，利用者に十分な説明をして同意を得る。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "介護福祉職のアドボカシー（権利擁護）として、利用者が希望を言い出しにくい場合でも意思をくみ取り、その実現に向けて働きかけることが求められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1626,7 +1626,7 @@
                   "groupId": "kaigo37_Q024",
                   "statement": "真皮には角質層がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "皮脂腺は真皮に存在し（皮下組織ではない）、皮脂を分泌して皮膚を保護する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1635,7 +1635,7 @@
                   "groupId": "kaigo37_Q014",
                   "statement": "2024年度（令和6年度）の民間企業の法定雇用率は，2.5％である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "週所定労働時間10時間以上20時間未満の短時間労働者も、雇用保険法の改正により一定条件を満たせば加入が認められる（2022年改正）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1644,7 +1644,7 @@
                   "groupId": "kaigo37_Q027",
                   "statement": "記憶を整理し，定着させる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "睡眠中（特にノンレム睡眠）に記憶の整理・定着が行われる。睡眠不足は記憶力低下につながる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1653,7 +1653,7 @@
                   "groupId": "kaigo37_Q056",
                   "statement": "発達障害者支援センター",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "発達障害者支援センターは発達障害のある人とその家族への相談支援・情報提供・関係機関への連絡調整を行う機関。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1662,7 +1662,7 @@
                   "groupId": "kaigo37_Q010",
                   "statement": "歯科衛生士を置かなくてはならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "精神保健福祉士の業務には精神保健に関する相談・支援が含まれる。介護福祉士との役割の違いを理解することが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1671,7 +1671,7 @@
                   "groupId": "kaigo37_Q021",
                   "statement": "鼻腔の奥は喉頭に直接つながっている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "鼻腔（鼻）は咽頭→喉頭の順につながる。喉頭には声帯があり、その先で気管と食道に分かれる。鼻腔は喉頭に直接つながってはいない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1680,7 +1680,7 @@
                   "groupId": "kaigo37_Q034",
                   "statement": "過去に得た知識を活用して問題を解決する能力である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "流動性知能は新しい問題解決能力（加齢で低下）、結晶性知能は過去の知識・経験の活用能力（加齢でも比較的保持される）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1689,7 +1689,7 @@
                   "groupId": "kaigo37_Q019",
                   "statement": "(cid:7991)桃体",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "扁桃体は大脳辺縁系の一部で、感情（恐怖・不安・怒り等）の処理に中心的役割を果たす。記憶の感情的側面にも関与する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1698,7 +1698,7 @@
                   "groupId": "kaigo37_Q030",
                   "statement": "瞳孔散大・対光反射消失",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "死亡直前の徴候として瞳孔散大・対光反射消失が見られる。死後硬直・変色等も死亡確認の所見となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1707,7 +1707,7 @@
                   "groupId": "kaigo37_Q052",
                   "statement": "言葉の表出や理解が困難である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "失語症（言語障害）では言葉の表出（話すこと）と理解（聞くこと）の両方または一方が困難になる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1716,7 +1716,7 @@
                   "groupId": "kaigo37_Q034",
                   "statement": "知識や文化の影響よりも，生理的な老化の影響を受けやすい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "流動性知能は新しい問題解決能力（加齢で低下）、結晶性知能は過去の知識・経験の活用能力（加齢でも比較的保持される）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1725,7 +1725,7 @@
                   "groupId": "kaigo37_Q030",
                   "statement": "(cid:7635)流性尿失禁",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "死亡直前の徴候として瞳孔散大・対光反射消失が見られる。死後硬直・変色等も死亡確認の所見となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1734,7 +1734,7 @@
                   "groupId": "kaigo37_Q003",
                   "statement": "自己覚知とは，コミュニケーションにおいて自分について話すことである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "自己覚知とは、自分自身の感情・価値観・偏見等を理解すること。自分について話す（自己開示）とは異なる概念。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1743,7 +1743,7 @@
                   "groupId": "kaigo37_Q013",
                   "statement": "第1号被保険者の保険料は，全国一律である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "第1号被保険者（65歳以上）の保険料は市町村が徴収する（年金から天引きまたは普通徴収）。都道府県は収納しない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1752,7 +1752,7 @@
                   "groupId": "kaigo37_Q002",
                   "statement": "「Ａさんが依頼する理由を，まず考えてみることが大切です」",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "麻痺のある利用者への声かけは、痛みや感覚に配慮した言葉を使う。「痛くない」と断定するのではなく、状態を確認しながら丁寧に対応する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1761,7 +1761,7 @@
                   "groupId": "kaigo37_Q027",
                   "statement": "成長ホルモンの分泌を促す。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "睡眠中（特にノンレム睡眠）に記憶の整理・定着が行われる。睡眠不足は記憶力低下につながる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1770,7 +1770,7 @@
                   "groupId": "kaigo37_Q041",
                   "statement": "関与する因子を特定することが重要である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "植物状態は覚醒・意識は保たれているが自発的な行動は皆無な状態。遷延性意識障害（コーマ）とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1779,7 +1779,7 @@
                   "groupId": "kaigo37_Q006",
                   "statement": "Ｃ介護福祉職に対して，介助方法について教える。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "先輩介護職が後輩に介助方法を教える場合、実際の利用者への介護を通じたOJT（職場内訓練）が有効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1788,7 +1788,7 @@
                   "groupId": "kaigo37_Q056",
                   "statement": "ハローワーク（公共職業安定所）",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "発達障害者支援センターは発達障害のある人とその家族への相談支援・情報提供・関係機関への連絡調整を行う機関。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1797,7 +1797,7 @@
                   "groupId": "kaigo37_Q045",
                   "statement": "意思決定支援者は特定の職種に限定される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "意思決定支援ガイドライン（2017年）では意思決定支援者は特定の職種に限定されず、家族・関係者・専門職等が幅広く担う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1806,7 +1806,7 @@
                   "groupId": "kaigo37_Q010",
                   "statement": "保健師助産師看護師法に基づいて設置されている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "精神保健福祉士の業務には精神保健に関する相談・支援が含まれる。介護福祉士との役割の違いを理解することが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1815,7 +1815,7 @@
                   "groupId": "kaigo37_Q020",
                   "statement": "三(cid:20281)神経",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "三叉神経は顔面の感覚（痛覚・触覚・温覚）と咀嚼筋の運動を担う脳神経（第V脳神経）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1824,7 +1824,7 @@
                   "groupId": "kaigo37_Q055",
                   "statement": "要約筆記によって意思疎通を補う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "手話は聴覚障害者にとって有効なコミュニケーション手段であり、意思伝達に大いに役立つ（手話は言語として認められている）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1833,7 +1833,7 @@
                   "groupId": "kaigo37_Q013",
                   "statement": "財源には，第1号被保険者の保険料と第2号被保険者の保険料が含まれる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "第1号被保険者（65歳以上）の保険料は市町村が徴収する（年金から天引きまたは普通徴収）。都道府県は収納しない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1842,7 +1842,7 @@
                   "groupId": "kaigo37_Q008",
                   "statement": "日中・夜間を通じて，提供するサービスである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "認知症対応型共同生活介護（グループホーム）では少人数（5〜9人）の家庭的な環境での共同生活支援を行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1851,7 +1851,7 @@
                   "groupId": "kaigo37_Q037",
                   "statement": "難聴があるので，補聴器をつけてパソコン教室に通い始めた。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "難聴があっても補聴器を活用して社会参加（パソコン教室等）を続けることは自立的生活の維持として推奨される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1860,7 +1860,7 @@
                   "groupId": "kaigo37_Q047",
                   "statement": "認知症（dementia）の鑑別診断を行う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "認知症（dementia）の鑑別診断（アルツハイマー型・レビー小体型・血管性等の区別）は医師（専門医）が行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1869,7 +1869,7 @@
                   "groupId": "kaigo37_Q035",
                   "statement": "皮膚感覚が敏感になる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "加齢により皮膚感覚は低下（鈍感）になる傾向がある。敏感になるのではなく、触覚・痛覚・温覚の閾値が上昇する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1878,7 +1878,7 @@
                   "groupId": "kaigo37_Q036",
                   "statement": "Ｂさんには，友人との死別による悲嘆がみられる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "エイジズム（年齢差別）は高齢者を一括りにして否定的・ステレオタイプ的に扱う偏見・差別。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1887,7 +1887,7 @@
                   "groupId": "kaigo37_Q014",
                   "statement": "精神障害者は，法定雇用率の対象から除外されている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "週所定労働時間10時間以上20時間未満の短時間労働者も、雇用保険法の改正により一定条件を満たせば加入が認められる（2022年改正）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1896,7 +1896,7 @@
                   "groupId": "kaigo37_Q059",
                   "statement": "圧迫する部位は，胸骨の左側である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "心肺蘇生（CPR）の胸骨圧迫は胸骨の下半分（胸の真ん中）に手掌基部を当てて実施する。胸骨の左側ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1905,7 +1905,7 @@
                   "groupId": "kaigo37_Q062",
                   "statement": "胸やけは，飲食物による食道の熱傷のことである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "胸やけは胃酸が食道に逆流することで起こる症状（逆流性食道炎）。食道の熱傷（やけど）ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1914,7 +1914,7 @@
                   "groupId": "kaigo37_Q001",
                   "statement": "利用者の介護計画を作成するときに，他職種に専門的な助言を求める。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "介護福祉職のアドボカシー（権利擁護）として、利用者が希望を言い出しにくい場合でも意思をくみ取り、その実現に向けて働きかけることが求められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1923,7 +1923,7 @@
                   "groupId": "kaigo37_Q039",
                   "statement": "「予防」とは，「認知症（dementia）にならない」という意味である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症施策推進大綱（2019年）では「共生」と「予防」の両輪で施策を推進するための7つの柱が示された。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1932,7 +1932,7 @@
                   "groupId": "kaigo37_Q033",
                   "statement": "ロッキングチェアー（安楽椅子）型",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ロッキングチェア（安楽椅子）型の褥瘡は、座位での体重による圧迫で仙骨部に生じやすい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1941,7 +1941,7 @@
                   "groupId": "kaigo37_Q024",
                   "statement": "外界と接する組織は表皮である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "皮脂腺は真皮に存在し（皮下組織ではない）、皮脂を分泌して皮膚を保護する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1950,7 +1950,7 @@
                   "groupId": "kaigo37_Q011",
                   "statement": "施設サービスのケアプランの作成",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "施設サービス（特養等）のケアプランは施設の介護支援専門員（計画担当者）が作成する（居宅のケアマネとは異なる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1959,7 +1959,7 @@
                   "groupId": "kaigo37_Q016",
                   "statement": "保育所等訪問支援は，保育所等を訪問し，障害のある児童が集団生活に適応でき",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "保育所等訪問支援は、保育所等で集団生活に適応できるよう支援するサービス（障害のある児童が対象）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1968,7 +1968,7 @@
                   "groupId": "kaigo37_Q022",
                   "statement": "歯のエナメル質の侵(cid:7709)",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "歯のエナメル質は歯冠（歯の表面）を覆う最硬組織。酸や細菌により侵食（脱灰）されることで虫歯（う歯）が発生する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1977,7 +1977,7 @@
                   "groupId": "kaigo37_Q048",
                   "statement": "支援方針を検討する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "介護職がアセスメントで収集した情報をもとに支援方針を検討する際は、多職種チームで検討することが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1986,7 +1986,7 @@
                   "groupId": "kaigo37_Q045",
                   "statement": "認知症（dementia）の人の家族の意思を支援することである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "意思決定支援ガイドライン（2017年）では意思決定支援者は特定の職種に限定されず、家族・関係者・専門職等が幅広く担う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1995,7 +1995,7 @@
                   "groupId": "kaigo37_Q036",
                   "statement": "Ｂさんには，老性自覚はみられない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "エイジズム（年齢差別）は高齢者を一括りにして否定的・ステレオタイプ的に扱う偏見・差別。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2004,7 +2004,7 @@
                   "groupId": "kaigo37_Q062",
                   "statement": "腹部膨満感は，腹部が張る感覚のことである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "胸やけは胃酸が食道に逆流することで起こる症状（逆流性食道炎）。食道の熱傷（やけど）ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2013,7 +2013,7 @@
                   "groupId": "kaigo37_Q053",
                   "statement": "中途視覚障害者は，先天性の障害に比べて障害を受容しやすい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ロービジョンは視覚情報が全く得られない状態（全盲）ではなく、矯正しても生活に支障が生じる程度の視力低下の状態。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2022,7 +2022,7 @@
                   "groupId": "kaigo37_Q040",
                   "statement": "「ご飯を食べてから探してはどうですか」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "「私を疑っているんですか」という言葉は、認知症の物盗られ妄想への対応場面でよく見られる。否定せず共感的に関わることが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2031,7 +2031,7 @@
                   "groupId": "kaigo37_Q001",
                   "statement": "視覚障害者が必要とする情報を，利用しやすいようにする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "介護福祉職のアドボカシー（権利擁護）として、利用者が希望を言い出しにくい場合でも意思をくみ取り、その実現に向けて働きかけることが求められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2040,7 +2040,7 @@
                   "groupId": "kaigo37_Q061",
                   "statement": "口蓋垂まで吸引チューブを挿入する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "吸引チューブを回転させながら吸引することで粘膜への一点集中を避け、吸引効率を高めることができる（適切な技術）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2049,7 +2049,7 @@
                   "groupId": "kaigo37_Q021",
                   "statement": "鼻腔には毛細血管は少ない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "鼻腔（鼻）は咽頭→喉頭の順につながる。喉頭には声帯があり、その先で気管と食道に分かれる。鼻腔は喉頭に直接つながってはいない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2058,7 +2058,7 @@
                   "groupId": "kaigo37_Q012",
                   "statement": "第一号通所事業（通所型サービス）",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "第一号通所事業（通所型サービス）は市町村が実施する介護予防・日常生活支援総合事業の一部で、要支援者等が対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2067,7 +2067,7 @@
                   "groupId": "kaigo37_Q032",
                   "statement": "学童期に最も生じやすい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "摂食障害のうち神経性やせ症（拒食症）では太ることへの強い恐怖がみられる。過食症でも体重・体型への強いこだわりがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2076,7 +2076,7 @@
                   "groupId": "kaigo37_Q034",
                   "statement": "その場で新しい問題を解決する能力である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "流動性知能は新しい問題解決能力（加齢で低下）、結晶性知能は過去の知識・経験の活用能力（加齢でも比較的保持される）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2085,7 +2085,7 @@
                   "groupId": "kaigo37_Q038",
                   "statement": "心筋(cid:20279)塞（myocardial infarction）",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "脂質異常症（コレステロール・中性脂肪の異常）は動脈硬化・心疾患のリスクとなる。食事・運動療法と薬物療法が基本。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2094,7 +2094,7 @@
                   "groupId": "kaigo37_Q002",
                   "statement": "「どのようなときも，Ａさん自身で行ってもらうことが必要です」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "麻痺のある利用者への声かけは、痛みや感覚に配慮した言葉を使う。「痛くない」と断定するのではなく、状態を確認しながら丁寧に対応する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2103,7 +2103,7 @@
                   "groupId": "kaigo37_Q016",
                   "statement": "障害児通所支援の利用には，障害児支援利用計画の作成は不要である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "保育所等訪問支援は、保育所等で集団生活に適応できるよう支援するサービス（障害のある児童が対象）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2112,7 +2112,7 @@
                   "groupId": "kaigo37_Q007",
                   "statement": "評議員会を置く必要がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "社会福祉法人は評議員会の設置が義務付けられている（社会福祉法36条）。評議員会は理事の選任・監督を行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2121,7 +2121,7 @@
                   "groupId": "kaigo37_Q017",
                   "statement": "認知症高齢者を対象とした，共同生活の住居である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高齢者住まい法（高齢者の居住の安定確保に関する法律）に基づく住まいにはサービス付き高齢者向け住宅（サ高住）が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2130,7 +2130,7 @@
                   "groupId": "kaigo37_Q044",
                   "statement": "改訂長谷川式認知症スケール（HDS-R）",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "改訂長谷川式認知症スケール（HDS-R）は30点満点で、20点以下が認知症疑いの目安。記憶・見当識等9項目を評価する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2139,7 +2139,7 @@
                   "groupId": "kaigo37_Q005",
                   "statement": "介護福祉職の業務マニュアルを具体化する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "業務マニュアルの具体化や日々の業務改善を担うのは管理職・リーダーの役割。新任職員への教育も含む組織的な取り組みが必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2148,7 +2148,7 @@
                   "groupId": "kaigo37_Q047",
                   "statement": "主に認知症（dementia）が進行した人の入院治療を行う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症（dementia）の鑑別診断（アルツハイマー型・レビー小体型・血管性等の区別）は医師（専門医）が行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2157,7 +2157,7 @@
                   "groupId": "kaigo37_Q046",
                   "statement": "肩や背中から優しくゆっくりと触れる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症の人への身体接触（タッチング）は、肩や背中から穏やかに触れ始め、不意打ちとならないよう声をかけながら行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2166,7 +2166,7 @@
                   "groupId": "kaigo37_Q035",
                   "statement": "高音域の聴力が高まる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "加齢により皮膚感覚は低下（鈍感）になる傾向がある。敏感になるのではなく、触覚・痛覚・温覚の閾値が上昇する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2175,7 +2175,7 @@
                   "groupId": "kaigo37_Q040",
                   "statement": "「心配ですね，一緒に探しませんか」",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "「私を疑っているんですか」という言葉は、認知症の物盗られ妄想への対応場面でよく見られる。否定せず共感的に関わることが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2184,7 +2184,7 @@
                   "groupId": "kaigo37_Q008",
                   "statement": "都道府県が事業者の指定，指導，監督を行うサービスである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症対応型共同生活介護（グループホーム）では少人数（5〜9人）の家庭的な環境での共同生活支援を行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2193,7 +2193,7 @@
                   "groupId": "kaigo37_Q063",
                   "statement": "経管栄養が早く終わるように滴下速度を調節する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "経管栄養の滴下速度は医師の指示に従い適切な速度で実施する。早く終わらせるために速度を上げることは禁忌（嘔吐・誤嚥のリスク）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2202,7 +2202,7 @@
                   "groupId": "kaigo37_Q003",
                   "statement": "自我とは，日常行動に影響を与える，表面化していない意識のことである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "自己覚知とは、自分自身の感情・価値観・偏見等を理解すること。自分について話す（自己開示）とは異なる概念。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2211,7 +2211,7 @@
                   "groupId": "kaigo37_Q042",
                   "statement": "近時記憶（新しい記憶）の障害は，初期から始まる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "アルツハイマー型認知症では近時記憶（最近の出来事の記憶）の障害が初期から目立ち、遠隔記憶は比較的保たれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2220,7 +2220,7 @@
                   "groupId": "kaigo37_Q031",
                   "statement": "人見知りの反応は，2歳を過ぎたころに生じる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "人見知り（見慣れない人への不安反応）は生後6か月〜8か月頃に始まる。2歳を過ぎてからではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2229,7 +2229,7 @@
                   "groupId": "kaigo37_Q041",
                   "statement": "症状の変動が少ないことが特徴である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "植物状態は覚醒・意識は保たれているが自発的な行動は皆無な状態。遷延性意識障害（コーマ）とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2238,7 +2238,7 @@
                   "groupId": "kaigo37_Q053",
                   "statement": "白(cid:20282)には，視覚に障害があることを周囲に知らせる役目がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ロービジョンは視覚情報が全く得られない状態（全盲）ではなく、矯正しても生活に支障が生じる程度の視力低下の状態。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2247,7 +2247,7 @@
                   "groupId": "kaigo37_Q046",
                   "statement": "共感を通して，認知症（dementia）の人が体験している現実を受け入れる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症の人への身体接触（タッチング）は、肩や背中から穏やかに触れ始め、不意打ちとならないよう声をかけながら行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2256,7 +2256,7 @@
                   "groupId": "kaigo37_Q053",
                   "statement": "視覚障害者は，ガイドヘルパーの利用はできない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ロービジョンは視覚情報が全く得られない状態（全盲）ではなく、矯正しても生活に支障が生じる程度の視力低下の状態。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2265,7 +2265,7 @@
                   "groupId": "kaigo37_Q048",
                   "statement": "居宅サービス計画書を作成する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "介護職がアセスメントで収集した情報をもとに支援方針を検討する際は、多職種チームで検討することが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2274,7 +2274,7 @@
                   "groupId": "kaigo37_Q059",
                   "statement": "圧迫の深さは，胸が10cm沈むようにする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "心肺蘇生（CPR）の胸骨圧迫は胸骨の下半分（胸の真ん中）に手掌基部を当てて実施する。胸骨の左側ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2283,7 +2283,7 @@
                   "groupId": "kaigo37_Q013",
                   "statement": "第2号被保険者の保険料は，年金保険の保険料と合わせて徴収される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "第1号被保険者（65歳以上）の保険料は市町村が徴収する（年金から天引きまたは普通徴収）。都道府県は収納しない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2292,7 +2292,7 @@
                   "groupId": "kaigo37_Q045",
                   "statement": "身振りや表情の変化も意思表示として読み取る努力を最大限に行う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "意思決定支援ガイドライン（2017年）では意思決定支援者は特定の職種に限定されず、家族・関係者・専門職等が幅広く担う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2301,7 +2301,7 @@
                   "groupId": "kaigo37_Q021",
                   "statement": "鼻毛は塵や埃を除去する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "鼻腔（鼻）は咽頭→喉頭の順につながる。喉頭には声帯があり、その先で気管と食道に分かれる。鼻腔は喉頭に直接つながってはいない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2310,7 +2310,7 @@
                   "groupId": "kaigo37_Q011",
                   "statement": "地域密着型サービスの事業者の指導・監督",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "施設サービス（特養等）のケアプランは施設の介護支援専門員（計画担当者）が作成する（居宅のケアマネとは異なる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2319,7 +2319,7 @@
                   "groupId": "kaigo37_Q006",
                   "statement": "ユニットリーダーが気になっていることを詳しく聞く。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "先輩介護職が後輩に介助方法を教える場合、実際の利用者への介護を通じたOJT（職場内訓練）が有効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2328,7 +2328,7 @@
                   "groupId": "kaigo37_Q036",
                   "statement": "Ｂさんには，住み慣れた環境や仲間を喪失することへの不安がみられる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "エイジズム（年齢差別）は高齢者を一括りにして否定的・ステレオタイプ的に扱う偏見・差別。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2337,7 +2337,7 @@
                   "groupId": "kaigo37_Q017",
                   "statement": "介護サービスの提供が義務づけられている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高齢者住まい法（高齢者の居住の安定確保に関する法律）に基づく住まいにはサービス付き高齢者向け住宅（サ高住）が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2346,7 +2346,7 @@
                   "groupId": "kaigo37_Q041",
                   "statement": "夜間よりも日中に生じやすいことが特徴である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "植物状態は覚醒・意識は保たれているが自発的な行動は皆無な状態。遷延性意識障害（コーマ）とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2355,7 +2355,7 @@
                   "groupId": "kaigo37_Q043",
                   "statement": "歯がなくなることによる咀嚼機能の低下",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "歯の喪失による咀嚼機能低下は栄養摂取・認知機能にも影響する。義歯の使用や口腔ケアが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2364,7 +2364,7 @@
                   "groupId": "kaigo37_Q059",
                   "statement": "呼吸が確認できない場合は，すぐに圧迫を始める。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "心肺蘇生（CPR）の胸骨圧迫は胸骨の下半分（胸の真ん中）に手掌基部を当てて実施する。胸骨の左側ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2373,7 +2373,7 @@
                   "groupId": "kaigo37_Q055",
                   "statement": "両耳の聴力レベルが40dBで身体障害者手帳が交付される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "手話は聴覚障害者にとって有効なコミュニケーション手段であり、意思伝達に大いに役立つ（手話は言語として認められている）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2382,7 +2382,7 @@
                   "groupId": "kaigo37_Q052",
                   "statement": "新しい知識を覚えることが困難である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "失語症（言語障害）では言葉の表出（話すこと）と理解（聞くこと）の両方または一方が困難になる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2391,7 +2391,7 @@
                   "groupId": "kaigo37_Q002",
                   "statement": "「ご家族から自分で行うように，言われています」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "麻痺のある利用者への声かけは、痛みや感覚に配慮した言葉を使う。「痛くない」と断定するのではなく、状態を確認しながら丁寧に対応する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2400,7 +2400,7 @@
                   "groupId": "kaigo37_Q042",
                   "statement": "嚥下障害が多く現れるのは，初期の段階である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "アルツハイマー型認知症では近時記憶（最近の出来事の記憶）の障害が初期から目立ち、遠隔記憶は比較的保たれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2409,7 +2409,7 @@
                   "groupId": "kaigo37_Q007",
                   "statement": "設立時に所轄庁の認可は不要である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "社会福祉法人は評議員会の設置が義務付けられている（社会福祉法36条）。評議員会は理事の選任・監督を行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2418,7 +2418,7 @@
                   "groupId": "kaigo37_Q005",
                   "statement": "介護福祉職として必要な能力や経験を明確にする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "業務マニュアルの具体化や日々の業務改善を担うのは管理職・リーダーの役割。新任職員への教育も含む組織的な取り組みが必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2427,7 +2427,7 @@
                   "groupId": "kaigo37_Q031",
                   "statement": "イヤイヤをしてすぐに泣く行動は，第二反抗期に生じる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "人見知り（見慣れない人への不安反応）は生後6か月〜8か月頃に始まる。2歳を過ぎてからではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2436,7 +2436,7 @@
                   "groupId": "kaigo37_Q057",
                   "statement": "知的障害者から申し出があったので，会議に参加するための資料をわかりやすい",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "聴覚障害者への対応では、筆談・コミュニケーションボード等の代替手段を活用して意思疎通を図ることが求められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2445,7 +2445,7 @@
                   "groupId": "kaigo37_Q040",
                   "statement": "「ロッカーの上にあるのが見えないんですか」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "「私を疑っているんですか」という言葉は、認知症の物盗られ妄想への対応場面でよく見られる。否定せず共感的に関わることが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2454,7 +2454,7 @@
                   "groupId": "kaigo37_Q003",
                   "statement": "自己同一性の確立とは，自分とは何かという認識をもつことである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "自己覚知とは、自分自身の感情・価値観・偏見等を理解すること。自分について話す（自己開示）とは異なる概念。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2463,7 +2463,7 @@
                   "groupId": "kaigo37_Q038",
                   "statement": "骨粗鬆症（osteoporosis）",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "脂質異常症（コレステロール・中性脂肪の異常）は動脈硬化・心疾患のリスクとなる。食事・運動療法と薬物療法が基本。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2472,7 +2472,7 @@
                   "groupId": "kaigo37_Q062",
                   "statement": "嘔気は，胃や腸の内容物が，食道を逆流して口外に吐き出されることである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "胸やけは胃酸が食道に逆流することで起こる症状（逆流性食道炎）。食道の熱傷（やけど）ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2481,7 +2481,7 @@
                   "groupId": "kaigo37_Q063",
                   "statement": "医師や看護師にＡさんの思いを伝える。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "経管栄養の滴下速度は医師の指示に従い適切な速度で実施する。早く終わらせるために速度を上げることは禁忌（嘔吐・誤嚥のリスク）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2490,7 +2490,7 @@
                   "groupId": "kaigo37_Q014",
                   "statement": "2024年度（令和6年度）の事業主支援（助成金）は，2023年度（令和5年度）以前と",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "週所定労働時間10時間以上20時間未満の短時間労働者も、雇用保険法の改正により一定条件を満たせば加入が認められる（2022年改正）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2499,7 +2499,7 @@
                   "groupId": "kaigo37_Q001",
                   "statement": "利用者個人の趣味を生かして，レクリエーション活動を行う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "介護福祉職のアドボカシー（権利擁護）として、利用者が希望を言い出しにくい場合でも意思をくみ取り、その実現に向けて働きかけることが求められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2508,7 +2508,7 @@
                   "groupId": "kaigo37_Q012",
                   "statement": "認知症対応型共同生活介護（認知症高齢者グループホーム）",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "第一号通所事業（通所型サービス）は市町村が実施する介護予防・日常生活支援総合事業の一部で、要支援者等が対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2517,7 +2517,7 @@
                   "groupId": "kaigo37_Q060",
                   "statement": "咳は，下垂体にある咳中枢によっておこる反射運動である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "咳は喉頭・気管の咳受容体への刺激が迷走神経を介して延髄の咳中枢に伝わり起こる反射。下垂体ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2526,7 +2526,7 @@
                   "groupId": "kaigo37_Q028",
                   "statement": "レストレスレッグス症候群",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "レストレスレッグス症候群（むずむず脚症候群）は夜間に脚のむずむず感・不快感で眠れない神経疾患。鉄欠乏との関連が多い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2535,7 +2535,7 @@
                   "groupId": "kaigo37_Q060",
                   "statement": "痰は，咳や咳払いによって排出される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "咳は喉頭・気管の咳受容体への刺激が迷走神経を介して延髄の咳中枢に伝わり起こる反射。下垂体ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2544,7 +2544,7 @@
                   "groupId": "kaigo37_Q011",
                   "statement": "介護認定審査会の設置",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "施設サービス（特養等）のケアプランは施設の介護支援専門員（計画担当者）が作成する（居宅のケアマネとは異なる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2553,7 +2553,7 @@
                   "groupId": "kaigo37_Q052",
                   "statement": "些細なことですぐに興奮して怒鳴る。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "失語症（言語障害）では言葉の表出（話すこと）と理解（聞くこと）の両方または一方が困難になる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2562,7 +2562,7 @@
                   "groupId": "kaigo37_Q046",
                   "statement": "昔の写真や音楽を活用して，記憶を活性化する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "認知症の人への身体接触（タッチング）は、肩や背中から穏やかに触れ始め、不意打ちとならないよう声をかけながら行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2571,7 +2571,7 @@
                   "groupId": "kaigo37_Q035",
                   "statement": "暗順応の時間が延長する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "加齢により皮膚感覚は低下（鈍感）になる傾向がある。敏感になるのではなく、触覚・痛覚・温覚の閾値が上昇する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2580,7 +2580,7 @@
                   "groupId": "kaigo37_Q039",
                   "statement": "「共生」と「予防」を車の両輪として施策を推進していく。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "認知症施策推進大綱（2019年）では「共生」と「予防」の両輪で施策を推進するための7つの柱が示された。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2589,7 +2589,7 @@
                   "groupId": "kaigo37_Q007",
                   "statement": "収益事業は禁止されている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "社会福祉法人は評議員会の設置が義務付けられている（社会福祉法36条）。評議員会は理事の選任・監督を行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2598,7 +2598,7 @@
                   "groupId": "kaigo37_Q002",
                   "statement": "「それは自立につながらないので，車いすを押さないでください」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "麻痺のある利用者への声かけは、痛みや感覚に配慮した言葉を使う。「痛くない」と断定するのではなく、状態を確認しながら丁寧に対応する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2607,7 +2607,7 @@
                   "groupId": "kaigo37_Q050",
                   "statement": "障害のある人が，医学的リハビリテーションを受ける。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ストレングス（強み）視点は、障害のある人自身の能力・長所・意欲に着目して支援する考え方。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2616,7 +2616,7 @@
                   "groupId": "kaigo37_Q045",
                   "statement": "一度，意思決定したら，最後まで同じ内容で支援する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "意思決定支援ガイドライン（2017年）では意思決定支援者は特定の職種に限定されず、家族・関係者・専門職等が幅広く担う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2625,7 +2625,7 @@
                   "groupId": "kaigo37_Q062",
                   "statement": "しゃっくり（吃逆）は，胸膜の刺激で起こる現象である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "胸やけは胃酸が食道に逆流することで起こる症状（逆流性食道炎）。食道の熱傷（やけど）ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2634,7 +2634,7 @@
                   "groupId": "kaigo37_Q050",
                   "statement": "障害のある人が障害のない人と同等に生活し，活動する社会を目指す。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ストレングス（強み）視点は、障害のある人自身の能力・長所・意欲に着目して支援する考え方。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2643,7 +2643,7 @@
                   "groupId": "kaigo37_Q031",
                   "statement": "生後9か月から1歳ごろに，指をさして自分の関心や欲求を他者に伝えられるよ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "人見知り（見慣れない人への不安反応）は生後6か月〜8か月頃に始まる。2歳を過ぎてからではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2652,7 +2652,7 @@
                   "groupId": "kaigo37_Q040",
                   "statement": "「置いた場所を忘れたんですか」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "「私を疑っているんですか」という言葉は、認知症の物盗られ妄想への対応場面でよく見られる。否定せず共感的に関わることが重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2661,7 +2661,7 @@
                   "groupId": "kaigo37_Q007",
                   "statement": "所轄庁は内閣府である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "社会福祉法人は評議員会の設置が義務付けられている（社会福祉法36条）。評議員会は理事の選任・監督を行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2670,7 +2670,7 @@
                   "groupId": "kaigo37_Q047",
                   "statement": "事業の実施主体は，市町村である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症（dementia）の鑑別診断（アルツハイマー型・レビー小体型・血管性等の区別）は医師（専門医）が行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2679,7 +2679,7 @@
                   "groupId": "kaigo37_Q008",
                   "statement": "利用定員は，9人以下と定められている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "認知症対応型共同生活介護（グループホーム）では少人数（5〜9人）の家庭的な環境での共同生活支援を行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2688,7 +2688,7 @@
                   "groupId": "kaigo37_Q042",
                   "statement": "歩行障害が多く現れるのは，初期の段階である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "アルツハイマー型認知症では近時記憶（最近の出来事の記憶）の障害が初期から目立ち、遠隔記憶は比較的保たれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2697,7 +2697,7 @@
                   "groupId": "kaigo37_Q006",
                   "statement": "Ｃ介護福祉職の状況をユニット内のほかのメンバーと速やかに共有する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "先輩介護職が後輩に介助方法を教える場合、実際の利用者への介護を通じたOJT（職場内訓練）が有効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2706,7 +2706,7 @@
                   "groupId": "kaigo37_Q052",
                   "statement": "行動を計画して実行することが困難である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "失語症（言語障害）では言葉の表出（話すこと）と理解（聞くこと）の両方または一方が困難になる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2715,7 +2715,7 @@
                   "groupId": "kaigo37_Q015",
                   "statement": "自立支援給付は応益負担である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "地域生活支援事業は市町村・都道府県が実施主体（国が直接実施するわけではない）。相談支援・移動支援等が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2724,7 +2724,7 @@
                   "groupId": "kaigo37_Q061",
                   "statement": "吸引圧をかけた状態で，吸引チューブを挿入する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "吸引チューブを回転させながら吸引することで粘膜への一点集中を避け、吸引効率を高めることができる（適切な技術）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }

@@ -22,7 +22,7 @@
                   "groupId": "gesui_R7_Q47",
                   "statement": "滑り軸受を用いた電動機を⾧期間休止したときは、軸のジャーナル部分に腐食現象が生じることがあるので、慣らし運転はせずに運転前まで静置しておく。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "長期休止後に滑り軸受（ジャーナル軸受）を使用する電動機を起動する場合は、グリスまたは潤滑油を補充・確認し慣らし運転を行ってから本運転する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -31,7 +31,7 @@
                   "groupId": "gesui_R7_Q20",
                   "statement": "硝化の進行した活性汚泥混合液が最終沈殿池で無酸素状態となり、生物学的脱窒で発生した窒素ガスが汚泥を浮上させることがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "最終沈殿池で硝化の進んだ汚泥が無酸素状態になると脱窒反応が起こり窒素ガスが発生し、汚泥が浮上するライジング現象が生じる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -40,7 +40,7 @@
                   "groupId": "gesui_R7_Q47",
                   "statement": "軸受の良否判断は、運転中の音などで判断せず、必ず振動計などの計測器で数値判断する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "長期休止後に滑り軸受（ジャーナル軸受）を使用する電動機を起動する場合は、グリスまたは潤滑油を補充・確認し慣らし運転を行ってから本運転する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -49,7 +49,7 @@
                   "groupId": "gesui_R7_Q47",
                   "statement": "巻線や通風溝に付着した油やほこりは、水で湿らせた布できれいに取り除く。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "長期休止後に滑り軸受（ジャーナル軸受）を使用する電動機を起動する場合は、グリスまたは潤滑油を補充・確認し慣らし運転を行ってから本運転する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -58,7 +58,7 @@
                   "groupId": "gesui_R7_Q38",
                   "statement": "単段増速ブロワを始動するときは、吸込ベーンを最小開度（サージング回避開度）にして、放風弁を全開とする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "単段増速ブロワの始動手順は①吸込ベーンを全閉（またはサージング回避開度）→②放風弁を全開→③始動→④負荷に応じてベーン開度調整の順。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -67,7 +67,7 @@
                   "groupId": "gesui_R7_Q44",
                   "statement": "脱水汚泥の投入を開始するときは、焼却炉内の温度が脱水汚泥を投入するのに適した温度（概ね400～500℃）になってから行う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "焼却炉への汚泥投入は炉内温度が安定した後（適切な温度範囲：800〜900℃程度）に開始する。400〜500℃は低すぎる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -76,7 +76,7 @@
                   "groupId": "gesui_R7_Q23",
                   "statement": "濃縮する汚泥には、最初沈殿池で発生する初沈汚泥と最終沈殿池で発生する余剰汚泥とがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "汚泥の種類は初沈汚泥（最初沈殿池で発生、有機物が多い）と余剰汚泥（最終沈殿池・曝気槽から引き抜く）に大別される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -85,7 +85,7 @@
                   "groupId": "gesui_R7_Q14",
                   "statement": "消毒に用いられる波⾧域の紫外線は、細胞内の核酸に吸収され損傷を起こして微生物を不活化させる作用がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "紫外線消毒では紫外線（主に254nm）が微生物のDNA・RNAに吸収されて損傷を与え、不活化させる。塩素消毒とは異なる原理。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -94,7 +94,7 @@
                   "groupId": "gesui_R7_Q28",
                   "statement": "よう素消費量の高い排水は、溶存酸素を消費するため、生物処理機能を阻害する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "よう素消費量の高い排水には還元性物質（硫化物・亜硫酸等）が多く含まれ、DO（溶存酸素）を消費して生物処理を阻害する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -103,7 +103,7 @@
                   "groupId": "gesui_R7_Q10",
                   "statement": "ＭＬＤＯ濃度は、反応タンク内混合液の溶存酸素濃度を表すものである。― Ⅲ－5 ―",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "MLDO（Mixed Liquor Dissolved Oxygen）濃度は活性汚泥反応槽内の溶存酸素（DO）濃度を指し、好気処理の管理に用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -112,7 +112,7 @@
                   "groupId": "gesui_R7_Q43",
                   "statement": "汚泥の固形物滞留時間が必要以上に⾧いと、汚泥が腐敗する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "汚泥の固形物滞留時間（SRT）が長すぎると汚泥の自己酸化が進み汚泥の腐敗・臭気が問題となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -121,7 +121,7 @@
                   "groupId": "gesui_R7_Q49",
                   "statement": "開削により取付け管を取り替えるときは、流れを考慮し鋭角に屈曲するように布設し、継手は水密にするとともに。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "取付け管（取り付け管）は本管に対して90°に近い角度（直角に近く鋭角を避けた）で接合し、流れをスムーズにする。鋭角に屈曲させると詰まりの原因になる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -130,7 +130,7 @@
                   "groupId": "gesui_R7_Q14",
                   "statement": "紫外線は、赤外線と可視光線との間の波⾧域の電磁波であり、消毒に最も適している波⾧は、ＵＶ－Ｃと呼ばれる1,000ｎｍである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "紫外線消毒では紫外線（主に254nm）が微生物のDNA・RNAに吸収されて損傷を与え、不活化させる。塩素消毒とは異なる原理。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -139,7 +139,7 @@
                   "groupId": "gesui_R7_Q51",
                   "statement": "規制基準には、敷地境界線の規制基準、煙突等の気体排出口の規制基準、排出水の規制基準がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "騒音規制法・振動規制法の規制基準には敷地境界基準・特定建設作業の基準等がある。煙突からの気体排出は大気汚染防止法の規制対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -148,7 +148,7 @@
                   "groupId": "gesui_R7_Q57",
                   "statement": "消化タンク内は、外気が混入しないよう負圧に保つようにする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "消化タンクは嫌気性消化（メタン発酵）を行う密閉タンクで、発生した消化ガス（CH₄等）を回収するため内部は正圧に保つ（負圧は不適切）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -157,7 +157,7 @@
                   "groupId": "gesui_R7_Q06",
                   "statement": "出力1,000ｋＷ以上の発電設備に係るガスタービンエンジン",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "出力1,000kW以上のガスタービンエンジンはNOx等の大気汚染物質排出施設として規制対象となる（大気汚染防止法2条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -166,7 +166,7 @@
                   "groupId": "gesui_R7_Q47",
                   "statement": "巻線型誘導電動機のブラシは、一般に摩耗が規定値に達したときに取替えることが望ましい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "長期休止後に滑り軸受（ジャーナル軸受）を使用する電動機を起動する場合は、グリスまたは潤滑油を補充・確認し慣らし運転を行ってから本運転する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -175,7 +175,7 @@
                   "groupId": "gesui_R7_Q39",
                   "statement": "2,000ｍｇ／Ｌ 10％― Ⅲ－19 ―",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "活性汚泥濃度（MLSS）2000mg/L・汚泥容量指数（SVI）10%等の管理指標は生物反応タンクの運転管理に用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -184,7 +184,7 @@
                   "groupId": "gesui_R7_Q20",
                   "statement": "糸状性微生物の増殖により、活性汚泥が膨化すると最終沈殿池の活性汚泥界面が上昇し、汚泥が流出することがある。― Ⅲ－10 ―",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "最終沈殿池で硝化の進んだ汚泥が無酸素状態になると脱窒反応が起こり窒素ガスが発生し、汚泥が浮上するライジング現象が生じる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -193,7 +193,7 @@
                   "groupId": "gesui_R7_Q23",
                   "statement": "遠心濃縮では、必要に応じ、前処理設備として、除砂、除塵設備及び破砕設備を設ける。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "汚泥の種類は初沈汚泥（最初沈殿池で発生、有機物が多い）と余剰汚泥（最終沈殿池・曝気槽から引き抜く）に大別される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -202,7 +202,7 @@
                   "groupId": "gesui_R7_Q42",
                   "statement": "速度制御装置には、二次抵抗制御方式とインバータ制御方式があり、現在、経済性に優れている二次抵抗制御方式が広く使用されている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "インバータ制御方式は二次抵抗制御より省エネ性能が高く、現在広く普及している。二次抵抗制御は古い方式。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -211,7 +211,7 @@
                   "groupId": "gesui_R7_Q35",
                   "statement": "全閉形（人体及び固形異物に関する保護形式）の電動機は、直径1ｍｍを超える固形異物が侵入しない構造である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全閉形電動機（IP保護等級IP44等）は直径1mmを超える固形異物の侵入を防ぐ構造だが、完全密閉（防水）ではない機種もある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -220,7 +220,7 @@
                   "groupId": "gesui_R7_Q34",
                   "statement": "ＢＣＰとは、震災時の最低限の機能確保をより確実なものとするため、下水道施設が被災した場合を想定して。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "BCP（事業継続計画）は震災等の災害時に施設が被災した場合を想定し、最低限の機能を確保・継続するための計画。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -229,7 +229,7 @@
                   "groupId": "gesui_R7_Q26",
                   "statement": "採水は原則として、事業場の立入検査後に公共ますで行う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "排水採水は立入検査後ではなく、通常の操業状態（立入前または操業中）に公共ますで採取するのが適切（水質汚濁防止法）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -238,7 +238,7 @@
                   "groupId": "gesui_R7_Q22",
                   "statement": "ガスホルダには、低圧式と中圧式とがあり、さらに低圧式には水トラップで消化ガスをシールする湿式と、ゴム製のベローズ等でシールする乾式がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "消化ガスホルダーには水封式（湿式）とゴム製ベローズ・膜式（乾式）がある。低圧式・中圧式に分類される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -247,7 +247,7 @@
                   "groupId": "gesui_R7_Q49",
                   "statement": "汚水ますには、ます底に泥だめがないため、清掃は付着した汚物等を高圧洗浄車やケレン棒等でくずして除去する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "取付け管（取り付け管）は本管に対して90°に近い角度（直角に近く鋭角を避けた）で接合し、流れをスムーズにする。鋭角に屈曲させると詰まりの原因になる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -256,7 +256,7 @@
                   "groupId": "gesui_R7_Q15",
                   "statement": "短時間の中で水質の変化が著しい場合は、手くみによる採水が適さない場合があるので自動採水により採水する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水質が短時間で大きく変動する場合（合流式雨天時等）は、グラブ採水ではなく自動採水機による複数時点の採水が適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -265,7 +265,7 @@
                   "groupId": "gesui_R7_Q02",
                   "statement": "排出水とは、特定施設を設置する工場又は事業場から公共用水域に排出される水をいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "排出水とは水質汚濁防止法の定義で、特定施設から公共用水域に排出される水（工場排水等）をいう。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -274,7 +274,7 @@
                   "groupId": "gesui_R7_Q10",
                   "statement": "汚泥日令は、活性汚泥法の処理施設の運転管理に用いる指標の1つで、下水処理場に流入する浮遊物質が処理場内に滞留する平均時間を示すものである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "MLDO（Mixed Liquor Dissolved Oxygen）濃度は活性汚泥反応槽内の溶存酸素（DO）濃度を指し、好気処理の管理に用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -283,7 +283,7 @@
                   "groupId": "gesui_R7_Q46",
                   "statement": "圧入式スクリュープレス脱水機は、スクリュー回転数の増加に伴い脱水汚泥含水率は上昇する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクリュープレス脱水機ではスクリュー回転数を増加させると、汚泥の搬送速度が上がり処理量は増えるが脱水ケーキ含水率は上昇（含水率が高くなる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -292,7 +292,7 @@
                   "groupId": "gesui_R7_Q09",
                   "statement": "特別管理一般廃棄物とは、一般廃棄物のうち、爆発性、毒性。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "特別管理一般廃棄物は一般廃棄物のうち爆発性・毒性・感染性等がある廃棄物（廃棄物処理法2条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -301,7 +301,7 @@
                   "groupId": "gesui_R7_Q23",
                   "statement": "機械濃縮には、遠心濃縮、常圧浮上濃縮、ベルト式ろ過濃縮等がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "汚泥の種類は初沈汚泥（最初沈殿池で発生、有機物が多い）と余剰汚泥（最終沈殿池・曝気槽から引き抜く）に大別される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -310,7 +310,7 @@
                   "groupId": "gesui_R7_Q41",
                   "statement": "異常物質が下水道施設内に流入してしまった場合、早急に水処理施設に流入させ、可能な限り処理を行う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "異常物質流入時は水処理施設への流入を可能な限り遮断・希釈し、バイパスや貯留槽での対応を優先して処理系への影響を最小化する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -319,7 +319,7 @@
                   "groupId": "gesui_R7_Q14",
                   "statement": "目や皮膚に紫外線の照射を直接受けないよう、紫外線消毒装置には、保護装置等安全対策を設ける。― Ⅲ－7 ―",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "紫外線消毒では紫外線（主に254nm）が微生物のDNA・RNAに吸収されて損傷を与え、不活化させる。塩素消毒とは異なる原理。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -328,7 +328,7 @@
                   "groupId": "gesui_R7_Q34",
                   "statement": "脱窒とは、亜硝酸性窒素や硝酸性窒素が窒素ガスに還元されることをいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "BCP（事業継続計画）は震災等の災害時に施設が被災した場合を想定し、最低限の機能を確保・継続するための計画。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -337,7 +337,7 @@
                   "groupId": "gesui_R7_Q15",
                   "statement": "手くみによる試料採取は、水面までの距離が遠い場合に適しており、ひしゃくやバケツが用いられる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水質が短時間で大きく変動する場合（合流式雨天時等）は、グラブ採水ではなく自動採水機による複数時点の採水が適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -346,7 +346,7 @@
                   "groupId": "gesui_R7_Q50",
                   "statement": "管きょ内に堆積した土砂の吸引作業及び切り崩し作業においては、高濃度の硫化水素が発生するおそれがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "管きょ内の堆積土砂吸引作業中は硫化水素が高濃度発生するリスクがあり、酸素濃度・硫化水素濃度の測定・換気・送気マスクの着用が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -355,7 +355,7 @@
                   "groupId": "gesui_R7_Q31",
                   "statement": "凝集沈殿法で生成したふっ化カルシウムのフロックは大きく、沈殿しやすい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "フッ素含有排水の処理では、消石灰を添加してフッ化カルシウム（難溶性）として沈殿除去する凝集沈殿法が用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -364,7 +364,7 @@
                   "groupId": "gesui_R7_Q50",
                   "statement": "管きょの清掃及びしゅんせつのその日の作業終了後には、当該作業場の酸素及び硫化水素の濃度を測定し、記録として保存しなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "管きょ内の堆積土砂吸引作業中は硫化水素が高濃度発生するリスクがあり、酸素濃度・硫化水素濃度の測定・換気・送気マスクの着用が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -373,7 +373,7 @@
                   "groupId": "gesui_R7_Q03",
                   "statement": "生物化学的酸素要求量 1Ｌにつき5日間に15ｍｇ以下",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "下水道法の放流水基準として、BOD（生物化学的酸素要求量）は15mg/L（日平均）以下が原則として定められている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -382,7 +382,7 @@
                   "groupId": "gesui_R7_Q58",
                   "statement": "作業を開始する前及び作業中に測定した作業場所の酸素濃度及び硫化水素ガス濃度の測定結果は、記録し30日間保存しなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "酸素欠乏危険作業中の酸素・硫化水素濃度の測定記録の保存期間は3年（酸欠則）。30日間は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -391,7 +391,7 @@
                   "groupId": "gesui_R7_Q39",
                   "statement": "1,000ｍｇ／Ｌ 50％",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "活性汚泥濃度（MLSS）2000mg/L・汚泥容量指数（SVI）10%等の管理指標は生物反応タンクの運転管理に用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -400,7 +400,7 @@
                   "groupId": "gesui_R7_Q14",
                   "statement": "紫外線の消毒効果は、下水の性質、接触時間、温度等によって影響される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "紫外線消毒では紫外線（主に254nm）が微生物のDNA・RNAに吸収されて損傷を与え、不活化させる。塩素消毒とは異なる原理。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -409,7 +409,7 @@
                   "groupId": "gesui_R7_Q33",
                   "statement": "最初沈殿池では、下水中の有機物を主体とする比重の大きいＳＳを沈殿分離する。― Ⅲ－16 ―",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "最初沈殿池は下水中の固形物（SS）を重力沈降で除去する施設。比重の大きい無機性SSが主体で、有機物は二次処理（活性汚泥法等）で処理。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -418,7 +418,7 @@
                   "groupId": "gesui_R7_Q60",
                   "statement": "酸素欠乏危険作業中は警報付き測定器具によるガス検知を行い、異常を感知したら直ちに退避できる体制を整えておく。― Ⅲ－28 ―",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "酸素欠乏危険作業中は連続的なガス測定と警報体制、緊急時の退避経路・手順の確保が義務付けられている（酸欠則）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -427,7 +427,7 @@
                   "groupId": "gesui_R7_Q06",
                   "statement": "原動機の定格出力が7.5ｋＷ以上の空気圧縮機",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "出力1,000kW以上のガスタービンエンジンはNOx等の大気汚染物質排出施設として規制対象となる（大気汚染防止法2条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -436,7 +436,7 @@
                   "groupId": "gesui_R7_Q59",
                   "statement": "薬品が目に入ったときは、十分に洗い落とし、痛みが治まるまで安静にする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "薬品が目に入った場合は直ちに多量の水で15分以上洗浄し、その後医師の診察を受ける。痛みが治まるまで安静は不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -445,7 +445,7 @@
                   "groupId": "gesui_R7_Q51",
                   "statement": "規制には、特定悪臭物質の濃度による規制、臭気指数による規制及び1年間に排出する特定悪臭物質の総量による規制がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "騒音規制法・振動規制法の規制基準には敷地境界基準・特定建設作業の基準等がある。煙突からの気体排出は大気汚染防止法の規制対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -454,7 +454,7 @@
                   "groupId": "gesui_R7_Q03",
                   "statement": "窒素含有量 1Ｌにつき20ｍｇ以下",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "下水道法の放流水基準として、BOD（生物化学的酸素要求量）は15mg/L（日平均）以下が原則として定められている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -463,7 +463,7 @@
                   "groupId": "gesui_R7_Q40",
                   "statement": "中圧紫外線ランプは、低圧ランプより高密度に光エネルギーを取り出せるが、低圧に比べエネルギー効率が低い。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "中圧紫外線ランプは広い波長域の光を発するため単独では効率が低いが、高圧力で高出力を得られる。低圧ランプは254nmに特化し効率が高い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -472,7 +472,7 @@
                   "groupId": "gesui_R7_Q41",
                   "statement": "平常時でも硫化水素が発生している場所がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "異常物質流入時は水処理施設への流入を可能な限り遮断・希釈し、バイパスや貯留槽での対応を優先して処理系への影響を最小化する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -481,7 +481,7 @@
                   "groupId": "gesui_R7_Q36",
                   "statement": "受電時の相回転及び二次側電圧等の各種計測値が正常であるかどうかを確認する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "受電時は相回転（相順）・電圧（各相）・電流等が正常値範囲内であることを確認してから系統に接続する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -490,7 +490,7 @@
                   "groupId": "gesui_R7_Q09",
                   "statement": "国内において生じた廃棄物は、なるべく国内において適正に処理されなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "特別管理一般廃棄物は一般廃棄物のうち爆発性・毒性・感染性等がある廃棄物（廃棄物処理法2条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -499,7 +499,7 @@
                   "groupId": "gesui_R7_Q20",
                   "statement": "流入下水量の時間変動等により最終沈殿池の水面積負荷が小さくなると、最終沈殿池から汚泥が流出しやすくなる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "最終沈殿池で硝化の進んだ汚泥が無酸素状態になると脱窒反応が起こり窒素ガスが発生し、汚泥が浮上するライジング現象が生じる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -508,7 +508,7 @@
                   "groupId": "gesui_R7_Q52",
                   "statement": "振動の測定にあたり、測定器の指示値が周期的又は間欠的に変動する場合は、その変動ごとの最大値の平均値を測定値とする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "振動測定で指示値が周期的・間欠的に変動する場合は、変動ごとの最大値の平均値を測定値とする（振動規制法施行規則別表）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -517,7 +517,7 @@
                   "groupId": "gesui_R7_Q49",
                   "statement": "取付け管には、曲管が使用され、急な勾配を持っているので異状現象が本管と異なるため、判定には注意が必要である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "取付け管（取り付け管）は本管に対して90°に近い角度（直角に近く鋭角を避けた）で接合し、流れをスムーズにする。鋭角に屈曲させると詰まりの原因になる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -526,7 +526,7 @@
                   "groupId": "gesui_R7_Q54",
                   "statement": "下水処理施設では、電力の使用に伴うＣＯ 排出の他に、処理工程から2ＣＨ や、Ｎ Ｏなどが排出される。4 2",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "下水処理施設から排出されるGHG（温室効果ガス）にはCO₂（電力由来）・CH₄（メタン、汚泥の嫌気分解由来）・N₂O（亜酸化窒素、硝化・脱窒由来）がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -535,7 +535,7 @@
                   "groupId": "gesui_R7_Q40",
                   "statement": "低圧紫外線ランプは、殺菌効果の高い波⾧の紫外線を効率よく発生する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "中圧紫外線ランプは広い波長域の光を発するため単独では効率が低いが、高圧力で高出力を得られる。低圧ランプは254nmに特化し効率が高い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -544,7 +544,7 @@
                   "groupId": "gesui_R7_Q52",
                   "statement": "学校、保育所、病院等、図書館及び特別養護老人ホームの敷地周辺のおおむね50ｍの区域内における騒音及び振動の規制基準は。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "振動測定で指示値が周期的・間欠的に変動する場合は、変動ごとの最大値の平均値を測定値とする（振動規制法施行規則別表）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -553,7 +553,7 @@
                   "groupId": "gesui_R7_Q36",
                   "statement": "受電回路等の絶縁耐力試験を行い、必要がある場合は絶縁抵抗測定を行う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "受電時は相回転（相順）・電圧（各相）・電流等が正常値範囲内であることを確認してから系統に接続する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -562,7 +562,7 @@
                   "groupId": "gesui_R7_Q35",
                   "statement": "乾式水中モータは、完全水密構造で、水中と陸上の双方で使用できるが、0.75ｋＷ以下の小型のものしかない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全閉形電動機（IP保護等級IP44等）は直径1mmを超える固形異物の侵入を防ぐ構造だが、完全密閉（防水）ではない機種もある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -571,7 +571,7 @@
                   "groupId": "gesui_R7_Q10",
                   "statement": "ＨＲＴは、反応タンクにおける流入から流出までの平均的な時間を表すものである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "MLDO（Mixed Liquor Dissolved Oxygen）濃度は活性汚泥反応槽内の溶存酸素（DO）濃度を指し、好気処理の管理に用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -580,7 +580,7 @@
                   "groupId": "gesui_R7_Q54",
                   "statement": "温室効果ガス総排出量は、下水道における対象物質ごとの排出量に、それぞれの地球温暖化係数を乗じて、その合計値を二酸化炭素2換算値として求める。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "下水処理施設から排出されるGHG（温室効果ガス）にはCO₂（電力由来）・CH₄（メタン、汚泥の嫌気分解由来）・N₂O（亜酸化窒素、硝化・脱窒由来）がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -589,7 +589,7 @@
                   "groupId": "gesui_R7_Q46",
                   "statement": "多重板型スクリュープレス脱水機は、スクリュー回転数が低いと、脱水汚泥含水率は低下し、固形物処理量は少なくなる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクリュープレス脱水機ではスクリュー回転数を増加させると、汚泥の搬送速度が上がり処理量は増えるが脱水ケーキ含水率は上昇（含水率が高くなる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -598,7 +598,7 @@
                   "groupId": "gesui_R7_Q06",
                   "statement": "出力1,000ｋＷ以上の発電設備に係るディーゼルエンジン― Ⅲ－3 ―",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "出力1,000kW以上のガスタービンエンジンはNOx等の大気汚染物質排出施設として規制対象となる（大気汚染防止法2条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -607,7 +607,7 @@
                   "groupId": "gesui_R7_Q18",
                   "statement": "活性汚泥による生物反応は、一つの酸化還元反応系であり、ＯＲＰは、好気条件下では負電位、嫌気条件下では正電位となる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ORP（酸化還元電位）は好気条件下で正電位、嫌気・無酸素条件下で負電位となる（問題文は正負が逆）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -616,7 +616,7 @@
                   "groupId": "gesui_R7_Q10",
                   "statement": "微生物の代謝に関与する酵素活性は、ｐＨの影響を受けるので、反応タンクのｐＨは6.0～8.5程度に保つことが望ましい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "MLDO（Mixed Liquor Dissolved Oxygen）濃度は活性汚泥反応槽内の溶存酸素（DO）濃度を指し、好気処理の管理に用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -625,7 +625,7 @@
                   "groupId": "gesui_R7_Q15",
                   "statement": "専用の採取口から試料を採取するときは、採取管内にたまっている内容物も一緒に採取する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水質が短時間で大きく変動する場合（合流式雨天時等）は、グラブ採水ではなく自動採水機による複数時点の採水が適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -634,7 +634,7 @@
                   "groupId": "gesui_R7_Q42",
                   "statement": "高圧コンビネーションスタータは、高圧交流電磁接触器と限流形電力ヒューズを組み合わせた装置である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "インバータ制御方式は二次抵抗制御より省エネ性能が高く、現在広く普及している。二次抵抗制御は古い方式。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -643,7 +643,7 @@
                   "groupId": "gesui_R7_Q01",
                   "statement": "下水道とは、下水を排除するために設けられる排水管、排水きょその他の排水施設。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "下水道法上の「下水道」とは、下水を排除するための排水管・排水きょその他の排水施設と、これを補完するポンプ施設・処理施設等の総体をいう。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -652,7 +652,7 @@
                   "groupId": "gesui_R7_Q05",
                   "statement": "公共下水道管理者は、公共下水道の維持管理のうち排水施設の維持管理については、政令で定める資格を有する者以外の者に行わせてはならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "公共下水道の排水施設の維持管理は政令で定める資格（下水道技術検定等）を有する者が行わなければならない（下水道法10条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -661,7 +661,7 @@
                   "groupId": "gesui_R7_Q40",
                   "statement": "紫外線ランプの保証寿命は、1～1.5年を標準とし、消耗品は適正な期間で交換する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "中圧紫外線ランプは広い波長域の光を発するため単独では効率が低いが、高圧力で高出力を得られる。低圧ランプは254nmに特化し効率が高い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -670,7 +670,7 @@
                   "groupId": "gesui_R7_Q51",
                   "statement": "臭気指数は、臭気を感じなくなるまで試料を無臭空気で希釈したときの希釈倍数（臭気濃度）を求め、この常用対数値を10倍した値で表す。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "騒音規制法・振動規制法の規制基準には敷地境界基準・特定建設作業の基準等がある。煙突からの気体排出は大気汚染防止法の規制対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -679,7 +679,7 @@
                   "groupId": "gesui_R7_Q26",
                   "statement": "事業場側が同時採水を希望する場合、排水をいったんポリバケツ等に採水し、そこからポリ容器等に水質がなるべく均等になるよう分注する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "排水採水は立入検査後ではなく、通常の操業状態（立入前または操業中）に公共ますで採取するのが適切（水質汚濁防止法）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -688,7 +688,7 @@
                   "groupId": "gesui_R7_Q60",
                   "statement": "換気装置は、送排風機及び送排風ダクトによって、酸素欠乏危険場所の空気を新鮮な空気と入れ替えるもので。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "酸素欠乏危険作業中は連続的なガス測定と警報体制、緊急時の退避経路・手順の確保が義務付けられている（酸欠則）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -697,7 +697,7 @@
                   "groupId": "gesui_R7_Q19",
                   "statement": "硝化の促進により、活性汚泥混合液のｐＨが低下する場合、硫酸アルミニウムなどの凝集剤の添加によりｐＨを回復できる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "硝化反応（NH₄⁺→NO₃⁻）は酸消費反応でpHが低下する。pHの回復には石灰（消石灰）の添加が有効。硫酸アルミニウムは凝集剤でpH調整には用いない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -706,7 +706,7 @@
                   "groupId": "gesui_R7_Q44",
                   "statement": "焼却炉の運転状況の異常の場合、脱水汚泥投入を減少することで解消する場合が多い。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "焼却炉への汚泥投入は炉内温度が安定した後（適切な温度範囲：800〜900℃程度）に開始する。400〜500℃は低すぎる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -715,7 +715,7 @@
                   "groupId": "gesui_R7_Q28",
                   "statement": "よう素消費量とは、排水中に含まれる酸化性物質の指標である。― Ⅲ－14 ―",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "よう素消費量の高い排水には還元性物質（硫化物・亜硫酸等）が多く含まれ、DO（溶存酸素）を消費して生物処理を阻害する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -724,7 +724,7 @@
                   "groupId": "gesui_R7_Q33",
                   "statement": "最終沈殿池の引抜き汚泥は、返送汚泥を除き反応タンクに余剰汚泥として循環して使用する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "最初沈殿池は下水中の固形物（SS）を重力沈降で除去する施設。比重の大きい無機性SSが主体で、有機物は二次処理（活性汚泥法等）で処理。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -733,7 +733,7 @@
                   "groupId": "gesui_R7_Q38",
                   "statement": "多段ターボブロワの運転中に風量を調節する場合は、吐出し側の風量調節弁で調節を行うほうがよい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "単段増速ブロワの始動手順は①吸込ベーンを全閉（またはサージング回避開度）→②放風弁を全開→③始動→④負荷に応じてベーン開度調整の順。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -742,7 +742,7 @@
                   "groupId": "gesui_R7_Q59",
                   "statement": "水質試験室の床は、薬品の持ち運び等で滑らないように清掃を心掛ける。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "薬品が目に入った場合は直ちに多量の水で15分以上洗浄し、その後医師の診察を受ける。痛みが治まるまで安静は不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -751,7 +751,7 @@
                   "groupId": "gesui_R7_Q48",
                   "statement": "内燃機関によって駆動する雨水ポンプの場合、いつでも始動できるように燃料貯油槽の油量、空気槽の圧力、冷却水槽の貯水量等を確認する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "雨水ポンプは緊急起動が必要なため、燃料・圧縮空気・冷却水の確認を日常的に行い、いつでも稼働できる状態を維持する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -760,7 +760,7 @@
                   "groupId": "gesui_R7_Q28",
                   "statement": "排水中のたんぱく質等の腐敗により硫化水素が生成すると、よう素消費量は高くなることがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "よう素消費量の高い排水には還元性物質（硫化物・亜硫酸等）が多く含まれ、DO（溶存酸素）を消費して生物処理を阻害する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -769,7 +769,7 @@
                   "groupId": "gesui_R7_Q24",
                   "statement": "無機凝集剤は、圧入式スクリュープレス脱水機の主凝集剤として使用され、凝集助剤として塩化第二鉄及び消石灰が用いられることが多い。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "スクリュープレス脱水機では高分子凝集剤（ポリマー）が主凝集剤として用いられ、塩化第二鉄や消石灰は補助的（前処理）に使用される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -778,7 +778,7 @@
                   "groupId": "gesui_R7_Q06",
                   "statement": "定格出力が7.5ｋＷ以上の水中ポンプ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "出力1,000kW以上のガスタービンエンジンはNOx等の大気汚染物質排出施設として規制対象となる（大気汚染防止法2条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -787,7 +787,7 @@
                   "groupId": "gesui_R7_Q43",
                   "statement": "水面積負荷が大きすぎると、分離液のＳＳが増える。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "汚泥の固形物滞留時間（SRT）が長すぎると汚泥の自己酸化が進み汚泥の腐敗・臭気が問題となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -796,7 +796,7 @@
                   "groupId": "gesui_R7_Q34",
                   "statement": "先行待機運転とは、ポンプ場への急激な流入が想定される場合に、ポンプが運転水位に達する前に揚水可能な状態でポンプを始動させておくことである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "BCP（事業継続計画）は震災等の災害時に施設が被災した場合を想定し、最低限の機能を確保・継続するための計画。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -805,7 +805,7 @@
                   "groupId": "gesui_R7_Q24",
                   "statement": "高分子凝集剤は、カチオン性ポリマ、アニオン性ポリマ、両性ポリマ等に分類されるが、一般に下水汚泥にはカチオン性ポリマを使用する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクリュープレス脱水機では高分子凝集剤（ポリマー）が主凝集剤として用いられ、塩化第二鉄や消石灰は補助的（前処理）に使用される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -814,7 +814,7 @@
                   "groupId": "gesui_R7_Q55",
                   "statement": "作業のために足掛け金物を利用する際は、あらかじめ足掛け金物が腐食していないかどうかを確認する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "管きょ内作業前に足掛け金物（ステップ）の腐食・損傷を確認することは転落防止の観点から重要（酸欠則・安衛規則）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -823,7 +823,7 @@
                   "groupId": "gesui_R7_Q19",
                   "statement": "硝化反応が中途半端に進行した場合、処理水中にアンモニア性窒素と硝化細菌が同時に残留するとＢＯＤ測定の際に残留したアンモニア性窒素が酸化され。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "硝化反応（NH₄⁺→NO₃⁻）は酸消費反応でpHが低下する。pHの回復には石灰（消石灰）の添加が有効。硫酸アルミニウムは凝集剤でpH調整には用いない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -832,7 +832,7 @@
                   "groupId": "gesui_R7_Q22",
                   "statement": "有効利用できなかった未利用の余剰ガスは、大気中に放散できないため、安全性や無害化のため燃焼させる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "消化ガスホルダーには水封式（湿式）とゴム製ベローズ・膜式（乾式）がある。低圧式・中圧式に分類される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -841,7 +841,7 @@
                   "groupId": "gesui_R7_Q57",
                   "statement": "消化タンクに隣接する配管室は、消化ガスが漏れたときに速やかに排除できるように、換気装置を設置する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "消化タンクは嫌気性消化（メタン発酵）を行う密閉タンクで、発生した消化ガス（CH₄等）を回収するため内部は正圧に保つ（負圧は不適切）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -850,7 +850,7 @@
                   "groupId": "gesui_R7_Q46",
                   "statement": "遠心脱水機では、差速が遅いほど脱水汚泥含水率は高くなる。― Ⅲ－22 ―",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "スクリュープレス脱水機ではスクリュー回転数を増加させると、汚泥の搬送速度が上がり処理量は増えるが脱水ケーキ含水率は上昇（含水率が高くなる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -859,7 +859,7 @@
                   "groupId": "gesui_R7_Q01",
                   "statement": "排水区域とは、処理区域のうち排除された下水を終末処理場により処理することができる地域で、下水道整備区域である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "下水道法上の「下水道」とは、下水を排除するための排水管・排水きょその他の排水施設と、これを補完するポンプ施設・処理施設等の総体をいう。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -868,7 +868,7 @@
                   "groupId": "gesui_R7_Q60",
                   "statement": "酸素濃度及び硫化水素濃度を測定する場合は、計測した濃度が測定点によってに著しい差がでることがあるため。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "酸素欠乏危険作業中は連続的なガス測定と警報体制、緊急時の退避経路・手順の確保が義務付けられている（酸欠則）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -877,7 +877,7 @@
                   "groupId": "gesui_R7_Q23",
                   "statement": "機械濃縮しにくい余剰汚泥等は、重力濃縮とするケースが多い。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "汚泥の種類は初沈汚泥（最初沈殿池で発生、有機物が多い）と余剰汚泥（最終沈殿池・曝気槽から引き抜く）に大別される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -886,7 +886,7 @@
                   "groupId": "gesui_R7_Q20",
                   "statement": "ＭＬＳＳ濃度が高くなる程、沈降速度は低下し、一定以上にＭＬＳＳ濃度を増加させると最終沈殿池から汚泥が流出することがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "最終沈殿池で硝化の進んだ汚泥が無酸素状態になると脱窒反応が起こり窒素ガスが発生し、汚泥が浮上するライジング現象が生じる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -895,7 +895,7 @@
                   "groupId": "gesui_R7_Q52",
                   "statement": "騒音の規制地域内にある特定施設は規制対象となるが、下水道施設は、政令に定める騒音規制の対象外となる。― Ⅲ－25 ―",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "振動測定で指示値が周期的・間欠的に変動する場合は、変動ごとの最大値の平均値を測定値とする（振動規制法施行規則別表）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -904,7 +904,7 @@
                   "groupId": "gesui_R7_Q36",
                   "statement": "受電開始の操作手順は、電力会社の定める連絡先と連絡をとり、責任分界点である開閉器の電源側端子まで送電されていることを確認して。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "受電時は相回転（相順）・電圧（各相）・電流等が正常値範囲内であることを確認してから系統に接続する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -913,7 +913,7 @@
                   "groupId": "gesui_R7_Q07",
                   "statement": "都道府県知事は、規制地域の指定をし、及び規制基準を定めるときは、環境省令で定めるところにより公示しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "振動規制法では都道府県知事が規制地域の指定・規制基準を定め、公示しなければならない（振動規制法3条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -922,7 +922,7 @@
                   "groupId": "gesui_R7_Q01",
                   "statement": "都市下水路とは、主として市街地における下水を排除するために地方公共団体が管理している下水道で、その規模が政令で定める規模以上のものをいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "下水道法上の「下水道」とは、下水を排除するための排水管・排水きょその他の排水施設と、これを補完するポンプ施設・処理施設等の総体をいう。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -931,7 +931,7 @@
                   "groupId": "gesui_R7_Q01",
                   "statement": "下水とは、生活若しくは事業（耕作の事業を除く。）に起因し、若しくは付随する廃水又は雨水をいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "下水道法上の「下水道」とは、下水を排除するための排水管・排水きょその他の排水施設と、これを補完するポンプ施設・処理施設等の総体をいう。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -940,7 +940,7 @@
                   "groupId": "gesui_R7_Q55",
                   "statement": "停電作業の場合は、電源の切り忘れ等による感電事故も考えられるので、作業の前には必ず検電器やテスター等で検電する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "管きょ内作業前に足掛け金物（ステップ）の腐食・損傷を確認することは転落防止の観点から重要（酸欠則・安衛規則）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -949,7 +949,7 @@
                   "groupId": "gesui_R7_Q31",
                   "statement": "凝集沈殿法では、水素イオン指数ｐＨ6.0～8.0に制御する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "フッ素含有排水の処理では、消石灰を添加してフッ化カルシウム（難溶性）として沈殿除去する凝集沈殿法が用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -958,7 +958,7 @@
                   "groupId": "gesui_R7_Q18",
                   "statement": "生物学的りん除去法の嫌気タンクにおけるりん放出のためには、嫌気状態の保持が重要であり、嫌気状態の程度はＯＲＰにより判断できる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ORP（酸化還元電位）は好気条件下で正電位、嫌気・無酸素条件下で負電位となる（問題文は正負が逆）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -967,7 +967,7 @@
                   "groupId": "gesui_R7_Q26",
                   "statement": "立入検査は抜き打ちで実施するのが基本であるが、抜き打ちで立入検査を行うと、事業場内に入れない場合がある。― Ⅲ－13 ―",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "排水採水は立入検査後ではなく、通常の操業状態（立入前または操業中）に公共ますで採取するのが適切（水質汚濁防止法）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -976,7 +976,7 @@
                   "groupId": "gesui_R7_Q34",
                   "statement": "嫌気とは、脱窒や生物学的りん除去を扱う上では、溶存酸素のみが存在しない状態をいう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "BCP（事業継続計画）は震災等の災害時に施設が被災した場合を想定し、最低限の機能を確保・継続するための計画。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -985,7 +985,7 @@
                   "groupId": "gesui_R7_Q09",
                   "statement": "廃棄物とは、ごみ、粗大ごみ、燃え殻、汚泥その他の汚物又は不要物であって、固形状又は液状のもの（放射性物質及びこれによって汚染された物を含む。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "特別管理一般廃棄物は一般廃棄物のうち爆発性・毒性・感染性等がある廃棄物（廃棄物処理法2条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -994,7 +994,7 @@
                   "groupId": "gesui_R7_Q36",
                   "statement": "工具等の置き忘れの有無及び作業用の保安接地線の撤去を確認する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "受電時は相回転（相順）・電圧（各相）・電流等が正常値範囲内であることを確認してから系統に接続する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1003,7 +1003,7 @@
                   "groupId": "gesui_R7_Q22",
                   "statement": "湿式脱硫装置には、水洗浄式、酸洗浄式及び薬液再生式がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "消化ガスホルダーには水封式（湿式）とゴム製ベローズ・膜式（乾式）がある。低圧式・中圧式に分類される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1012,7 +1012,7 @@
                   "groupId": "gesui_R7_Q58",
                   "statement": "作業場所に下水や汚泥が溜まっている場合は、下水や汚泥をかくはんせずに濃度測定を行う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "酸素欠乏危険作業中の酸素・硫化水素濃度の測定記録の保存期間は3年（酸欠則）。30日間は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1021,7 +1021,7 @@
                   "groupId": "gesui_R7_Q56",
                   "statement": "停電作業が完了し通電する前に、電気主任技術者または作業責任者は、接地の取り外しを確認・記録するとともに、作業工具の員数確認を必ず行う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "停電作業完了・通電前の確認事項：接地の取り外し確認・作業工具の員数確認・作業者の退避確認等を電気主任技術者または作業責任者が行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1030,7 +1030,7 @@
                   "groupId": "gesui_R7_Q44",
                   "statement": "汚泥焼却中の炉内圧力は、負圧に保たなければならない。― Ⅲ－21 ―",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "焼却炉への汚泥投入は炉内温度が安定した後（適切な温度範囲：800〜900℃程度）に開始する。400〜500℃は低すぎる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1039,7 +1039,7 @@
                   "groupId": "gesui_R7_Q02",
                   "statement": "汚水等とは、公共用水域に排出されるすべての汚水又は廃液をいう。― Ⅲ－1 ―",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "排出水とは水質汚濁防止法の定義で、特定施設から公共用水域に排出される水（工場排水等）をいう。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1048,7 +1048,7 @@
                   "groupId": "gesui_R7_Q42",
                   "statement": "動力制御盤は、配線用遮断器や電磁開閉器等を負荷ごとに区画せずに任意に配置したものである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "インバータ制御方式は二次抵抗制御より省エネ性能が高く、現在広く普及している。二次抵抗制御は古い方式。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1057,7 +1057,7 @@
                   "groupId": "gesui_R7_Q05",
                   "statement": "公共下水道管理者は、公共下水道を適正に管理するため必要な限度において、特定施設の設置者から。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "公共下水道の排水施設の維持管理は政令で定める資格（下水道技術検定等）を有する者が行わなければならない（下水道法10条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1066,7 +1066,7 @@
                   "groupId": "gesui_R7_Q54",
                   "statement": "一酸化二窒素（Ｎ Ｏ）の地球温暖化係数は、メタン（ＣＨ ）の係数2 4より小さい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "下水処理施設から排出されるGHG（温室効果ガス）にはCO₂（電力由来）・CH₄（メタン、汚泥の嫌気分解由来）・N₂O（亜酸化窒素、硝化・脱窒由来）がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1075,7 +1075,7 @@
                   "groupId": "gesui_R7_Q55",
                   "statement": "ベルトコンベヤ等の低速運転機器は、注意して作業すれば、機器を停止させずに点検や整備を行うことができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "管きょ内作業前に足掛け金物（ステップ）の腐食・損傷を確認することは転落防止の観点から重要（酸欠則・安衛規則）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1084,7 +1084,7 @@
                   "groupId": "gesui_R7_Q31",
                   "statement": "凝集沈殿法に用いられる薬品に、水酸化カルシウムがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "フッ素含有排水の処理では、消石灰を添加してフッ化カルシウム（難溶性）として沈殿除去する凝集沈殿法が用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1093,7 +1093,7 @@
                   "groupId": "gesui_R7_Q38",
                   "statement": "容積形回転式ブロワでは、一般的には、回転数制御による風量調節が行われているが、回転数を下げると効率は著しく低下する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "単段増速ブロワの始動手順は①吸込ベーンを全閉（またはサージング回避開度）→②放風弁を全開→③始動→④負荷に応じてベーン開度調整の順。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1102,7 +1102,7 @@
                   "groupId": "gesui_R7_Q26",
                   "statement": "採水を行う際は、採水器を当該排水で洗って（共洗い）から採水する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "排水採水は立入検査後ではなく、通常の操業状態（立入前または操業中）に公共ますで採取するのが適切（水質汚濁防止法）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1111,7 +1111,7 @@
                   "groupId": "gesui_R7_Q50",
                   "statement": "集中豪雨等によって予期せず流量が増加することがあるため、作業前はもちろんのこと作業中も気象情報を確認する。― Ⅲ－24 ―",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "管きょ内の堆積土砂吸引作業中は硫化水素が高濃度発生するリスクがあり、酸素濃度・硫化水素濃度の測定・換気・送気マスクの着用が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1120,7 +1120,7 @@
                   "groupId": "gesui_R7_Q31",
                   "statement": "二段沈殿法は、上澄水に残存するふっ化イオンに対し、硫酸アルミニウムと水酸化カルシウムを添加して再度沈殿除去する処理方法である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "フッ素含有排水の処理では、消石灰を添加してフッ化カルシウム（難溶性）として沈殿除去する凝集沈殿法が用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1129,7 +1129,7 @@
                   "groupId": "gesui_R7_Q51",
                   "statement": "都道府県知事（市の区域内の地域については、市⾧）及び特別区の⾧が悪臭に関する規制基準を定めることとしている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "騒音規制法・振動規制法の規制基準には敷地境界基準・特定建設作業の基準等がある。煙突からの気体排出は大気汚染防止法の規制対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1138,7 +1138,7 @@
                   "groupId": "gesui_R7_Q50",
                   "statement": "検査のため、人の住居に使用する建築物に立入る場合においては、あらかじめ居住者の承諾を得なければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "管きょ内の堆積土砂吸引作業中は硫化水素が高濃度発生するリスクがあり、酸素濃度・硫化水素濃度の測定・換気・送気マスクの着用が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1147,7 +1147,7 @@
                   "groupId": "gesui_R7_Q56",
                   "statement": "人身事故防止のため、短絡接地器具を取り付けたままで停電作業を行う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "停電作業完了・通電前の確認事項：接地の取り外し確認・作業工具の員数確認・作業者の退避確認等を電気主任技術者または作業責任者が行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1156,7 +1156,7 @@
                   "groupId": "gesui_R7_Q28",
                   "statement": "よう素消費量が高い排水の排出源として、繊維工業、印刷業、化学工業等がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "よう素消費量の高い排水には還元性物質（硫化物・亜硫酸等）が多く含まれ、DO（溶存酸素）を消費して生物処理を阻害する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1165,7 +1165,7 @@
                   "groupId": "gesui_R7_Q32",
                   "statement": "水処理施設における高度処理とは、一次処理及び二次処理では十分に除去できない有機塩素化合物の除去を行うことである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高度処理とは二次処理では除去しきれない窒素・リン・難分解性有機物・微量有害物質等を除去する処理。有機塩素化合物の除去も含まれる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1174,7 +1174,7 @@
                   "groupId": "gesui_R7_Q43",
                   "statement": "固形物負荷が高いと、固形物回収率が上昇する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "汚泥の固形物滞留時間（SRT）が長すぎると汚泥の自己酸化が進み汚泥の腐敗・臭気が問題となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1183,7 +1183,7 @@
                   "groupId": "gesui_R7_Q58",
                   "statement": "作業場所では、酸素濃度を18％以上、かつ硫化水素ガス濃度を20ｐｐｍ以下に保つように、換気する必要がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "酸素欠乏危険作業中の酸素・硫化水素濃度の測定記録の保存期間は3年（酸欠則）。30日間は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1192,7 +1192,7 @@
                   "groupId": "gesui_R7_Q03",
                   "statement": "浮遊物質量 1Ｌにつき70ｍｇ以下",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "下水道法の放流水基準として、BOD（生物化学的酸素要求量）は15mg/L（日平均）以下が原則として定められている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1201,7 +1201,7 @@
                   "groupId": "gesui_R7_Q57",
                   "statement": "メタンガスを含む消化ガスは、5～15倍量の空気が混合すると点火源により爆発する危険性がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "消化タンクは嫌気性消化（メタン発酵）を行う密閉タンクで、発生した消化ガス（CH₄等）を回収するため内部は正圧に保つ（負圧は不適切）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1210,7 +1210,7 @@
                   "groupId": "gesui_R7_Q52",
                   "statement": "騒音及び振動の規制基準は、区域の区分によって異なり、その上限値は、第1種区域より第2種区域のほうが大きい値である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "振動測定で指示値が周期的・間欠的に変動する場合は、変動ごとの最大値の平均値を測定値とする（振動規制法施行規則別表）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1219,7 +1219,7 @@
                   "groupId": "gesui_R7_Q03",
                   "statement": "りん含有量 1Ｌにつき3ｍｇ以下",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "下水道法の放流水基準として、BOD（生物化学的酸素要求量）は15mg/L（日平均）以下が原則として定められている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1228,7 +1228,7 @@
                   "groupId": "gesui_R7_Q39",
                   "statement": "2,000ｍｇ／Ｌ 15％",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "活性汚泥濃度（MLSS）2000mg/L・汚泥容量指数（SVI）10%等の管理指標は生物反応タンクの運転管理に用いられる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1237,7 +1237,7 @@
                   "groupId": "gesui_R7_Q05",
                   "statement": "公共下水道管理者は、政令で定めるところにより公共下水道からの放流水の水質検査を行い、その結果を記録しておかなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "公共下水道の排水施設の維持管理は政令で定める資格（下水道技術検定等）を有する者が行わなければならない（下水道法10条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1246,7 +1246,7 @@
                   "groupId": "gesui_R7_Q24",
                   "statement": "汚泥粒子表面は、負に帯電し反発し合っているため、正の電荷をもつイオンを添加すると、表面電荷が中和され、汚泥の固液分離、脱水性が改善される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクリュープレス脱水機では高分子凝集剤（ポリマー）が主凝集剤として用いられ、塩化第二鉄や消石灰は補助的（前処理）に使用される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1255,7 +1255,7 @@
                   "groupId": "gesui_R7_Q41",
                   "statement": "雨天時における異常流入発生の場合、水処理機能維持よりも沈砂・しさ除去機能を優先させる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "異常物質流入時は水処理施設への流入を可能な限り遮断・希釈し、バイパスや貯留槽での対応を優先して処理系への影響を最小化する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1264,7 +1264,7 @@
                   "groupId": "gesui_R7_Q12",
                   "statement": "50ｍ3／日― Ⅲ－6 ―",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "下水道法では50m³/日未満の工場・事業場等が特定事業場に対する特定施設の規定の適用基準の目安とされている（施設の種類による）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1273,7 +1273,7 @@
                   "groupId": "gesui_R7_Q32",
                   "statement": "固着生物法とは、固体表面に生物膜を発生させ、これに下水を接触させて有機物及び栄養塩類を分解する方法である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "高度処理とは二次処理では除去しきれない窒素・リン・難分解性有機物・微量有害物質等を除去する処理。有機塩素化合物の除去も含まれる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1282,7 +1282,7 @@
                   "groupId": "gesui_R7_Q48",
                   "statement": "大型のポンプは始動や停止を頻繁に繰り返すことでの電動機の温度上昇を防ぐために、なるべく断続運転になるよう吐出弁の開度で調節する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "雨水ポンプは緊急起動が必要なため、燃料・圧縮空気・冷却水の確認を日常的に行い、いつでも稼働できる状態を維持する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1291,7 +1291,7 @@
                   "groupId": "gesui_R7_Q59",
                   "statement": "処理場で使用する薬品の多くは、人体に触れると危険であり、又、流出した場合には処理場の施設や場外まで危害を及ぼすおそれがあるため。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "薬品が目に入った場合は直ちに多量の水で15分以上洗浄し、その後医師の診察を受ける。痛みが治まるまで安静は不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1300,7 +1300,7 @@
                   "groupId": "gesui_R7_Q56",
                   "statement": "停電作業を行うときは、配電盤の遮断器の閉路が行われていることを確認した後、断路器を開路し、盤に施錠するなど保安措置を行う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "停電作業完了・通電前の確認事項：接地の取り外し確認・作業工具の員数確認・作業者の退避確認等を電気主任技術者または作業責任者が行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1309,7 +1309,7 @@
                   "groupId": "gesui_R7_Q35",
                   "statement": "巻線形電動機は、始動トルクが大きく、かつ、始動電流が制限される場合及び始動時間が⾧い場合に使用される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全閉形電動機（IP保護等級IP44等）は直径1mmを超える固形異物の侵入を防ぐ構造だが、完全密閉（防水）ではない機種もある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1318,7 +1318,7 @@
                   "groupId": "gesui_R7_Q33",
                   "statement": "最初沈殿池の役割は、一次処理及び生物処理のための予備的処理を行うことである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "最初沈殿池は下水中の固形物（SS）を重力沈降で除去する施設。比重の大きい無機性SSが主体で、有機物は二次処理（活性汚泥法等）で処理。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1327,7 +1327,7 @@
                   "groupId": "gesui_R7_Q40",
                   "statement": "低圧紫外線ランプは、ランプの表面温度が高く、石英スリーブへの汚れが付着しやすい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "中圧紫外線ランプは広い波長域の光を発するため単独では効率が低いが、高圧力で高出力を得られる。低圧ランプは254nmに特化し効率が高い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1336,7 +1336,7 @@
                   "groupId": "gesui_R7_Q24",
                   "statement": "高分子凝集剤の添加率は、無機凝集剤に比べると非常に少ないため、凝集剤の添加による発生脱水汚泥量の増加はなく。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクリュープレス脱水機では高分子凝集剤（ポリマー）が主凝集剤として用いられ、塩化第二鉄や消石灰は補助的（前処理）に使用される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }

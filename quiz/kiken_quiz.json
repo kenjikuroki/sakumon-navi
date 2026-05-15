@@ -22,7 +22,7 @@
                   "groupId": "kiken_sample_Q21",
                   "statement": "静電気現象が起こるのは、摩擦などによって陽子の移動が起こり、一方が陽子を得て正に、他方が陽子を失い負に帯電するためである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "静電気は摩擦等により電子（陽子ではない）が移動して生じる。電子を得た方が負、失った方が正に帯電する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -31,7 +31,7 @@
                   "groupId": "kiken_sample_Q06",
                   "statement": "危険物を取り扱うにあたって静電気が発生するおそれのある設備には、静電気を有効に除去する装置を設けなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "危険物取扱設備での静電気対策として接地（アース）装置の設置が義務付けられている（危険物政令28条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -40,7 +40,7 @@
                   "groupId": "kiken_sample_Q32",
                   "statement": "塗料などの溶剤として使用されている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "軽油・灯油・トルエン等は塗料の溶剤・希釈剤として使用される。第4類引火性液体の用途の一つ。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -49,7 +49,7 @@
                   "groupId": "kiken_sample_Q33",
                   "statement": "水、エタノールに溶ける。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "エタノール（アルコール）は水とエタノールに溶ける水溶性の引火性液体（第4類アルコール類）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -58,7 +58,7 @@
                   "groupId": "kiken_sample_Q26",
                   "statement": "第6類の危険物は、不燃性であるが酸化力が強く、多くは腐食性があり、蒸気は有毒である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "第6類危険物（過酸化水素・硝酸等）は不燃性だが強い酸化力を持ち、可燃物と接触すると発火・爆発の危険がある。腐食性・毒性がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -67,7 +67,7 @@
                   "groupId": "kiken_sample_Q32",
                   "statement": "淡黄色の液体である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "軽油・灯油・トルエン等は塗料の溶剤・希釈剤として使用される。第4類引火性液体の用途の一つ。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -76,7 +76,7 @@
                   "groupId": "kiken_sample_Q34",
                   "statement": "常温（20℃）で引火の危険性がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "引火点が常温（20℃）以下の危険物は常温での引火危険がある。ガソリン（引火点-40℃）・エタノール（引火点13℃）等が該当。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -85,7 +85,7 @@
                   "groupId": "kiken_sample_Q22",
                   "statement": "107 kJ/mol",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "燃焼の活性化エネルギーや反応エンタルピー（107kJ/mol等）は燃焼の難易・危険性に関係する熱化学的指標。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -94,7 +94,7 @@
                   "groupId": "kiken_sample_Q27",
                   "statement": "発生する蒸気は、なるべく屋外の低所に排出する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "引火性液体（第4類）の蒸気は空気より重いため低所に滞留する。排出は屋外の低所ではなく高所（蒸気が拡散する場所）に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -103,7 +103,7 @@
                   "groupId": "kiken_sample_Q19",
                   "statement": "二酸化炭素消火剤は、使用によって室内の二酸化炭素濃度が高くなっても人体に悪影響を及ぼすおそれはない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "二酸化炭素消火剤は窒息消火であり、高濃度では酸素欠乏による人体への悪影響（窒息）がある。密閉空間での使用は特に危険。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -112,7 +112,7 @@
                   "groupId": "kiken_sample_Q12",
                   "statement": "危険物取扱者が乗車しなければならないのは、危険等級Ⅰの危険物を移送する場合のみである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "危険物取扱者が乗車して監督しなければならない移送は、指定数量以上の危険物を移送する場合（危険等級を問わず）（消防法16条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -121,7 +121,7 @@
                   "groupId": "kiken_sample_Q09",
                   "statement": "点検を行った危険物取扱者若しくは危険物施設保安員又は点検に立ち会った危険物取扱者の氏名",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "定期点検の記録には点検実施者の氏名・点検年月日・点検方法・点検内容が含まれる（危険物政令8条の5）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -130,7 +130,7 @@
                   "groupId": "kiken_sample_Q07",
                   "statement": "製造所の構造を変更するときは、市町村長等の変更の許可を受けなければ、工事に着手できない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "製造所等の構造変更（増設・改造等）には市町村長等の許可が必要で、許可前の工事着手は禁止（消防法11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -139,7 +139,7 @@
                   "groupId": "kiken_sample_Q25",
                   "statement": "沸点は外圧が高くなると低くなる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "沸点は外圧（大気圧）が高くなると上昇（低くなるは誤り）。高山では気圧が低いため沸点が下がりお湯が低温で沸く。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -148,7 +148,7 @@
                   "groupId": "kiken_sample_Q06",
                   "statement": "危険物を取り扱う機械器具その他の設備は、危険物のもれ、あふれ又は飛散を防止する構造としなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "危険物取扱設備での静電気対策として接地（アース）装置の設置が義務付けられている（危険物政令28条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -157,7 +157,7 @@
                   "groupId": "kiken_sample_Q29",
                   "statement": "可燃性蒸気を滞留させないため、貯蔵場所の通風や換気をよく行うこと。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "引火性液体の蒸気滞留防止には十分な通風・換気（換気装置の設置）が有効。蒸気は空気より重いので低所の換気が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -166,7 +166,7 @@
                   "groupId": "kiken_sample_Q12",
                   "statement": "移動貯蔵タンクから引火点が40℃未満の危険物を他のタンクに注入するときは、移動タンク貯蔵所の原動機を停止させなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "危険物取扱者が乗車して監督しなければならない移送は、指定数量以上の危険物を移送する場合（危険等級を問わず）（消防法16条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -175,7 +175,7 @@
                   "groupId": "kiken_sample_Q33",
                   "statement": "比重は1より大きい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "エタノール（アルコール）は水とエタノールに溶ける水溶性の引火性液体（第4類アルコール類）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -184,7 +184,7 @@
                   "groupId": "kiken_sample_Q31",
                   "statement": "灯油と間違わないように、淡青色に着色されている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ガソリンは危険等級Ⅰで引火点が-40℃以下と極めて低い。淡黄色に着色（オレンジ・黄色系）されている。淡青色は一般的ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -193,7 +193,7 @@
                   "groupId": "kiken_sample_Q19",
                   "statement": "二酸化炭素消火剤は、電気絶縁性に優れていることから電気火災に適している。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "二酸化炭素消火剤は窒息消火であり、高濃度では酸素欠乏による人体への悪影響（窒息）がある。密閉空間での使用は特に危険。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -202,7 +202,7 @@
                   "groupId": "kiken_sample_Q06",
                   "statement": "危険物を加圧する設備又は危険物の圧力が上昇するおそれのある設備には、圧力計及び規則で定める安全装置を設けなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "危険物取扱設備での静電気対策として接地（アース）装置の設置が義務付けられている（危険物政令28条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -211,7 +211,7 @@
                   "groupId": "kiken_sample_Q21",
                   "statement": "物体間で電荷のやりとりがあっても、電気量の総和は変わらない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "静電気は摩擦等により電子（陽子ではない）が移動して生じる。電子を得た方が負、失った方が正に帯電する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -220,7 +220,7 @@
                   "groupId": "kiken_sample_Q35",
                   "statement": "無色無臭の液体である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "無色無臭の液体である第4類危険物には灯油・軽油・ガソリン等があるが、ガソリンは特有の臭気を持つ。無色・無臭の例は純粋なアルコール等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -229,7 +229,7 @@
                   "groupId": "kiken_sample_Q07",
                   "statement": "製造所の保有空地を変更するときは、市町村長等の変更の許可が必要である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "製造所等の構造変更（増設・改造等）には市町村長等の許可が必要で、許可前の工事着手は禁止（消防法11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -238,7 +238,7 @@
                   "groupId": "kiken_sample_Q29",
                   "statement": "引火を防止するため、みだりに火気を近づけないこと。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "引火性液体の蒸気滞留防止には十分な通風・換気（換気装置の設置）が有効。蒸気は空気より重いので低所の換気が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -247,7 +247,7 @@
                   "groupId": "kiken_sample_Q09",
                   "statement": "点検をした製造所等の名称",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "定期点検の記録には点検実施者の氏名・点検年月日・点検方法・点検内容が含まれる（危険物政令8条の5）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -256,7 +256,7 @@
                   "groupId": "kiken_sample_Q30",
                   "statement": "軽油の火災にハロゲン化物消火剤を使用した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "軽油（第4類第2石油類）の火災にはハロゲン化物消火剤・粉末消火剤・泡消火剤等が有効。二酸化炭素消火剤も使用可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -265,7 +265,7 @@
                   "groupId": "kiken_sample_Q06",
                   "statement": "危険物を加熱し、若しくは冷却する設備又は危険物の取扱により温度の変化が起る設備には、温度測定装置を設けなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "危険物取扱設備での静電気対策として接地（アース）装置の設置が義務付けられている（危険物政令28条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -274,7 +274,7 @@
                   "groupId": "kiken_sample_Q14",
                   "statement": "第2類の危険物にあっては、「衝撃注意」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "容器への表示で第2類危険物（可燃性固体）には「火気注意」の表示が必要。「衝撃注意」は第1類等の場合。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -283,7 +283,7 @@
                   "groupId": "kiken_sample_Q31",
                   "statement": "引火点は、－40℃以下である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ガソリンは危険等級Ⅰで引火点が-40℃以下と極めて低い。淡黄色に着色（オレンジ・黄色系）されている。淡青色は一般的ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -292,7 +292,7 @@
                   "groupId": "kiken_sample_Q12",
                   "statement": "移送のため乗車している危険物取扱者は、移動タンク貯蔵所の走行中に消防吏員から停止を命じられ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "危険物取扱者が乗車して監督しなければならない移送は、指定数量以上の危険物を移送する場合（危険等級を問わず）（消防法16条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -301,7 +301,7 @@
                   "groupId": "kiken_sample_Q30",
                   "statement": "ガソリンの火災に棒状の水を使用した。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "軽油（第4類第2石油類）の火災にはハロゲン化物消火剤・粉末消火剤・泡消火剤等が有効。二酸化炭素消火剤も使用可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -310,7 +310,7 @@
                   "groupId": "kiken_sample_Q05",
                   "statement": "りん酸塩類等の粉末を使用する消火器",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "りん酸塩類粉末消火器は油火災（B火災）・電気火災（C火災）に有効だが、金属火災（D火災）には対応していない場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -319,7 +319,7 @@
                   "groupId": "kiken_sample_Q14",
                   "statement": "第5類の危険物にあっては、「取扱注意」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "容器への表示で第2類危険物（可燃性固体）には「火気注意」の表示が必要。「衝撃注意」は第1類等の場合。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -328,7 +328,7 @@
                   "groupId": "kiken_sample_Q25",
                   "statement": "状態の変化には熱エネルギーの出入りが伴う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "沸点は外圧（大気圧）が高くなると上昇（低くなるは誤り）。高山では気圧が低いため沸点が下がりお湯が低温で沸く。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -337,7 +337,7 @@
                   "groupId": "kiken_sample_Q26",
                   "statement": "第5類の危険物は、燃焼速度が極めて大きく、加熱、衝撃、摩擦などにより発火・爆発のおそれがある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "第6類危険物（過酸化水素・硝酸等）は不燃性だが強い酸化力を持ち、可燃物と接触すると発火・爆発の危険がある。腐食性・毒性がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -346,7 +346,7 @@
                   "groupId": "kiken_sample_Q31",
                   "statement": "流動により静電気が発生しやすい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ガソリンは危険等級Ⅰで引火点が-40℃以下と極めて低い。淡黄色に着色（オレンジ・黄色系）されている。淡青色は一般的ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -355,7 +355,7 @@
                   "groupId": "kiken_sample_Q32",
                   "statement": "引火点は35℃以下である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "軽油・灯油・トルエン等は塗料の溶剤・希釈剤として使用される。第4類引火性液体の用途の一つ。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -364,7 +364,7 @@
                   "groupId": "kiken_sample_Q19",
                   "statement": "不活性ガス消火剤には、二酸化炭素や窒素などがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "二酸化炭素消火剤は窒息消火であり、高濃度では酸素欠乏による人体への悪影響（窒息）がある。密閉空間での使用は特に危険。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -373,7 +373,7 @@
                   "groupId": "kiken_sample_Q27",
                   "statement": "かくはんや流動に伴う静電気の発生をできるだけ抑制する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "引火性液体（第4類）の蒸気は空気より重いため低所に滞留する。排出は屋外の低所ではなく高所（蒸気が拡散する場所）に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -382,7 +382,7 @@
                   "groupId": "kiken_sample_Q14",
                   "statement": "第4類の危険物にあっては、「火気厳禁」",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "容器への表示で第2類危険物（可燃性固体）には「火気注意」の表示が必要。「衝撃注意」は第1類等の場合。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -391,7 +391,7 @@
                   "groupId": "kiken_sample_Q11",
                   "statement": "指定数量の倍数が30を超える危険物を容器に詰め替える一般取扱所",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "指定数量の倍数が30を超える一般取扱所は、消防長（消防署長）への届出だけでなく製造所等としての許可・規制の対象となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -400,7 +400,7 @@
                   "groupId": "kiken_sample_Q34",
                   "statement": "水やエタノールに任意の割合で溶解する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "引火点が常温（20℃）以下の危険物は常温での引火危険がある。ガソリン（引火点-40℃）・エタノール（引火点13℃）等が該当。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -409,7 +409,7 @@
                   "groupId": "kiken_sample_Q02",
                   "statement": "製造所等における危険物保安監督者及び危険物取扱者の責務を定めた規程をいう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "危険物保安監督者及び危険物取扱者の責務を定めた規程を「予防規程」という（消防法14条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -418,7 +418,7 @@
                   "groupId": "kiken_sample_Q11",
                   "statement": "指定数量の倍数が30を超える引火点が40℃以上の第4類の危険物のみを取り扱う販売取扱所",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "指定数量の倍数が30を超える一般取扱所は、消防長（消防署長）への届出だけでなく製造所等としての許可・規制の対象となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -427,7 +427,7 @@
                   "groupId": "kiken_sample_Q35",
                   "statement": "引火点は常温（20℃）より低い。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "無色無臭の液体である第4類危険物には灯油・軽油・ガソリン等があるが、ガソリンは特有の臭気を持つ。無色・無臭の例は純粋なアルコール等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -436,7 +436,7 @@
                   "groupId": "kiken_sample_Q05",
                   "statement": "霧状の強化液を放射する消火器",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "りん酸塩類粉末消火器は油火災（B火災）・電気火災（C火災）に有効だが、金属火災（D火災）には対応していない場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -445,7 +445,7 @@
                   "groupId": "kiken_sample_Q02",
                   "statement": "製造所等の点検について定めた規程をいう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "危険物保安監督者及び危険物取扱者の責務を定めた規程を「予防規程」という（消防法14条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -454,7 +454,7 @@
                   "groupId": "kiken_sample_Q29",
                   "statement": "可燃性蒸気を発生させないため、液面に水を張って貯蔵する危険物もある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "引火性液体の蒸気滞留防止には十分な通風・換気（換気装置の設置）が有効。蒸気は空気より重いので低所の換気が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -463,7 +463,7 @@
                   "groupId": "kiken_sample_Q11",
                   "statement": "指定数量の倍数が30を超える引火点が40℃以上の第4類の危険物のみを貯蔵する屋内タンク貯蔵所",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "指定数量の倍数が30を超える一般取扱所は、消防長（消防署長）への届出だけでなく製造所等としての許可・規制の対象となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -472,7 +472,7 @@
                   "groupId": "kiken_sample_Q14",
                   "statement": "第3類の危険物にあっては、「火気・衝撃注意」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "容器への表示で第2類危険物（可燃性固体）には「火気注意」の表示が必要。「衝撃注意」は第1類等の場合。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -481,7 +481,7 @@
                   "groupId": "kiken_sample_Q27",
                   "statement": "引火性のある危険物を取り扱う場合には、人体に帯電した静電気を除去する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "引火性液体（第4類）の蒸気は空気より重いため低所に滞留する。排出は屋外の低所ではなく高所（蒸気が拡散する場所）に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -490,7 +490,7 @@
                   "groupId": "kiken_sample_Q21",
                   "statement": "物体の電荷を検出する装置には、箔検電器がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "静電気は摩擦等により電子（陽子ではない）が移動して生じる。電子を得た方が負、失った方が正に帯電する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -499,7 +499,7 @@
                   "groupId": "kiken_sample_Q02",
                   "statement": "危険物の危険性をまとめた規程をいう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "危険物保安監督者及び危険物取扱者の責務を定めた規程を「予防規程」という（消防法14条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -508,7 +508,7 @@
                   "groupId": "kiken_sample_Q27",
                   "statement": "容器からの液体や蒸気の漏れには十分注意する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "引火性液体（第4類）の蒸気は空気より重いため低所に滞留する。排出は屋外の低所ではなく高所（蒸気が拡散する場所）に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -517,7 +517,7 @@
                   "groupId": "kiken_sample_Q19",
                   "statement": "ハロゲン化物消火剤は、燃焼反応を抑制して消火する効果がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "二酸化炭素消火剤は窒息消火であり、高濃度では酸素欠乏による人体への悪影響（窒息）がある。密閉空間での使用は特に危険。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -526,7 +526,7 @@
                   "groupId": "kiken_sample_Q28",
                   "statement": "取扱作業をする場合は、電気絶縁性のよい靴やナイロンその他の化学繊維などの衣類は着用しない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "第4類危険物の取扱いでは静電気発生を防ぐため、電気絶縁性の低い（導電性の）靴や天然素材の衣類を着用する。ナイロン等の化繊は帯電しやすく不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -535,7 +535,7 @@
                   "groupId": "kiken_sample_Q26",
                   "statement": "第1類の危険物の多くは、無色または白色の酸化性固体である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "第6類危険物（過酸化水素・硝酸等）は不燃性だが強い酸化力を持ち、可燃物と接触すると発火・爆発の危険がある。腐食性・毒性がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -544,7 +544,7 @@
                   "groupId": "kiken_sample_Q25",
                   "statement": "水には気体、液体および固体の3つの状態がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "沸点は外圧（大気圧）が高くなると上昇（低くなるは誤り）。高山では気圧が低いため沸点が下がりお湯が低温で沸く。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -553,7 +553,7 @@
                   "groupId": "kiken_sample_Q30",
                   "statement": "重油の火災に泡消火剤を使用した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "軽油（第4類第2石油類）の火災にはハロゲン化物消火剤・粉末消火剤・泡消火剤等が有効。二酸化炭素消火剤も使用可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -562,7 +562,7 @@
                   "groupId": "kiken_sample_Q28",
                   "statement": "貯蔵および取扱いは、換気を十分に行う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "第4類危険物の取扱いでは静電気発生を防ぐため、電気絶縁性の低い（導電性の）靴や天然素材の衣類を着用する。ナイロン等の化繊は帯電しやすく不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -571,7 +571,7 @@
                   "groupId": "kiken_sample_Q11",
                   "statement": "指定数量の倍数が30の屋外貯蔵所",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "指定数量の倍数が30を超える一般取扱所は、消防長（消防署長）への届出だけでなく製造所等としての許可・規制の対象となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -580,7 +580,7 @@
                   "groupId": "kiken_sample_Q07",
                   "statement": "設置工事が終了し、市町村長等から完成検査済証を交付された場合は、製造所を使用できる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "製造所等の構造変更（増設・改造等）には市町村長等の許可が必要で、許可前の工事着手は禁止（消防法11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -589,7 +589,7 @@
                   "groupId": "kiken_sample_Q19",
                   "statement": "窒素ガス消火剤は、火災室内の酸素濃度を低下させて消火する効果がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "二酸化炭素消火剤は窒息消火であり、高濃度では酸素欠乏による人体への悪影響（窒息）がある。密閉空間での使用は特に危険。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -598,7 +598,7 @@
                   "groupId": "kiken_sample_Q11",
                   "statement": "指定数量の倍数が30を超える移動タンク貯蔵所",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "指定数量の倍数が30を超える一般取扱所は、消防長（消防署長）への届出だけでなく製造所等としての許可・規制の対象となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -607,7 +607,7 @@
                   "groupId": "kiken_sample_Q30",
                   "statement": "ベンゼンの火災にりん酸塩類等の粉末消火剤を使用した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "軽油（第4類第2石油類）の火災にはハロゲン化物消火剤・粉末消火剤・泡消火剤等が有効。二酸化炭素消火剤も使用可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -616,7 +616,7 @@
                   "groupId": "kiken_sample_Q09",
                   "statement": "点検を実施した日を市町村長等へ報告した年月日",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "定期点検の記録には点検実施者の氏名・点検年月日・点検方法・点検内容が含まれる（危険物政令8条の5）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -625,7 +625,7 @@
                   "groupId": "kiken_sample_Q22",
                   "statement": "2899 kJ/mol",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "燃焼の活性化エネルギーや反応エンタルピー（107kJ/mol等）は燃焼の難易・危険性に関係する熱化学的指標。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -634,7 +634,7 @@
                   "groupId": "kiken_sample_Q02",
                   "statement": "製造所等における危険物保安統括管理者の責務を定めた規程をいう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "危険物保安監督者及び危険物取扱者の責務を定めた規程を「予防規程」という（消防法14条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -643,7 +643,7 @@
                   "groupId": "kiken_sample_Q21",
                   "statement": "良導体に帯電体を近づけると、良導体の帯電体に近い側の表面には帯電体と異種の電荷が現れ、遠い側の表面には帯電体と同種の電荷が現れる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "静電気は摩擦等により電子（陽子ではない）が移動して生じる。電子を得た方が負、失った方が正に帯電する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -652,7 +652,7 @@
                   "groupId": "kiken_sample_Q30",
                   "statement": "トルエンの火災に二酸化炭素消火剤を使用した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "軽油（第4類第2石油類）の火災にはハロゲン化物消火剤・粉末消火剤・泡消火剤等が有効。二酸化炭素消火剤も使用可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -661,7 +661,7 @@
                   "groupId": "kiken_sample_Q14",
                   "statement": "第6類の危険物にあっては、「火気注意」",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "容器への表示で第2類危険物（可燃性固体）には「火気注意」の表示が必要。「衝撃注意」は第1類等の場合。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -670,7 +670,7 @@
                   "groupId": "kiken_sample_Q33",
                   "statement": "特有の芳香を有している。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "エタノール（アルコール）は水とエタノールに溶ける水溶性の引火性液体（第4類アルコール類）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -679,7 +679,7 @@
                   "groupId": "kiken_sample_Q28",
                   "statement": "液体から発生する蒸気は、地上をはって離れた低いところにたまることがあるので、周囲の火気に気をつける。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "第4類危険物の取扱いでは静電気発生を防ぐため、電気絶縁性の低い（導電性の）靴や天然素材の衣類を着用する。ナイロン等の化繊は帯電しやすく不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -688,7 +688,7 @@
                   "groupId": "kiken_sample_Q12",
                   "statement": "危険物の移送のため乗車している危険物取扱者は免状を携帯していなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "危険物取扱者が乗車して監督しなければならない移送は、指定数量以上の危険物を移送する場合（危険等級を問わず）（消防法16条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -697,7 +697,7 @@
                   "groupId": "kiken_sample_Q28",
                   "statement": "貯蔵倉庫内の電気設備は、すべて防爆構造のものを使用する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "第4類危険物の取扱いでは静電気発生を防ぐため、電気絶縁性の低い（導電性の）靴や天然素材の衣類を着用する。ナイロン等の化繊は帯電しやすく不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -706,7 +706,7 @@
                   "groupId": "kiken_sample_Q27",
                   "statement": "火花や高熱を発する場所に接近させない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "引火性液体（第4類）の蒸気は空気より重いため低所に滞留する。排出は屋外の低所ではなく高所（蒸気が拡散する場所）に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -715,7 +715,7 @@
                   "groupId": "kiken_sample_Q31",
                   "statement": "燃焼範囲は、おおむね1～8vol％である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ガソリンは危険等級Ⅰで引火点が-40℃以下と極めて低い。淡黄色に着色（オレンジ・黄色系）されている。淡青色は一般的ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -724,7 +724,7 @@
                   "groupId": "kiken_sample_Q06",
                   "statement": "危険物を加熱し、又は乾燥する設備は、高温で、かつ、早期に乾燥するため、すべて直火を用いて加熱する構造としなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "危険物取扱設備での静電気対策として接地（アース）装置の設置が義務付けられている（危険物政令28条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -733,7 +733,7 @@
                   "groupId": "kiken_sample_Q15",
                   "statement": "緑色基 礎 的 な 物 理 学 及 び 基 礎 的 な 化 学",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "危険物取扱者試験では物理・化学の基礎知識（燃焼理論・危険物の性質等）が出題される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -742,7 +742,7 @@
                   "groupId": "kiken_sample_Q34",
                   "statement": "熱または光により分解して、メタンと二酸化炭素を発生する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "引火点が常温（20℃）以下の危険物は常温での引火危険がある。ガソリン（引火点-40℃）・エタノール（引火点13℃）等が該当。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -751,7 +751,7 @@
                   "groupId": "kiken_sample_Q01",
                   "statement": "アルキルアルミニウム",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "アルキルアルミニウムは自然発火性物質（第3類危険物）で、空気・水と激しく反応して発火する。乙4（第4類引火性液体）の範囲外。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -760,7 +760,7 @@
                   "groupId": "kiken_sample_Q22",
                   "statement": "1539 kJ/mol",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "燃焼の活性化エネルギーや反応エンタルピー（107kJ/mol等）は燃焼の難易・危険性に関係する熱化学的指標。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -769,7 +769,7 @@
                   "groupId": "kiken_sample_Q26",
                   "statement": "第2類の危険物は、燃焼により有毒ガスを発生するものがあり、金属粉は、水または酸の接触により発熱・発火のおそれがある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "第6類危険物（過酸化水素・硝酸等）は不燃性だが強い酸化力を持ち、可燃物と接触すると発火・爆発の危険がある。腐食性・毒性がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -778,7 +778,7 @@
                   "groupId": "kiken_sample_Q25",
                   "statement": "固体が液体に変わることを融解といい、逆に液体が固体に変わることを凝固という。危険物の性質並びにその火災予防及び消火の方法",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "沸点は外圧（大気圧）が高くなると上昇（低くなるは誤り）。高山では気圧が低いため沸点が下がりお湯が低温で沸く。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -787,7 +787,7 @@
                   "groupId": "kiken_sample_Q34",
                   "statement": "酸化されると、酢酸になる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "引火点が常温（20℃）以下の危険物は常温での引火危険がある。ガソリン（引火点-40℃）・エタノール（引火点13℃）等が該当。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -796,7 +796,7 @@
                   "groupId": "kiken_sample_Q33",
                   "statement": "無色の粘稠性の液体である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "エタノール（アルコール）は水とエタノールに溶ける水溶性の引火性液体（第4類アルコール類）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -805,7 +805,7 @@
                   "groupId": "kiken_sample_Q22",
                   "statement": "215 kJ/mol",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "燃焼の活性化エネルギーや反応エンタルピー（107kJ/mol等）は燃焼の難易・危険性に関係する熱化学的指標。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -814,7 +814,7 @@
                   "groupId": "kiken_sample_Q29",
                   "statement": "みだりに蒸気を発生させないため、容器は密栓すること。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "引火性液体の蒸気滞留防止には十分な通風・換気（換気装置の設置）が有効。蒸気は空気より重いので低所の換気が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -823,7 +823,7 @@
                   "groupId": "kiken_sample_Q07",
                   "statement": "製造所を設置するときは、工事期間の中間で、完成検査時に目視できない地下埋設配管の完成検査前検査を行った後でなければ、完成検査は実施できない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "製造所等の構造変更（増設・改造等）には市町村長等の許可が必要で、許可前の工事着手は禁止（消防法11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -832,7 +832,7 @@
                   "groupId": "kiken_sample_Q29",
                   "statement": "自然発火を防止するため、必ず液温を引火点以下に保つこと。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "引火性液体の蒸気滞留防止には十分な通風・換気（換気装置の設置）が有効。蒸気は空気より重いので低所の換気が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -841,7 +841,7 @@
                   "groupId": "kiken_sample_Q12",
                   "statement": "移動タンク貯蔵所には完成検査済証を備え付けておかなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "危険物取扱者が乗車して監督しなければならない移送は、指定数量以上の危険物を移送する場合（危険等級を問わず）（消防法16条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -850,7 +850,7 @@
                   "groupId": "kiken_sample_Q26",
                   "statement": "第3類の危険物は、自然発火性と禁水性の両方の危険性を有している物質である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "第6類危険物（過酸化水素・硝酸等）は不燃性だが強い酸化力を持ち、可燃物と接触すると発火・爆発の危険がある。腐食性・毒性がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -859,7 +859,7 @@
                   "groupId": "kiken_sample_Q34",
                   "statement": "強い還元性物質である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "引火点が常温（20℃）以下の危険物は常温での引火危険がある。ガソリン（引火点-40℃）・エタノール（引火点13℃）等が該当。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -868,7 +868,7 @@
                   "groupId": "kiken_sample_Q35",
                   "statement": "アルコール、エーテルに溶ける。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "無色無臭の液体である第4類危険物には灯油・軽油・ガソリン等があるが、ガソリンは特有の臭気を持つ。無色・無臭の例は純粋なアルコール等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -877,7 +877,7 @@
                   "groupId": "kiken_sample_Q22",
                   "statement": "4545 kJ/mol",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "燃焼の活性化エネルギーや反応エンタルピー（107kJ/mol等）は燃焼の難易・危険性に関係する熱化学的指標。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -886,7 +886,7 @@
                   "groupId": "kiken_sample_Q21",
                   "statement": "帯電体に分布している流れのない電気を静電気という。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "静電気は摩擦等により電子（陽子ではない）が移動して生じる。電子を得た方が負、失った方が正に帯電する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -895,7 +895,7 @@
                   "groupId": "kiken_sample_Q25",
                   "statement": "固体から直接気体に状態変化することを昇華という。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "沸点は外圧（大気圧）が高くなると上昇（低くなるは誤り）。高山では気圧が低いため沸点が下がりお湯が低温で沸く。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -904,7 +904,7 @@
                   "groupId": "kiken_sample_Q07",
                   "statement": "市町村長等に変更の許可を申請する場合は、変更の内容に関する図面その他規則で定める書類を添付しなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "製造所等の構造変更（増設・改造等）には市町村長等の許可が必要で、許可前の工事着手は禁止（消防法11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -913,7 +913,7 @@
                   "groupId": "kiken_sample_Q28",
                   "statement": "静電気の発生を少なくするために、危険物を取り扱う場合の流動、ろ過などは短時間に速度を上げて行う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "第4類危険物の取扱いでは静電気発生を防ぐため、電気絶縁性の低い（導電性の）靴や天然素材の衣類を着用する。ナイロン等の化繊は帯電しやすく不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -922,7 +922,7 @@
                   "groupId": "kiken_sample_Q05",
                   "statement": "ハロゲン化物を放射する消火器",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "りん酸塩類粉末消火器は油火災（B火災）・電気火災（C火災）に有効だが、金属火災（D火災）には対応していない場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -931,7 +931,7 @@
                   "groupId": "kiken_sample_Q35",
                   "statement": "水と任意の割合で混ざり合う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "無色無臭の液体である第4類危険物には灯油・軽油・ガソリン等があるが、ガソリンは特有の臭気を持つ。無色・無臭の例は純粋なアルコール等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -940,7 +940,7 @@
                   "groupId": "kiken_sample_Q02",
                   "statement": "製造所等の火災を予防するため、危険物の保安に関し必要な事項を定めた規程をいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "危険物保安監督者及び危険物取扱者の責務を定めた規程を「予防規程」という（消防法14条の2）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }

@@ -22,7 +22,7 @@
                   "groupId": "takken_R6_Q44",
                   "statement": "Ａは,宅地建物取引業者Ｄと宅地建物取引業者Ｅとの間で締結された宅地の売買契約を媒介したときに,37条書面に当該宅地の引渡しの時期を記載しなかった。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "37条書面には引渡しの時期を記載しなければならない（必要的記載事項）。宅建業者が自ら売主として締結した契約の場合も37条書面の交付は必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -31,7 +31,7 @@
                   "groupId": "takken_R6_Q31",
                   "statement": "国土交通大臣又は都道府県知事は,法第66条の規定による免許の取消しの処分をしようとするときは,聴聞を行わなければならないが。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "国土交通大臣・都道府県知事が免許取消処分をするときは聴聞が必要。免許取消処分をしたときはその旨を公告しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -40,7 +40,7 @@
                   "groupId": "takken_R6_Q30",
                   "statement": "Ａがクーリング・オフについて告げるときに交付すべき書面には,Ａの商号又は名称及び住所並びに免許証番号の記載は必要であるが,Ａの宅地建物取引士の記名は必要ない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "クーリングオフ告知書面には業者の商号・住所・免許番号の記載は必要。宅建士の記名は不要。自宅や勤務先での申込みはクーリングオフができない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -49,7 +49,7 @@
                   "groupId": "takken_R6_Q17",
                   "statement": "特定行政庁は,建築基準法の規定に違反した建築物（国,都道府県又は建築主事を置く市町村の建築物を除く。）の所有者。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "特定行政庁は建築基準法違反建築物の除却等の措置命令が可能。劇場を映画館に用途変更する場合、床面積200㎡以上なら確認申請が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -58,7 +58,7 @@
                   "groupId": "takken_R6_Q05",
                   "statement": "不法行為の加害者は,不法行為に基づく損害賠償債務について,履行の請求を受けた時から遅滞の責任を負う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不法行為に基づく損害賠償債務は損害発生時から遅滞となる（期限の定めのない債務と異なる）。不当利得返還債務は履行請求を受けた時から遅滞となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -67,7 +67,7 @@
                   "groupId": "takken_R6_Q29",
                   "statement": "宅地建物取引士は,他人に自己の名義の使用を許し,当該他人がその名義で宅地建物取引士である旨の表示をしたときは。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建士の名義貸しは禁止。資格試験合格後、実務経験2年未満でも登録実務講習修了で登録申請できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -76,7 +76,7 @@
                   "groupId": "takken_R6_Q27",
                   "statement": "Ａは甲県内にある主たる事務所とは別に,乙県内に新たに従たる事務所を設置したときは,営業保証金を主たる事務所の最寄りの供託所に供託しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建業者が新たに従たる事務所を設置する場合、追加分の営業保証金を主たる事務所の最寄りの供託所に供託する。有価証券の評価額は国債は額面の100%（100分の100）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -85,7 +85,7 @@
                   "groupId": "takken_R6_Q39",
                   "statement": "届出をすべき場所として,他の宅地建物取引業者が行う一団の宅地建物の分譲の代理又は媒介をする場合に設置する案内所が定められており。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "案内所等を設置する場合、業務開始の10日前までに届出が必要。10区画・10戸以上の一団の宅地建物分譲でも同様に届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -94,7 +94,7 @@
                   "groupId": "takken_R6_Q48",
                   "statement": "令和6年地価公示によれば,令和5年1月以降の1年間の地価の動向は,三大都市圏・地方圏ともに,全用途平均・住宅地・商業地のいずれも3年連続で上昇した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "令和6年地価公示では三大都市圏・地方圏ともに全用途で3年連続上昇。宅建士の総登録者数は200万人を超えている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -103,7 +103,7 @@
                   "groupId": "takken_R6_Q31",
                   "statement": "国土交通大臣又は都道府県知事は,法第66条の規定による免許の取消しの処分をしたときはその旨を公告しなければならないが。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "国土交通大臣・都道府県知事が免許取消処分をするときは聴聞が必要。免許取消処分をしたときはその旨を公告しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -112,7 +112,7 @@
                   "groupId": "takken_R6_Q21",
                   "statement": "法では,農地の賃貸借の当事者は,当該賃貸借の合意による解約が民事調停法による農事調停によって行われる場合など一定の場合を除き。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "農地の賃貸借の合意解約には農業委員会への通知が必要。農地法3条許可を停止条件とする仮登記申請にも農業委員会の許可が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -121,7 +121,7 @@
                   "groupId": "takken_R6_Q42",
                   "statement": "宅地建物取引業者は,宅地建物取引業に係る契約の締結の勧誘をするに際し,宅地建物取引業者の相手方等。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建業者は勧誘時に不実告知・断定的判断の提供・威迫・困惑させる行為を禁止。死の告知ガイドラインでは売買の場合、事案の概要は告知しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -130,7 +130,7 @@
                   "groupId": "takken_R6_Q16",
                   "statement": "市街化区域内において行う,医療法に規定する病院を建築するための1,000m2の開発行為については,法第29条に基づく都道府県知事の許可を得る必要がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "市街化区域内の病院建設目的の開発行為は面積にかかわらず開発許可が必要。許可を受けた者は一定事項を開発登録簿に登録する義務はない（登録簿への記載は行政が行う）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -139,7 +139,7 @@
                   "groupId": "takken_R6_Q12",
                   "statement": "Ｂが建物の引渡しを受けた後にＡが建物をＣに売却して建物所有者がＣに変わった場合,Ｂは,契約①の場合ではＣ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建物賃借権は引渡しにより第三者対抗力を取得。賃貸人が変わっても賃貸借は継続する（オーナーチェンジ）。賃借人死亡で契約終了しない（相続）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -148,7 +148,7 @@
                   "groupId": "takken_R6_Q03",
                   "statement": "Ａが裁判所に請求して,裁判所がＤの持分をＡに取得させる旨の決定をした場合,Ｄは,その決定から3年以内に限り,Ａが取得したＤの共有持分の時価相当額をＡ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "共有物の著しい変更は共有者全員の同意が必要。裁判所による持分取得の決定後、元の共有者は3年以内に時価相当額の支払いを請求できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -157,7 +157,7 @@
                   "groupId": "takken_R6_Q02",
                   "statement": "委任は,当事者の一方が仕事を完成することを相手方に約し,相手方がその仕事の結果に対しその報酬を支払うことを約さなければ,その効力を生じない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "委任と請負の違いは仕事完成義務の有無。請負は仕事の完成が目的で、委任は事務処理が目的。復受任者の選任は原則として委任者の許諾またはやむを得ない事由が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -166,7 +166,7 @@
                   "groupId": "takken_R6_Q21",
                   "statement": "法第3条第1項の許可があったときは所有権が移転する旨の停止条件付売買契約を原因とする所有権移転の仮登記の申請を行う場合にも,農業委員会の許可が必要である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "農地の賃貸借の合意解約には農業委員会への通知が必要。農地法3条許可を停止条件とする仮登記申請にも農業委員会の許可が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -175,7 +175,7 @@
                   "groupId": "takken_R6_Q46",
                   "statement": "機構は,民間金融機関による住宅資金の供給を支援するため,民間金融機関が貸し付けた住宅ローンについて,住宅融資保険を引き受けている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅金融支援機構の証券化支援業務では民間金融機関の住宅ローン債権を買い取る。融資保険業務も行っており、民間の資金供給を側面から支援する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -184,7 +184,7 @@
                   "groupId": "takken_R6_Q12",
                   "statement": "Ｂが契約期間中に相続人なしで死亡した場合。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建物賃借権は引渡しにより第三者対抗力を取得。賃貸人が変わっても賃貸借は継続する（オーナーチェンジ）。賃借人死亡で契約終了しない（相続）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -193,7 +193,7 @@
                   "groupId": "takken_R6_Q31",
                   "statement": "国土交通大臣又は都道府県知事は,その免許を受けた宅地建物取引業者の事務所の所在地を確知できないときは。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "国土交通大臣・都道府県知事が免許取消処分をするときは聴聞が必要。免許取消処分をしたときはその旨を公告しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -202,7 +202,7 @@
                   "groupId": "takken_R6_Q42",
                   "statement": "「宅地建物取引業者による人の死の告知に関するガイドライン」によれば,売買取引の対象となる居住用不動産。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建業者は勧誘時に不実告知・断定的判断の提供・威迫・困惑させる行為を禁止。死の告知ガイドラインでは売買の場合、事案の概要は告知しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -211,7 +211,7 @@
                   "groupId": "takken_R6_Q36",
                   "statement": "保証協会の社員と宅地建物取引業に関し取引をした者は,その取引により生じた債権に関し。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "保証協会の弁済業務保証金から還付を受けられるのは宅建業者と取引した者。社員が保証協会の社員の地位を失った場合、弁済業務保証金の取戻しには公告手続きが必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -220,7 +220,7 @@
                   "groupId": "takken_R6_Q29",
                   "statement": "宅地建物取引士資格試験に合格した者は,宅地又は建物の取引に関する実務の経験期間が2年に満たない場合であっても。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建士の名義貸しは禁止。資格試験合格後、実務経験2年未満でも登録実務講習修了で登録申請できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -229,7 +229,7 @@
                   "groupId": "takken_R6_Q22",
                   "statement": "事前届出又は事後届出が必要な土地について,売買契約を締結したにもかかわらず所定の期間内に当該届出をしなかった者は都道府県知事からの勧告を受けることがあるが。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "事後届出を怠った場合、罰則（罰金）はあるが勧告は届出をした者に対するもの。市街化区域外の都市計画区域内の4,000㎡超の土地の地上権設定も届出対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -238,7 +238,7 @@
                   "groupId": "takken_R6_Q16",
                   "statement": "法第29条に基づく許可を受けた者は,当該許可に係る土地についての一定の事項を開発登録簿に登録しなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "市街化区域内の病院建設目的の開発行為は面積にかかわらず開発許可が必要。許可を受けた者は一定事項を開発登録簿に登録する義務はない（登録簿への記載は行政が行う）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -247,7 +247,7 @@
                   "groupId": "takken_R6_Q47",
                   "statement": "土地取引において,当該土地上に廃屋が存在するとき,実際の土地を見れば廃屋が存在することは明らかであるため,廃屋が存在する旨を明示する必要はない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不当表示防止法では廃屋の存在など購入者の判断に影響する事実は告知義務がある。交通の所要時間は朝の通勤ラッシュ時のものを明示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -256,7 +256,7 @@
                   "groupId": "takken_R6_Q18",
                   "statement": "都市計画で建率の限度が80％に指定されている区域かつ防火地域内にある耐火建築物について,建率の限度を超えるためには,特定行政庁による許可を得る必要がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建蔽率80%指定かつ防火地域内の耐火建築物は建蔽率制限が適用されない（許可不要）。天空率による緩和規定は斜線制限に適合する建築物の天空率以上であれば適用される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -265,7 +265,7 @@
                   "groupId": "takken_R6_Q32",
                   "statement": "Ａは当該中古住宅の売買契約が成立しても,当該中古住宅の引渡しが完了していなければ,売買契約が成立した旨を指定流通機構に通知する必要はない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "専任媒介契約で売買が成立した場合は指定流通機構へ成約通知が必要。宅建業者が依頼者の場合も標準媒介契約約款に基づくかの別を記載しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -274,7 +274,7 @@
                   "groupId": "takken_R6_Q36",
                   "statement": "宅地建物取引業者は,保証協会の社員の地位を失ったときは,保証協会が弁済業務保証金の還付請求権者。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "保証協会の弁済業務保証金から還付を受けられるのは宅建業者と取引した者。社員が保証協会の社員の地位を失った場合、弁済業務保証金の取戻しには公告手続きが必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -283,7 +283,7 @@
                   "groupId": "takken_R6_Q31",
                   "statement": "国土交通大臣又は都道府県知事は,その免許を受けた宅地建物取引業者が法第65条第1項の規定による指示に従わない場合。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "国土交通大臣・都道府県知事が免許取消処分をするときは聴聞が必要。免許取消処分をしたときはその旨を公告しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -292,7 +292,7 @@
                   "groupId": "takken_R6_Q01",
                   "statement": "公の秩序に反する法律行為であっても,当事者が納得して合意した場合には,その法律行為は有効である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "公序良俗違反の法律行為は当事者の合意があっても無効。他人物売買は有効で、所有者の追認があれば完全に有効となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -301,7 +301,7 @@
                   "groupId": "takken_R6_Q38",
                   "statement": "宅地建物取引業者Ｄ（甲県知事免許）は,国土交通大臣に免許換えの申請をし,その免許を受けなければ,乙県所在の宅地の売買の媒介をすることはできない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "知事免許業者が他都道府県に事務所を設置する場合は免許換えが必要。免許更新時に知事が条件を付すことができる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -310,7 +310,7 @@
                   "groupId": "takken_R6_Q25",
                   "statement": "不動産の価格は,その不動産の効用が最高度に発揮される可能性に最も富む使用を前提として把握される価格を標準として形成されるが,これを適合の原則という。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "最有効使用の原則（適合の原則ではない）とは不動産価格は最高最善の使用を前提として形成されるという原則。鑑定評価では対象不動産について想定上の条件を設定することができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -319,7 +319,7 @@
                   "groupId": "takken_R6_Q14",
                   "statement": "相続人ではない者に対する遺贈による所有権の移転の登記は,登記権利者が単独で申請することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "遺贈（相続人以外）による所有権移転登記は受遺者が単独申請可。住所変更登記は登記名義人が単独申請可。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -328,7 +328,7 @@
                   "groupId": "takken_R6_Q21",
                   "statement": "法第5条第1項の許可申請書の提出。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "農地の賃貸借の合意解約には農業委員会への通知が必要。農地法3条許可を停止条件とする仮登記申請にも農業委員会の許可が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -337,7 +337,7 @@
                   "groupId": "takken_R6_Q24",
                   "statement": "不動産取得税の課税標準となるべき額が,土地の取得にあっては10万円,家屋の取得のうち建築に係るものにあっては1戸につき23万円。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "不動産取得税は不動産取得に課されるが、相続・法人合併等は非課税。課税標準が一定額未満の場合は免税点がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -346,7 +346,7 @@
                   "groupId": "takken_R6_Q34",
                   "statement": "当該建物が建築工事の完了前の建物である場合において,Ａは,保全措置を講じずに,Ｂから手付金300万円を受領することができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建築工事完了前の建物で売買価額の5%以下かつ1,000万円以下の手付金は保全措置不要。37条書面への記名は宅建士が行うが、交付後の相手方への引渡しは省略できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -355,7 +355,7 @@
                   "groupId": "takken_R6_Q08",
                   "statement": "未成年者が法律行為をするには,その法定代理人の同意を得なければならない。ただし,単に権利を得,又は義務を免れる法律行為については,この限りでない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "未成年者の法律行為は法定代理人の同意が必要だが、単なる権利取得・義務免除は単独でできる。代理人の権限濫用は相手方が悪意・有過失の場合に無効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -364,7 +364,7 @@
                   "groupId": "takken_R6_Q43",
                   "statement": "宅地建物取引士の登録を受けている者は,宅地建物取引士証の交付を受けていない場合でも,その住所に変更があれば。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建士登録者は宅建士証の有無にかかわらず住所変更があれば遅滞なく変更登録申請が必要。宅建士証への旧姓併記は認められている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -373,7 +373,7 @@
                   "groupId": "takken_R6_Q29",
                   "statement": "宅地建物取引士証は,更新を受けることなくその有効期間が経過した場合,その効力を失うが,当該宅地建物取引士証を都道府県知事に返納する必要はない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建士の名義貸しは禁止。資格試験合格後、実務経験2年未満でも登録実務講習修了で登録申請できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -382,7 +382,7 @@
                   "groupId": "takken_R6_Q34",
                   "statement": "当該土地付建物の引渡し前に,ＢはＡ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築工事完了前の建物で売買価額の5%以下かつ1,000万円以下の手付金は保全措置不要。37条書面への記名は宅建士が行うが、交付後の相手方への引渡しは省略できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -391,7 +391,7 @@
                   "groupId": "takken_R6_Q45",
                   "statement": "自ら売主として宅地建物取引業者ではない買主に引き渡した新築住宅の戸数が,基準日前10年間に10戸あるが。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "住宅瑕疵担保履行法では10年間の保証が義務付けられ、新築住宅を引き渡した宅建業者は基準日から3週間以内に届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -400,7 +400,7 @@
                   "groupId": "takken_R6_Q48",
                   "statement": "令和4年度宅地建物取引業法の施行状況調査（令和5年10月公表）によれば,令和5年3月末における宅地建物取引士の総登録者数は,200万人を超えている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "令和6年地価公示では三大都市圏・地方圏ともに全用途で3年連続上昇。宅建士の総登録者数は200万人を超えている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -409,7 +409,7 @@
                   "groupId": "takken_R6_Q12",
                   "statement": "契約①の場合,公正証書によって契約をするときに限り契約の更新がないことを有効に定めることができ,契約②の場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建物賃借権は引渡しにより第三者対抗力を取得。賃貸人が変わっても賃貸借は継続する（オーナーチェンジ）。賃借人死亡で契約終了しない（相続）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -418,7 +418,7 @@
                   "groupId": "takken_R6_Q34",
                   "statement": "Ａが,保全措置を講じずにＢから手付金100万円を受領する場合,その旨を,法第35条の規定に基づく重要事項説明書に記載する必要があるが。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築工事完了前の建物で売買価額の5%以下かつ1,000万円以下の手付金は保全措置不要。37条書面への記名は宅建士が行うが、交付後の相手方への引渡しは省略できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -427,7 +427,7 @@
                   "groupId": "takken_R6_Q23",
                   "statement": "令和6年中に居住用家屋を居住の用に供した場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "居住用財産の所有権移転登記に係る登録免許税は軽減税率が適用される場合がある。令和6年中に居住用に供した場合の要件を満たせば軽減措置を利用できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -436,7 +436,7 @@
                   "groupId": "takken_R6_Q33",
                   "statement": "造成工事に必要とされる法令に基づく許可等の処分があった宅地について,工事完了前に当該宅地の販売に関する広告をするときは。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅地の販売広告は開発許可等が確定した後でなければ行ってはならない。インターネット広告でも誇大広告禁止等の規制は適用される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -445,7 +445,7 @@
                   "groupId": "takken_R6_Q13",
                   "statement": "集会の招集の通知は,区分所有者が管理者。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "区分所有法の集会招集通知は原則1週間前までに区分所有者へ。管理者は毎年1回集会で事務報告義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -454,7 +454,7 @@
                   "groupId": "takken_R6_Q39",
                   "statement": "届出をすべき場所として,宅地建物取引業者が10区画以上の一団の宅地又は10戸以上の一団の建物の分譲（以下この問において「一団の宅地建物の分譲」という。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "案内所等を設置する場合、業務開始の10日前までに届出が必要。10区画・10戸以上の一団の宅地建物分譲でも同様に届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -463,7 +463,7 @@
                   "groupId": "takken_R6_Q46",
                   "statement": "証券化支援業務において,機構による譲受けの対象となる住宅の購入に必要な資金の貸付けに係る金融機関の貸付債権には。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "住宅金融支援機構の証券化支援業務では民間金融機関の住宅ローン債権を買い取る。融資保険業務も行っており、民間の資金供給を側面から支援する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -472,7 +472,7 @@
                   "groupId": "takken_R6_Q10",
                   "statement": "履行の追完請求権,代金の減額請求権",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "契約不適合責任では、追完請求・代金減額請求・損害賠償・解除が認められる。買主は不適合を知った時から1年以内に売主へ通知しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -481,7 +481,7 @@
                   "groupId": "takken_R6_Q15",
                   "statement": "都市計画区域外においても,特に必要があるときは,都市施設に関する都市計画を定めることができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "都市施設の都市計画は都市計画区域外でも特に必要な場合に定めることができる。地区計画は用途地域外でも一定条件のもとで定めることができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -490,7 +490,7 @@
                   "groupId": "takken_R6_Q49",
                   "statement": "高さ2m以下の擁壁であれば,水抜き孔を有しなくても,地震による被害が生じることはない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "擁壁には水抜き孔が必要で、高さにかかわらず地震リスクがある。急斜面を背後に控える宅地は崖面保護や擁壁設置が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -499,7 +499,7 @@
                   "groupId": "takken_R6_Q09",
                   "statement": "第三者が債務者との間で,債務者の債務につき併存的債務引受契約をした場合,債権者が第三者に承諾をした時点で,その効力が生ずる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "併存的債務引受は債権者の承諾で効力発生。免責的債務引受は債権者の承諾が必要で、債務者との間だけでは効力が生じない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -508,7 +508,7 @@
                   "groupId": "takken_R6_Q35",
                   "statement": "Ａが媒介業者として関与する建物賃貸借契約。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建業者の報酬は借賃の1か月分が上限（賃貸借の場合）。37条書面の電磁的方法による提供の場合でも、別途書面交付は不要（電磁的方法での提供で足りる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -517,7 +517,7 @@
                   "groupId": "takken_R6_Q11",
                   "statement": "専ら事業の用に供する建物の所有を目的とし,存続期間を20年として借地権を設定する場合,建物買取請求権の規定は適用されず。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "事業用定期借地権は10年以上50年未満で設定可能（公正証書必要）。借地権の存続期間を定めない場合は30年となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -526,7 +526,7 @@
                   "groupId": "takken_R6_Q46",
                   "statement": "機構は,住宅のエネルギー消費性能（建築物のエネルギー消費性能の向上等に関する法律第2条第1項第2号に規定するエネルギー消費性能をいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅金融支援機構の証券化支援業務では民間金融機関の住宅ローン債権を買い取る。融資保険業務も行っており、民間の資金供給を側面から支援する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -535,7 +535,7 @@
                   "groupId": "takken_R6_Q43",
                   "statement": "宅地建物取引士証に記載される宅地建物取引士の氏名については現姓を用いなければならず,旧姓を併記することは認められていない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建士登録者は宅建士証の有無にかかわらず住所変更があれば遅滞なく変更登録申請が必要。宅建士証への旧姓併記は認められている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -544,7 +544,7 @@
                   "groupId": "takken_R6_Q13",
                   "statement": "管理者は,集会において,毎年1回一定の時期に,その事務に関する報告をしなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "区分所有法の集会招集通知は原則1週間前までに区分所有者へ。管理者は毎年1回集会で事務報告義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -553,7 +553,7 @@
                   "groupId": "takken_R6_Q21",
                   "statement": "法では,農地の賃貸借で期間の定めがあるものについては,一定の場合を除き。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "農地の賃貸借の合意解約には農業委員会への通知が必要。農地法3条許可を停止条件とする仮登記申請にも農業委員会の許可が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -562,7 +562,7 @@
                   "groupId": "takken_R6_Q11",
                   "statement": "借地権を設定する場合において,存続期間を定めなかったときは,その期間は30年となる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "事業用定期借地権は10年以上50年未満で設定可能（公正証書必要）。借地権の存続期間を定めない場合は30年となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -571,7 +571,7 @@
                   "groupId": "takken_R6_Q42",
                   "statement": "「宅地建物取引業者による人の死の告知に関するガイドライン」によれば,賃貸借取引の対象となる居住用不動産。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建業者は勧誘時に不実告知・断定的判断の提供・威迫・困惑させる行為を禁止。死の告知ガイドラインでは売買の場合、事案の概要は告知しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -580,7 +580,7 @@
                   "groupId": "takken_R6_Q20",
                   "statement": "施行者は,仮換地を指定した場合。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "仮換地指定後、従前の土地の使用収益は禁止され仮換地を使用する。仮換地指定後も従前の宅地の所有権は変わらない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -589,7 +589,7 @@
                   "groupId": "takken_R6_Q01",
                   "statement": "他人が所有している土地を目的物にした売買契約は無効であるが,当該他人がその売買契約を追認した場合にはその売買契約は有効となる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "公序良俗違反の法律行為は当事者の合意があっても無効。他人物売買は有効で、所有者の追認があれば完全に有効となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -598,7 +598,7 @@
                   "groupId": "takken_R6_Q29",
                   "statement": "宅地建物取引業者は,その事務所唯一の専任の宅地建物取引士が宅地建物取引士証の有効期間の経過により効力を失い宅地建物取引士でなくなったときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建士の名義貸しは禁止。資格試験合格後、実務経験2年未満でも登録実務講習修了で登録申請できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -607,7 +607,7 @@
                   "groupId": "takken_R6_Q16",
                   "statement": "市街化区域内において行う,開発行為を伴わない建築物の建築で,当該建築物の床面積が1,000m2以上のものについては。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "市街化区域内の病院建設目的の開発行為は面積にかかわらず開発許可が必要。許可を受けた者は一定事項を開発登録簿に登録する義務はない（登録簿への記載は行政が行う）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -616,7 +616,7 @@
                   "groupId": "takken_R6_Q36",
                   "statement": "宅地建物取引業者は,一部の事務所を廃止し営業保証金を取り戻そうとする場合には,供託した営業保証金につき還付を請求する権利を有する者。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "保証協会の弁済業務保証金から還付を受けられるのは宅建業者と取引した者。社員が保証協会の社員の地位を失った場合、弁済業務保証金の取戻しには公告手続きが必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -625,7 +625,7 @@
                   "groupId": "takken_R6_Q47",
                   "statement": "交通の利便性について,電車,バス等の交通機関の所要時間を表示する場合は,朝の通勤ラッシュ時の所要時間ではなく,平常時の所要時間を明示しなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不当表示防止法では廃屋の存在など購入者の判断に影響する事実は告知義務がある。交通の所要時間は朝の通勤ラッシュ時のものを明示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -634,7 +634,7 @@
                   "groupId": "takken_R6_Q18",
                   "statement": "計画しようとする建築物の天空率が,道路斜線制限,隣地斜線制限又は北側斜線制限に適合する建築物の天空率未満であれば,これらの制限は適用されない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建蔽率80%指定かつ防火地域内の耐火建築物は建蔽率制限が適用されない（許可不要）。天空率による緩和規定は斜線制限に適合する建築物の天空率以上であれば適用される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -643,7 +643,7 @@
                   "groupId": "takken_R6_Q33",
                   "statement": "宅地の販売に関する広告をインターネットで行った場合。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅地の販売広告は開発許可等が確定した後でなければ行ってはならない。インターネット広告でも誇大広告禁止等の規制は適用される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -652,7 +652,7 @@
                   "groupId": "takken_R6_Q44",
                   "statement": "Ａが建物の売買契約を買主として締結した場合に,売主Ｆに承諾を得たので,37条書面をＦに交付しなかった。(cid:12681) (cid:12695)",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "37条書面には引渡しの時期を記載しなければならない（必要的記載事項）。宅建業者が自ら売主として締結した契約の場合も37条書面の交付は必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -661,7 +661,7 @@
                   "groupId": "takken_R6_Q03",
                   "statement": "甲土地に,その形状又は効用の著しい変更を伴う変更を加える場合には,共有者の過半数の同意が必要であり,本件ではＡ,Ｂ,Ｃ3人の同意が必要となる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "共有物の著しい変更は共有者全員の同意が必要。裁判所による持分取得の決定後、元の共有者は3年以内に時価相当額の支払いを請求できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -670,7 +670,7 @@
                   "groupId": "takken_R6_Q46",
                   "statement": "機構は,地震に対する安全性の向上を主たる目的とする住宅の改良に必要な資金の貸付けを業務として行っている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅金融支援機構の証券化支援業務では民間金融機関の住宅ローン債権を買い取る。融資保険業務も行っており、民間の資金供給を側面から支援する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -679,7 +679,7 @@
                   "groupId": "takken_R6_Q16",
                   "statement": "市街化調整区域内において行う,都市計画事業の施行のための開発行為については,法第29条に基づく都道府県知事の許可を得る必要がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "市街化区域内の病院建設目的の開発行為は面積にかかわらず開発許可が必要。許可を受けた者は一定事項を開発登録簿に登録する義務はない（登録簿への記載は行政が行う）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -688,7 +688,7 @@
                   "groupId": "takken_R6_Q07",
                   "statement": "Ｂが死亡して,ＤがＢを単独相続した場合,Ｄは相続開始を知るまでは,Ｂによる甲建物の占有を承継しない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "使用貸借は借主の死亡で終了するが、賃貸借は相続される。賃借人死亡後に相続人が相続するため、内縁の配偶者は借家権承継の特例を除き権利なし。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -697,7 +697,7 @@
                   "groupId": "takken_R6_Q24",
                   "statement": "不動産取得税は,不動産の取得に対して課される税であるので,法人の合併により不動産を取得した場合においても,不動産取得税が課される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不動産取得税は不動産取得に課されるが、相続・法人合併等は非課税。課税標準が一定額未満の場合は免税点がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -706,7 +706,7 @@
                   "groupId": "takken_R6_Q49",
                   "statement": "30度以上の角度をなす斜面を背後に控える宅地は,崖面への保護対策を講じるか,擁壁を設けるなどの必要がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "擁壁には水抜き孔が必要で、高さにかかわらず地震リスクがある。急斜面を背後に控える宅地は崖面保護や擁壁設置が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -715,7 +715,7 @@
                   "groupId": "takken_R6_Q17",
                   "statement": "劇場の用途に供する建築物を映画館（その用途に供する部分の床面積の合計が500m2）に用途変更する場合。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "特定行政庁は建築基準法違反建築物の除却等の措置命令が可能。劇場を映画館に用途変更する場合、床面積200㎡以上なら確認申請が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -724,7 +724,7 @@
                   "groupId": "takken_R6_Q15",
                   "statement": "地区計画は,用途地域が定められている土地の区域についてのみ都市計画に定められるものであり,また,地区計画に関する都市計画を定めるに当たっては。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "都市施設の都市計画は都市計画区域外でも特に必要な場合に定めることができる。地区計画は用途地域外でも一定条件のもとで定めることができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -733,7 +733,7 @@
                   "groupId": "takken_R6_Q49",
                   "statement": "工場跡地や埋立地などでは,重金属や揮発性有機化合物などによる土壌汚染が問題となることがある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "擁壁には水抜き孔が必要で、高さにかかわらず地震リスクがある。急斜面を背後に控える宅地は崖面保護や擁壁設置が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -742,7 +742,7 @@
                   "groupId": "takken_R6_Q07",
                   "statement": "ＡとＢのいずれもが死亡した場合,本件契約は当然に終了する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "使用貸借は借主の死亡で終了するが、賃貸借は相続される。賃借人死亡後に相続人が相続するため、内縁の配偶者は借家権承継の特例を除き権利なし。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -751,7 +751,7 @@
                   "groupId": "takken_R6_Q25",
                   "statement": "対象不動産について,依頼目的に応じ対象不動産に係る価格形成要因のうち地域要因又は個別的要因について想定上の条件を設定する場合がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "最有効使用の原則（適合の原則ではない）とは不動産価格は最高最善の使用を前提として形成されるという原則。鑑定評価では対象不動産について想定上の条件を設定することができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -760,7 +760,7 @@
                   "groupId": "takken_R6_Q34",
                   "statement": "当該建物が建築工事の完了後の建物である場合,ＡがＢから手付金100万円を受領する際には保全措置は不要。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築工事完了前の建物で売買価額の5%以下かつ1,000万円以下の手付金は保全措置不要。37条書面への記名は宅建士が行うが、交付後の相手方への引渡しは省略できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -769,7 +769,7 @@
                   "groupId": "takken_R6_Q05",
                   "statement": "善意の受益者は,その不当利得返還債務について,履行の請求を受けた時から遅滞の責任を負う。(cid:12681) (cid:12695)",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "不法行為に基づく損害賠償債務は損害発生時から遅滞となる（期限の定めのない債務と異なる）。不当利得返還債務は履行請求を受けた時から遅滞となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -778,7 +778,7 @@
                   "groupId": "takken_R6_Q43",
                   "statement": "宅地建物取引士は,取引の関係者から請求があったときは,宅地建物取引士証を提示しなければならないが,その際。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建士登録者は宅建士証の有無にかかわらず住所変更があれば遅滞なく変更登録申請が必要。宅建士証への旧姓併記は認められている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -787,7 +787,7 @@
                   "groupId": "takken_R6_Q22",
                   "statement": "Ａが所有する市街化区域以外の都市計画区域内の4,000m2の土地について,宅地建物取引業者Ｂが地上権の設定を受ける契約を締結した場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "事後届出を怠った場合、罰則（罰金）はあるが勧告は届出をした者に対するもの。市街化区域外の都市計画区域内の4,000㎡超の土地の地上権設定も届出対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -796,7 +796,7 @@
                   "groupId": "takken_R6_Q39",
                   "statement": "届出をすべき場所として,継続的に業務を行うことができる施設を有する場合で事務所以外のものが定められているが。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "案内所等を設置する場合、業務開始の10日前までに届出が必要。10区画・10戸以上の一団の宅地建物分譲でも同様に届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -805,7 +805,7 @@
                   "groupId": "takken_R6_Q04",
                   "statement": "本件契約が,Ａの詐欺により締結されたものである場合,ＢはＣに対して,本件契約の取消しを主張することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "詐欺による取消しは善意の第三者に対抗できないが、強迫による取消しはすべての第三者に対抗できる。解除権は一身専属でなく、債権者代位の対象となり得る。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -814,7 +814,7 @@
                   "groupId": "takken_R6_Q35",
                   "statement": "Ａが媒介業者として関与する宅地の売買契約において,37条書面の電磁的方法による提供を行う場合であっても,提供後速やかに37条書面を交付しなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建業者の報酬は借賃の1か月分が上限（賃貸借の場合）。37条書面の電磁的方法による提供の場合でも、別途書面交付は不要（電磁的方法での提供で足りる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -823,7 +823,7 @@
                   "groupId": "takken_R6_Q03",
                   "statement": "甲土地の所有 権の登記名義人となっている者が所有者ではないＥである場合,持分に基づいてＥ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "共有物の著しい変更は共有者全員の同意が必要。裁判所による持分取得の決定後、元の共有者は3年以内に時価相当額の支払いを請求できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -832,7 +832,7 @@
                   "groupId": "takken_R6_Q23",
                   "statement": "令和6年中に居住用家屋を居住の用に供した場合。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "居住用財産の所有権移転登記に係る登録免許税は軽減税率が適用される場合がある。令和6年中に居住用に供した場合の要件を満たせば軽減措置を利用できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -841,7 +841,7 @@
                   "groupId": "takken_R6_Q44",
                   "statement": "Ａは,建築工事完了前の建物の売買契約を媒介したときに,37条書面に記載する当該建物を特定するために必要な表示について。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "37条書面には引渡しの時期を記載しなければならない（必要的記載事項）。宅建業者が自ら売主として締結した契約の場合も37条書面の交付は必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -850,7 +850,7 @@
                   "groupId": "takken_R6_Q02",
                   "statement": "受任者は,委任者の許諾を得たとき,又はやむを得ない事由があるときでなければ,復受任者を選任することができない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "委任と請負の違いは仕事完成義務の有無。請負は仕事の完成が目的で、委任は事務処理が目的。復受任者の選任は原則として委任者の許諾またはやむを得ない事由が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -859,7 +859,7 @@
                   "groupId": "takken_R6_Q08",
                   "statement": "代理人が自己又は第三者の利益を図る目的で代理権の範囲内の行為をした場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "未成年者の法律行為は法定代理人の同意が必要だが、単なる権利取得・義務免除は単独でできる。代理人の権限濫用は相手方が悪意・有過失の場合に無効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -868,7 +868,7 @@
                   "groupId": "takken_R6_Q32",
                   "statement": "Ｂが宅地建物取引業者である場合は,当該契約が国土交通大臣が定める標準媒介契約約款に基づくものであるか否かの別を。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "専任媒介契約で売買が成立した場合は指定流通機構へ成約通知が必要。宅建業者が依頼者の場合も標準媒介契約約款に基づくかの別を記載しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -877,7 +877,7 @@
                   "groupId": "takken_R6_Q36",
                   "statement": "宅地建物取引業者で保証協会に加入しようとする者は,その加入しようとする日までに,政令で定める額の弁済業務保証金分担金を当該保証協会に納付しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "保証協会の弁済業務保証金から還付を受けられるのは宅建業者と取引した者。社員が保証協会の社員の地位を失った場合、弁済業務保証金の取戻しには公告手続きが必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -886,7 +886,7 @@
                   "groupId": "takken_R6_Q23",
                   "statement": "令和5年中に居住用家屋の敷地の用に供するための土地を取得した場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "居住用財産の所有権移転登記に係る登録免許税は軽減税率が適用される場合がある。令和6年中に居住用に供した場合の要件を満たせば軽減措置を利用できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -895,7 +895,7 @@
                   "groupId": "takken_R6_Q39",
                   "statement": "届出をすべき場所として,宅地建物取引業者が業務に関し展示会その他これに類する催しを実施する場所が定められているが。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "案内所等を設置する場合、業務開始の10日前までに届出が必要。10区画・10戸以上の一団の宅地建物分譲でも同様に届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -904,7 +904,7 @@
                   "groupId": "takken_R6_Q07",
                   "statement": "Ｂが,Ａの甲建物への立ち入りを建物入り口を閉ざして拒んだときは,Ａは甲建物の間接占有が侵奪されたものとして,Ｂ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "使用貸借は借主の死亡で終了するが、賃貸借は相続される。賃借人死亡後に相続人が相続するため、内縁の配偶者は借家権承継の特例を除き権利なし。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -913,7 +913,7 @@
                   "groupId": "takken_R6_Q20",
                   "statement": "仮換地が指定された場合においては,従前の宅地について権原に基づき使用し,又は収益することができる者は。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "仮換地指定後、従前の土地の使用収益は禁止され仮換地を使用する。仮換地指定後も従前の宅地の所有権は変わらない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -922,7 +922,7 @@
                   "groupId": "takken_R6_Q01",
                   "statement": "詐欺による意思表示は取り消すことによって初めから無効であったとみなされるのに対し,強迫による意思表示は取り消すまでもなく無効である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "公序良俗違反の法律行為は当事者の合意があっても無効。他人物売買は有効で、所有者の追認があれば完全に有効となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -931,7 +931,7 @@
                   "groupId": "takken_R6_Q33",
                   "statement": "複数の区画がある分譲地の売買について,数回に分けて広告をする場合は,最初に行う広告だけではなく,次回以降の広告の都度取引態様の別を明示しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅地の販売広告は開発許可等が確定した後でなければ行ってはならない。インターネット広告でも誇大広告禁止等の規制は適用される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -940,7 +940,7 @@
                   "groupId": "takken_R6_Q50",
                   "statement": "ブレース構造は,骨組全てに用いることが多く,ラーメン構造など他の構造と併用することはない。(cid:12719)(cid:12746)",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ブレース構造はラーメン構造等と併用することもある（単独使用に限らない）。ラーメン構造は柱・梁の接合部を固定した骨組み構造で変形に強い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -949,7 +949,7 @@
                   "groupId": "takken_R6_Q14",
                   "statement": "登記名義人の住所についての変更の登記は,登記名義人が単独で申請することができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "遺贈（相続人以外）による所有権移転登記は受遺者が単独申請可。住所変更登記は登記名義人が単独申請可。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -958,7 +958,7 @@
                   "groupId": "takken_R6_Q01",
                   "statement": "営業を許された未成年者が,その営業に関する意思表示をした時に意思能力を有しなかった場合は,その法律行為は無効である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "公序良俗違反の法律行為は当事者の合意があっても無効。他人物売買は有効で、所有者の追認があれば完全に有効となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -967,7 +967,7 @@
                   "groupId": "takken_R6_Q50",
                   "statement": "ラーメン構造は,柱を鉛直方向,梁を水平方向に配置し,接合部を強く固めた構造である。(cid:12719)(cid:12746)",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ブレース構造はラーメン構造等と併用することもある（単独使用に限らない）。ラーメン構造は柱・梁の接合部を固定した骨組み構造で変形に強い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -976,7 +976,7 @@
                   "groupId": "takken_R6_Q02",
                   "statement": "委任契約で本人が死亡しても代理権が消滅しない旨を合意して代理人に代理権を与えた場合,本人が死亡しても代理権は消滅しない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "委任と請負の違いは仕事完成義務の有無。請負は仕事の完成が目的で、委任は事務処理が目的。復受任者の選任は原則として委任者の許諾またはやむを得ない事由が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -985,7 +985,7 @@
                   "groupId": "takken_R6_Q48",
                   "statement": "令和5年住宅・土地統計調査住宅数概数集計結果によれば,令和5年10月1日現在における賃貸・売却用及び二次的住宅を除く空き家は,900万戸に達している。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "令和6年地価公示では三大都市圏・地方圏ともに全用途で3年連続上昇。宅建士の総登録者数は200万人を超えている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -994,7 +994,7 @@
                   "groupId": "takken_R6_Q11",
                   "statement": "当事者が借地権の設定後に最初に借地契約を更新する場合において,存続期間を定めなかったときは,その期間は更新の日から10年となる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "事業用定期借地権は10年以上50年未満で設定可能（公正証書必要）。借地権の存続期間を定めない場合は30年となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1003,7 +1003,7 @@
                   "groupId": "takken_R6_Q07",
                   "statement": "ＣがＢに対し甲建物をＡから買受けたとの虚偽の話をしたので,これを信じたＢが甲建物の占有を任意にＣに移転した場合。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "使用貸借は借主の死亡で終了するが、賃貸借は相続される。賃借人死亡後に相続人が相続するため、内縁の配偶者は借家権承継の特例を除き権利なし。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1012,7 +1012,7 @@
                   "groupId": "takken_R6_Q12",
                   "statement": "契約期間中は賃料の改定を行わない旨の特約を契約において定めていても,契約期間中に賃料が不相当になったと考えるに至ったＢは。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建物賃借権は引渡しにより第三者対抗力を取得。賃貸人が変わっても賃貸借は継続する（オーナーチェンジ）。賃借人死亡で契約終了しない（相続）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1021,7 +1021,7 @@
                   "groupId": "takken_R6_Q10",
                   "statement": "代金の減額請求権,損害賠償請求権,契約の解除権",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "契約不適合責任では、追完請求・代金減額請求・損害賠償・解除が認められる。買主は不適合を知った時から1年以内に売主へ通知しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1030,7 +1030,7 @@
                   "groupId": "takken_R6_Q47",
                   "statement": "居住の用に供されたことはないが建築後1年以上経過した一戸建て住宅について,新築である旨を表示することはできない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "不当表示防止法では廃屋の存在など購入者の判断に影響する事実は告知義務がある。交通の所要時間は朝の通勤ラッシュ時のものを明示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1039,7 +1039,7 @@
                   "groupId": "takken_R6_Q09",
                   "statement": "第三者が債務者との間で,債務者の債務につき免責的債務引受契約をする場合,債権者の承諾は不要である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "併存的債務引受は債権者の承諾で効力発生。免責的債務引受は債権者の承諾が必要で、債務者との間だけでは効力が生じない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1048,7 +1048,7 @@
                   "groupId": "takken_R6_Q32",
                   "statement": "Ｂが当該中古住宅について,法第34条の2第1項第4号に規定する建物状況調査を実施する者のあっせんを希望しなかった場合は。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "専任媒介契約で売買が成立した場合は指定流通機構へ成約通知が必要。宅建業者が依頼者の場合も標準媒介契約約款に基づくかの別を記載しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1057,7 +1057,7 @@
                   "groupId": "takken_R6_Q38",
                   "statement": "宅地建物取引業者Ｅの免許の更新に当たって,丙県知事は宅地建物取引業法第3条の2に基づき条件を付すことができ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "知事免許業者が他都道府県に事務所を設置する場合は免許換えが必要。免許更新時に知事が条件を付すことができる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1066,7 +1066,7 @@
                   "groupId": "takken_R6_Q15",
                   "statement": "準都市計画区域については,用途地域が定められている土地の区域であっても,市街地開発事業に関する都市計画を定めることができない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "都市施設の都市計画は都市計画区域外でも特に必要な場合に定めることができる。地区計画は用途地域外でも一定条件のもとで定めることができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1075,7 +1075,7 @@
                   "groupId": "takken_R6_Q08",
                   "statement": "無効な行為に基づく債務の履行として給付を受けた者は,相手方を原状に復させる義務を負う。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "未成年者の法律行為は法定代理人の同意が必要だが、単なる権利取得・義務免除は単独でできる。代理人の権限濫用は相手方が悪意・有過失の場合に無効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1084,7 +1084,7 @@
                   "groupId": "takken_R6_Q04",
                   "statement": "Ｂが期日までに売買代金を支払わない場合であっても,本件契約の解除権はＡの一身に専属した権利であるため,Ｃは本件契約を解除することはできない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "詐欺による取消しは善意の第三者に対抗できないが、強迫による取消しはすべての第三者に対抗できる。解除権は一身専属でなく、債権者代位の対象となり得る。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1093,7 +1093,7 @@
                   "groupId": "takken_R6_Q45",
                   "statement": "自ら売主として新築住宅を宅地建物取引業者ではない買主に引き渡した宅地建物取引業者は,基準日に係る保証金の供託及び保険契約の締結の状況について届出をしなければ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅瑕疵担保履行法では10年間の保証が義務付けられ、新築住宅を引き渡した宅建業者は基準日から3週間以内に届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1102,7 +1102,7 @@
                   "groupId": "takken_R6_Q05",
                   "statement": "請負人の報酬債権に対して,注文者がこれと同時履行の関係にある目的物の瑕疵修補に代わる損害賠償債権を自働債権とする相殺の意思表示をした場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不法行為に基づく損害賠償債務は損害発生時から遅滞となる（期限の定めのない債務と異なる）。不当利得返還債務は履行請求を受けた時から遅滞となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1111,7 +1111,7 @@
                   "groupId": "takken_R6_Q10",
                   "statement": "履行の追完請求権,損害賠償請求権,契約の解除権",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "契約不適合責任では、追完請求・代金減額請求・損害賠償・解除が認められる。買主は不適合を知った時から1年以内に売主へ通知しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1120,7 +1120,7 @@
                   "groupId": "takken_R6_Q22",
                   "statement": "監視区域に指定された市街化区域内に所在する土地2,500m2について売買契約を締結しようとする当事者は。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "事後届出を怠った場合、罰則（罰金）はあるが勧告は届出をした者に対するもの。市街化区域外の都市計画区域内の4,000㎡超の土地の地上権設定も届出対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1129,7 +1129,7 @@
                   "groupId": "takken_R6_Q13",
                   "statement": "各共有者の共用部分の持分は,規約に別段の定めがない限り,共有者数で等分することとされている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法の集会招集通知は原則1週間前までに区分所有者へ。管理者は毎年1回集会で事務報告義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1138,7 +1138,7 @@
                   "groupId": "takken_R6_Q15",
                   "statement": "用途地域の一つである準住居地域は,道路の沿道としての地域の特性にふさわしい業務の利便の増進を図りつつ,これと調和した住居の環境を保護するために定める地域である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "都市施設の都市計画は都市計画区域外でも特に必要な場合に定めることができる。地区計画は用途地域外でも一定条件のもとで定めることができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1147,7 +1147,7 @@
                   "groupId": "takken_R6_Q20",
                   "statement": "換地計画において定められた保留地は,換地処分の公告があった日の翌日において,施行者が取得する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "仮換地指定後、従前の土地の使用収益は禁止され仮換地を使用する。仮換地指定後も従前の宅地の所有権は変わらない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1156,7 +1156,7 @@
                   "groupId": "takken_R6_Q30",
                   "statement": "Ｂが,自らの申出により,Ｂの勤務する会社の事務所。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "クーリングオフ告知書面には業者の商号・住所・免許番号の記載は必要。宅建士の記名は不要。自宅や勤務先での申込みはクーリングオフができない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1165,7 +1165,7 @@
                   "groupId": "takken_R6_Q03",
                   "statement": "Ａ,Ｂ,Ｃ3人の同意があれば,甲土地を資材置場として賃借したいＦとの間で期間を3年とする賃貸借契約を締結することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "共有物の著しい変更は共有者全員の同意が必要。裁判所による持分取得の決定後、元の共有者は3年以内に時価相当額の支払いを請求できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1174,7 +1174,7 @@
                   "groupId": "takken_R6_Q45",
                   "statement": "自ら売主として宅地建物取引業者ではない買主に新築住宅を引き渡した宅地建物取引業者が,保証金を供託する場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "住宅瑕疵担保履行法では10年間の保証が義務付けられ、新築住宅を引き渡した宅建業者は基準日から3週間以内に届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1183,7 +1183,7 @@
                   "groupId": "takken_R6_Q35",
                   "statement": "Ａが自ら売主として締結する宅地の売買契約。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建業者の報酬は借賃の1か月分が上限（賃貸借の場合）。37条書面の電磁的方法による提供の場合でも、別途書面交付は不要（電磁的方法での提供で足りる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1192,7 +1192,7 @@
                   "groupId": "takken_R6_Q18",
                   "statement": "客席部分の床面積の合計が300m2の映画館については,第二種住居地域内において建築することはできないが,準住居地域内においては建築することができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建蔽率80%指定かつ防火地域内の耐火建築物は建蔽率制限が適用されない（許可不要）。天空率による緩和規定は斜線制限に適合する建築物の天空率以上であれば適用される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1201,7 +1201,7 @@
                   "groupId": "takken_R6_Q27",
                   "statement": "Ａは,金銭と有価証券を併用して供託することができ,有価証券のみで供託する場合の当該有価証券の価額は,国債証券の場合はその額面金額の100分の90。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建業者が新たに従たる事務所を設置する場合、追加分の営業保証金を主たる事務所の最寄りの供託所に供託する。有価証券の評価額は国債は額面の100%（100分の100）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1210,7 +1210,7 @@
                   "groupId": "takken_R6_Q50",
                   "statement": "壁式構造は,板状の壁と床を箱形に組み,建物とする構造で,原則として,柱や梁は用いない。受 験 番 号―受 験 者 氏 名令 和 6 年 度 問 題",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ブレース構造はラーメン構造等と併用することもある（単独使用に限らない）。ラーメン構造は柱・梁の接合部を固定した骨組み構造で変形に強い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1219,7 +1219,7 @@
                   "groupId": "takken_R6_Q02",
                   "statement": "売主が,売買契約の付随義務として,買主。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "委任と請負の違いは仕事完成義務の有無。請負は仕事の完成が目的で、委任は事務処理が目的。復受任者の選任は原則として委任者の許諾またはやむを得ない事由が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1228,7 +1228,7 @@
                   "groupId": "takken_R6_Q30",
                   "statement": "Ｂが,自らの申出により,喫茶店。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "クーリングオフ告知書面には業者の商号・住所・免許番号の記載は必要。宅建士の記名は不要。自宅や勤務先での申込みはクーリングオフができない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1237,7 +1237,7 @@
                   "groupId": "takken_R6_Q23",
                   "statement": "令和6年中に居住用家屋を居住の用に供した場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "居住用財産の所有権移転登記に係る登録免許税は軽減税率が適用される場合がある。令和6年中に居住用に供した場合の要件を満たせば軽減措置を利用できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1246,7 +1246,7 @@
                   "groupId": "takken_R6_Q27",
                   "statement": "Ａの従業員が運転する車両で現地案内を受けた者が,Ａの従業員の過失による交通事故でケガをした場合に取得する損害賠償請求権は。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建業者が新たに従たる事務所を設置する場合、追加分の営業保証金を主たる事務所の最寄りの供託所に供託する。有価証券の評価額は国債は額面の100%（100分の100）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1255,7 +1255,7 @@
                   "groupId": "takken_R6_Q27",
                   "statement": "Ａが主たる事務所を移転したことにより,その最寄りの供託所が変更した場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建業者が新たに従たる事務所を設置する場合、追加分の営業保証金を主たる事務所の最寄りの供託所に供託する。有価証券の評価額は国債は額面の100%（100分の100）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1264,7 +1264,7 @@
                   "groupId": "takken_R6_Q33",
                   "statement": "建物の所有者と賃貸借契約を締結し,当該建物を自らが貸主となって貸借するための広告をする場合においては。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅地の販売広告は開発許可等が確定した後でなければ行ってはならない。インターネット広告でも誇大広告禁止等の規制は適用される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1273,7 +1273,7 @@
                   "groupId": "takken_R6_Q24",
                   "statement": "不動産取得税の課税標準は,不動産を取得した時における当該不動産の売買価格であるから,固定資産税の課税標準である固定資産の評価額とは異なるものである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不動産取得税は不動産取得に課されるが、相続・法人合併等は非課税。課税標準が一定額未満の場合は免税点がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1282,7 +1282,7 @@
                   "groupId": "takken_R6_Q22",
                   "statement": "宅地建物取引業者Ｃが所有する市街化区域内の3,000m2の土地と宅地建物取引業者Ｄが所有する都市計画区域外に所在する12。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "事後届出を怠った場合、罰則（罰金）はあるが勧告は届出をした者に対するもの。市街化区域外の都市計画区域内の4,000㎡超の土地の地上権設定も届出対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1291,7 +1291,7 @@
                   "groupId": "takken_R6_Q18",
                   "statement": "特定用途誘導地区内。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建蔽率80%指定かつ防火地域内の耐火建築物は建蔽率制限が適用されない（許可不要）。天空率による緩和規定は斜線制限に適合する建築物の天空率以上であれば適用される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1300,7 +1300,7 @@
                   "groupId": "takken_R6_Q45",
                   "statement": "保険契約は,新築住宅の引渡し時から有効でなければならないが,買主が当該住宅の引渡し時から10年以内に当該住宅を転売した場合,当該保険契約は解除される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "住宅瑕疵担保履行法では10年間の保証が義務付けられ、新築住宅を引き渡した宅建業者は基準日から3週間以内に届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1309,7 +1309,7 @@
                   "groupId": "takken_R6_Q32",
                   "statement": "Ａに対して当該中古住宅について買受けの申込みがなかった場合でも,ＡはＢに対して,当該契約に係る業務の処理状況を2週間に1回以上報告しなければならないが。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "専任媒介契約で売買が成立した場合は指定流通機構へ成約通知が必要。宅建業者が依頼者の場合も標準媒介契約約款に基づくかの別を記載しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1318,7 +1318,7 @@
                   "groupId": "takken_R6_Q25",
                   "statement": "収益還元法は,対象不動産が将来生み出すであろうと期待される純収益の現在価値の総和を求めることにより対象不動産の試算価格を求める手法であり。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "最有効使用の原則（適合の原則ではない）とは不動産価格は最高最善の使用を前提として形成されるという原則。鑑定評価では対象不動産について想定上の条件を設定することができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1327,7 +1327,7 @@
                   "groupId": "takken_R6_Q19",
                   "statement": "工事主は,宅地造成等工事規制区域において行われる宅地造成等に関する工事について,工事着手後2週間以内に,宅地造成等に関する工事の施行に係る土地の周辺地域の住民。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅地造成等工事規制区域内の工事は許可が必要で、工事着手前に届出等の手続きが必要。周辺住民への説明会義務はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1336,7 +1336,7 @@
                   "groupId": "takken_R6_Q17",
                   "statement": "防火地域内に存在する共同住宅（その用途に供する部分の床面積の合計が300m2）を増築する場合,その増築に係る部分の床面積の合計が10m2以内であっても。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "特定行政庁は建築基準法違反建築物の除却等の措置命令が可能。劇場を映画館に用途変更する場合、床面積200㎡以上なら確認申請が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1345,7 +1345,7 @@
                   "groupId": "takken_R6_Q04",
                   "statement": "売買代金を受領したＣが甲土地の引渡しを拒絶する意思を明確に表示したとしても,Ｂは,Ｃ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "詐欺による取消しは善意の第三者に対抗できないが、強迫による取消しはすべての第三者に対抗できる。解除権は一身専属でなく、債権者代位の対象となり得る。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1354,7 +1354,7 @@
                   "groupId": "takken_R6_Q08",
                   "statement": "隔地者間の契約は,承諾の通知を発した時に成立する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "未成年者の法律行為は法定代理人の同意が必要だが、単なる権利取得・義務免除は単独でできる。代理人の権限濫用は相手方が悪意・有過失の場合に無効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1363,7 +1363,7 @@
                   "groupId": "takken_R6_Q17",
                   "statement": "高さ25mの建築物には,周囲の状況によって安全上支障がない場合を除き,有効に避雷設備を設けなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "特定行政庁は建築基準法違反建築物の除却等の措置命令が可能。劇場を映画館に用途変更する場合、床面積200㎡以上なら確認申請が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -1383,7 +1383,7 @@
                   "groupId": "takkenr7_Q21",
                   "statement": "市街化区域外にある農地の転用の申請に係る事業が住宅の用に供される土地の造成だけを",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "農地転用のうち住宅用地の造成は農業委員会の許可（4条・5条）が必要。仮設工作物のための農地取得でも農地法3条許可が必要（例外なし）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1392,7 +1392,7 @@
                   "groupId": "takkenr7_Q23",
                   "statement": "この税率の軽減措置の適用対象となる土地は,その価額が1,000万円未満のものに限られ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "居住用財産の所有権移転登記の税率軽減は土地価額による制限なし。地目が雑種地でも実態が住宅用地なら軽減措置の対象となり得る。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1401,7 +1401,7 @@
                   "groupId": "takkenr7_Q18",
                   "statement": "建築物のエネルギー消費性能の向上のため必要な外壁等に関する工事を行う場合,公益性",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "エネルギー消費性能向上のための工事で政令で定める基準を超える場合は確認申請不要の緩和あり。都市再生特別地区では容積率・建蔽率等を都市計画で別途定められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1410,7 +1410,7 @@
                   "groupId": "takkenr7_Q41",
                   "statement": "宅地建物取引業者Ａ（甲県知事免許）が免許を受けてから1 年以内に事業を開始しないと",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "免許取得後1年以内に事業を開始しない場合は免許取消の対象。複数都道府県に事務所を設ける場合は国土交通大臣免許が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1419,7 +1419,7 @@
                   "groupId": "takkenr7_Q45",
                   "statement": "宅地建物取引業者は,自ら売主となる売買契約に基づき新築住宅を引き渡す場合だけでな",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "住宅瑕疵担保履行法では宅建業者が売主・買主ともに業者の場合は適用がなく、買主が一般消費者（非業者）の場合に適用される。保険契約期間は10年以上。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1428,7 +1428,7 @@
                   "groupId": "takkenr7_Q29",
                   "statement": "ＡがＤを売主としＥを買主とする宅地の売買契約を媒介した場合,天災その他不可抗力に",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "37条書面には天災等の危険負担に関する定めがある場合はその内容を記載。宅建業者が自ら売主の場合、金銭の貸借に関する事項も記載が必要（定めがあれば）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1437,7 +1437,7 @@
                   "groupId": "takkenr7_Q47",
                   "statement": "団地（一団の宅地又は建物をいう。）と駅との間の道路距離は,取引する区画のうち駅か",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "団地と駅の距離は最も遠い区画（最も不利な条件）の距離を表示する必要がある。管理費の額が住戸により異なる場合は全住戸の管理費を表示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1446,7 +1446,7 @@
                   "groupId": "takkenr7_Q04",
                   "statement": "Ａが本件契約に基づく債務の弁済を怠った場合には,ＢはＡの総財産に対して先取特権を",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "金銭消費貸借で期限の定めがない場合、貸主は相当の期間を定めて返還請求できる。悪意による不法行為債権を受働債権とする相殺は禁止されている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1455,7 +1455,7 @@
                   "groupId": "takkenr7_Q35",
                   "statement": "Ａが営業保証金を供託する場合において,金銭と有価証券を併用して供託することができ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "営業保証金は金銭と有価証券の併用可能。新たに設置した従たる事務所分の追加供託先は主たる事務所最寄りの供託所。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1464,7 +1464,7 @@
                   "groupId": "takkenr7_Q15",
                   "statement": "近隣商業地域は,近隣の住宅地の住民に対する日用品の供給を行うことを主たる内容とす",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "近隣商業地域は住民への日用品供給を主目的とする商業施設が集まる地域。風致地区は条例による建築制限があるが、都市計画法で建築物の制限内容を定める。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1473,7 +1473,7 @@
                   "groupId": "takkenr7_Q27",
                   "statement": "宅地建物取引業者は,自身が売主となる場合に,重要事項説明書の交付に当たり,専任の",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "重要事項説明書には宅建士が記名し、交付方法は書面または電磁的方法。重要事項説明はIT重説（テレビ電話等）でも可能で、必ずしも事務所で行う必要はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1482,7 +1482,7 @@
                   "groupId": "takkenr7_Q02",
                   "statement": "①のＢがＡに対して連帯保証債務の履行を請求してきた場合には,ＡはまずＣに請求する",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "個人が賃貸借の連帯保証をする場合は極度額を定めなければ無効。売買代金の保証は通常の保証であり極度額の定めは不要。連帯保証に催告の抗弁権はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1491,7 +1491,7 @@
                   "groupId": "takkenr7_Q06",
                   "statement": "AABB..iinndddd 33 22002255//0088//2222 1188::2299::0088",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "立木は明認方法（皮はぎ・立札等）により独立した不動産として対抗力を持つ。土地と建物は別個の不動産であり、土地のみの売却も有効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1500,7 +1500,7 @@
                   "groupId": "takkenr7_Q11",
                   "statement": "本件契約の存続期間が50年であり,契約の更新及び建物の築造による存続期間の延長が",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "事業用定期借地権（10年以上50年未満）は更新・建物買取請求権の適用がなく、公正証書が必要。50年の存続期間は一般定期借地権で設定可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1509,7 +1509,7 @@
                   "groupId": "takkenr7_Q16",
                   "statement": "開発行為とは,主として建築物の建築又は特定工作物の建設の用に供する目的で行う土地",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "開発行為とは建築物の建築等を目的とした土地の区画形質の変更。自己居住以外の開発行為でも面積が小さい場合や農林漁業者の建築等は許可不要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1518,7 +1518,7 @@
                   "groupId": "takkenr7_Q01",
                   "statement": "Ｃは,甲土地の所有権移転登記を備えなければ,Ａに対して自己が所有者であることを主",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不動産の二重譲渡では登記の先後で対抗関係が決まる。解除前の第三者は登記を備えていれば保護されるが、強迫による取消しは登記なしに対抗できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1527,7 +1527,7 @@
                   "groupId": "takkenr7_Q35",
                   "statement": "Ａは,事業の開始後新たに乙県に従たる事務所を設置したときは,従たる事務所の最寄り",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "営業保証金は金銭と有価証券の併用可能。新たに設置した従たる事務所分の追加供託先は主たる事務所最寄りの供託所。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1536,7 +1536,7 @@
                   "groupId": "takkenr7_Q19",
                   "statement": "都道府県知事は,宅地造成等工事規制区域内の土地について,宅地造成等に伴う災害の防",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "都道府県知事は宅地造成等工事規制区域内の土地について、災害防止のため改善勧告・改善命令ができる。許可を受けた工事の軽微な変更は届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1545,7 +1545,7 @@
                   "groupId": "takkenr7_Q16",
                   "statement": "自己の居住の用に供する住宅の建築を目的として行う開発行為以外の開発行為にあって",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "開発行為とは建築物の建築等を目的とした土地の区画形質の変更。自己居住以外の開発行為でも面積が小さい場合や農林漁業者の建築等は許可不要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1554,7 +1554,7 @@
                   "groupId": "takkenr7_Q10",
                   "statement": "売主は契約不適合責任を一切負わない旨の特約があり,Ｂは引渡しの日から1 年が経過し",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "契約不適合責任を免除する特約は買主に不利だが有効（宅建業者が売主の場合は制限あり）。消滅時効は権利を行使できることを知った時から5年（または権利行使できる時から10年）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1563,7 +1563,7 @@
                   "groupId": "takkenr7_Q09",
                   "statement": "連帯債務者の一人が債権者に対して債権を有する場合において,その連帯債務者がした相",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連帯債務者の一人がした相殺は他の連帯債務者の債務も消滅させる（絶対的効力）。混同も絶対的効力があり、混同が生じた連帯債務者は主債務者とみなされる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1572,7 +1572,7 @@
                   "groupId": "takkenr7_Q24",
                   "statement": "市町村長は,納税義務者等の求めに応じ,法令で定めるところにより固定資産課税台帳を",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "固定資産課税台帳は納税義務者等が閲覧請求できる。固定資産税は一定の課税標準の免税点（土地30万円、家屋20万円、償却資産150万円）以下は課税されない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1581,7 +1581,7 @@
                   "groupId": "takkenr7_Q27",
                   "statement": "宅地建物取引業者は,重要事項を説明する際には,宅地建物取引業者の事務所において行",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "重要事項説明書には宅建士が記名し、交付方法は書面または電磁的方法。重要事項説明はIT重説（テレビ電話等）でも可能で、必ずしも事務所で行う必要はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1590,7 +1590,7 @@
                   "groupId": "takkenr7_Q17",
                   "statement": "建築主は, 2 階建ての木造住宅を新築しようとする場合は,当該工事に着手する前に,そ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "木造2階建て住宅の新築は建築確認が必要（建築主事または指定確認検査機関に申請）。高さ1m以下の階段部分への手すり設置は義務づけられていない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1599,7 +1599,7 @@
                   "groupId": "takkenr7_Q47",
                   "statement": "新築分譲マンションを販売するに当たり,住戸により管理費の額が異なる場合であっ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "団地と駅の距離は最も遠い区画（最も不利な条件）の距離を表示する必要がある。管理費の額が住戸により異なる場合は全住戸の管理費を表示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1608,7 +1608,7 @@
                   "groupId": "takkenr7_Q47",
                   "statement": "道路距離80 mにつき 1 分間を要するものとして,賃貸物件から最寄りの駅までの徒歩に",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "団地と駅の距離は最も遠い区画（最も不利な条件）の距離を表示する必要がある。管理費の額が住戸により異なる場合は全住戸の管理費を表示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1617,7 +1617,7 @@
                   "groupId": "takkenr7_Q15",
                   "statement": "風致地区は,都市の風致を維持するため定める地区であり,当該地区内における建築物の",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "近隣商業地域は住民への日用品供給を主目的とする商業施設が集まる地域。風致地区は条例による建築制限があるが、都市計画法で建築物の制限内容を定める。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1626,7 +1626,7 @@
                   "groupId": "takkenr7_Q29",
                   "statement": "Ａが自ら売主としてＦと建物の売買契約を締結した場合,代金についての金銭の貸借の",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "37条書面には天災等の危険負担に関する定めがある場合はその内容を記載。宅建業者が自ら売主の場合、金銭の貸借に関する事項も記載が必要（定めがあれば）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1635,7 +1635,7 @@
                   "groupId": "takkenr7_Q25",
                   "statement": "原価法における減価修正の方法としては,耐用年数に基づく方法と,観察減価法の2 つの",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "原価法の減価修正方法には耐用年数に基づく方法と観察減価法がある。収益還元法は収益性のある不動産だけでなく自己使用の不動産にも適用できる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1644,7 +1644,7 @@
                   "groupId": "takkenr7_Q19",
                   "statement": "宅地造成等工事規制区域内において行われる宅地造成等に関する工事の許可を受けた工事",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "都道府県知事は宅地造成等工事規制区域内の土地について、災害防止のため改善勧告・改善命令ができる。許可を受けた工事の軽微な変更は届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1653,7 +1653,7 @@
                   "groupId": "takkenr7_Q15",
                   "statement": "特定街区は,市街地の整備改善を図るため街区の整備又は造成が行われる地区につい",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "近隣商業地域は住民への日用品供給を主目的とする商業施設が集まる地域。風致地区は条例による建築制限があるが、都市計画法で建築物の制限内容を定める。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1662,7 +1662,7 @@
                   "groupId": "takkenr7_Q17",
                   "statement": "高さ 1m以下の階段の部分には,手すりを設けなくてもよい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "木造2階建て住宅の新築は建築確認が必要（建築主事または指定確認検査機関に申請）。高さ1m以下の階段部分への手すり設置は義務づけられていない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1671,7 +1671,7 @@
                   "groupId": "takkenr7_Q08",
                   "statement": "Ａが死亡し,Ｅ及びＦが相続した場合には,Ｂ及びＣは,Ａの遺産についての遺産分割が",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "共有持分の放棄は他の共有者に帰属し、国庫に帰属するわけではない。相続人が複数いる場合の遺産分割協議前の持分移転登記は全相続人が共同申請する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1680,7 +1680,7 @@
                   "groupId": "takkenr7_Q44",
                   "statement": "Ａは,価額が5,000万円の土地付建物の売買を行ったとき,直ちに,一定の方法により,",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建業者は200万円超の取引について、犯罪収益移転防止法に基づく取引時確認が必要（5,000万円が基準ではなく200万円超の高額取引が対象）。疑わしい取引は届出義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1689,7 +1689,7 @@
                   "groupId": "takkenr7_Q39",
                   "statement": "ＡがＢとの間で専属専任媒介契約を締結した場合,Ａは,当該中古住宅の取引の申込みの",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "専属専任媒介契約では業者へ直接申込みがあった場合も依頼者に報告が必要。専属専任媒介の有効期間は3か月が上限で、依頼者の希望による更新は可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1698,7 +1698,7 @@
                   "groupId": "takkenr7_Q12",
                   "statement": "年前から 6 か月前までの間に相手方に対して更新をしない旨の通知をしなかったとき",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建物賃貸借の期間満了6か月前から1年前までに更新拒絶通知がなければ法定更新。取壊し予定建物の賃貸借は取壊し時に終了する旨の特約が書面で必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1707,7 +1707,7 @@
                   "groupId": "takkenr7_Q25",
                   "statement": "収益還元法は,賃貸用不動産又は賃貸以外の事業の用に供する不動産の価格を求める場合",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "原価法の減価修正方法には耐用年数に基づく方法と観察減価法がある。収益還元法は収益性のある不動産だけでなく自己使用の不動産にも適用できる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1716,7 +1716,7 @@
                   "groupId": "takkenr7_Q14",
                   "statement": "権利に関する登記の申請は,法令に別段の定めがある場合を除き,登記権利者及び登記義",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "登記は原則として登記権利者と登記義務者が共同申請する。分筆登記は所有者の申請によるものであり、職権では行えない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1725,7 +1725,7 @@
                   "groupId": "takkenr7_Q11",
                   "statement": "本件契約が公正証書によって行われていれば,専らＢの居住の用に供する建物の所有を目",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "事業用定期借地権（10年以上50年未満）は更新・建物買取請求権の適用がなく、公正証書が必要。50年の存続期間は一般定期借地権で設定可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1734,7 +1734,7 @@
                   "groupId": "takkenr7_Q10",
                   "statement": "Ｂは,甲土地の引渡しの日から11年が経過した時点で甲土地の土壌汚染を発見し,発見",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "契約不適合責任を免除する特約は買主に不利だが有効（宅建業者が売主の場合は制限あり）。消滅時効は権利を行使できることを知った時から5年（または権利行使できる時から10年）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1743,7 +1743,7 @@
                   "groupId": "takkenr7_Q20",
                   "statement": "仮換地の指定があった日後,土地区画整理事業の施行による施行地区内の土地及び建物の",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "仮換地指定後は仮換地の使用収益が開始し、仮換地指定日後の土地・建物の所有権移転登記の申請はその旨を申請書に記載する。従前の土地所有権は変わらない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1752,7 +1752,7 @@
                   "groupId": "takkenr7_Q11",
                   "statement": "本件契約が専らＢの事業の用に供する建物の所有を目的とし,存続期間が50年である場",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "事業用定期借地権（10年以上50年未満）は更新・建物買取請求権の適用がなく、公正証書が必要。50年の存続期間は一般定期借地権で設定可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1761,7 +1761,7 @@
                   "groupId": "takkenr7_Q21",
                   "statement": "仮設工作物を設置するため,市街化区域外にある農地の所有権を取得しようとする場合に",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "農地転用のうち住宅用地の造成は農業委員会の許可（4条・5条）が必要。仮設工作物のための農地取得でも農地法3条許可が必要（例外なし）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1770,7 +1770,7 @@
                   "groupId": "takkenr7_Q32",
                   "statement": "Ａは,建築工事完了後のマンションの売買契約を締結する際に,法第41条の 2 に定める",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "完成後のマンションの手付金は売買価額の10%超または1,000万円超の場合に保全措置が必要。違約金の予定は売買価額の20%を超える特約は無効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1779,7 +1779,7 @@
                   "groupId": "takkenr7_Q29",
                   "statement": "Ａが媒介により事業用宅地の賃貸借契約を成立させた場合,37条書面を交付しなければ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "37条書面には天災等の危険負担に関する定めがある場合はその内容を記載。宅建業者が自ら売主の場合、金銭の貸借に関する事項も記載が必要（定めがあれば）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1788,7 +1788,7 @@
                   "groupId": "takkenr7_Q09",
                   "statement": "連帯債務者の一人と債権者との間の混同",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連帯債務者の一人がした相殺は他の連帯債務者の債務も消滅させる（絶対的効力）。混同も絶対的効力があり、混同が生じた連帯債務者は主債務者とみなされる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1797,7 +1797,7 @@
                   "groupId": "takkenr7_Q22",
                   "statement": "市街化区域内においてＡが所有する面積3,500 m2の土地について,Ｂが2,000 m2,Ｃが",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "市街化区域内で同一の相手方に売却する場合、一団の土地として合算して届出要否を判断する。2,000㎡の土地2つ別々に取得しても合算2,000㎡以上なら届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1806,7 +1806,7 @@
                   "groupId": "takkenr7_Q46",
                   "statement": "機構は,市街地の土地の合理的な利用に寄与する一定の建築物の建設に必要な資金の貸付",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅金融支援機構は市街地の土地の合理的利用のための建築物の建設資金を直接融資できる。災害で住宅が滅失した場合の代替住宅の建設・購入資金も融資対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1815,7 +1815,7 @@
                   "groupId": "takkenr7_Q29",
                   "statement": "Ａが自ら売主としてＣと既存の建物の売買契約を締結した場合,建物の構造耐力上主要な",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "37条書面には天災等の危険負担に関する定めがある場合はその内容を記載。宅建業者が自ら売主の場合、金銭の貸借に関する事項も記載が必要（定めがあれば）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1824,7 +1824,7 @@
                   "groupId": "takkenr7_Q01",
                   "statement": "ＡＢ間の売買契約が,ＢＣ間の売買契約締結よりも前にＡにより解除されていた場合,又",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "不動産の二重譲渡では登記の先後で対抗関係が決まる。解除前の第三者は登記を備えていれば保護されるが、強迫による取消しは登記なしに対抗できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1833,7 +1833,7 @@
                   "groupId": "takkenr7_Q02",
                   "statement": "①の連帯保証契約は保証の限度額である極度額を定めなければ無効であるのに対し,②の",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "個人が賃貸借の連帯保証をする場合は極度額を定めなければ無効。売買代金の保証は通常の保証であり極度額の定めは不要。連帯保証に催告の抗弁権はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1842,7 +1842,7 @@
                   "groupId": "takkenr7_Q48",
                   "statement": "令和 7 年地価公示（令和 7 年 3 月公表）によれば,令和 6 年 1 月以降の 1 年間の地価変動",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "令和7年地価公示では令和6年の地価が全国的に上昇傾向。令和7年版土地白書では土地取引件数等の統計が公表されている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1851,7 +1851,7 @@
                   "groupId": "takkenr7_Q50",
                   "statement": "鋼材の素材の鋼の密度は,木材やコンクリートに比べて大きい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "鋼材はコンクリートや木材より密度が大きく（重い）、引張・圧縮に強い。鋼材は熱に弱くさびやすいため、耐火被覆と防錆処理が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1860,7 +1860,7 @@
                   "groupId": "takkenr7_Q12",
                   "statement": "本件契約が借地借家法第39条に規定する取壊し予定の建物の賃貸借であり,甲建物を取",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建物賃貸借の期間満了6か月前から1年前までに更新拒絶通知がなければ法定更新。取壊し予定建物の賃貸借は取壊し時に終了する旨の特約が書面で必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1869,7 +1869,7 @@
                   "groupId": "takkenr7_Q27",
                   "statement": "宅地建物取引業者は,区分所有建物の売買の媒介を行う場合に,当該一棟の建物及びその",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "重要事項説明書には宅建士が記名し、交付方法は書面または電磁的方法。重要事項説明はIT重説（テレビ電話等）でも可能で、必ずしも事務所で行う必要はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1878,7 +1878,7 @@
                   "groupId": "takkenr7_Q46",
                   "statement": "機構は,災害により住宅が滅失した場合におけるその住宅に代わるべき住宅の建設又は購",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅金融支援機構は市街地の土地の合理的利用のための建築物の建設資金を直接融資できる。災害で住宅が滅失した場合の代替住宅の建設・購入資金も融資対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1887,7 +1887,7 @@
                   "groupId": "takkenr7_Q07",
                   "statement": "ＢがＣに修理代金を支払わない場合,Ｃは,Ｂが占有する甲建物につき,当然に不動産工",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "請負人の先取特権は請負工事による建物に生じるが、不動産工事の先取特権は工事前に登記が必要。賃借人の賃料滞納による契約解除後は転借人も退去義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1896,7 +1896,7 @@
                   "groupId": "takkenr7_Q07",
                   "statement": "ＢがＣに修理代金を支払わないまま無資力となり,賃料を滞納して本件契約が解除された",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "請負人の先取特権は請負工事による建物に生じるが、不動産工事の先取特権は工事前に登記が必要。賃借人の賃料滞納による契約解除後は転借人も退去義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1905,7 +1905,7 @@
                   "groupId": "takkenr7_Q27",
                   "statement": "宅地建物取引業者は,自身が売主となる場合であっても,買主に対して,天災その他不可",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "重要事項説明書には宅建士が記名し、交付方法は書面または電磁的方法。重要事項説明はIT重説（テレビ電話等）でも可能で、必ずしも事務所で行う必要はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1914,7 +1914,7 @@
                   "groupId": "takkenr7_Q25",
                   "statement": "価格形成要因のうち個別的要因とは,一般経済社会における不動産のあり方及びその価格",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "原価法の減価修正方法には耐用年数に基づく方法と観察減価法がある。収益還元法は収益性のある不動産だけでなく自己使用の不動産にも適用できる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1923,7 +1923,7 @@
                   "groupId": "takkenr7_Q37",
                   "statement": "鉄筋コンクリート造の既存の共同住宅の販売を行う場合,宅地建物取引業法第34条の 2",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "媒介契約（既存住宅）で建物状況調査のあっせんの有無を記載した書面を交付する義務がある。建物の賃貸借の媒介では借賃以外の金銭の額・目的・保管方法を重要事項説明する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1932,7 +1932,7 @@
                   "groupId": "takkenr7_Q50",
                   "statement": "鋼材は,熱に弱く,さびやすいので,耐火や防(cid:7690)の処理を施す必要がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "鋼材はコンクリートや木材より密度が大きく（重い）、引張・圧縮に強い。鋼材は熱に弱くさびやすいため、耐火被覆と防錆処理が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1941,7 +1941,7 @@
                   "groupId": "takkenr7_Q08",
                   "statement": "Ａが甲土地についての自己の持分を放棄した場合には,その持分は国庫に帰属する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "共有持分の放棄は他の共有者に帰属し、国庫に帰属するわけではない。相続人が複数いる場合の遺産分割協議前の持分移転登記は全相続人が共同申請する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1950,7 +1950,7 @@
                   "groupId": "takkenr7_Q20",
                   "statement": "従前の宅地の所有者及びその宅地について使用収益権を有する者が,仮換地について使用",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "仮換地指定後は仮換地の使用収益が開始し、仮換地指定日後の土地・建物の所有権移転登記の申請はその旨を申請書に記載する。従前の土地所有権は変わらない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1959,7 +1959,7 @@
                   "groupId": "takkenr7_Q46",
                   "statement": "機構は,証券化支援事業（買取型）において,債務者又は債務者の親族が居住する住宅の",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "住宅金融支援機構は市街地の土地の合理的利用のための建築物の建設資金を直接融資できる。災害で住宅が滅失した場合の代替住宅の建設・購入資金も融資対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1968,7 +1968,7 @@
                   "groupId": "takkenr7_Q01",
                   "statement": "甲土地の所有権登記がＡの名義のままであったとしても,Ｂは,Ｃに甲土地を売却した後",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不動産の二重譲渡では登記の先後で対抗関係が決まる。解除前の第三者は登記を備えていれば保護されるが、強迫による取消しは登記なしに対抗できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1977,7 +1977,7 @@
                   "groupId": "takkenr7_Q37",
                   "statement": "建物の貸借の媒介を行う場合,借賃以外に授受される金銭の額,授受の目的及び保管方法",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "媒介契約（既存住宅）で建物状況調査のあっせんの有無を記載した書面を交付する義務がある。建物の賃貸借の媒介では借賃以外の金銭の額・目的・保管方法を重要事項説明する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1986,7 +1986,7 @@
                   "groupId": "takkenr7_Q23",
                   "statement": "この税率の軽減措置は,地目が雑種地となっている土地の売買による所有権の移転登記に",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "居住用財産の所有権移転登記の税率軽減は土地価額による制限なし。地目が雑種地でも実態が住宅用地なら軽減措置の対象となり得る。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1995,7 +1995,7 @@
                   "groupId": "takkenr7_Q07",
                   "statement": "ＢがＣに修理代金を支払ったとしても,本件契約において,Ａの負担に属するとされる甲",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "請負人の先取特権は請負工事による建物に生じるが、不動産工事の先取特権は工事前に登記が必要。賃借人の賃料滞納による契約解除後は転借人も退去義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2004,7 +2004,7 @@
                   "groupId": "takkenr7_Q49",
                   "statement": "丘陵地は,山地ほど斜面の勾配がきつくなく,山地に比べ斜面崩壊は生じ難いといえる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "丘陵地は山地より傾斜は緩いが盛土や切土の境界部分では斜面崩壊が起きやすい場合がある。砂州・砂丘は地下水位が高い箇所では液状化しやすい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2013,7 +2013,7 @@
                   "groupId": "takkenr7_Q19",
                   "statement": "宅地造成等工事規制区域内の土地の工事主又は工事施行者は,宅地造成等に伴う災害が生",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "都道府県知事は宅地造成等工事規制区域内の土地について、災害防止のため改善勧告・改善命令ができる。許可を受けた工事の軽微な変更は届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2022,7 +2022,7 @@
                   "groupId": "takkenr7_Q32",
                   "statement": "Ａは,建築工事完了後のマンションの売買契約を締結する際に,当事者の債務の不履行を",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "完成後のマンションの手付金は売買価額の10%超または1,000万円超の場合に保全措置が必要。違約金の予定は売買価額の20%を超える特約は無効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2031,7 +2031,7 @@
                   "groupId": "takkenr7_Q14",
                   "statement": "登記官は,一筆の土地の一部が別の地目となったときであっても,職権でその土地の分筆",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "登記は原則として登記権利者と登記義務者が共同申請する。分筆登記は所有者の申請によるものであり、職権では行えない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2040,7 +2040,7 @@
                   "groupId": "takkenr7_Q32",
                   "statement": "Ａは,建築工事完了前のマンションの売買契約を締結する際にＢから手付金500万円を受",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "完成後のマンションの手付金は売買価額の10%超または1,000万円超の場合に保全措置が必要。違約金の予定は売買価額の20%を超える特約は無効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2049,7 +2049,7 @@
                   "groupId": "takkenr7_Q25",
                   "statement": "対象建築物に関する工事が完了していない場合でも,当該工事の完了を前提として鑑定評",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "原価法の減価修正方法には耐用年数に基づく方法と観察減価法がある。収益還元法は収益性のある不動産だけでなく自己使用の不動産にも適用できる場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2058,7 +2058,7 @@
                   "groupId": "takkenr7_Q13",
                   "statement": "区分所有者が,建物の保存に有害な行為その他建物の管理又は使用に関し区分所有者の共",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有者が迷惑行為を繰り返す場合、集会決議で区分所有権の競売請求ができる。集会議事録は書面または電磁的記録で作成し、議長と議事録署名人が署名する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2067,7 +2067,7 @@
                   "groupId": "takkenr7_Q23",
                   "statement": "この税率の軽減措置は,法人が土地の売買による所有権の移転登記を受ける場合には適用",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "居住用財産の所有権移転登記の税率軽減は土地価額による制限なし。地目が雑種地でも実態が住宅用地なら軽減措置の対象となり得る。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2076,7 +2076,7 @@
                   "groupId": "takkenr7_Q48",
                   "statement": "令和 7 年版土地白書（令和 7 年 5 月公表）によれば,土地取引について,売買による所有",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "令和7年地価公示では令和6年の地価が全国的に上昇傾向。令和7年版土地白書では土地取引件数等の統計が公表されている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2085,7 +2085,7 @@
                   "groupId": "takkenr7_Q46",
                   "statement": "機構は,高齢者が自ら居住する住宅に対して行うバリアフリー工事に係る貸付けについ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅金融支援機構は市街地の土地の合理的利用のための建築物の建設資金を直接融資できる。災害で住宅が滅失した場合の代替住宅の建設・購入資金も融資対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2094,7 +2094,7 @@
                   "groupId": "takkenr7_Q06",
                   "statement": "Ａが甲土地上の立木の所有権を留保して甲土地をＪに売却し,その後,ＪがＫに甲土地及",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "立木は明認方法（皮はぎ・立札等）により独立した不動産として対抗力を持つ。土地と建物は別個の不動産であり、土地のみの売却も有効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2103,7 +2103,7 @@
                   "groupId": "takkenr7_Q41",
                   "statement": "宅地建物取引業者ではないＣが甲県に本店を,乙県に支店をそれぞれ有する場合で,乙県",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "免許取得後1年以内に事業を開始しない場合は免許取消の対象。複数都道府県に事務所を設ける場合は国土交通大臣免許が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2112,7 +2112,7 @@
                   "groupId": "takkenr7_Q13",
                   "statement": "集会の議事については,議長は,書面又は電磁的記録により,議事録を作成しなければな",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "区分所有者が迷惑行為を繰り返す場合、集会決議で区分所有権の競売請求ができる。集会議事録は書面または電磁的記録で作成し、議長と議事録署名人が署名する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2121,7 +2121,7 @@
                   "groupId": "takkenr7_Q22",
                   "statement": "市街化区域内に所在する一団の土地である甲土地（面積1,200 m2）と乙土地（面積",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "市街化区域内で同一の相手方に売却する場合、一団の土地として合算して届出要否を判断する。2,000㎡の土地2つ別々に取得しても合算2,000㎡以上なら届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2130,7 +2130,7 @@
                   "groupId": "takkenr7_Q50",
                   "statement": "鋼材の素材の鋼は,鉄や炭素などの成分を含んでおり,炭素量が多いものほど,軟質で強",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "鋼材はコンクリートや木材より密度が大きく（重い）、引張・圧縮に強い。鋼材は熱に弱くさびやすいため、耐火被覆と防錆処理が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2139,7 +2139,7 @@
                   "groupId": "takkenr7_Q11",
                   "statement": "甲土地にＢが賃借権の登記をしなくても,Ｂの配偶者であるＣを所有者として登記されて",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "事業用定期借地権（10年以上50年未満）は更新・建物買取請求権の適用がなく、公正証書が必要。50年の存続期間は一般定期借地権で設定可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2148,7 +2148,7 @@
                   "groupId": "takkenr7_Q41",
                   "statement": "宅地建物取引業者Ｄ（甲県知事免許）は,甲県の事務所を廃止し,乙県内で新たに事務所",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "免許取得後1年以内に事業を開始しない場合は免許取消の対象。複数都道府県に事務所を設ける場合は国土交通大臣免許が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2157,7 +2157,7 @@
                   "groupId": "takkenr7_Q12",
                   "statement": "本件契約が期間を 2 年とするものである場合において,Ａ及びＢのいずれも期間の満了の",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建物賃貸借の期間満了6か月前から1年前までに更新拒絶通知がなければ法定更新。取壊し予定建物の賃貸借は取壊し時に終了する旨の特約が書面で必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2166,7 +2166,7 @@
                   "groupId": "takkenr7_Q47",
                   "statement": "物件の近くに新設される予定の駅等又はバスの停留所については,当該路線の運行主体が",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "団地と駅の距離は最も遠い区画（最も不利な条件）の距離を表示する必要がある。管理費の額が住戸により異なる場合は全住戸の管理費を表示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2175,7 +2175,7 @@
                   "groupId": "takkenr7_Q18",
                   "statement": "都市再生特別地区内においては,建築物の容積率,建(cid:7789)率及び建築面積は当該地区に関す",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "エネルギー消費性能向上のための工事で政令で定める基準を超える場合は確認申請不要の緩和あり。都市再生特別地区では容積率・建蔽率等を都市計画で別途定められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2184,7 +2184,7 @@
                   "groupId": "takkenr7_Q04",
                   "statement": "AABB..iinndddd 22 22002255//0088//2222 1188::2299::0088",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "金銭消費貸借で期限の定めがない場合、貸主は相当の期間を定めて返還請求できる。悪意による不法行為債権を受働債権とする相殺は禁止されている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2193,7 +2193,7 @@
                   "groupId": "takkenr7_Q13",
                   "statement": "共用部分の持分の割合について,各共有者の共用部分の持分は,規約で別段の定めをしな",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有者が迷惑行為を繰り返す場合、集会決議で区分所有権の競売請求ができる。集会議事録は書面または電磁的記録で作成し、議長と議事録署名人が署名する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2202,7 +2202,7 @@
                   "groupId": "takkenr7_Q16",
                   "statement": "区域区分が定められていない都市計画区域において,商業施設の建築の用に供する目的で",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "開発行為とは建築物の建築等を目的とした土地の区画形質の変更。自己居住以外の開発行為でも面積が小さい場合や農林漁業者の建築等は許可不要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2211,7 +2211,7 @@
                   "groupId": "takkenr7_Q49",
                   "statement": "砂州や砂丘には,粒径のそろった砂が堆積しており,地下水位が浅い箇所では,液状化し",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "丘陵地は山地より傾斜は緩いが盛土や切土の境界部分では斜面崩壊が起きやすい場合がある。砂州・砂丘は地下水位が高い箇所では液状化しやすい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2220,7 +2220,7 @@
                   "groupId": "takkenr7_Q17",
                   "statement": "建築主は,建築確認が必要な建築物を建築しようとする場合は,当該建築物の計画を建築",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "木造2階建て住宅の新築は建築確認が必要（建築主事または指定確認検査機関に申請）。高さ1m以下の階段部分への手すり設置は義務づけられていない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2229,7 +2229,7 @@
                   "groupId": "takkenr7_Q14",
                   "statement": "建物の合併の登記は,表題部所有者又は所有権の登記名義人以外の者は,申請することが",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "登記は原則として登記権利者と登記義務者が共同申請する。分筆登記は所有者の申請によるものであり、職権では行えない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2238,7 +2238,7 @@
                   "groupId": "takkenr7_Q45",
                   "statement": "保険契約を締結している宅地建物取引業者は,新築住宅を引き渡した時から10年間,構",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "住宅瑕疵担保履行法では宅建業者が売主・買主ともに業者の場合は適用がなく、買主が一般消費者（非業者）の場合に適用される。保険契約期間は10年以上。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2247,7 +2247,7 @@
                   "groupId": "takkenr7_Q39",
                   "statement": "Ａは,Ｂとの間で有効期間を 1 か月とする専属専任媒介契約を締結する際,「Ｂが媒介契",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "専属専任媒介契約では業者へ直接申込みがあった場合も依頼者に報告が必要。専属専任媒介の有効期間は3か月が上限で、依頼者の希望による更新は可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2256,7 +2256,7 @@
                   "groupId": "takkenr7_Q21",
                   "statement": "法人の代表者が,その法人の業務に関し,法第4 条第 1 項又は法第 5 条第 1 項の規定に違",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "農地転用のうち住宅用地の造成は農業委員会の許可（4条・5条）が必要。仮設工作物のための農地取得でも農地法3条許可が必要（例外なし）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2265,7 +2265,7 @@
                   "groupId": "takkenr7_Q16",
                   "statement": "市街化調整区域のうち開発許可を受けた開発区域以外の区域において行う,学校教育法に",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "開発行為とは建築物の建築等を目的とした土地の区画形質の変更。自己居住以外の開発行為でも面積が小さい場合や農林漁業者の建築等は許可不要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2274,7 +2274,7 @@
                   "groupId": "takkenr7_Q08",
                   "statement": "甲土地につき無権利のＤが,自己への虚偽の所有権移転登記をした場合には,Ａは,単独",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "共有持分の放棄は他の共有者に帰属し、国庫に帰属するわけではない。相続人が複数いる場合の遺産分割協議前の持分移転登記は全相続人が共同申請する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2283,7 +2283,7 @@
                   "groupId": "takkenr7_Q15",
                   "statement": "生産緑地地区は,農業の利便の増進を図りつつ,これと調和した低層住宅に係る良好な住",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "近隣商業地域は住民への日用品供給を主目的とする商業施設が集まる地域。風致地区は条例による建築制限があるが、都市計画法で建築物の制限内容を定める。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2292,7 +2292,7 @@
                   "groupId": "takkenr7_Q44",
                   "statement": "Ａは,土地付建物の売買契約の相手方である買主から収受した代金について犯罪により得",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建業者は200万円超の取引について、犯罪収益移転防止法に基づく取引時確認が必要（5,000万円が基準ではなく200万円超の高額取引が対象）。疑わしい取引は届出義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2301,7 +2301,7 @@
                   "groupId": "takkenr7_Q10",
                   "statement": "甲土地の引渡しの日から 3 年以内に契約不適合の通知をしなければ売主は契約不適合責任",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "契約不適合責任を免除する特約は買主に不利だが有効（宅建業者が売主の場合は制限あり）。消滅時効は権利を行使できることを知った時から5年（または権利行使できる時から10年）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2310,7 +2310,7 @@
                   "groupId": "takkenr7_Q09",
                   "statement": "債権者がした連帯債務者の一人に対する履行の請求",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "連帯債務者の一人がした相殺は他の連帯債務者の債務も消滅させる（絶対的効力）。混同も絶対的効力があり、混同が生じた連帯債務者は主債務者とみなされる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2319,7 +2319,7 @@
                   "groupId": "takkenr7_Q48",
                   "statement": "年次別法人企業統計調査（令和 5 年度。令和 6 年 9 月公表）によれば,令和 5 年度におけ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "令和7年地価公示では令和6年の地価が全国的に上昇傾向。令和7年版土地白書では土地取引件数等の統計が公表されている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2328,7 +2328,7 @@
                   "groupId": "takkenr7_Q49",
                   "statement": "台地は低地より古い時代に形成された地盤であり,一般に構造物を支持できる強度を有し",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "丘陵地は山地より傾斜は緩いが盛土や切土の境界部分では斜面崩壊が起きやすい場合がある。砂州・砂丘は地下水位が高い箇所では液状化しやすい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2337,7 +2337,7 @@
                   "groupId": "takkenr7_Q45",
                   "statement": "宅地建物取引業者は,基準日から 3 週間を経過する日までの間において,当該基準日前",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "住宅瑕疵担保履行法では宅建業者が売主・買主ともに業者の場合は適用がなく、買主が一般消費者（非業者）の場合に適用される。保険契約期間は10年以上。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2346,7 +2346,7 @@
                   "groupId": "takkenr7_Q02",
                   "statement": "AABB..iinndddd 11 22002255//0088//2222 1188::2299::0077",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "個人が賃貸借の連帯保証をする場合は極度額を定めなければ無効。売買代金の保証は通常の保証であり極度額の定めは不要。連帯保証に催告の抗弁権はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2355,7 +2355,7 @@
                   "groupId": "takkenr7_Q06",
                   "statement": "Ｄが甲土地につき,Ａに無断でＤへの虚偽の所有権の移転の登記をした上で,甲土地をＥ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "立木は明認方法（皮はぎ・立札等）により独立した不動産として対抗力を持つ。土地と建物は別個の不動産であり、土地のみの売却も有効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2364,7 +2364,7 @@
                   "groupId": "takkenr7_Q44",
                   "statement": "Ａは,土地付建物の売買を行うに際して,当該売買契約の相手方である買主が自然人で",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建業者は200万円超の取引について、犯罪収益移転防止法に基づく取引時確認が必要（5,000万円が基準ではなく200万円超の高額取引が対象）。疑わしい取引は届出義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2373,7 +2373,7 @@
                   "groupId": "takkenr7_Q35",
                   "statement": "Ａの設置した支店においてＡと宅地建物取引業に関する取引をした者は,その取引により",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "営業保証金は金銭と有価証券の併用可能。新たに設置した従たる事務所分の追加供託先は主たる事務所最寄りの供託所。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2382,7 +2382,7 @@
                   "groupId": "takkenr7_Q22",
                   "statement": "Ｆが,自ら所有する市街化調整区域内の7,000 m2の土地について,宅地建物取引業者Ｇ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "市街化区域内で同一の相手方に売却する場合、一団の土地として合算して届出要否を判断する。2,000㎡の土地2つ別々に取得しても合算2,000㎡以上なら届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2391,7 +2391,7 @@
                   "groupId": "takkenr7_Q21",
                   "statement": "農地の賃貸借は,その登記がなくても,農地の引渡しがあったときは,これをもってその",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "農地転用のうち住宅用地の造成は農業委員会の許可（4条・5条）が必要。仮設工作物のための農地取得でも農地法3条許可が必要（例外なし）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2400,7 +2400,7 @@
                   "groupId": "takkenr7_Q14",
                   "statement": "登記事項証明書の交付の請求は,請求情報を電子情報処理組織を使用して登記所に提供す",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "登記は原則として登記権利者と登記義務者が共同申請する。分筆登記は所有者の申請によるものであり、職権では行えない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2409,7 +2409,7 @@
                   "groupId": "takkenr7_Q04",
                   "statement": "Ａは,本件契約におけるＡの債務を担保するために,Ａが所有する不動産に対し,Ｂのた",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "金銭消費貸借で期限の定めがない場合、貸主は相当の期間を定めて返還請求できる。悪意による不法行為債権を受働債権とする相殺は禁止されている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2418,7 +2418,7 @@
                   "groupId": "takkenr7_Q41",
                   "statement": "宅地建物取引業者Ｂ（甲県知事免許）が株主総会の決議により解散した場合,Ｂを代表す",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "免許取得後1年以内に事業を開始しない場合は免許取消の対象。複数都道府県に事務所を設ける場合は国土交通大臣免許が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2427,7 +2427,7 @@
                   "groupId": "takkenr7_Q22",
                   "statement": "都市計画区域外においてＤが所有する面積12,000 m2の土地について,Ｅが担保権の実行",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "市街化区域内で同一の相手方に売却する場合、一団の土地として合算して届出要否を判断する。2,000㎡の土地2つ別々に取得しても合算2,000㎡以上なら届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2436,7 +2436,7 @@
                   "groupId": "takkenr7_Q08",
                   "statement": "AABB..iinndddd 44 22002255//0088//2222 1188::2299::0088",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "共有持分の放棄は他の共有者に帰属し、国庫に帰属するわけではない。相続人が複数いる場合の遺産分割協議前の持分移転登記は全相続人が共同申請する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2445,7 +2445,7 @@
                   "groupId": "takkenr7_Q50",
                   "statement": "鋼材は,強度が高く,粘りがあり,比較的小さな断面部材で荷重に耐えることができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "鋼材はコンクリートや木材より密度が大きく（重い）、引張・圧縮に強い。鋼材は熱に弱くさびやすいため、耐火被覆と防錆処理が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2454,7 +2454,7 @@
                   "groupId": "takkenr7_Q18",
                   "statement": "特定行政庁による認可を受けて公告された建築協定は,その後,当該協定の土地の所有者",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "エネルギー消費性能向上のための工事で政令で定める基準を超える場合は確認申請不要の緩和あり。都市再生特別地区では容積率・建蔽率等を都市計画で別途定められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2463,7 +2463,7 @@
                   "groupId": "takkenr7_Q44",
                   "statement": "Ａは,取引時確認,取引記録等の保存,疑わしい取引の届出等の措置を的確に行うた",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建業者は200万円超の取引について、犯罪収益移転防止法に基づく取引時確認が必要（5,000万円が基準ではなく200万円超の高額取引が対象）。疑わしい取引は届出義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2472,7 +2472,7 @@
                   "groupId": "takkenr7_Q49",
                   "statement": "川沿いの低地に堆積している川が運んだ土砂は,重い構造物を支持できる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "丘陵地は山地より傾斜は緩いが盛土や切土の境界部分では斜面崩壊が起きやすい場合がある。砂州・砂丘は地下水位が高い箇所では液状化しやすい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2481,7 +2481,7 @@
                   "groupId": "takkenr7_Q20",
                   "statement": "国又は地方公共団体の所有する土地以外であって道路の用に供している土地について",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "仮換地指定後は仮換地の使用収益が開始し、仮換地指定日後の土地・建物の所有権移転登記の申請はその旨を申請書に記載する。従前の土地所有権は変わらない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2490,7 +2490,7 @@
                   "groupId": "takkenr7_Q07",
                   "statement": "ＢがＣに修理代金を支払わないまま無資力となり,賃料を滞納して本件契約が解除された",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "請負人の先取特権は請負工事による建物に生じるが、不動産工事の先取特権は工事前に登記が必要。賃借人の賃料滞納による契約解除後は転借人も退去義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2499,7 +2499,7 @@
                   "groupId": "takkenr7_Q10",
                   "statement": "甲土地の引渡しの日から 1 年以内に契約不適合の通知をしなければ売主は契約不適合責任",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "契約不適合責任を免除する特約は買主に不利だが有効（宅建業者が売主の場合は制限あり）。消滅時効は権利を行使できることを知った時から5年（または権利行使できる時から10年）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2508,7 +2508,7 @@
                   "groupId": "takkenr7_Q01",
                   "statement": "ＡＢ間の売買契約が,ＢＣ間の売買契約よりも前にＢの強迫を理由として取り消されてい",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不動産の二重譲渡では登記の先後で対抗関係が決まる。解除前の第三者は登記を備えていれば保護されるが、強迫による取消しは登記なしに対抗できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2517,7 +2517,7 @@
                   "groupId": "takkenr7_Q39",
                   "statement": "ＡがＢとの間で専属専任媒介契約を締結し,Ｂから「売り出し中であることを秘密にして",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "専属専任媒介契約では業者へ直接申込みがあった場合も依頼者に報告が必要。専属専任媒介の有効期間は3か月が上限で、依頼者の希望による更新は可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2526,7 +2526,7 @@
                   "groupId": "takkenr7_Q09",
                   "statement": "連帯債務者の一人と債権者との間の更改",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連帯債務者の一人がした相殺は他の連帯債務者の債務も消滅させる（絶対的効力）。混同も絶対的効力があり、混同が生じた連帯債務者は主債務者とみなされる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2535,7 +2535,7 @@
                   "groupId": "takkenr7_Q45",
                   "statement": "保険契約を締結している宅地建物取引業者及び当該業者が売主となっている新築住宅の買",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅瑕疵担保履行法では宅建業者が売主・買主ともに業者の場合は適用がなく、買主が一般消費者（非業者）の場合に適用される。保険契約期間は10年以上。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2544,7 +2544,7 @@
                   "groupId": "takkenr7_Q13",
                   "statement": "共用部分は,原則として区分所有者全員の共有に属するが,規約で別段の定めをすること",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有者が迷惑行為を繰り返す場合、集会決議で区分所有権の競売請求ができる。集会議事録は書面または電磁的記録で作成し、議長と議事録署名人が署名する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2553,7 +2553,7 @@
                   "groupId": "takkenr7_Q06",
                   "statement": "Ｂが甲土地をＡに無断でＣに売却し,その後,ＢがＡから甲土地を購入した場合,Ｃ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "立木は明認方法（皮はぎ・立札等）により独立した不動産として対抗力を持つ。土地と建物は別個の不動産であり、土地のみの売却も有効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2562,7 +2562,7 @@
                   "groupId": "takkenr7_Q37",
                   "statement": "建物の貸借の媒介を行う場合,当該建物が都市計画法の準防火地域内にあり,建築基準法",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "媒介契約（既存住宅）で建物状況調査のあっせんの有無を記載した書面を交付する義務がある。建物の賃貸借の媒介では借賃以外の金銭の額・目的・保管方法を重要事項説明する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2571,7 +2571,7 @@
                   "groupId": "takkenr7_Q24",
                   "statement": "市町村は,土地,家屋又は償却資産に対して課する固定資産税額が,土地にあっては30",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "固定資産課税台帳は納税義務者等が閲覧請求できる。固定資産税は一定の課税標準の免税点（土地30万円、家屋20万円、償却資産150万円）以下は課税されない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2580,7 +2580,7 @@
                   "groupId": "takkenr7_Q19",
                   "statement": "工事主は,特定盛土等規制区域内において行われる特定盛土等又は土石の堆積に関する政",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "都道府県知事は宅地造成等工事規制区域内の土地について、災害防止のため改善勧告・改善命令ができる。許可を受けた工事の軽微な変更は届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2589,7 +2589,7 @@
                   "groupId": "takkenr7_Q37",
                   "statement": "マンションの分譲を行う場合,建物の区分所有等に関する法律第2 条第 3 項に規定する専",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "媒介契約（既存住宅）で建物状況調査のあっせんの有無を記載した書面を交付する義務がある。建物の賃貸借の媒介では借賃以外の金銭の額・目的・保管方法を重要事項説明する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2598,7 +2598,7 @@
                   "groupId": "takkenr7_Q48",
                   "statement": "建築着工統計調査報告（令和 6 年計。令和 7 年 1 月公表）によれば,令和 6 年の新設住宅",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "令和7年地価公示では令和6年の地価が全国的に上昇傾向。令和7年版土地白書では土地取引件数等の統計が公表されている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2607,7 +2607,7 @@
                   "groupId": "takkenr7_Q12",
                   "statement": "ＡＢ間において,造作買取請求権は行使しない旨の特約があった場合,この特約は有効で",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建物賃貸借の期間満了6か月前から1年前までに更新拒絶通知がなければ法定更新。取壊し予定建物の賃貸借は取壊し時に終了する旨の特約が書面で必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2616,7 +2616,7 @@
                   "groupId": "takkenr7_Q02",
                   "statement": "①も②もＡが主たる債務者Ｃ及びＥの委託を受けて保証した場合において,Ａが債権者Ｂ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "個人が賃貸借の連帯保証をする場合は極度額を定めなければ無効。売買代金の保証は通常の保証であり極度額の定めは不要。連帯保証に催告の抗弁権はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2625,7 +2625,7 @@
                   "groupId": "takkenr7_Q32",
                   "statement": "Ａは,建築工事完了前のマンションの売買契約を締結する際にＢから手付金200万円を受",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "完成後のマンションの手付金は売買価額の10%超または1,000万円超の場合に保全措置が必要。違約金の予定は売買価額の20%を超える特約は無効。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2634,7 +2634,7 @@
                   "groupId": "takkenr7_Q17",
                   "statement": "延べ面積が1,000 m2を超える木造建築物は,その外壁及び軒裏で延焼のおそれのある部",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "木造2階建て住宅の新築は建築確認が必要（建築主事または指定確認検査機関に申請）。高さ1m以下の階段部分への手すり設置は義務づけられていない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2643,7 +2643,7 @@
                   "groupId": "takkenr7_Q24",
                   "statement": "固定資産税は,固定資産の所有者として,登記簿又は土地補充課税台帳若しくは家屋補充",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "固定資産課税台帳は納税義務者等が閲覧請求できる。固定資産税は一定の課税標準の免税点（土地30万円、家屋20万円、償却資産150万円）以下は課税されない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2652,7 +2652,7 @@
                   "groupId": "takkenr7_Q35",
                   "statement": "免許の有効期間満了の際,Ａが営業保証金を取り戻そうとする場合には,供託した営業保",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "営業保証金は金銭と有価証券の併用可能。新たに設置した従たる事務所分の追加供託先は主たる事務所最寄りの供託所。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2661,7 +2661,7 @@
                   "groupId": "takkenr7_Q24",
                   "statement": "住宅用地のうち小規模住宅用地（200 m2以下）に対して課する固定資産税の課税標準",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "固定資産課税台帳は納税義務者等が閲覧請求できる。固定資産税は一定の課税標準の免税点（土地30万円、家屋20万円、償却資産150万円）以下は課税されない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2670,7 +2670,7 @@
                   "groupId": "takkenr7_Q39",
                   "statement": "ＡがＢと一般媒介契約を締結したときは,法第34条の 2 第 1 項の規定に基づき交付すべ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "専属専任媒介契約では業者へ直接申込みがあった場合も依頼者に報告が必要。専属専任媒介の有効期間は3か月が上限で、依頼者の希望による更新は可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2679,7 +2679,7 @@
                   "groupId": "takkenr7_Q20",
                   "statement": "個人施行者は,その者以外に換地計画に係る区域内の宅地を所有する者（当該宅地の所有",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "仮換地指定後は仮換地の使用収益が開始し、仮換地指定日後の土地・建物の所有権移転登記の申請はその旨を申請書に記載する。従前の土地所有権は変わらない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2688,7 +2688,7 @@
                   "groupId": "takkenr7_Q23",
                   "statement": "この税率の軽減措置の適用対象となる土地は,その面積が1,000 m2未満のものに限られ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "居住用財産の所有権移転登記の税率軽減は土地価額による制限なし。地目が雑種地でも実態が住宅用地なら軽減措置の対象となり得る。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2697,7 +2697,7 @@
                   "groupId": "takkenr7_Q04",
                   "statement": "Ａが,期限が到来しているＢの悪意による不法行為に基づく金1,000万円の損害賠償請求",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "金銭消費貸借で期限の定めがない場合、貸主は相当の期間を定めて返還請求できる。悪意による不法行為債権を受働債権とする相殺は禁止されている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -2717,7 +2717,7 @@
                   "groupId": "takken_r5_Q35",
                   "statement": "Ａは,仮設テント張りの案内所でＢから買受けの申込みを受けた際,以後の取引について,",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "仮設テント張りの案内所はクーリングオフができる場所に該当し、告知書面交付から8日間はクーリングオフ可能。媒介業者の事務所で申込みがあった場合はクーリングオフ不可。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2726,7 +2726,7 @@
                   "groupId": "takken_r5_Q39",
                   "statement": "Ａは,手付金の保全措置を保証委託契約を締結することにより講ずるときは,保証委託契",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "手付金の保全措置（保証委託契約）は売買契約締結後に保証会社と締結する。保証保険の保険期間は少なくとも保証期間（引渡しまで）をカバーしていなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2735,7 +2735,7 @@
                   "groupId": "takken_r5_Q03",
                   "statement": "増築した部分にＡが提供した材料の性質によって契約不適合が生じ,Ｂが材料が不適当で",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "請負で材料を提供した場合、不適合が材料の性質による場合は注文者が材料不適当を知っていたときは担保責任を問えない。請負完成物の所有権は注文者に帰属する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2744,7 +2744,7 @@
                   "groupId": "takken_r5_Q13",
                   "statement": "集会は,区分所有者の4分の3以上の同意があるときは,招集の手続を経ないで開くこと",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "区分所有法では招集手続を経ない集会開催は全員同意（4分の3ではなく全員）が必要。一部共用部分に関する事項で全員の利害に関係しないものは、その一部の区分所有者のみで決議できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2753,7 +2753,7 @@
                   "groupId": "takken_r5_Q41",
                   "statement": "宅地建物取引業者Ａ（甲県知事免許）で専任の宅地建物取引士として従事しているＢ（甲",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "専任の宅建士が退職等で員数不足になった場合は2週間以内に補充しなければならない。都道府県知事は管轄区域外の宅建士に対しても報告を求めることができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2762,7 +2762,7 @@
                   "groupId": "takken_r5_Q43",
                   "statement": "Ａは,37条書面を売買契約成立前に,各当事者に交付しなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "37条書面は契約成立後、遅滞なく交付しなければならない（契約前ではない）。買主が宅建業者であっても37条書面の移転登記申請時期の記載義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2771,7 +2771,7 @@
                   "groupId": "takken_r5_Q09",
                   "statement": "甲建物の修繕が必要である場合において,急迫の事情があるときは,Ｂは甲建物の修繕を",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "急迫の事情がある場合、賃借人は貸主の承諾なく修繕できる。貸主が修繕を怠った場合は賃借人は修繕費を費用償還請求または賃料減額請求できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2780,7 +2780,7 @@
                   "groupId": "takken_r5_Q11",
                   "statement": "本件契約に建物買取請求権を排除する旨の特約が定められていない場合,本件契約が終了",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "借地権の更新後に建物が朽廃しても期間は終了しない。地代不減額特約は有効で、その期間中は地代減額請求できない（増額は可能）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2789,7 +2789,7 @@
                   "groupId": "takken_r5_Q48",
                   "statement": "令和5年地価公示（令和5年3月公表）によれば,令和4年1月以降の1年間の地価につ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "令和5年地価公示では令和4年の地価が三大都市圏を中心に上昇傾向。令和4年3月末の宅建士総登録者数は100万人を超えている（200万人超えは令和6年時点）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2798,7 +2798,7 @@
                   "groupId": "takken_r5_Q39",
                   "statement": "Ａは,手付金の保全措置を保証保険契約を締結することにより講ずる場合,保険期間は保",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "手付金の保全措置（保証委託契約）は売買契約締結後に保証会社と締結する。保証保険の保険期間は少なくとも保証期間（引渡しまで）をカバーしていなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2807,7 +2807,7 @@
                   "groupId": "takken_r5_Q35",
                   "statement": "Ａが,売却の媒介を依頼している宅地建物取引業者Ｃの事務所でＢから買受けの申込みを",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "仮設テント張りの案内所はクーリングオフができる場所に該当し、告知書面交付から8日間はクーリングオフ可能。媒介業者の事務所で申込みがあった場合はクーリングオフ不可。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2816,7 +2816,7 @@
                   "groupId": "takken_r5_Q27",
                   "statement": "宅地建物取引業者が建物状況調査を実施する者のあっせんを行う場合,建物状況調査を実",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建業者が建物状況調査（インスペクション）をあっせんする場合、国土交通大臣登録を受けた既存住宅状況調査技術者が調査を実施する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2825,7 +2825,7 @@
                   "groupId": "takken_r5_Q03",
                   "statement": "ＡがＢに請負代金を支払っていなくても,Ａは増築部分の所有権を取得する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "請負で材料を提供した場合、不適合が材料の性質による場合は注文者が材料不適当を知っていたときは担保責任を問えない。請負完成物の所有権は注文者に帰属する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2834,7 +2834,7 @@
                   "groupId": "takken_r5_Q05",
                   "statement": "不在者が管理人を置いた場合において,その不在者の生死が明らかでないときは,家庭裁",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不在者が管理人を置いた場合でも、生死不明の場合は家庭裁判所が別に管理人を選任できる。家裁選任の管理人は保存行為として修理はできるが、処分行為は家裁の許可が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2843,7 +2843,7 @@
                   "groupId": "takken_r5_Q19",
                   "statement": "都道府県知事は,関係市町村長の意見を聴いて,宅地造成工事規制区域内で,宅地造成に",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅地造成工事規制区域内での宅地造成工事は都道府県知事の許可が必要。水抜き孔の設置など地表水排除のための軽微な工事は許可不要な場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2852,7 +2852,7 @@
                   "groupId": "takken_r5_Q18",
                   "statement": "法第53条第1項及び第2項の建(cid:7789)率制限に係る規定の適用については,準防火地域内に",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "準防火地域内の木造建築物への建蔽率制限は、防火・準防火地域ごとに規定が異なる。日影規制は用途地域に応じて対象建築物の高さ等が異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2861,7 +2861,7 @@
                   "groupId": "takken_r5_Q50",
                   "statement": "鉄筋コンクリート構造では,鉄筋とコンクリートを一体化するには,断面が円形の棒鋼で",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "鉄筋コンクリート造では鉄筋とコンクリートの付着力を高めるため異形鉄筋（表面に節がある）を使用する。鉄筋コンクリート造は自重が大きいため、大スパンの構造には不向き。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2870,7 +2870,7 @@
                   "groupId": "takken_r5_Q11",
                   "statement": "本件契約に,当初の10年間は地代を減額しない旨の特約を定めた場合,その期間内は,",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "借地権の更新後に建物が朽廃しても期間は終了しない。地代不減額特約は有効で、その期間中は地代減額請求できない（増額は可能）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2879,7 +2879,7 @@
                   "groupId": "takken_r5_Q32",
                   "statement": "宅地建物取引業者Ｇ（丁県知事免許）が,その業務に関し展示会を丁県内で実施する場合,",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "一定の届出場所（案内所等）については業務開始10日前までに届出が必要。宅建業者が合併消滅した場合、存続法人・新設法人が宅建業者でなければ廃業届を出す必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2888,7 +2888,7 @@
                   "groupId": "takken_r5_Q16",
                   "statement": "開発許可を受けた者は,当該許可を受ける際に申請書に記載した事項を変更しようとする",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "開発許可を受けた後に一定事項を変更する場合は、軽微な変更を除き変更許可申請が必要。開発行為関係の公共施設管理者との協議・同意が申請前に必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2897,7 +2897,7 @@
                   "groupId": "takken_r5_Q46",
                   "statement": "機構は,証券化支援事業（買取型）において,ＺＥＨ（ネット・ゼロ・エネルギーハウ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅金融支援機構はZEH（ネット・ゼロ・エネルギーハウス）等の省エネ住宅ローンの証券化支援を行う。マンション管理組合等への共用部分改良のための融資も行っている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2906,7 +2906,7 @@
                   "groupId": "takken_r5_Q02",
                   "statement": "土地の所有者は,境界標の調査又は境界に関する測量等の一定の目的のために必要な範囲",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "土地所有者は境界確認等のため隣地使用が認められる場合がある。袋地の所有者は公道に出るため囲繞地を通行できるが、その通行は最小限度のものでなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2915,7 +2915,7 @@
                   "groupId": "takken_r5_Q17",
                   "statement": "地方公共団体は,条例で,津波,高潮,出水等による危険の著しい区域を災害危険区域と",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築物が防火地域と準防火地域にわたる場合は、より厳しい防火地域内の規制が全体に適用される。災害危険区域内の住宅建築は条例で禁止または制限できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2924,7 +2924,7 @@
                   "groupId": "takken_r5_Q22",
                   "statement": "重要土地等調査法の規定による特別注視区域内にある100m2の規模の土地に関する所有",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "重要土地等調査法の特別注視区域内の100㎡以下の土地取引は届出不要（200㎡以上が届出対象）。都市計画区域外でも6,000㎡と5,000㎡の一団の土地の購入は合算して10,000㎡超なら届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2933,7 +2933,7 @@
                   "groupId": "takken_r5_Q37",
                   "statement": "宅地建物取引業者は,その事務所ごとに従業者名簿を備えなければならないが,取引の関",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "従業者名簿は取引の関係者の求めに応じて閲覧させなければならない。従業者は取引関係者から従業者証明書の提示を求められた場合は提示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2942,7 +2942,7 @@
                   "groupId": "takken_r5_Q07",
                   "statement": "Ｃには,Ｂに対し,配偶者居住権の設定の登記を備えさせる義務がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "配偶者居住権を取得した配偶者は所有者（相続人等）に登記を備えさせることができる。配偶者居住権は譲渡不可で、居住建物の所有者の承諾なく第三者への貸出しもできない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2951,7 +2951,7 @@
                   "groupId": "takken_r5_Q47",
                   "statement": "物件の近隣に所在するスーパーマーケットを表示する場合は,物件からの自転車による所",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "近隣スーパーマーケットの表示では徒歩分数は80m=1分換算で表示する。一棟リノベーションマンションは初回の広告から「リノベーション済み」である旨を表示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2960,7 +2960,7 @@
                   "groupId": "takken_r5_Q03",
                   "statement": "Ｂが材料を提供して増築した部分に契約不適合がある場合,Ａは工事が終了した日から1",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "請負で材料を提供した場合、不適合が材料の性質による場合は注文者が材料不適当を知っていたときは担保責任を問えない。請負完成物の所有権は注文者に帰属する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2969,7 +2969,7 @@
                   "groupId": "takken_r5_Q50",
                   "statement": "鉄筋コンクリート構造は,躯体の断面が大きく,材料の質量が大きいので,建物の自重が",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "鉄筋コンクリート造では鉄筋とコンクリートの付着力を高めるため異形鉄筋（表面に節がある）を使用する。鉄筋コンクリート造は自重が大きいため、大スパンの構造には不向き。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2978,7 +2978,7 @@
                   "groupId": "takken_r5_Q24",
                   "statement": "不動産取得税は,不動産の取得に対し,当該不動産所在の市町村及び特別区において,当",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不動産取得税は都道府県が課する地方税で、市町村（特別区含む）は課さない。市町村・特別区への不動産取得に対しては不動産取得税を課することができない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2987,7 +2987,7 @@
                   "groupId": "takken_r5_Q25",
                   "statement": "原価法は,対象不動産が建物又は建物及びその敷地である場合には適用することができる",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "原価法は土地（造成地等）にも適用できる場合がある。取引事例に特殊事情がある場合は事情補正を行う必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2996,7 +2996,7 @@
                   "groupId": "takken_r5_Q16",
                   "statement": "開発許可を申請しようとする者は,あらかじめ,開発行為に関係がある公共施設の管理者",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "開発許可を受けた後に一定事項を変更する場合は、軽微な変更を除き変更許可申請が必要。開発行為関係の公共施設管理者との協議・同意が申請前に必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3005,7 +3005,7 @@
                   "groupId": "takken_r5_Q21",
                   "statement": "法第3条第1項又は法第5条第1項の許可が必要な農地の売買について,これらの許可を",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "農地の売買について農地法3条許可がない場合は所有権移転の効力が生じない（無効）。相続による農地取得は許可不要だが農業委員会への届出は必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3014,7 +3014,7 @@
                   "groupId": "takken_r5_Q32",
                   "statement": "宅地建物取引業者Ｂ（乙県知事免許）が,宅地建物取引業者ではないＣとの合併により消",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一定の届出場所（案内所等）については業務開始10日前までに届出が必要。宅建業者が合併消滅した場合、存続法人・新設法人が宅建業者でなければ廃業届を出す必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3023,7 +3023,7 @@
                   "groupId": "takken_r5_Q47",
                   "statement": "一棟リノベーションマンションについては,一般消費者に対し,初めて購入の申込みの勧",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "近隣スーパーマーケットの表示では徒歩分数は80m=1分換算で表示する。一棟リノベーションマンションは初回の広告から「リノベーション済み」である旨を表示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3032,7 +3032,7 @@
                   "groupId": "takken_r5_Q25",
                   "statement": "取引事例比較法における取引事例が,特殊事情のある事例である場合,その具体的な状況",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "原価法は土地（造成地等）にも適用できる場合がある。取引事例に特殊事情がある場合は事情補正を行う必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3041,7 +3041,7 @@
                   "groupId": "takken_r5_Q32",
                   "statement": "宅地建物取引業者Ａ（甲県知事免許）が,新たに宅地建物取引業を営む支店を甲県内に設",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一定の届出場所（案内所等）については業務開始10日前までに届出が必要。宅建業者が合併消滅した場合、存続法人・新設法人が宅建業者でなければ廃業届を出す必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3050,7 +3050,7 @@
                   "groupId": "takken_r5_Q24",
                   "statement": "不動産取得税は,市町村及び特別区に対して,課することができない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "不動産取得税は都道府県が課する地方税で、市町村（特別区含む）は課さない。市町村・特別区への不動産取得に対しては不動産取得税を課することができない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3059,7 +3059,7 @@
                   "groupId": "takken_r5_Q13",
                   "statement": "一部共用部分に関する事項で区分所有者全員の利害に関係しないものについての区分所有",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法では招集手続を経ない集会開催は全員同意（4分の3ではなく全員）が必要。一部共用部分に関する事項で全員の利害に関係しないものは、その一部の区分所有者のみで決議できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3068,7 +3068,7 @@
                   "groupId": "takken_r5_Q45",
                   "statement": "Ａは,住宅販売瑕疵担保保証金の供託をする場合,当該住宅の売買契約を締結するまでに,",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "住宅販売瑕疵担保保証金の供託は基準日（毎年3月31日）時点の新築住宅の戸数に応じて計算する。瑕疵担保責任免除特約は買主が非業者の場合は無効（強行規定）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3077,7 +3077,7 @@
                   "groupId": "takken_r5_Q40",
                   "statement": "Ａは,Ｂが他の宅地建物取引業者の媒介又は代理によって売買の契約を成立させたときの",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "専任媒介契約では、依頼者が他の業者を通じて成約した場合（違約）も違約金請求が可能。専任媒介の書面交付後、指定流通機構への登録は5日以内（専属専任は3日以内）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3086,7 +3086,7 @@
                   "groupId": "takken_r5_Q11",
                   "statement": "本件契約が甲土地上で専ら賃貸アパート事業用の建物を所有する目的である場合,契約の",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "借地権の更新後に建物が朽廃しても期間は終了しない。地代不減額特約は有効で、その期間中は地代減額請求できない（増額は可能）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3095,7 +3095,7 @@
                   "groupId": "takken_r5_Q14",
                   "statement": "共有物分割禁止の定めに係る権利の変更の登記の申請は,当該権利の共有者である全ての",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "共有物分割禁止の変更登記は権利の共有者全員が申請する。登記簿の附属書類の閲覧は正当な理由がある者に限られ、誰でも閲覧できるわけではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3104,7 +3104,7 @@
                   "groupId": "takken_r5_Q27",
                   "statement": "建物状況調査とは,建物の構造耐力上主要な部分又は雨水の浸入を防止する部分として国",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建業者が建物状況調査（インスペクション）をあっせんする場合、国土交通大臣登録を受けた既存住宅状況調査技術者が調査を実施する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3113,7 +3113,7 @@
                   "groupId": "takken_r5_Q43",
                   "statement": "Ａは,買主が宅地建物取引業者であるときは,37条書面に移転登記の申請時期を記載し",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "37条書面は契約成立後、遅滞なく交付しなければならない（契約前ではない）。買主が宅建業者であっても37条書面の移転登記申請時期の記載義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3122,7 +3122,7 @@
                   "groupId": "takken_r5_Q03",
                   "statement": "Ｂが材料を提供して増築した部分に契約不適合があり,Ｂは不適合があることを知りなが",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "請負で材料を提供した場合、不適合が材料の性質による場合は注文者が材料不適当を知っていたときは担保責任を問えない。請負完成物の所有権は注文者に帰属する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3131,7 +3131,7 @@
                   "groupId": "takken_r5_Q18",
                   "statement": "冬至日において,法第56条の2第1項の規定による日影規制の対象区域内の土地に日影",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "準防火地域内の木造建築物への建蔽率制限は、防火・準防火地域ごとに規定が異なる。日影規制は用途地域に応じて対象建築物の高さ等が異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3140,7 +3140,7 @@
                   "groupId": "takken_r5_Q15",
                   "statement": "高度利用地区は,土地の合理的かつ健全な高度利用と都市機能の更新とを図るため,都市",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高度利用地区は合理的な高度利用と都市機能更新のために都市計画で定める。特定用途制限地域は用途地域が定められていない区域（白地地域）に定めるもの。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3149,7 +3149,7 @@
                   "groupId": "takken_r5_Q22",
                   "statement": "都市計画区域外において,国から一団の土地である6,000m2と5,000m2の土地を購入し",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "重要土地等調査法の特別注視区域内の100㎡以下の土地取引は届出不要（200㎡以上が届出対象）。都市計画区域外でも6,000㎡と5,000㎡の一団の土地の購入は合算して10,000㎡超なら届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3158,7 +3158,7 @@
                   "groupId": "takken_r5_Q01",
                   "statement": "遺産である不動産が遺産分割によって複数の相続人のうちの一人に帰属することとなった",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "遺産分割の効力は相続開始時に遡るが、第三者の権利を害することはできない（対抗要件必要）。相続開始から遺産分割までの賃料債権は各相続人が法定相続分に応じて取得する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3167,7 +3167,7 @@
                   "groupId": "takken_r5_Q23",
                   "statement": "当初作成の「土地を1億円で譲渡する」旨を記載した土地譲渡契約書の契約金額を変更す",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "土地譲渡契約書の契約金額の変更契約書は変更前後の差額が課税対象。贈与契約書は記載金額にかかわらず印紙税の課税対象（贈与は売買ではないが文書の種類による）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3176,7 +3176,7 @@
                   "groupId": "takken_r5_Q37",
                   "statement": "宅地建物取引業者の従業者は,宅地の買受けの申込みをした者から請求があった場合には,",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "従業者名簿は取引の関係者の求めに応じて閲覧させなければならない。従業者は取引関係者から従業者証明書の提示を求められた場合は提示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3185,7 +3185,7 @@
                   "groupId": "takken_r5_Q41",
                   "statement": "甲県知事は,宅地建物取引士に対して必要な報告を求めることができるが,その対象は,",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "専任の宅建士が退職等で員数不足になった場合は2週間以内に補充しなければならない。都道府県知事は管轄区域外の宅建士に対しても報告を求めることができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3194,7 +3194,7 @@
                   "groupId": "takken_r5_Q45",
                   "statement": "ＡＢ間の売買契約において,当該住宅の構造耐力上主要な部分に瑕疵があってもＡが瑕疵",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅販売瑕疵担保保証金の供託は基準日（毎年3月31日）時点の新築住宅の戸数に応じて計算する。瑕疵担保責任免除特約は買主が非業者の場合は無効（強行規定）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3203,7 +3203,7 @@
                   "groupId": "takken_r5_Q37",
                   "statement": "宅地建物取引業者は,従業者名簿を最終の記載をした日から5年間保存しなければならな",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "従業者名簿は取引の関係者の求めに応じて閲覧させなければならない。従業者は取引関係者から従業者証明書の提示を求められた場合は提示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3212,7 +3212,7 @@
                   "groupId": "takken_r5_Q44",
                   "statement": "保証協会は,宅地建物取引業者の相手方から,社員である宅地建物取引業者の取り扱った",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "保証協会は宅建業者の相手方（消費者等）からの弁済業務保証金の還付請求に対応する。保証協会の社員は弁済業務保証金の還付があったとき、不足分を協会へ納付しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3221,7 +3221,7 @@
                   "groupId": "takken_r5_Q02",
                   "statement": "他の土地に囲まれて公道に通じない土地の所有者は,公道に出るためにその土地を囲んで",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "土地所有者は境界確認等のため隣地使用が認められる場合がある。袋地の所有者は公道に出るため囲繞地を通行できるが、その通行は最小限度のものでなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3230,7 +3230,7 @@
                   "groupId": "takken_r5_Q47",
                   "statement": "直線距離で50m以内に街道が存在する場合,物件名に当該街道の名称を用いることがで",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "近隣スーパーマーケットの表示では徒歩分数は80m=1分換算で表示する。一棟リノベーションマンションは初回の広告から「リノベーション済み」である旨を表示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3239,7 +3239,7 @@
                   "groupId": "takken_r5_Q14",
                   "statement": "何人も,理由の有無にかかわらず,登記官に対し,手数料を納付して,登記簿の附属書類",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "共有物分割禁止の変更登記は権利の共有者全員が申請する。登記簿の附属書類の閲覧は正当な理由がある者に限られ、誰でも閲覧できるわけではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3248,7 +3248,7 @@
                   "groupId": "takken_r5_Q44",
                   "statement": "保証協会の社員は,自らが取り扱った宅地建物取引業に係る取引の相手方から当該取引に",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "保証協会は宅建業者の相手方（消費者等）からの弁済業務保証金の還付請求に対応する。保証協会の社員は弁済業務保証金の還付があったとき、不足分を協会へ納付しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3257,7 +3257,7 @@
                   "groupId": "takken_r5_Q15",
                   "statement": "特定用途制限地域は,用途地域が定められている土地の区域内において,都市計画に,制",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高度利用地区は合理的な高度利用と都市機能更新のために都市計画で定める。特定用途制限地域は用途地域が定められていない区域（白地地域）に定めるもの。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3266,7 +3266,7 @@
                   "groupId": "takken_r5_Q48",
                   "statement": "令和3年度宅地建物取引業法の施行状況調査（令和4年9月公表）によれば,令和4年3",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "令和5年地価公示では令和4年の地価が三大都市圏を中心に上昇傾向。令和4年3月末の宅建士総登録者数は100万人を超えている（200万人超えは令和6年時点）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3275,7 +3275,7 @@
                   "groupId": "takken_r5_Q25",
                   "statement": "原価法は,価格時点における対象不動産の収益価格を求め,この収益価格について減価修",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "原価法は土地（造成地等）にも適用できる場合がある。取引事例に特殊事情がある場合は事情補正を行う必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3284,7 +3284,7 @@
                   "groupId": "takken_r5_Q27",
                   "statement": "既存住宅の貸借の媒介を行う宅地建物取引業者は,宅地建物取引業法第37条の規定によ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建業者が建物状況調査（インスペクション）をあっせんする場合、国土交通大臣登録を受けた既存住宅状況調査技術者が調査を実施する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3293,7 +3293,7 @@
                   "groupId": "takken_r5_Q37",
                   "statement": "宅地建物取引業者は,非常勤役員には従業者であることを証する証明書を携帯させる必要",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "従業者名簿は取引の関係者の求めに応じて閲覧させなければならない。従業者は取引関係者から従業者証明書の提示を求められた場合は提示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3302,7 +3302,7 @@
                   "groupId": "takken_r5_Q33",
                   "statement": "重要事項説明書の電磁的方法による提供については,重要事項説明を受ける者から電磁的",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "重要事項説明書の電磁的提供は相手方の承諾が必要。宅建業者が売主の場合、手付金等の保全措置の内容も重要事項説明が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3311,7 +3311,7 @@
                   "groupId": "takken_r5_Q20",
                   "statement": "土地区画整理組合は,仮換地を指定しようとする場合においては,あらかじめ,その指定",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "土地区画整理組合が仮換地を指定する場合は、あらかじめ仮換地指定審議会等の意見を聴く必要がある。清算金は換地処分の公告があった翌日に確定する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3320,7 +3320,7 @@
                   "groupId": "takken_r5_Q08",
                   "statement": "本件売買契約につき,Ｂが追認しないまま,Ａが成年に達する前にＢの同意を得ずに甲建",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "制限行為能力者が成年に達した後は取消しの追認が必要。行為能力の制限を理由とする取消しは善意の第三者にも対抗できる（詐欺と異なる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3329,7 +3329,7 @@
                   "groupId": "takken_r5_Q19",
                   "statement": "宅地造成工事規制区域内の宅地において,雨水その他の地表水又は地下水を排除するため",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅地造成工事規制区域内での宅地造成工事は都道府県知事の許可が必要。水抜き孔の設置など地表水排除のための軽微な工事は許可不要な場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3338,7 +3338,7 @@
                   "groupId": "takken_r5_Q19",
                   "statement": "都道府県知事は,その地方の気候,風土又は地勢の特殊性により,宅地造成等規制法の規",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅地造成工事規制区域内での宅地造成工事は都道府県知事の許可が必要。水抜き孔の設置など地表水排除のための軽微な工事は許可不要な場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3347,7 +3347,7 @@
                   "groupId": "takken_r5_Q44",
                   "statement": "保証協会は,社員がその一部の事務所を廃止したことに伴って弁済業務保証金分担金を当",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "保証協会は宅建業者の相手方（消費者等）からの弁済業務保証金の還付請求に対応する。保証協会の社員は弁済業務保証金の還付があったとき、不足分を協会へ納付しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3356,7 +3356,7 @@
                   "groupId": "takken_r5_Q49",
                   "statement": "大都市の近郊の丘陵地では,丘を削り谷部に盛土し造成宅地が造られたが,盛土造成に際",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "大都市近郊丘陵地の盛土造成地では造成地と自然地盤の境界部分で地すべり・崩壊が起きやすい。谷底低地に軟弱層がある場所では地震動が増幅（拡大）されて揺れが大きくなる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3365,7 +3365,7 @@
                   "groupId": "takken_r5_Q46",
                   "statement": "機構は,マンション管理組合や区分所有者に対するマンション共用部分の改良に必要な資",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅金融支援機構はZEH（ネット・ゼロ・エネルギーハウス）等の省エネ住宅ローンの証券化支援を行う。マンション管理組合等への共用部分改良のための融資も行っている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3374,7 +3374,7 @@
                   "groupId": "takken_r5_Q33",
                   "statement": "宅地建物取引業者が売主となる宅地の売買に関し,売主が買主から受領しようとする金銭",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "重要事項説明書の電磁的提供は相手方の承諾が必要。宅建業者が売主の場合、手付金等の保全措置の内容も重要事項説明が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3383,7 +3383,7 @@
                   "groupId": "takken_r5_Q41",
                   "statement": "宅地建物取引士が不正の手段により宅地建物取引士証の交付を受けた場合においては,そ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "専任の宅建士が退職等で員数不足になった場合は2週間以内に補充しなければならない。都道府県知事は管轄区域外の宅建士に対しても報告を求めることができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3392,7 +3392,7 @@
                   "groupId": "takken_r5_Q31",
                   "statement": "これから建築工事を行う予定である建築確認申請中の建物については,当該建物の売買の",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建築確認申請中の建物は広告できない（建築確認取得後に広告可能）。誇大広告をした場合は業務停止処分等の監督処分の対象となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3401,7 +3401,7 @@
                   "groupId": "takken_r5_Q43",
                   "statement": "Ａは,天災その他不可抗力による損害の負担に関する定めがあるときは,その内容を37",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "37条書面は契約成立後、遅滞なく交付しなければならない（契約前ではない）。買主が宅建業者であっても37条書面の移転登記申請時期の記載義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3410,7 +3410,7 @@
                   "groupId": "takken_r5_Q21",
                   "statement": "相続により農地を取得する場合は,法第3条第1項の許可を要しないが,相続人に該当し",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "農地の売買について農地法3条許可がない場合は所有権移転の効力が生じない（無効）。相続による農地取得は許可不要だが農業委員会への届出は必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3419,7 +3419,7 @@
                   "groupId": "takken_r5_Q39",
                   "statement": "Ａは,手付金の保全措置を保証保険契約を締結することにより講ずる場合,保険事業者と",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "手付金の保全措置（保証委託契約）は売買契約締結後に保証会社と締結する。保証保険の保険期間は少なくとも保証期間（引渡しまで）をカバーしていなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3428,7 +3428,7 @@
                   "groupId": "takken_r5_Q18",
                   "statement": "地方公共団体は,その敷地が袋路状道路にのみ接する建築物であって,延べ面積が150m2",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "準防火地域内の木造建築物への建蔽率制限は、防火・準防火地域ごとに規定が異なる。日影規制は用途地域に応じて対象建築物の高さ等が異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3437,7 +3437,7 @@
                   "groupId": "takken_r5_Q50",
                   "statement": "鉄筋コンクリート構造は,地震や風の力を受けても,躯体の変形は比較的小さく,耐火性",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "鉄筋コンクリート造では鉄筋とコンクリートの付着力を高めるため異形鉄筋（表面に節がある）を使用する。鉄筋コンクリート造は自重が大きいため、大スパンの構造には不向き。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3446,7 +3446,7 @@
                   "groupId": "takken_r5_Q19",
                   "statement": "都道府県知事は,宅地造成工事規制区域内の宅地について,宅地造成に伴う災害を防止す",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅地造成工事規制区域内での宅地造成工事は都道府県知事の許可が必要。水抜き孔の設置など地表水排除のための軽微な工事は許可不要な場合がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3455,7 +3455,7 @@
                   "groupId": "takken_r5_Q41",
                   "statement": "都道府県知事は,宅地建物取引士に対して登録消除処分を行ったときは,適切な方法で公",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "専任の宅建士が退職等で員数不足になった場合は2週間以内に補充しなければならない。都道府県知事は管轄区域外の宅建士に対しても報告を求めることができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3464,7 +3464,7 @@
                   "groupId": "takken_r5_Q01",
                   "statement": "遺産である不動産から,相続開始から遺産分割までの間に生じた賃料債権は,遺産である",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "遺産分割の効力は相続開始時に遡るが、第三者の権利を害することはできない（対抗要件必要）。相続開始から遺産分割までの賃料債権は各相続人が法定相続分に応じて取得する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3473,7 +3473,7 @@
                   "groupId": "takken_r5_Q31",
                   "statement": "販売する宅地又は建物の広告に関し,著しく事実に相違する表示をした場合,監督処分の",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築確認申請中の建物は広告できない（建築確認取得後に広告可能）。誇大広告をした場合は業務停止処分等の監督処分の対象となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3482,7 +3482,7 @@
                   "groupId": "takken_r5_Q11",
                   "statement": "本件契約がＢの居住のための建物を所有する目的であり契約の更新がない旨を定めていな",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "借地権の更新後に建物が朽廃しても期間は終了しない。地代不減額特約は有効で、その期間中は地代減額請求できない（増額は可能）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3491,7 +3491,7 @@
                   "groupId": "takken_r5_Q43",
                   "statement": "Ａは,37条書面を作成したときは,専任の宅地建物取引士をして37条書面に記名させる",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "37条書面は契約成立後、遅滞なく交付しなければならない（契約前ではない）。買主が宅建業者であっても37条書面の移転登記申請時期の記載義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3500,7 +3500,7 @@
                   "groupId": "takken_r5_Q46",
                   "statement": "機構は,証券化支援事業（買取型）において,新築住宅に対する貸付債権のみを買取りの",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "住宅金融支援機構はZEH（ネット・ゼロ・エネルギーハウス）等の省エネ住宅ローンの証券化支援を行う。マンション管理組合等への共用部分改良のための融資も行っている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3509,7 +3509,7 @@
                   "groupId": "takken_r5_Q01",
                   "statement": "相続人が数人あるときは,相続財産は,その共有に属し,各共同相続人は,その相続分に",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "遺産分割の効力は相続開始時に遡るが、第三者の権利を害することはできない（対抗要件必要）。相続開始から遺産分割までの賃料債権は各相続人が法定相続分に応じて取得する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3518,7 +3518,7 @@
                   "groupId": "takken_r5_Q13",
                   "statement": "共用部分の保存行為は,規約に別段の定めがある場合を除いて,各共有者がすることがで",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法では招集手続を経ない集会開催は全員同意（4分の3ではなく全員）が必要。一部共用部分に関する事項で全員の利害に関係しないものは、その一部の区分所有者のみで決議できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3527,7 +3527,7 @@
                   "groupId": "takken_r5_Q13",
                   "statement": "集会においては,法で集会の決議につき特別の定数が定められている事項を除き,規約で",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法では招集手続を経ない集会開催は全員同意（4分の3ではなく全員）が必要。一部共用部分に関する事項で全員の利害に関係しないものは、その一部の区分所有者のみで決議できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3536,7 +3536,7 @@
                   "groupId": "takken_r5_Q08",
                   "statement": "ＡがＢの同意を得ずに制限行為能力を理由として本件売買契約を取り消した場合,Ｂは,",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "制限行為能力者が成年に達した後は取消しの追認が必要。行為能力の制限を理由とする取消しは善意の第三者にも対抗できる（詐欺と異なる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3545,7 +3545,7 @@
                   "groupId": "takken_r5_Q12",
                   "statement": "賃借人が建物の引渡しを受けている場合において,当該建物の賃貸人が当該建物を譲渡す",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建物賃貸借は引渡しにより対抗力を取得し、所有者変更後も賃借人は新オーナーに対抗できる。期間を1年未満と定めた建物賃貸借は期間の定めのないものとみなされる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3554,7 +3554,7 @@
                   "groupId": "takken_r5_Q20",
                   "statement": "換地計画において定められた清算金は,換地処分の公告があった日の翌日において確定す",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "土地区画整理組合が仮換地を指定する場合は、あらかじめ仮換地指定審議会等の意見を聴く必要がある。清算金は換地処分の公告があった翌日に確定する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3563,7 +3563,7 @@
                   "groupId": "takken_r5_Q02",
                   "statement": "相隣者の一人は,相隣者間で共有する障壁の高さを増すときは,他方の相隣者の承諾を得",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "土地所有者は境界確認等のため隣地使用が認められる場合がある。袋地の所有者は公道に出るため囲繞地を通行できるが、その通行は最小限度のものでなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3572,7 +3572,7 @@
                   "groupId": "takken_r5_Q29",
                   "statement": "宅地建物取引業者Ｄ社の非常勤の取締役が,刑法第222条（脅迫）の罪を犯したことによ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "役員が禁錮以上の刑に処せられた場合、その刑の執行を終えた日から5年間は免許不可。所得税法違反で罰金刑の役員がいる場合も免許取消・不許可の対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3581,7 +3581,7 @@
                   "groupId": "takken_r5_Q46",
                   "statement": "機構は,子どもを育成する家庭又は高齢者の家庭（単身の世帯を含む。）に適した良好な",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅金融支援機構はZEH（ネット・ゼロ・エネルギーハウス）等の省エネ住宅ローンの証券化支援を行う。マンション管理組合等への共用部分改良のための融資も行っている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3590,7 +3590,7 @@
                   "groupId": "takken_r5_Q24",
                   "statement": "不動産取得税は,目的税である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不動産取得税は都道府県が課する地方税で、市町村（特別区含む）は課さない。市町村・特別区への不動産取得に対しては不動産取得税を課することができない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3599,7 +3599,7 @@
                   "groupId": "takken_r5_Q22",
                   "statement": "市街化区域において,Ｃが所有する3,000m2の土地をＤが購入する契約を締結した場合,",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "重要土地等調査法の特別注視区域内の100㎡以下の土地取引は届出不要（200㎡以上が届出対象）。都市計画区域外でも6,000㎡と5,000㎡の一団の土地の購入は合算して10,000㎡超なら届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3608,7 +3608,7 @@
                   "groupId": "takken_r5_Q09",
                   "statement": "甲建物の修繕が必要であることを,Ａが知ったにもかかわらず,Ａが相当の期間内に必要",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "急迫の事情がある場合、賃借人は貸主の承諾なく修繕できる。貸主が修繕を怠った場合は賃借人は修繕費を費用償還請求または賃料減額請求できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3617,7 +3617,7 @@
                   "groupId": "takken_r5_Q31",
                   "statement": "宅地又は建物の売買に関する注文を受けたときは,遅滞なくその注文をした者に対して取",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建築確認申請中の建物は広告できない（建築確認取得後に広告可能）。誇大広告をした場合は業務停止処分等の監督処分の対象となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3626,7 +3626,7 @@
                   "groupId": "takken_r5_Q40",
                   "statement": "Ａは,法第34条の2第1項の規定に基づく書面の交付後,速やかに,Ｂに対し,法第34",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "専任媒介契約では、依頼者が他の業者を通じて成約した場合（違約）も違約金請求が可能。専任媒介の書面交付後、指定流通機構への登録は5日以内（専属専任は3日以内）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3635,7 +3635,7 @@
                   "groupId": "takken_r5_Q18",
                   "statement": "建築物又は敷地を造成するための擁壁は,道路内に,又は道路に突き出して建築し,又は",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "準防火地域内の木造建築物への建蔽率制限は、防火・準防火地域ごとに規定が異なる。日影規制は用途地域に応じて対象建築物の高さ等が異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3644,7 +3644,7 @@
                   "groupId": "takken_r5_Q12",
                   "statement": "期間を1年未満とする建物の賃貸借契約は,期間を1年とするものとみなされる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建物賃貸借は引渡しにより対抗力を取得し、所有者変更後も賃借人は新オーナーに対抗できる。期間を1年未満と定めた建物賃貸借は期間の定めのないものとみなされる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3653,7 +3653,7 @@
                   "groupId": "takken_r5_Q44",
                   "statement": "保証協会は,手付金等保管事業について国土交通大臣の承認を受けた場合,社員が自ら売",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "保証協会は宅建業者の相手方（消費者等）からの弁済業務保証金の還付請求に対応する。保証協会の社員は弁済業務保証金の還付があったとき、不足分を協会へ納付しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3662,7 +3662,7 @@
                   "groupId": "takken_r5_Q48",
                   "statement": "建築着工統計調査報告（令和4年計。令和5年1月公表）によれば,令和4年の民間非居",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "令和5年地価公示では令和4年の地価が三大都市圏を中心に上昇傾向。令和4年3月末の宅建士総登録者数は100万人を超えている（200万人超えは令和6年時点）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3671,7 +3671,7 @@
                   "groupId": "takken_r5_Q24",
                   "statement": "不動産取得税の徴収については,特別徴収の方法によることができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不動産取得税は都道府県が課する地方税で、市町村（特別区含む）は課さない。市町村・特別区への不動産取得に対しては不動産取得税を課することができない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3680,7 +3680,7 @@
                   "groupId": "takken_r5_Q08",
                   "statement": "本件売買契約締結時にＡが未成年者であることにつきＣが善意無過失であった場合,Ｂは,",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "制限行為能力者が成年に達した後は取消しの追認が必要。行為能力の制限を理由とする取消しは善意の第三者にも対抗できる（詐欺と異なる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3689,7 +3689,7 @@
                   "groupId": "takken_r5_Q20",
                   "statement": "現に施行されている土地区画整理事業の施行地区となっている区域については,その施行",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "土地区画整理組合が仮換地を指定する場合は、あらかじめ仮換地指定審議会等の意見を聴く必要がある。清算金は換地処分の公告があった翌日に確定する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3698,7 +3698,7 @@
                   "groupId": "takken_r5_Q20",
                   "statement": "施行者は,換地処分の公告があった場合において,施行地区内の土地及び建物について土",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "土地区画整理組合が仮換地を指定する場合は、あらかじめ仮換地指定審議会等の意見を聴く必要がある。清算金は換地処分の公告があった翌日に確定する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3707,7 +3707,7 @@
                   "groupId": "takken_r5_Q16",
                   "statement": "市街化調整区域のうち開発許可を受けた開発区域以外の区域内において,自己の居住用の",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "開発許可を受けた後に一定事項を変更する場合は、軽微な変更を除き変更許可申請が必要。開発行為関係の公共施設管理者との協議・同意が申請前に必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3716,7 +3716,7 @@
                   "groupId": "takken_r5_Q01",
                   "statement": "遺産分割の効力は,相続開始の時にさかのぼって生ずる。ただし,第三者の権利を害する",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "遺産分割の効力は相続開始時に遡るが、第三者の権利を害することはできない（対抗要件必要）。相続開始から遺産分割までの賃料債権は各相続人が法定相続分に応じて取得する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3725,7 +3725,7 @@
                   "groupId": "takken_r5_Q12",
                   "statement": "当事者間において,一定の期間は建物の賃料を減額しない旨の特約がある場合,現行賃料",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建物賃貸借は引渡しにより対抗力を取得し、所有者変更後も賃借人は新オーナーに対抗できる。期間を1年未満と定めた建物賃貸借は期間の定めのないものとみなされる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3734,7 +3734,7 @@
                   "groupId": "takken_r5_Q40",
                   "statement": "Ａは,当該中古住宅について法で規定されている事項を,契約締結の日から休業日数を含",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "専任媒介契約では、依頼者が他の業者を通じて成約した場合（違約）も違約金請求が可能。専任媒介の書面交付後、指定流通機構への登録は5日以内（専属専任は3日以内）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3743,7 +3743,7 @@
                   "groupId": "takken_r5_Q09",
                   "statement": "Ｂの責めに帰すべき事由によって甲建物の修繕が必要となった場合は,Ａは甲建物を修繕",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "急迫の事情がある場合、賃借人は貸主の承諾なく修繕できる。貸主が修繕を怠った場合は賃借人は修繕費を費用償還請求または賃料減額請求できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3752,7 +3752,7 @@
                   "groupId": "takken_r5_Q09",
                   "statement": "甲建物の修繕が必要である場合において,ＢがＡに修繕が必要である旨を通知したにもか",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "急迫の事情がある場合、賃借人は貸主の承諾なく修繕できる。貸主が修繕を怠った場合は賃借人は修繕費を費用償還請求または賃料減額請求できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3761,7 +3761,7 @@
                   "groupId": "takken_r5_Q22",
                   "statement": "市街化区域を除く都市計画区域内において,Ａが所有する7,000m2の土地をＢが相続に",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "重要土地等調査法の特別注視区域内の100㎡以下の土地取引は届出不要（200㎡以上が届出対象）。都市計画区域外でも6,000㎡と5,000㎡の一団の土地の購入は合算して10,000㎡超なら届出が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3770,7 +3770,7 @@
                   "groupId": "takken_r5_Q31",
                   "statement": "既存の住宅に関する広告を行うときは,法第34条の2第1項第4号に規定する建物状況",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建築確認申請中の建物は広告できない（建築確認取得後に広告可能）。誇大広告をした場合は業務停止処分等の監督処分の対象となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3779,7 +3779,7 @@
                   "groupId": "takken_r5_Q27",
                   "statement": "既存住宅の売買の媒介を行う宅地建物取引業者が売主に対して建物状況調査を実施する者",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建業者が建物状況調査（インスペクション）をあっせんする場合、国土交通大臣登録を受けた既存住宅状況調査技術者が調査を実施する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3788,7 +3788,7 @@
                   "groupId": "takken_r5_Q45",
                   "statement": "Ａが信託会社又は金融機関の信託業務の兼営等に関する法律第1条第1項の認可を受けた",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "住宅販売瑕疵担保保証金の供託は基準日（毎年3月31日）時点の新築住宅の戸数に応じて計算する。瑕疵担保責任免除特約は買主が非業者の場合は無効（強行規定）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3797,7 +3797,7 @@
                   "groupId": "takken_r5_Q29",
                   "statement": "宅地建物取引業者Ｂ社の取締役が,所得税法の規定に違反したことにより罰金の刑に処せ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "役員が禁錮以上の刑に処せられた場合、その刑の執行を終えた日から5年間は免許不可。所得税法違反で罰金刑の役員がいる場合も免許取消・不許可の対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3806,7 +3806,7 @@
                   "groupId": "takken_r5_Q14",
                   "statement": "区分建物の所有権の保存の登記は,表題部所有者から所有権を取得した者も,申請するこ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "共有物分割禁止の変更登記は権利の共有者全員が申請する。登記簿の附属書類の閲覧は正当な理由がある者に限られ、誰でも閲覧できるわけではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3815,7 +3815,7 @@
                   "groupId": "takken_r5_Q15",
                   "statement": "市街化調整区域は,土地利用を整序し,又は環境を保全するための措置を講ずることなく",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高度利用地区は合理的な高度利用と都市機能更新のために都市計画で定める。特定用途制限地域は用途地域が定められていない区域（白地地域）に定めるもの。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3824,7 +3824,7 @@
                   "groupId": "takken_r5_Q49",
                   "statement": "谷底低地に軟弱層が厚く堆積している所では,地震動が凝縮されて,震動が小さくなる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "大都市近郊丘陵地の盛土造成地では造成地と自然地盤の境界部分で地すべり・崩壊が起きやすい。谷底低地に軟弱層がある場所では地震動が増幅（拡大）されて揺れが大きくなる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3833,7 +3833,7 @@
                   "groupId": "takken_r5_Q35",
                   "statement": "Ａが,Ａの事務所でＢから買受けの申込みを受けた場合,Ｂは,申込みの日から8日以内",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "仮設テント張りの案内所はクーリングオフができる場所に該当し、告知書面交付から8日間はクーリングオフ可能。媒介業者の事務所で申込みがあった場合はクーリングオフ不可。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3842,7 +3842,7 @@
                   "groupId": "takken_r5_Q40",
                   "statement": "Ａは,当該中古住宅について購入の申込みがあったときは,遅滞なく,その旨をＢに報告",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "専任媒介契約では、依頼者が他の業者を通じて成約した場合（違約）も違約金請求が可能。専任媒介の書面交付後、指定流通機構への登録は5日以内（専属専任は3日以内）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3851,7 +3851,7 @@
                   "groupId": "takken_r5_Q29",
                   "statement": "宅地建物取引業者である個人Ｃが,宅地建物取引業法の規定に違反したことにより罰金の",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "役員が禁錮以上の刑に処せられた場合、その刑の執行を終えた日から5年間は免許不可。所得税法違反で罰金刑の役員がいる場合も免許取消・不許可の対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3860,7 +3860,7 @@
                   "groupId": "takken_r5_Q12",
                   "statement": "現行賃料が定められた時から一定の期間が経過していなければ,賃料増額請求は,認めら",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建物賃貸借は引渡しにより対抗力を取得し、所有者変更後も賃借人は新オーナーに対抗できる。期間を1年未満と定めた建物賃貸借は期間の定めのないものとみなされる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3869,7 +3869,7 @@
                   "groupId": "takken_r5_Q08",
                   "statement": "本件売買契約につき,取消しがなされないままＡが成年に達した場合,本件売買契約につ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "制限行為能力者が成年に達した後は取消しの追認が必要。行為能力の制限を理由とする取消しは善意の第三者にも対抗できる（詐欺と異なる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3878,7 +3878,7 @@
                   "groupId": "takken_r5_Q05",
                   "statement": "家庭裁判所により選任された管理人は,保存行為として不在者の自宅を修理することがで",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "不在者が管理人を置いた場合でも、生死不明の場合は家庭裁判所が別に管理人を選任できる。家裁選任の管理人は保存行為として修理はできるが、処分行為は家裁の許可が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3887,7 +3887,7 @@
                   "groupId": "takken_r5_Q23",
                   "statement": "「Ｄの所有する甲土地（時価2,000万円）をＥに贈与する」旨を記載した贈与契約書を作",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "土地譲渡契約書の契約金額の変更契約書は変更前後の差額が課税対象。贈与契約書は記載金額にかかわらず印紙税の課税対象（贈与は売買ではないが文書の種類による）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3896,7 +3896,7 @@
                   "groupId": "takken_r5_Q02",
                   "statement": "土地の所有者は,隣地の竹木の枝が境界線を越える場合,その竹木の所有者にその枝を切",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "土地所有者は境界確認等のため隣地使用が認められる場合がある。袋地の所有者は公道に出るため囲繞地を通行できるが、その通行は最小限度のものでなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3905,7 +3905,7 @@
                   "groupId": "takken_r5_Q32",
                   "statement": "宅地建物取引業者Ｄ（丙県知事免許）が,本店における専任の宅地建物取引士Ｅの退職に",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一定の届出場所（案内所等）については業務開始10日前までに届出が必要。宅建業者が合併消滅した場合、存続法人・新設法人が宅建業者でなければ廃業届を出す必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3914,7 +3914,7 @@
                   "groupId": "takken_r5_Q15",
                   "statement": "地区計画は,用途地域が定められている土地の区域のほか,一定の場合には,用途地域が",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "高度利用地区は合理的な高度利用と都市機能更新のために都市計画で定める。特定用途制限地域は用途地域が定められていない区域（白地地域）に定めるもの。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3923,7 +3923,7 @@
                   "groupId": "takken_r5_Q29",
                   "statement": "宅地建物取引業者Ａ社の使用人であって,Ａ社の宅地建物取引業を行う支店の代表者であ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "役員が禁錮以上の刑に処せられた場合、その刑の執行を終えた日から5年間は免許不可。所得税法違反で罰金刑の役員がいる場合も免許取消・不許可の対象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3932,7 +3932,7 @@
                   "groupId": "takken_r5_Q47",
                   "statement": "実際には取引する意思がない物件であっても実在するものであれば,当該物件を広告に掲",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "近隣スーパーマーケットの表示では徒歩分数は80m=1分換算で表示する。一棟リノベーションマンションは初回の広告から「リノベーション済み」である旨を表示しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3941,7 +3941,7 @@
                   "groupId": "takken_r5_Q25",
                   "statement": "取引事例比較法は,近隣地域若しくは同一需給圏内の類似地域等において対象不動産と類",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "原価法は土地（造成地等）にも適用できる場合がある。取引事例に特殊事情がある場合は事情補正を行う必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3950,7 +3950,7 @@
                   "groupId": "takken_r5_Q17",
                   "statement": "建築物が防火地域及び準防火地域にわたる場合,その全部について準防火地域内の建築物",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建築物が防火地域と準防火地域にわたる場合は、より厳しい防火地域内の規制が全体に適用される。災害危険区域内の住宅建築は条例で禁止または制限できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3959,7 +3959,7 @@
                   "groupId": "takken_r5_Q07",
                   "statement": "Ｂが高齢となり,バリアフリーのマンションに転居するための資金が必要になった場合,",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "配偶者居住権を取得した配偶者は所有者（相続人等）に登記を備えさせることができる。配偶者居住権は譲渡不可で、居住建物の所有者の承諾なく第三者への貸出しもできない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3968,7 +3968,7 @@
                   "groupId": "takken_r5_Q21",
                   "statement": "社会福祉事業を行うことを目的として設立された法人（社会福祉法人）が,農地をその目",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "農地の売買について農地法3条許可がない場合は所有権移転の効力が生じない（無効）。相続による農地取得は許可不要だが農業委員会への届出は必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3977,7 +3977,7 @@
                   "groupId": "takken_r5_Q35",
                   "statement": "Ａが,仮設テント張りの案内所でＢから買受けの申込みを受けた場合,Ｂは,クーリン",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "仮設テント張りの案内所はクーリングオフができる場所に該当し、告知書面交付から8日間はクーリングオフ可能。媒介業者の事務所で申込みがあった場合はクーリングオフ不可。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3986,7 +3986,7 @@
                   "groupId": "takken_r5_Q33",
                   "statement": "甲宅地を所有する宅地建物取引業者Ａが,乙宅地を所有する宅地建物取引業者ではない個",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "重要事項説明書の電磁的提供は相手方の承諾が必要。宅建業者が売主の場合、手付金等の保全措置の内容も重要事項説明が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3995,7 +3995,7 @@
                   "groupId": "takken_r5_Q23",
                   "statement": "売主Ａと買主Ｂが土地の譲渡契約書を3通作成し,Ａ,Ｂ及び仲介人Ｃがそれぞれ1通ず",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "土地譲渡契約書の契約金額の変更契約書は変更前後の差額が課税対象。贈与契約書は記載金額にかかわらず印紙税の課税対象（贈与は売買ではないが文書の種類による）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4004,7 +4004,7 @@
                   "groupId": "takken_r5_Q33",
                   "statement": "宅地の売買における当該宅地の引渡しの時期について,重要事項説明において説明しなけ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "重要事項説明書の電磁的提供は相手方の承諾が必要。宅建業者が売主の場合、手付金等の保全措置の内容も重要事項説明が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4013,7 +4013,7 @@
                   "groupId": "takken_r5_Q14",
                   "statement": "建物が滅失したときは,表題部所有者又は所有権の登記名義人は,その滅失の日から1か",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "共有物分割禁止の変更登記は権利の共有者全員が申請する。登記簿の附属書類の閲覧は正当な理由がある者に限られ、誰でも閲覧できるわけではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4022,7 +4022,7 @@
                   "groupId": "takken_r5_Q17",
                   "statement": "石綿等をあらかじめ添加した建築材料は,石綿等を飛散又は発散させるおそれがないもの",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築物が防火地域と準防火地域にわたる場合は、より厳しい防火地域内の規制が全体に適用される。災害危険区域内の住宅建築は条例で禁止または制限できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4031,7 +4031,7 @@
                   "groupId": "takken_r5_Q23",
                   "statement": "一の契約書に土地の譲渡契約（譲渡金額5,000万円）と建物の建築請負契約（請負金額",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "土地譲渡契約書の契約金額の変更契約書は変更前後の差額が課税対象。贈与契約書は記載金額にかかわらず印紙税の課税対象（贈与は売買ではないが文書の種類による）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4040,7 +4040,7 @@
                   "groupId": "takken_r5_Q48",
                   "statement": "年次別法人企業統計調査（令和3年度。令和4年9月公表）によれば,令和3年度におけ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "令和5年地価公示では令和4年の地価が三大都市圏を中心に上昇傾向。令和4年3月末の宅建士総登録者数は100万人を超えている（200万人超えは令和6年時点）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4049,7 +4049,7 @@
                   "groupId": "takken_r5_Q05",
                   "statement": "家庭裁判所により選任された管理人は,不在者を被告とする建物収去土地明渡請求を認容",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "不在者が管理人を置いた場合でも、生死不明の場合は家庭裁判所が別に管理人を選任できる。家裁選任の管理人は保存行為として修理はできるが、処分行為は家裁の許可が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4058,7 +4058,7 @@
                   "groupId": "takken_r5_Q39",
                   "statement": "Ａは,Ｂから手付金を受領した後に,速やかに手付金の保全措置を講じなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "手付金の保全措置（保証委託契約）は売買契約締結後に保証会社と締結する。保証保険の保険期間は少なくとも保証期間（引渡しまで）をカバーしていなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }

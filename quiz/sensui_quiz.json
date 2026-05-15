@@ -22,7 +22,7 @@
                   "groupId": "R7N_Q1",
                   "statement": "大気圧下で１Ｌの空気は、水深15ｍでは約何Ｌになるか。は１/25 Ｌである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ボイルの法則（P₁V₁=P₂V₂）より、水深15mでは絶対圧力は約2.5気圧（水深10mごとに約1気圧増加）なので体積は地上の約2/5になる（0.4L）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -31,7 +31,7 @@
                   "groupId": "R7N_Q1",
                   "statement": "大気圧下で１Ｌの空気は、水深15ｍでは約何Ｌになるか。は１/15 Ｌである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ボイルの法則（P₁V₁=P₂V₂）より、水深15mでは絶対圧力は約2.5気圧（水深10mごとに約1気圧増加）なので体積は地上の約2/5になる（0.4L）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -40,7 +40,7 @@
                   "groupId": "R7N_Q1",
                   "statement": "大気圧下で１Ｌの空気は、水深15ｍでは約何Ｌになるか。は２/15 Ｌである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ボイルの法則（P₁V₁=P₂V₂）より、水深15mでは絶対圧力は約2.5気圧（水深10mごとに約1気圧増加）なので体積は地上の約2/5になる（0.4L）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -49,7 +49,7 @@
                   "groupId": "R7N_Q1",
                   "statement": "大気圧下で１Ｌの空気は、水深15ｍでは約何Ｌになるか。は２/５ Ｌである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ボイルの法則（P₁V₁=P₂V₂）より、水深15mでは絶対圧力は約2.5気圧（水深10mごとに約1気圧増加）なので体積は地上の約2/5になる（0.4L）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -58,7 +58,7 @@
                   "groupId": "R7N_Q1",
                   "statement": "３/５ Ｌばかり つ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ボイルの法則（P₁V₁=P₂V₂）より、水深15mでは絶対圧力は約2.5気圧（水深10mごとに約1気圧増加）なので体積は地上の約2/5になる（0.4L）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -67,7 +67,7 @@
                   "groupId": "R7N_Q3",
                   "statement": "窒素は、常温では化学的に安定した不活性の気体である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "窒素（N₂）は常温常圧で化学的に不活性（反応しにくい）な気体で、空気の約78%を占める。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -76,7 +76,7 @@
                   "groupId": "R7N_Q3",
                   "statement": "酸素は無色・無臭の気体であり、可燃性ガスに分類される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "窒素（N₂）は常温常圧で化学的に不活性（反応しにくい）な気体で、空気の約78%を占める。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -85,7 +85,7 @@
                   "groupId": "R7N_Q3",
                   "statement": "異種の気体が薄い透過膜を境として接するときは、双方が平衡となるまで過剰な分圧の気体の拡散浸透が行われる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "窒素（N₂）は常温常圧で化学的に不活性（反応しにくい）な気体で、空気の約78%を占める。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -94,7 +94,7 @@
                   "groupId": "R7N_Q3",
                   "statement": "空気は、窒素が約78％、酸素が約21％、二酸化炭素その他が約１％で構成されている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "窒素（N₂）は常温常圧で化学的に不活性（反応しにくい）な気体で、空気の約78%を占める。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -103,7 +103,7 @@
                   "groupId": "R7N_Q4",
                   "statement": "ヘリウムは、水への溶解度が、窒素より小さい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘリウムは窒素より水への溶解度が小さく、減圧症のリスクが低い。そのため深海潜水では空気の代わりに酸素-ヘリウム混合ガス（ヘリオックス）が使われる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -112,7 +112,7 @@
                   "groupId": "R7N_Q4",
                   "statement": "ヘリウムは、体内に溶け込む速度が、窒素より遅い。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘリウムは窒素より水への溶解度が小さく、減圧症のリスクが低い。そのため深海潜水では空気の代わりに酸素-ヘリウム混合ガス（ヘリオックス）が使われる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -121,7 +121,7 @@
                   "groupId": "R7N_Q4",
                   "statement": "ヘリウムは、体内から排出される速度が、窒素より大きい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘリウムは窒素より水への溶解度が小さく、減圧症のリスクが低い。そのため深海潜水では空気の代わりに酸素-ヘリウム混合ガス（ヘリオックス）が使われる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -130,7 +130,7 @@
                   "groupId": "R7N_Q4",
                   "statement": "ヘリウムは、熱伝導性が窒素より高いため、潜水者の体温を奪いやすい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘリウムは窒素より水への溶解度が小さく、減圧症のリスクが低い。そのため深海潜水では空気の代わりに酸素-ヘリウム混合ガス（ヘリオックス）が使われる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -139,7 +139,7 @@
                   "groupId": "R7N_Q4",
                   "statement": "ヘリウム混合ガスを短時間の潜水に用いると、かえって減圧に不利となることがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘリウムは窒素より水への溶解度が小さく、減圧症のリスクが低い。そのため深海潜水では空気の代わりに酸素-ヘリウム混合ガス（ヘリオックス）が使われる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -148,7 +148,7 @@
                   "groupId": "R7N_Q5",
                   "statement": "水分子による光の吸収の度合いは、光の波長によって異なり、波長の長い赤色は、波長の短い青色より吸収されやすい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中では赤色（波長が長い）の光が早く吸収されて見えにくくなり、青色（波長が短い）は深くまで届く。これが水中が青く見える理由。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -157,7 +157,7 @@
                   "groupId": "R7N_Q5",
                   "statement": "濁った水中では、オレンジ色や黄色で蛍光性のものが視認しやすい。ぱ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中では赤色（波長が長い）の光が早く吸収されて見えにくくなり、青色（波長が短い）は深くまで届く。これが水中が青く見える理由。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -166,7 +166,7 @@
                   "groupId": "R7N_Q5",
                   "statement": "水中での音の伝播速度は、毎秒約330ｍである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水中では赤色（波長が長い）の光が早く吸収されて見えにくくなり、青色（波長が短い）は深くまで届く。これが水中が青く見える理由。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -175,7 +175,7 @@
                   "groupId": "R7N_Q5",
                   "statement": "水中では、音に対する両耳効果が減少し、音源の方向探知が困難になる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中では赤色（波長が長い）の光が早く吸収されて見えにくくなり、青色（波長が短い）は深くまで届く。これが水中が青く見える理由。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -184,7 +184,7 @@
                   "groupId": "R7N_Q6",
                   "statement": "全面マスク式潜水は、レギュレーターを介して送気する定量送気式の潜水である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式は応需（オンデマンド）送気式、全面マスク式は定量送気式、硬式潜水は水圧を直接受ける方式。自給気式（スクーバ）は開放回路型が一般的で、閉鎖回路型はリブリーザー。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -193,7 +193,7 @@
                   "groupId": "R7N_Q6",
                   "statement": "ヘルメット式潜水は、応需送気式の潜水で、一般に船上のコンプレッサーによって送気し、比較的長時間の水中作業が可能である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式は応需（オンデマンド）送気式、全面マスク式は定量送気式、硬式潜水は水圧を直接受ける方式。自給気式（スクーバ）は開放回路型が一般的で、閉鎖回路型はリブリーザー。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -202,7 +202,7 @@
                   "groupId": "R7N_Q6",
                   "statement": "自給気式潜水は、一般に閉鎖回路型スクーバ式潜水器を使用し。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式は応需（オンデマンド）送気式、全面マスク式は定量送気式、硬式潜水は水圧を直接受ける方式。自給気式（スクーバ）は開放回路型が一般的で、閉鎖回路型はリブリーザー。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -211,7 +211,7 @@
                   "groupId": "R7N_Q6",
                   "statement": "硬式潜水は、潜水者が潜水深度に応じた水圧を直接受けて潜水する方法で、送気方法により送気式と自給気式に分類される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式は応需（オンデマンド）送気式、全面マスク式は定量送気式、硬式潜水は水圧を直接受ける方式。自給気式（スクーバ）は開放回路型が一般的で、閉鎖回路型はリブリーザー。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -220,7 +220,7 @@
                   "groupId": "R7N_Q7",
                   "statement": "潮流は、ほぼ一定方向に恒常的に流れる海水の流れであり、日本近海では、親潮や黒潮がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潮流は海水の恒常的な流れ（黒潮・親潮等）。潮汐流は潮の干満によって生じる規則的な流れ。両者は異なる現象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -229,7 +229,7 @@
                   "groupId": "R7N_Q7",
                   "statement": "潮流のある場所における水中作業で潜水者が潮流によって受ける抵抗は、ヘルメット式潜水が最も大きく。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潮流は海水の恒常的な流れ（黒潮・親潮等）。潮汐流は潮の干満によって生じる規則的な流れ。両者は異なる現象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -238,7 +238,7 @@
                   "groupId": "R7N_Q7",
                   "statement": "潮流の速い水域でスクーバ式潜水により潜水作業を行うときは、命綱を使用する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潮流は海水の恒常的な流れ（黒潮・親潮等）。潮汐流は潮の干満によって生じる規則的な流れ。両者は異なる現象。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -247,7 +247,7 @@
                   "groupId": "R7N_Q8",
                   "statement": "潜水墜落は、潜水服内部の圧力と水圧の平衡が崩れ、内部の圧力が水圧より低くなったときに起こる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水墜落は潜水服内の圧力が水圧より低くなった場合に起こる（水圧に体が押される状態）。吹き上げは内圧が水圧より高くなった場合。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -256,7 +256,7 @@
                   "groupId": "R7N_Q8",
                   "statement": "潜水墜落では、一たび浮力が減少して沈降が始まると、水圧が増して浮力が更に減少するという悪循環を繰り返す。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水墜落は潜水服内の圧力が水圧より低くなった場合に起こる（水圧に体が押される状態）。吹き上げは内圧が水圧より高くなった場合。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -265,7 +265,7 @@
                   "groupId": "R7N_Q8",
                   "statement": "ヘルメット式潜水では、ヘルメットの重量が大きいため、潜水者が頭部を胴体より下にする姿勢をとり。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜水墜落は潜水服内の圧力が水圧より低くなった場合に起こる（水圧に体が押される状態）。吹き上げは内圧が水圧より高くなった場合。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -274,7 +274,7 @@
                   "groupId": "R7N_Q8",
                   "statement": "ヘルメット式潜水では、潜水者に常に大量の空気が送気されており、排気弁の操作を誤ると吹き上げを起こすことがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水墜落は潜水服内の圧力が水圧より低くなった場合に起こる（水圧に体が押される状態）。吹き上げは内圧が水圧より高くなった場合。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -283,7 +283,7 @@
                   "groupId": "R7N_Q8",
                   "statement": "吹き上げ時の対応を誤ると、潜水墜落を起こすことがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水墜落は潜水服内の圧力が水圧より低くなった場合に起こる（水圧に体が押される状態）。吹き上げは内圧が水圧より高くなった場合。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -292,7 +292,7 @@
                   "groupId": "R7N_Q9",
                   "statement": "水中拘束を予防するため、潜水を行う水域の状況を事前に調べて、潜水作業の手順を検討する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中拘束（ワイヤー等への絡まり）を防ぐため、作業前に水域状況を調査し作業手順を策定することが安全対策の基本。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -301,7 +301,7 @@
                   "groupId": "R7N_Q9",
                   "statement": "水中拘束を予防するため、送気式潜水では、障害物付近を通過するときは、周囲を回ったり。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中拘束（ワイヤー等への絡まり）を防ぐため、作業前に水域状況を調査し作業手順を策定することが安全対策の基本。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -310,7 +310,7 @@
                   "groupId": "R7N_Q9",
                   "statement": "ダムの取水口付近では、足が取水口に吸い込まれ、動けなくなって水中拘束になることがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中拘束（ワイヤー等への絡まり）を防ぐため、作業前に水域状況を調査し作業手順を策定することが安全対策の基本。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -319,7 +319,7 @@
                   "groupId": "R7N_Q9",
                   "statement": "スクーバ式潜水で、装備を放棄して水中拘束から脱出した場合、息を少しずつ吐きながら浮上するなどの注意が必要である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中拘束（ワイヤー等への絡まり）を防ぐため、作業前に水域状況を調査し作業手順を策定することが安全対策の基本。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -333,7 +333,7 @@
                   "groupId": "R7N_Q10",
                   "statement": "汚染のひどい水域では、スクーバ式潜水は不適当である。きょ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "汚染水域では汚染物質の吸入・皮膚接触のリスクがあり、スクーバ式は特に危険。ヘルメット式（全面密閉）が適している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -342,7 +342,7 @@
                   "groupId": "R7N_Q10",
                   "statement": "暗渠内では、送気ホースが絡まって水中拘束となるおそれがあるため、送気式潜水を行ってはならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "汚染水域では汚染物質の吸入・皮膚接触のリスクがあり、スクーバ式は特に危険。ヘルメット式（全面密閉）が適している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -351,7 +351,7 @@
                   "groupId": "R7N_Q10",
                   "statement": "冷水中では、ウエットスーツよりドライスーツの方が体熱の損失が少ない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "汚染水域では汚染物質の吸入・皮膚接触のリスクがあり、スクーバ式は特に危険。ヘルメット式（全面密閉）が適している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -360,7 +360,7 @@
                   "groupId": "R7N_Q10",
                   "statement": "山岳部のダムなど高所域での潜水では、通常の海洋での潜水よりも長い減圧浮上時間が必要となる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "汚染水域では汚染物質の吸入・皮膚接触のリスクがあり、スクーバ式は特に危険。ヘルメット式（全面密閉）が適している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -369,7 +369,7 @@
                   "groupId": "R7N_Q12",
                   "statement": "コンプレッサーは、原動機で駆動され、ピストンを往復させてシリンダー内の空気を圧縮する構造となっている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "往復式コンプレッサーはピストンの往復運動でシリンダー内の空気を圧縮する構造。圧縮空気に脈動が生じるため空気槽で平滑化する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -378,7 +378,7 @@
                   "groupId": "R7N_Q12",
                   "statement": "移動式コンプレッサーは、コンプレッサー、空気槽及び原動機を組み合わせて一体型にし。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "往復式コンプレッサーはピストンの往復運動でシリンダー内の空気を圧縮する構造。圧縮空気に脈動が生じるため空気槽で平滑化する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -387,7 +387,7 @@
                   "groupId": "R7N_Q12",
                   "statement": "大出力化した原動機(主機)を備える潜水作業船は、コンプレッサー専用の原動機(補機)を設置して駆動するものが多い。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "往復式コンプレッサーはピストンの往復運動でシリンダー内の空気を圧縮する構造。圧縮空気に脈動が生じるため空気槽で平滑化する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -396,7 +396,7 @@
                   "groupId": "R7N_Q12",
                   "statement": "コンプレッサーの圧縮効率は、圧力の上昇に伴い増加する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "往復式コンプレッサーはピストンの往復運動でシリンダー内の空気を圧縮する構造。圧縮空気に脈動が生じるため空気槽で平滑化する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -405,7 +405,7 @@
                   "groupId": "R7N_Q13",
                   "statement": "コンプレッサーの空気取入口は、作業に伴う破損などを避けるため機関室の内部に設置する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "コンプレッサーの空気取入口は、排気ガス・油蒸気等が混入しないよう、清浄な空気が得られる屋外（または機関室外）に設置する。機関室内部への設置は不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -414,7 +414,7 @@
                   "groupId": "R7N_Q13",
                   "statement": "全面マスク式潜水では、通常、送気ホースは、呼び径が８㎜のものが使われている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "コンプレッサーの空気取入口は、排気ガス・油蒸気等が混入しないよう、清浄な空気が得られる屋外（または機関室外）に設置する。機関室内部への設置は不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -423,7 +423,7 @@
                   "groupId": "R7N_Q13",
                   "statement": "流量計は、コンプレッサーと調節用空気槽の間に取り付けて、潜水者に送られる空気量を測る計器である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "コンプレッサーの空気取入口は、排気ガス・油蒸気等が混入しないよう、清浄な空気が得られる屋外（または機関室外）に設置する。機関室内部への設置は不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -432,7 +432,7 @@
                   "groupId": "R7N_Q13",
                   "statement": "フェルトを使用した空気清浄装置は、潜水者に送る圧縮空気に含まれる水分と油分のほか、二酸化炭素と一酸化炭素を除去する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "コンプレッサーの空気取入口は、排気ガス・油蒸気等が混入しないよう、清浄な空気が得られる屋外（または機関室外）に設置する。機関室内部への設置は不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -441,7 +441,7 @@
                   "groupId": "R7N_Q13",
                   "statement": "終業後、調節用空気槽には、内部に0.1ＭPa(ゲージ圧力)程度の空気を残すようにしておく。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "コンプレッサーの空気取入口は、排気ガス・油蒸気等が混入しないよう、清浄な空気が得られる屋外（または機関室外）に設置する。機関室内部への設置は不適切。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -450,7 +450,7 @@
                   "groupId": "R7N_Q14",
                   "statement": "潜降するときは、さがり綱(潜降索)を両足の間に挟み、片手でさがり綱(潜降索)をつかむようにして徐々に潜降する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜降時はさがり綱を使って緩やかに降下する。足の間に挟んで使うのではなく、手で保持して降下速度を制御する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -459,7 +459,7 @@
                   "groupId": "R7N_Q14",
                   "statement": "熟練者が潜降するときは、さがり綱を用いず排気弁の調節のみで潜降してよいが、潜降速度は毎分10ｍ程度で行うようにする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜降時はさがり綱を使って緩やかに降下する。足の間に挟んで使うのではなく、手で保持して降下速度を制御する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -468,7 +468,7 @@
                   "groupId": "R7N_Q14",
                   "statement": "潜水者は、潜降中に耳の痛みを感じたときは、さがり綱につかまって停止し、あごを左右に動かす。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜降時はさがり綱を使って緩やかに降下する。足の間に挟んで使うのではなく、手で保持して降下速度を制御する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -477,7 +477,7 @@
                   "groupId": "R7N_Q14",
                   "statement": "潮流や波浪によって送気ホースに突発的な力が加わることがあるので、潜降中は。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜降時はさがり綱を使って緩やかに降下する。足の間に挟んで使うのではなく、手で保持して降下速度を制御する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -486,7 +486,7 @@
                   "groupId": "R7N_Q15",
                   "statement": "浮上の際には、さがり綱(潜降索)は使用しないようにする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "浮上時もさがり綱（潜降索）を使用し、一定の速度（毎分9m以下）で浮上する。さがり綱を使わない急浮上は空気塞栓症・減圧症のリスクがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -495,7 +495,7 @@
                   "groupId": "R7N_Q15",
                   "statement": "緊急浮上の場合以外は、毎分10ｍを超えない速度で浮上する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "浮上時もさがり綱（潜降索）を使用し、一定の速度（毎分9m以下）で浮上する。さがり綱を使わない急浮上は空気塞栓症・減圧症のリスクがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -504,7 +504,7 @@
                   "groupId": "R7N_Q15",
                   "statement": "無減圧潜水の範囲内の潜水の場合でも、緊急浮上の場合以外は、水深３ｍ前後で安全のため、５分ほど浮上停止を行うようにする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "浮上時もさがり綱（潜降索）を使用し、一定の速度（毎分9m以下）で浮上する。さがり綱を使わない急浮上は空気塞栓症・減圧症のリスクがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -513,7 +513,7 @@
                   "groupId": "R7N_Q15",
                   "statement": "緊急浮上を要する場合は、所定の浮上停止を省略し、又は所定の浮上停止時間を短縮し、水面まで浮上する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "浮上時もさがり綱（潜降索）を使用し、一定の速度（毎分9m以下）で浮上する。さがり綱を使わない急浮上は空気塞栓症・減圧症のリスクがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -522,7 +522,7 @@
                   "groupId": "R7N_Q15",
                   "statement": "吹き上げにより急速に浮上した場合には、無減圧潜水の範囲内の潜水であっても、直ちに再圧処置を行うようにする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "浮上時もさがり綱（潜降索）を使用し、一定の速度（毎分9m以下）で浮上する。さがり綱を使わない急浮上は空気塞栓症・減圧症のリスクがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -531,7 +531,7 @@
                   "groupId": "R7N_Q16",
                   "statement": "Ｍ値とは、ある環境圧力に対して、身体が許容できる各半飽和組織における最大の不活性ガス分圧の半分の分圧をいう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "M値（Maximum Value）とは身体が許容できる各半飽和組織での不活性ガスの最大分圧（全圧）のこと。半分の分圧ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -540,7 +540,7 @@
                   "groupId": "R7N_Q16",
                   "statement": "Ｍ値は、半飽和時間が長い組織ほど小さく、潜水者が潜っている深度が深くなるほど大きい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "M値（Maximum Value）とは身体が許容できる各半飽和組織での不活性ガスの最大分圧（全圧）のこと。半分の分圧ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -549,7 +549,7 @@
                   "groupId": "R7N_Q16",
                   "statement": "半飽和組織は、理論上の概念として考える組織(生体の構成要素)であり、特定の個々の組織を示すものではない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "M値（Maximum Value）とは身体が許容できる各半飽和組織での不活性ガスの最大分圧（全圧）のこと。半分の分圧ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -558,7 +558,7 @@
                   "groupId": "R7N_Q16",
                   "statement": "減圧計算において、ある浮上停止深度で、不活性ガス分圧がＭ値を上回るときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "M値（Maximum Value）とは身体が許容できる各半飽和組織での不活性ガスの最大分圧（全圧）のこと。半分の分圧ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -567,7 +567,7 @@
                   "groupId": "R7N_Q16",
                   "statement": "繰り返し潜水において、作業終了後、次の作業まで水上で休息する時間を十分に設けなかった場合には。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "M値（Maximum Value）とは身体が許容できる各半飽和組織での不活性ガスの最大分圧（全圧）のこと。半分の分圧ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -576,7 +576,7 @@
                   "groupId": "R7N_Q17",
                   "statement": "ヘルメット式潜水器は、ヘルメット本体とシコロで構成され、使用時には、ちょう着用した潜水服の襟ゴム部分にシコロを取り付け。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水器はヘルメット本体とシコロ（くびれ部）で構成される。潜水服の首部（とっくり部）にシコロを装着する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -585,7 +585,7 @@
                   "groupId": "R7N_Q17",
                   "statement": "余剰空気や呼気を排出するときは、頭部を使って排気弁を操作する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水器はヘルメット本体とシコロ（くびれ部）で構成される。潜水服の首部（とっくり部）にシコロを装着する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -594,7 +594,7 @@
                   "groupId": "R7N_Q17",
                   "statement": "ヘルメットの送気ホース取付口には、逆止弁が組み込まれていて、この弁で送気された圧縮空気の逆流を防ぐ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水器はヘルメット本体とシコロ（くびれ部）で構成される。潜水服の首部（とっくり部）にシコロを装着する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -603,7 +603,7 @@
                   "groupId": "R7N_Q17",
                   "statement": "ドレーンコックは、潜水者が送気中の水分や油分をヘルメットの外へ排出するときに使用する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水器はヘルメット本体とシコロ（くびれ部）で構成される。潜水服の首部（とっくり部）にシコロを装着する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -612,7 +612,7 @@
                   "groupId": "R7N_Q17",
                   "statement": "潜水服内の空気が下半身に入り込まないようにするため、腰部をベルトで締め付ける。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水器はヘルメット本体とシコロ（くびれ部）で構成される。潜水服の首部（とっくり部）にシコロを装着する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -621,7 +621,7 @@
                   "groupId": "R7N_Q18",
                   "statement": "ボンベに空気を充塡するときは、一酸化炭素や油分が混入しないようにし、また、湿気を含んだ空気は充塡しないようにする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ボンベへの空気充塡では、一酸化炭素・油分・水分の混入を防止することが最重要。コンプレッサーの整備状態の確認が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -630,7 +630,7 @@
                   "groupId": "R7N_Q18",
                   "statement": "全面マスク式潜水で用いる圧力調整器は、高圧空気を10ＭPa前後に減圧するファーストステージと。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ボンベへの空気充塡では、一酸化炭素・油分・水分の混入を防止することが最重要。コンプレッサーの整備状態の確認が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -639,7 +639,7 @@
                   "groupId": "R7N_Q18",
                   "statement": "スクーバ式潜水で用いるボンベは、一般に、内容積が10～14Ｌで、最高充塡圧力が19.6ＭPa(ゲージ圧力)である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ボンベへの空気充塡では、一酸化炭素・油分・水分の混入を防止することが最重要。コンプレッサーの整備状態の確認が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -648,7 +648,7 @@
                   "groupId": "R7N_Q18",
                   "statement": "スクーバ式潜水で用いる圧力調整器は、潜水前に、マウスピースをくわえて呼吸し、異常のないことを確認する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ボンベへの空気充塡では、一酸化炭素・油分・水分の混入を防止することが最重要。コンプレッサーの整備状態の確認が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -657,7 +657,7 @@
                   "groupId": "R7N_Q18",
                   "statement": "全面マスク式潜水器のマスク内には、口と鼻を覆う口鼻マスクが取り付けられており。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ボンベへの空気充塡では、一酸化炭素・油分・水分の混入を防止することが最重要。コンプレッサーの整備状態の確認が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -666,7 +666,7 @@
                   "groupId": "R7N_Q19",
                   "statement": "全面マスク式潜水器では、ヘルメット式潜水器に比べて少ない送気量で潜水することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全面マスク式潜水器はヘルメット式より構造が簡単で送気量が少なくて済む。機動性が高く浅い潜水に適している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -675,7 +675,7 @@
                   "groupId": "R7N_Q19",
                   "statement": "全面マスク式潜水器には、全面マスクにスクーバ用のセカンドステージレギュレーターを取り付ける簡易なタイプがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全面マスク式潜水器はヘルメット式より構造が簡単で送気量が少なくて済む。機動性が高く浅い潜水に適している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -684,7 +684,7 @@
                   "groupId": "R7N_Q19",
                   "statement": "全面マスク式潜水器は送気式潜水器であるが、小型のボンベを携行して潜水することがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全面マスク式潜水器はヘルメット式より構造が簡単で送気量が少なくて済む。機動性が高く浅い潜水に適している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -693,7 +693,7 @@
                   "groupId": "R7N_Q19",
                   "statement": "混合ガス潜水に使われる全面マスク式潜水器には、バンドマスクタイプとヘルメットタイプがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全面マスク式潜水器はヘルメット式より構造が簡単で送気量が少なくて済む。機動性が高く浅い潜水に適している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -702,7 +702,7 @@
                   "groupId": "R7N_Q19",
                   "statement": "全面マスク式潜水では、送気ホースの緩み、外れなどにつながるおそれがあるので、足ヒレを用いてはならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式潜水器はヘルメット式より構造が簡単で送気量が少なくて済む。機動性が高く浅い潜水に適している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -716,7 +716,7 @@
                   "groupId": "R7N_Q20",
                   "statement": "ＢＣは、これに備えられた液化炭酸ガスボンベから入れるガスにより、浮力を得るものである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "BC（ブオヤンシーコントロール）は圧縮空気または液化炭酸ガスボンベから空気を入れて浮力を調整する器具。液化炭酸ガスは緊急時使用。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -725,7 +725,7 @@
                   "groupId": "R7N_Q20",
                   "statement": "ウエットスーツはスポンジ状のゴム生地を材料として作られており、生地内の多数の気泡により保温性を高められているため。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "BC（ブオヤンシーコントロール）は圧縮空気または液化炭酸ガスボンベから空気を入れて浮力を調整する器具。液化炭酸ガスは緊急時使用。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -734,7 +734,7 @@
                   "groupId": "R7N_Q20",
                   "statement": "ヘルメット式潜水の場合、ヘルメット及び潜水服に重量があるので、潜水靴は、できるだけ軽量のものを使用する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "BC（ブオヤンシーコントロール）は圧縮空気または液化炭酸ガスボンベから空気を入れて浮力を調整する器具。液化炭酸ガスは緊急時使用。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -743,7 +743,7 @@
                   "groupId": "R7N_Q21",
                   "statement": "呼吸運動は、主として肋間筋、横隔膜などの呼吸筋によって胸郭内容積を周期的に増減し。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "呼吸運動は肋間筋・横隔膜（主に横隔膜）の収縮・弛緩により胸郭容積を変化させ、肺を受動的に伸縮させることで行われる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -752,7 +752,7 @@
                   "groupId": "R7N_Q21",
                   "statement": "肺呼吸は、肺内に吸い込んだ空気中の酸素を血液中に取り入れ、血液中の二酸化炭素を排出するガス交換である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "呼吸運動は肋間筋・横隔膜（主に横隔膜）の収縮・弛緩により胸郭容積を変化させ、肺を受動的に伸縮させることで行われる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -761,7 +761,7 @@
                   "groupId": "R7N_Q21",
                   "statement": "ガス交換は、肺胞及び呼吸細気管支で行われ、そこから口側の空間は、ガス交換には直接は関与していない。くう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "呼吸運動は肋間筋・横隔膜（主に横隔膜）の収縮・弛緩により胸郭容積を変化させ、肺を受動的に伸縮させることで行われる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -770,7 +770,7 @@
                   "groupId": "R7N_Q21",
                   "statement": "潜水呼吸器を装着することにより、呼吸死腔を減少させることができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "呼吸運動は肋間筋・横隔膜（主に横隔膜）の収縮・弛緩により胸郭容積を変化させ、肺を受動的に伸縮させることで行われる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -779,7 +779,7 @@
                   "groupId": "R7N_Q21",
                   "statement": "潜水中は、呼吸ガスの密度が高くなり呼吸抵抗が増すので。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "呼吸運動は肋間筋・横隔膜（主に横隔膜）の収縮・弛緩により胸郭容積を変化させ、肺を受動的に伸縮させることで行われる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -788,7 +788,7 @@
                   "groupId": "R7N_Q22",
                   "statement": "末梢組織から二酸化炭素を受け取った血液は、毛細血管から静脈、大静脈を通って心臓の右心房に戻る。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "末梢組織でCO₂を受け取った静脈血は心臓の右心房→右心室→肺動脈→肺で酸素化されて左心房に戻る（肺循環）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -797,7 +797,7 @@
                   "groupId": "R7N_Q22",
                   "statement": "心臓に戻った静脈血は、肺動脈を通って肺に送られ、そこでガス交換が行われる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "末梢組織でCO₂を受け取った静脈血は心臓の右心房→右心室→肺動脈→肺で酸素化されて左心房に戻る（肺循環）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -806,7 +806,7 @@
                   "groupId": "R7N_Q22",
                   "statement": "心臓は左右の心室及び心房、すなわち四つの部屋に分かれており、血液は左心房から大動脈を通って体全体に送り出される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "末梢組織でCO₂を受け取った静脈血は心臓の右心房→右心室→肺動脈→肺で酸素化されて左心房に戻る（肺循環）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -815,7 +815,7 @@
                   "groupId": "R7N_Q22",
                   "statement": "心臓の左右の心房の間が卵円孔開存で通じていると、減圧障害を引き起こすおそれがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "末梢組織でCO₂を受け取った静脈血は心臓の右心房→右心室→肺動脈→肺で酸素化されて左心房に戻る（肺循環）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -824,7 +824,7 @@
                   "groupId": "R7N_Q22",
                   "statement": "大動脈の根元から出た冠動脈は、心臓の表面を取り巻き、心筋に酸素と栄養を供給する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "末梢組織でCO₂を受け取った静脈血は心臓の右心房→右心室→肺動脈→肺で酸素化されて左心房に戻る（肺循環）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -833,7 +833,7 @@
                   "groupId": "R7N_Q23",
                   "statement": "神経系は、身体を環境に順応させたり動かしたりするために、身体の各部の動きや連携の統制をつかさどる。しょう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "神経系は中枢神経系（脳・脊髄）と末梢神経系に分類される。身体の統制・調整・環境適応をつかさどる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -842,7 +842,7 @@
                   "groupId": "R7N_Q23",
                   "statement": "中枢神経系は、脳と脊髄から成り、脳は特に多くのエネルギーを消費するため。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "神経系は中枢神経系（脳・脊髄）と末梢神経系に分類される。身体の統制・調整・環境適応をつかさどる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -851,7 +851,7 @@
                   "groupId": "R7N_Q23",
                   "statement": "末梢神経は、体性神経と自律神経に分類される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "神経系は中枢神経系（脳・脊髄）と末梢神経系に分類される。身体の統制・調整・環境適応をつかさどる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -860,7 +860,7 @@
                   "groupId": "R7N_Q24",
                   "statement": "体温は、代謝によって生じる産熱と、人体と外部環境の温度差に基づく放熱のバランスによって保たれる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "体温調節は代謝による産熱と皮膚・汗・呼吸による放熱のバランスで維持される。視床下部が体温調節の中枢。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -869,7 +869,7 @@
                   "groupId": "R7N_Q24",
                   "statement": "水の熱伝導率は空気の約1,000倍あるので、水中では、体温が奪われやすい。し。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "体温調節は代謝による産熱と皮膚・汗・呼吸による放熱のバランスで維持される。視床下部が体温調節の中枢。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -878,7 +878,7 @@
                   "groupId": "R7N_Q24",
                   "statement": "体温が低下し始めると、筋肉の弛緩、酸素摂取量の減少などの症状が現れる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "体温調節は代謝による産熱と皮膚・汗・呼吸による放熱のバランスで維持される。視床下部が体温調節の中枢。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -887,7 +887,7 @@
                   "groupId": "R7N_Q24",
                   "statement": "低体温症は、全身が冷やされ、体の中心部の温度が30℃程度以下に低下した状態をいい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "体温調節は代謝による産熱と皮膚・汗・呼吸による放熱のバランスで維持される。視床下部が体温調節の中枢。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -896,7 +896,7 @@
                   "groupId": "R7N_Q24",
                   "statement": "低体温症を発症した者への処置としては、アルコールを摂取させることが有効である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "体温調節は代謝による産熱と皮膚・汗・呼吸による放熱のバランスで維持される。視床下部が体温調節の中枢。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -905,7 +905,7 @@
                   "groupId": "R7N_Q25",
                   "statement": "圧外傷は、潜降又は浮上いずれのときでも生じ、潜降時のものをブロック、浮上時のものをスクィーズと呼ぶ。くう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "圧外傷は内部空気腔（耳・副鼻腔・肺等）と外圧の差で生じる。潜降時はスクィーズ、浮上時はリバーススクィーズ（ブロック）。問題文は名称が逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -914,7 +914,7 @@
                   "groupId": "R7N_Q25",
                   "statement": "潜降時の圧外傷は、潜降による圧力変化のために体腔内の空気の体積が増くう くうえることにより生じ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "圧外傷は内部空気腔（耳・副鼻腔・肺等）と外圧の差で生じる。潜降時はスクィーズ、浮上時はリバーススクィーズ（ブロック）。問題文は名称が逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -923,7 +923,7 @@
                   "groupId": "R7N_Q25",
                   "statement": "浮上時の圧外傷は、浮上による圧力変化のために体腔内の空気の体積が減くう少することにより生じ、副鼻腔、肺などで生じる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "圧外傷は内部空気腔（耳・副鼻腔・肺等）と外圧の差で生じる。潜降時はスクィーズ、浮上時はリバーススクィーズ（ブロック）。問題文は名称が逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -932,7 +932,7 @@
                   "groupId": "R7N_Q25",
                   "statement": "浮上時の肺圧外傷は、気胸や空気塞栓症を引き起こすことがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "圧外傷は内部空気腔（耳・副鼻腔・肺等）と外圧の差で生じる。潜降時はスクィーズ、浮上時はリバーススクィーズ（ブロック）。問題文は名称が逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -941,7 +941,7 @@
                   "groupId": "R7N_Q25",
                   "statement": "浮上時の肺圧外傷を防ぐためには、息を止めたまま浮上する。くう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "圧外傷は内部空気腔（耳・副鼻腔・肺等）と外圧の差で生じる。潜降時はスクィーズ、浮上時はリバーススクィーズ（ブロック）。問題文は名称が逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -950,7 +950,7 @@
                   "groupId": "R7N_Q26",
                   "statement": "潜降の途中で耳が痛くなるのは、外耳道と中耳腔との間に圧力差が生じるためである。くう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜降時に耳が痛くなるのは外耳道側の水圧と中耳腔の空気圧の差（中耳腔の圧力が低い）が原因。耳抜き（バルサルバ法等）で解消。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -959,7 +959,7 @@
                   "groupId": "R7N_Q26",
                   "statement": "中耳腔は、耳管によって咽頭と通じているが、この管は通常は閉じている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜降時に耳が痛くなるのは外耳道側の水圧と中耳腔の空気圧の差（中耳腔の圧力が低い）が原因。耳抜き（バルサルバ法等）で解消。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -968,7 +968,7 @@
                   "groupId": "R7N_Q26",
                   "statement": "耳の障害による症状には、耳の痛み、閉塞感、難聴、めまいなどがある。がく くう くう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜降時に耳が痛くなるのは外耳道側の水圧と中耳腔の空気圧の差（中耳腔の圧力が低い）が原因。耳抜き（バルサルバ法等）で解消。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -977,7 +977,7 @@
                   "groupId": "R7N_Q26",
                   "statement": "副鼻腔の障害による症状には、額の周りや目・鼻の根部の痛み、鼻出血などがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜降時に耳が痛くなるのは外耳道側の水圧と中耳腔の空気圧の差（中耳腔の圧力が低い）が原因。耳抜き（バルサルバ法等）で解消。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -986,7 +986,7 @@
                   "groupId": "R7N_Q27",
                   "statement": "酸素中毒は、肺が冒される肺酸素中毒と、中枢神経が冒される脳酸素中毒に大別される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "酸素中毒には肺酸素中毒（ローリー効果：慢性）と脳酸素中毒（急性：けいれん等）がある。二酸化炭素中毒とは異なる機序。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -995,7 +995,7 @@
                   "groupId": "R7N_Q27",
                   "statement": "肺酸素中毒は、致命的になることは通常は考えられないが、肺機能の低下をもたらし、肺活量が減少することがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "酸素中毒には肺酸素中毒（ローリー効果：慢性）と脳酸素中毒（急性：けいれん等）がある。二酸化炭素中毒とは異なる機序。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1004,7 +1004,7 @@
                   "groupId": "R7N_Q27",
                   "statement": "脳酸素中毒の症状には、吐き気、めまい、痙攣発作などがあり、特に痙攣発作が潜水中に起こると、多くの場合致命的になる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "酸素中毒には肺酸素中毒（ローリー効果：慢性）と脳酸素中毒（急性：けいれん等）がある。二酸化炭素中毒とは異なる機序。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1013,7 +1013,7 @@
                   "groupId": "R7N_Q28",
                   "statement": "減圧症の発症は、通常、浮上後24時間以上経過した後であるが、長時間の潜水や飽和潜水では24時間以内に発症することがある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "減圧症は通常浮上後30分〜24時間以内に発症する。長時間潜水や飽和潜水では24時間以内の発症もある。浮上後24時間以上経過後の発症は少ない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1022,7 +1022,7 @@
                   "groupId": "R7N_Q28",
                   "statement": "規定の浮上速度や浮上停止時間を順守した場合に減圧症にかかることはない。かゆ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "減圧症は通常浮上後30分〜24時間以内に発症する。長時間潜水や飽和潜水では24時間以内の発症もある。浮上後24時間以上経過後の発症は少ない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1031,7 +1031,7 @@
                   "groupId": "R7N_Q28",
                   "statement": "皮膚の痒みや皮膚に大理石斑ができる症状はしばらくすると消え、より重い症状に進むことはないので特に治療しなくてもよい。り。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "減圧症は通常浮上後30分〜24時間以内に発症する。長時間潜水や飽和潜水では24時間以内の発症もある。浮上後24時間以上経過後の発症は少ない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1040,7 +1040,7 @@
                   "groupId": "R7N_Q28",
                   "statement": "作業量の多い重筋作業の潜水は、減圧症に罹患しにくい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "減圧症は通常浮上後30分〜24時間以内に発症する。長時間潜水や飽和潜水では24時間以内の発症もある。浮上後24時間以上経過後の発症は少ない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1049,7 +1049,7 @@
                   "groupId": "R7N_Q28",
                   "statement": "チョークスは、血液中に発生した気泡が肺毛細血管を塞栓する重篤な肺減圧症である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "減圧症は通常浮上後30分〜24時間以内に発症する。長時間潜水や飽和潜水では24時間以内の発症もある。浮上後24時間以上経過後の発症は少ない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1058,7 +1058,7 @@
                   "groupId": "R7N_Q29",
                   "statement": "医師が必要と認める期間、潜水業務への就業が禁止される疾病に該当しないものは白内障である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "就業禁止疾病には肺結核・心臓疾患・慢性気管支炎・気管支喘息・てんかん等が含まれる。白内障は就業禁止の対象疾病ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1067,7 +1067,7 @@
                   "groupId": "R7N_Q29",
                   "statement": "医師が必要と認める期間、潜水業務への就業が禁止される疾病に該当しないものは貧血症である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "就業禁止疾病には肺結核・心臓疾患・慢性気管支炎・気管支喘息・てんかん等が含まれる。白内障は就業禁止の対象疾病ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1076,7 +1076,7 @@
                   "groupId": "R7N_Q29",
                   "statement": "医師が必要と認める期間、潜水業務への就業が禁止される疾病に該当しないものはアルコール中毒である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "就業禁止疾病には肺結核・心臓疾患・慢性気管支炎・気管支喘息・てんかん等が含まれる。白内障は就業禁止の対象疾病ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1085,7 +1085,7 @@
                   "groupId": "R7N_Q29",
                   "statement": "医師が必要と認める期間、潜水業務への就業が禁止される疾病に該当しないものはメニエル病である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "就業禁止疾病には肺結核・心臓疾患・慢性気管支炎・気管支喘息・てんかん等が含まれる。白内障は就業禁止の対象疾病ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1094,7 +1094,7 @@
                   "groupId": "R7N_Q29",
                   "statement": "医師が必要と認める期間、潜水業務への就業が禁止される疾病に該当しないものはバセドー病である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "就業禁止疾病には肺結核・心臓疾患・慢性気管支炎・気管支喘息・てんかん等が含まれる。白内障は就業禁止の対象疾病ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -1108,7 +1108,7 @@
                   "groupId": "R7N_Q30",
                   "statement": "一次救命処置は、できる限り単独で行うことは避ける。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一次救命処置（BLS）は複数人で分担して行うことが推奨されるが、やむを得ず一人で行う場合もある。「できる限り単独を避ける」は正しい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1117,7 +1117,7 @@
                   "groupId": "R7N_Q30",
                   "statement": "傷病者に反応がある場合は、回復体位をとらせて安静にして、経過を観察する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一次救命処置（BLS）は複数人で分担して行うことが推奨されるが、やむを得ず一人で行う場合もある。「できる限り単独を避ける」は正しい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1126,7 +1126,7 @@
                   "groupId": "R7N_Q30",
                   "statement": "呼吸を確認して普段どおりの息がない場合や約１分間観察しそても判断できない場合は、心肺停止とみなし、心肺蘇生を開始する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "一次救命処置（BLS）は複数人で分担して行うことが推奨されるが、やむを得ず一人で行う場合もある。「できる限り単独を避ける」は正しい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1135,7 +1135,7 @@
                   "groupId": "R7N_Q30",
                   "statement": "ＡＥＤを用いた場合、電気ショックを行った後や電そ気ショック不要の音声メッセージが出たときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一次救命処置（BLS）は複数人で分担して行うことが推奨されるが、やむを得ず一人で行う場合もある。「できる限り単独を避ける」は正しい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1144,7 +1144,7 @@
                   "groupId": "R7N_Q31",
                   "statement": "ヘルメット式潜水で空気圧縮機により送気し、最高深度30ｍの潜水業務を行う場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水でコンプレッサー送気・最高深度30mの場合、空気槽の設置・安全設備の規定に従った設備が必要（高圧則の規定を確認）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1153,7 +1153,7 @@
                   "groupId": "R7N_Q31",
                   "statement": "ヘルメット式潜水で空気圧縮機により送気し、最高深度30ｍの潜水業務を行う場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水でコンプレッサー送気・最高深度30mの場合、空気槽の設置・安全設備の規定に従った設備が必要（高圧則の規定を確認）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1162,7 +1162,7 @@
                   "groupId": "R7N_Q31",
                   "statement": "ヘルメット式潜水で空気圧縮機により送気し、最高深度30ｍの潜水業務を行う場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水でコンプレッサー送気・最高深度30mの場合、空気槽の設置・安全設備の規定に従った設備が必要（高圧則の規定を確認）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1171,7 +1171,7 @@
                   "groupId": "R7N_Q31",
                   "statement": "ヘルメット式潜水で空気圧縮機により送気し、最高深度30ｍの潜水業務を行う場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水でコンプレッサー送気・最高深度30mの場合、空気槽の設置・安全設備の規定に従った設備が必要（高圧則の規定を確認）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1180,7 +1180,7 @@
                   "groupId": "R7N_Q31",
                   "statement": "ヘルメット式潜水で空気圧縮機により送気し、最高深度30ｍの潜水業務を行う場合。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水でコンプレッサー送気・最高深度30mの場合、空気槽の設置・安全設備の規定に従った設備が必要（高圧則の規定を確認）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1189,7 +1189,7 @@
                   "groupId": "R7N_Q32",
                   "statement": "労働者を雇い入れたときは、その労働者に対し、原則として、従事する業務に関する一定の事項について。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "雇入れ時の安全衛生教育は労働安全衛生規則35条により、従事業務に関する事項について実施義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1198,7 +1198,7 @@
                   "groupId": "R7N_Q32",
                   "statement": "労働者の作業内容を変更したときは、その労働者に対し、原則として、従事する業務に関する一定の事項について。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "雇入れ時の安全衛生教育は労働安全衛生規則35条により、従事業務に関する事項について実施義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1207,7 +1207,7 @@
                   "groupId": "R7N_Q32",
                   "statement": "特定の危険又は有害な業務に労働者をつかせるときは、原則として。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "雇入れ時の安全衛生教育は労働安全衛生規則35条により、従事業務に関する事項について実施義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1216,7 +1216,7 @@
                   "groupId": "R7N_Q32",
                   "statement": "安全又は衛生のための特別の教育の科目の全部又は一部について十分な知識及び技能を有していると認められる労働者については。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "雇入れ時の安全衛生教育は労働安全衛生規則35条により、従事業務に関する事項について実施義務がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1225,7 +1225,7 @@
                   "groupId": "R7N_Q33",
                   "statement": "潜水業務従事者に圧力調整器を使用させない潜水方式の場合、大気圧下で送気量が毎分240Ｌの空気圧縮機を用いて送気するとき。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "送気量の計算：水深30mでは絶対圧力4気圧なので、必要送気量は大気圧下の4倍。1人あたり必要量×係数で計算。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1234,7 +1234,7 @@
                   "groupId": "R7N_Q33",
                   "statement": "潜水業務従事者に圧力調整器を使用させない潜水方式の場合、大気圧下で送気量が毎分240Ｌの空気圧縮機を用いて送気するとき。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "送気量の計算：水深30mでは絶対圧力4気圧なので、必要送気量は大気圧下の4倍。1人あたり必要量×係数で計算。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1243,7 +1243,7 @@
                   "groupId": "R7N_Q33",
                   "statement": "潜水業務従事者に圧力調整器を使用させない潜水方式の場合、大気圧下で送気量が毎分240Ｌの空気圧縮機を用いて送気するとき。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "送気量の計算：水深30mでは絶対圧力4気圧なので、必要送気量は大気圧下の4倍。1人あたり必要量×係数で計算。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1252,7 +1252,7 @@
                   "groupId": "R7N_Q33",
                   "statement": "潜水業務従事者に圧力調整器を使用させない潜水方式の場合、大気圧下で送気量が毎分240Ｌの空気圧縮機を用いて送気するとき。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "送気量の計算：水深30mでは絶対圧力4気圧なので、必要送気量は大気圧下の4倍。1人あたり必要量×係数で計算。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1261,7 +1261,7 @@
                   "groupId": "R7N_Q33",
                   "statement": "潜水業務従事者に圧力調整器を使用させない潜水方式の場合、大気圧下で送気量が毎分240Ｌの空気圧縮機を用いて送気するとき。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "送気量の計算：水深30mでは絶対圧力4気圧なので、必要送気量は大気圧下の4倍。1人あたり必要量×係数で計算。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1270,7 +1270,7 @@
                   "groupId": "R7N_Q35",
                   "statement": "連絡員の配置は、潜水業務従事者２人以下ごとに１人とする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連絡員は潜水業務従事者2人以下ごとに1人配置（高圧則16条）。3人以上の場合は2人超えるごとに1人追加。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1279,7 +1279,7 @@
                   "groupId": "R7N_Q35",
                   "statement": "連絡員は、潜水業務従事者と連絡して、その者の潜降及び浮上を適正に行わせる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連絡員は潜水業務従事者2人以下ごとに1人配置（高圧則16条）。3人以上の場合は2人超えるごとに1人追加。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1288,7 +1288,7 @@
                   "groupId": "R7N_Q35",
                   "statement": "連絡員は、潜水業務従事者への送気の調節を行うためのバルブ又はコックを操作する業務に従事する者と連絡して。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連絡員は潜水業務従事者2人以下ごとに1人配置（高圧則16条）。3人以上の場合は2人超えるごとに1人追加。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1297,7 +1297,7 @@
                   "groupId": "R7N_Q35",
                   "statement": "連絡員は、送気設備の故障その他の事故により、潜水業務従事者に危険又は健康障害の生ずるおそれがあるときは。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連絡員は潜水業務従事者2人以下ごとに1人配置（高圧則16条）。3人以上の場合は2人超えるごとに1人追加。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1306,7 +1306,7 @@
                   "groupId": "R7N_Q37",
                   "statement": "雇入れの際、潜水業務への配置替えの際及び定期に、一定の項目について、医師による健康診断を行わなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水業務の健康診断は雇入れ時・配置替え時・定期（6か月以内ごと）に実施（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1315,7 +1315,7 @@
                   "groupId": "R7N_Q37",
                   "statement": "健康診断の結果、異常の所見があると診断された労働者については。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜水業務の健康診断は雇入れ時・配置替え時・定期（6か月以内ごと）に実施（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1324,7 +1324,7 @@
                   "groupId": "R7N_Q37",
                   "statement": "水深10ｍ未満の場所で潜水業務に常時従事する労働者についても、健康診断を行わなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水業務の健康診断は雇入れ時・配置替え時・定期（6か月以内ごと）に実施（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1333,7 +1333,7 @@
                   "groupId": "R7N_Q37",
                   "statement": "健康診断を受けた労働者に対し、異常の所見が認められなかった者も含め、遅滞なく。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水業務の健康診断は雇入れ時・配置替え時・定期（6か月以内ごと）に実施（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1342,7 +1342,7 @@
                   "groupId": "R7N_Q37",
                   "statement": "定期の健康診断を行ったときは、遅滞なく、高気圧業務健康診断結果報告書を所轄労働基準監督署長に提出しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水業務の健康診断は雇入れ時・配置替え時・定期（6か月以内ごと）に実施（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1351,7 +1351,7 @@
                   "groupId": "R7N_Q40",
                   "statement": "酸素の分圧は、潜水作業者が溺水しないよう必要な措置を講じて浮上を行わせる場合であっても、220kPaを超えてはならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "酸素分圧の上限は220kPa（2.2気圧）。これを超えると酸素中毒（脳酸素中毒）のリスクが高まる（高圧則12条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1360,7 +1360,7 @@
                   "groupId": "R7N_Q40",
                   "statement": "窒素の分圧は、400kPaを超えてはならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "酸素分圧の上限は220kPa（2.2気圧）。これを超えると酸素中毒（脳酸素中毒）のリスクが高まる（高圧則12条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1369,7 +1369,7 @@
                   "groupId": "R7N_Q40",
                   "statement": "炭酸ガスの分圧は、0.5kPaを超えてはならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "酸素分圧の上限は220kPa（2.2気圧）。これを超えると酸素中毒（脳酸素中毒）のリスクが高まる（高圧則12条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1378,7 +1378,7 @@
                   "groupId": "R7N_Q40",
                   "statement": "ヘリウムの分圧は、500kPaを超えてはならない。（終 り）。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "酸素分圧の上限は220kPa（2.2気圧）。これを超えると酸素中毒（脳酸素中毒）のリスクが高まる（高圧則12条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -1398,7 +1398,7 @@
                   "groupId": "R7O_Q1",
                   "statement": "0.06 ＭPa。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ゲージ圧0.06MPaは絶対圧力0.16MPa（大気圧0.1MPa+0.06MPa）。深さとの換算：水深約6mに相当（水深10mで約0.1MPa増）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1407,7 +1407,7 @@
                   "groupId": "R7O_Q1",
                   "statement": "0.23 ＭPa。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ゲージ圧0.06MPaは絶対圧力0.16MPa（大気圧0.1MPa+0.06MPa）。深さとの換算：水深約6mに相当（水深10mで約0.1MPa増）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1416,7 +1416,7 @@
                   "groupId": "R7O_Q1",
                   "statement": "0.40 ＭPa。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ゲージ圧0.06MPaは絶対圧力0.16MPa（大気圧0.1MPa+0.06MPa）。深さとの換算：水深約6mに相当（水深10mで約0.1MPa増）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1425,7 +1425,7 @@
                   "groupId": "R7O_Q3",
                   "statement": "窒素は、無色・無臭で、常温・常圧では化学的に安定した不活性の気体である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "窒素は無色・無臭・不活性。潜水ガス中で多量に体内に溶け込み、急浮上時に気泡化して減圧症の原因となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1434,7 +1434,7 @@
                   "groupId": "R7O_Q3",
                   "statement": "ヘリウムは、密度が極めて大きく、他の元素と化合しにくい気体で、呼吸抵抗は少ない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "窒素は無色・無臭・不活性。潜水ガス中で多量に体内に溶け込み、急浮上時に気泡化して減圧症の原因となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1443,7 +1443,7 @@
                   "groupId": "R7O_Q3",
                   "statement": "酸素は、無色・無臭の気体で、生命維持に必要不可欠なものであり、空気中の酸素濃度が高いほど人体に良い。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "窒素は無色・無臭・不活性。潜水ガス中で多量に体内に溶け込み、急浮上時に気泡化して減圧症の原因となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1452,7 +1452,7 @@
                   "groupId": "R7O_Q3",
                   "statement": "二酸化炭素は、無色・無臭の気体で、空気中に約0.3％の割合で含まれている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "窒素は無色・無臭・不活性。潜水ガス中で多量に体内に溶け込み、急浮上時に気泡化して減圧症の原因となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1461,7 +1461,7 @@
                   "groupId": "R7O_Q5",
                   "statement": "水分子による光の吸収の度合いは、光の波長によって異なり、波長の長い青色は、波長の短い赤色より吸収されやすい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水中では赤色（長波長）が先に吸収され、青色（短波長）が深くまで届く。問題文は青色が先に吸収されるとしており誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1470,7 +1470,7 @@
                   "groupId": "R7O_Q5",
                   "statement": "水中では、音に対する両耳効果が増すので、音源の方向探知が容易になる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水中では赤色（長波長）が先に吸収され、青色（短波長）が深くまで届く。問題文は青色が先に吸収されるとしており誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1479,7 +1479,7 @@
                   "groupId": "R7O_Q5",
                   "statement": "光は、水と空気の境界では下の図のように屈折し、顔マスクを通して水中の物体を見た場合、実際よりも大きく見える。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水中では赤色（長波長）が先に吸収され、青色（短波長）が深くまで届く。問題文は青色が先に吸収されるとしており誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1488,7 +1488,7 @@
                   "groupId": "R7O_Q6",
                   "statement": "自給気式潜水で一般的に使用されている潜水器は、開放回路型スクーバ式潜水器である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "開放回路型スクーバは呼吸した空気を水中に排出する方式で最も一般的。閉鎖回路型（リブリーザー）は排気を循環使用。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1497,7 +1497,7 @@
                   "groupId": "R7O_Q6",
                   "statement": "スクーバ式潜水は、軟式潜水であり、潜水者は直接人体に水圧を受ける。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "開放回路型スクーバは呼吸した空気を水中に排出する方式で最も一般的。閉鎖回路型（リブリーザー）は排気を循環使用。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1506,7 +1506,7 @@
                   "groupId": "R7O_Q6",
                   "statement": "全面マスク式潜水は、スクーバ式潜水と比べ、長時間の潜水作業が可能である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "開放回路型スクーバは呼吸した空気を水中に排出する方式で最も一般的。閉鎖回路型（リブリーザー）は排気を循環使用。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1515,7 +1515,7 @@
                   "groupId": "R7O_Q6",
                   "statement": "全面マスク式潜水は、船上のコンプレッサーなどによって送気を行う潜水で、潜水者がボンベを携行することはない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "開放回路型スクーバは呼吸した空気を水中に排出する方式で最も一般的。閉鎖回路型（リブリーザー）は排気を循環使用。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1524,7 +1524,7 @@
                   "groupId": "R7O_Q6",
                   "statement": "ヘルメット式潜水は、常時、連続的に潜水者に送気が行われる定量送気式の潜水方式である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "開放回路型スクーバは呼吸した空気を水中に排出する方式で最も一般的。閉鎖回路型（リブリーザー）は排気を循環使用。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1533,7 +1533,7 @@
                   "groupId": "R7O_Q7",
                   "statement": "海中の生物による危険性としては、タコ、ウツボなどによりかまれること、ガンガゼ、ゴンズイなどにより刺されることなどがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "海中生物による危険：かまれる（ウツボ・タコ等）、刺される（ガンガゼ・ゴンズイ等）、毒を持つ（オニダルマオコゼ等）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1542,7 +1542,7 @@
                   "groupId": "R7O_Q7",
                   "statement": "潮流の速い水域でスクーバ式潜水により潜水作業を行うときは、命綱を使用する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "海中生物による危険：かまれる（ウツボ・タコ等）、刺される（ガンガゼ・ゴンズイ等）、毒を持つ（オニダルマオコゼ等）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1551,7 +1551,7 @@
                   "groupId": "R7O_Q7",
                   "statement": "潜水作業中、海上衝突を予防するため、潜水作業船に下の図に示す様式の国際信号書Ａ旗板を掲揚する。白色青色。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "海中生物による危険：かまれる（ウツボ・タコ等）、刺される（ガンガゼ・ゴンズイ等）、毒を持つ（オニダルマオコゼ等）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1560,7 +1560,7 @@
                   "groupId": "R7O_Q7",
                   "statement": "水中での溶接・溶断作業では、ガス爆発や感電の危険がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "海中生物による危険：かまれる（ウツボ・タコ等）、刺される（ガンガゼ・ゴンズイ等）、毒を持つ（オニダルマオコゼ等）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1569,7 +1569,7 @@
                   "groupId": "R7O_Q7",
                   "statement": "水中作業による事故には、潜水ホースが潜水作業船のスクリューへ接触したり、巻き込まれることなどがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "海中生物による危険：かまれる（ウツボ・タコ等）、刺される（ガンガゼ・ゴンズイ等）、毒を持つ（オニダルマオコゼ等）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1578,7 +1578,7 @@
                   "groupId": "R7O_Q8",
                   "statement": "吹き上げは、潜水服内部の圧力と水圧の平衡が崩れ、内部の圧力が水圧より高くなったときに起こる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "吹き上げは潜水服内部の圧力が水圧より高くなり、上方に吹き飛ばされる現象。潜水墜落とは逆の状態。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1587,7 +1587,7 @@
                   "groupId": "R7O_Q8",
                   "statement": "潜水墜落では、一たび浮力が減少して沈降が始まると、水圧が増して浮力が更に減少するという悪循環を繰り返す。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "吹き上げは潜水服内部の圧力が水圧より高くなり、上方に吹き飛ばされる現象。潜水墜落とは逆の状態。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1596,7 +1596,7 @@
                   "groupId": "R7O_Q8",
                   "statement": "ヘルメット式潜水では、潜水者が頭部を胴体より下にする姿勢をとり。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "吹き上げは潜水服内部の圧力が水圧より高くなり、上方に吹き飛ばされる現象。潜水墜落とは逆の状態。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1605,7 +1605,7 @@
                   "groupId": "R7O_Q8",
                   "statement": "ヘルメット式潜水では、潜水者に常に大量の空気が送気されており、排気弁の操作を誤ると吹き上げを起こすことがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "吹き上げは潜水服内部の圧力が水圧より高くなり、上方に吹き飛ばされる現象。潜水墜落とは逆の状態。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1614,7 +1614,7 @@
                   "groupId": "R7O_Q8",
                   "statement": "吹き上げ時の対応を誤ると、潜水墜落を起こすことがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "吹き上げは潜水服内部の圧力が水圧より高くなり、上方に吹き飛ばされる現象。潜水墜落とは逆の状態。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1623,7 +1623,7 @@
                   "groupId": "R7O_Q9",
                   "statement": "気管支や肺にまで水が入ってしまい窒息状態になって溺れる場合だけでなく。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "溺水には水が肺に入る湿性溺水と、喉頭けいれんで水が入らない乾性溺水がある。どちらも窒息状態となり危険。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1632,7 +1632,7 @@
                   "groupId": "R7O_Q9",
                   "statement": "スクーバ式潜水では、些細なトラブルからパニック状態に陥り、正常な判断ができなくなり。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "溺水には水が肺に入る湿性溺水と、喉頭けいれんで水が入らない乾性溺水がある。どちらも窒息状態となり危険。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1641,7 +1641,7 @@
                   "groupId": "R7O_Q9",
                   "statement": "送気式潜水では、溺れに対する予防法として、送気ホース切断事故を生じないよう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "溺水には水が肺に入る湿性溺水と、喉頭けいれんで水が入らない乾性溺水がある。どちらも窒息状態となり危険。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1650,7 +1650,7 @@
                   "groupId": "R7O_Q9",
                   "statement": "ヘルメット式潜水では、溺れを予防するため、救命胴衣又はＢＣを必ず着用する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "溺水には水が肺に入る湿性溺水と、喉頭けいれんで水が入らない乾性溺水がある。どちらも窒息状態となり危険。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1659,7 +1659,7 @@
                   "groupId": "R7O_Q9",
                   "statement": "送気式潜水では、水中拘束を予防するため、障害物を通過するときは、周囲を回ったり。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "溺水には水が肺に入る湿性溺水と、喉頭けいれんで水が入らない乾性溺水がある。どちらも窒息状態となり危険。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -1673,7 +1673,7 @@
                   "groupId": "R7O_Q10",
                   "statement": "暗渠内は潮流の影響などを受けにくいため、十分な照度を確保することにより、安全に潜水作業を行うことができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "暗渠（トンネル）内での潜水は潮流の影響は少ないが、視界確保・緊急脱出の困難さなど危険が多く、十分な照度確保だけでは安全を確保できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1682,7 +1682,7 @@
                   "groupId": "R7O_Q10",
                   "statement": "河川での潜水では、流れの速さに特に注意する必要があるので、命綱を使用したり、装着するウエイト重量を増やしたりする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "暗渠（トンネル）内での潜水は潮流の影響は少ないが、視界確保・緊急脱出の困難さなど危険が多く、十分な照度確保だけでは安全を確保できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1691,7 +1691,7 @@
                   "groupId": "R7O_Q10",
                   "statement": "冷水中での潜水で体温が低下すると、人体の運動機能が低下するとともに、減圧症にかかりやすくなる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "暗渠（トンネル）内での潜水は潮流の影響は少ないが、視界確保・緊急脱出の困難さなど危険が多く、十分な照度確保だけでは安全を確保できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1700,7 +1700,7 @@
                   "groupId": "R7O_Q10",
                   "statement": "山岳部のダムなど高所域での潜水では、通常の海洋での潜水よりも長い減圧浮上時間が必要となる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "暗渠（トンネル）内での潜水は潮流の影響は少ないが、視界確保・緊急脱出の困難さなど危険が多く、十分な照度確保だけでは安全を確保できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1709,7 +1709,7 @@
                   "groupId": "R7O_Q11",
                   "statement": "コンプレッサーには、固定式と移動式があるが、固定式は潜水作業船に設置される場合が多い。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "コンプレッサーには固定式と移動式がある。固定式は工場・陸上の設備に、移動式は作業船・現場に設置される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1718,7 +1718,7 @@
                   "groupId": "R7O_Q11",
                   "statement": "移動式のコンプレッサーは、空気槽を分離式とすることにより、重量を100kg程度にし、小型・軽量となっている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "コンプレッサーには固定式と移動式がある。固定式は工場・陸上の設備に、移動式は作業船・現場に設置される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1727,7 +1727,7 @@
                   "groupId": "R7O_Q11",
                   "statement": "コンプレッサーの圧縮効率は、圧力の上昇に伴い低下する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "コンプレッサーには固定式と移動式がある。固定式は工場・陸上の設備に、移動式は作業船・現場に設置される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1736,7 +1736,7 @@
                   "groupId": "R7O_Q11",
                   "statement": "ストレーナーは、コンプレッサーに吸入される外気をろ過し、ゴミなどの侵入を防ぐための装置である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "コンプレッサーには固定式と移動式がある。固定式は工場・陸上の設備に、移動式は作業船・現場に設置される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1745,7 +1745,7 @@
                   "groupId": "R7O_Q11",
                   "statement": "大出力化した原動機(主機)を備える潜水作業船は、コンプレッサー専用の原動機(補機)を設置して駆動するものが多い。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "コンプレッサーには固定式と移動式がある。固定式は工場・陸上の設備に、移動式は作業船・現場に設置される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1754,7 +1754,7 @@
                   "groupId": "R7O_Q12",
                   "statement": "毎分20Ｌの呼吸を行う潜水者が、水深10ｍにおいて。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水深10mでは絶対圧力2気圧なので、毎分20Lの呼吸は地上換算で毎分40L（20L×2）の空気消費となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1763,7 +1763,7 @@
                   "groupId": "R7O_Q12",
                   "statement": "毎分20Ｌの呼吸を行う潜水者が、水深10ｍにおいて。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水深10mでは絶対圧力2気圧なので、毎分20Lの呼吸は地上換算で毎分40L（20L×2）の空気消費となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1772,7 +1772,7 @@
                   "groupId": "R7O_Q12",
                   "statement": "毎分20Ｌの呼吸を行う潜水者が、水深10ｍにおいて。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水深10mでは絶対圧力2気圧なので、毎分20Lの呼吸は地上換算で毎分40L（20L×2）の空気消費となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1781,7 +1781,7 @@
                   "groupId": "R7O_Q12",
                   "statement": "毎分20Ｌの呼吸を行う潜水者が、水深10ｍにおいて。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水深10mでは絶対圧力2気圧なので、毎分20Lの呼吸は地上換算で毎分40L（20L×2）の空気消費となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1790,7 +1790,7 @@
                   "groupId": "R7O_Q12",
                   "statement": "毎分20Ｌの呼吸を行う潜水者が、水深10ｍにおいて。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水深10mでは絶対圧力2気圧なので、毎分20Lの呼吸は地上換算で毎分40L（20L×2）の空気消費となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1799,7 +1799,7 @@
                   "groupId": "R7O_Q13",
                   "statement": "コンプレッサーから送られる圧縮空気は脈流であるが、調節用空気槽により緩和される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "コンプレッサーの圧縮空気は脈流だが、調節用空気槽（エアタンク）を介することで脈動を緩和し安定した送気ができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1808,7 +1808,7 @@
                   "groupId": "R7O_Q13",
                   "statement": "調節用空気槽は、送気に含まれる水分や油分を分離する機能をもっている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "コンプレッサーの圧縮空気は脈流だが、調節用空気槽（エアタンク）を介することで脈動を緩和し安定した送気ができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1817,7 +1817,7 @@
                   "groupId": "R7O_Q13",
                   "statement": "予備空気槽は、コンプレッサーの故障などの事故が発生した場合に備えて、必要な空気をあらかじめ蓄えておくための設備である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "コンプレッサーの圧縮空気は脈流だが、調節用空気槽（エアタンク）を介することで脈動を緩和し安定した送気ができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1826,7 +1826,7 @@
                   "groupId": "R7O_Q13",
                   "statement": "始業前には、空気槽内の汚物を圧縮空気と一緒にドレーンコックから排出させる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "コンプレッサーの圧縮空気は脈流だが、調節用空気槽（エアタンク）を介することで脈動を緩和し安定した送気ができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1835,7 +1835,7 @@
                   "groupId": "R7O_Q13",
                   "statement": "終業後、調節用空気槽の内部には0.1ＭPa(ゲージ圧力)程度の空気を残すようにしておく。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "コンプレッサーの圧縮空気は脈流だが、調節用空気槽（エアタンク）を介することで脈動を緩和し安定した送気ができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1844,7 +1844,7 @@
                   "groupId": "R7O_Q14",
                   "statement": "船の舷から水面までの高さが１～1.5ｍ程度であれば、片手でマスクを押さえ、足を先にして水中に飛び込んでも支障はない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "舷側からの飛び込みは水面との高さ・装備の状態による。1〜1.5mでも足から飛び込む場合はマスクを片手で押さえ安全を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1853,7 +1853,7 @@
                   "groupId": "R7O_Q14",
                   "statement": "潜降の際は、口にくわえたレギュレーターのマウスピースに空気を吹き込み。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "舷側からの飛び込みは水面との高さ・装備の状態による。1〜1.5mでも足から飛び込む場合はマスクを片手で押さえ安全を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1862,7 +1862,7 @@
                   "groupId": "R7O_Q14",
                   "statement": "ＢＣを装着している場合、インフレーターを肩より上に上げ、給気ボタンを押して潜降を始める。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "舷側からの飛び込みは水面との高さ・装備の状態による。1〜1.5mでも足から飛び込む場合はマスクを片手で押さえ安全を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1871,7 +1871,7 @@
                   "groupId": "R7O_Q14",
                   "statement": "潜水中の遊泳は、通常は両腕を伸ばして体側につけて行うが、視界のきかないときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "舷側からの飛び込みは水面との高さ・装備の状態による。1〜1.5mでも足から飛び込む場合はマスクを片手で押さえ安全を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1880,7 +1880,7 @@
                   "groupId": "R7O_Q14",
                   "statement": "マスクの中に水が入ってきたときは、深く息を吸い込んでマスクの上端を顔に押し付け。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "舷側からの飛び込みは水面との高さ・装備の状態による。1〜1.5mでも足から飛び込む場合はマスクを片手で押さえ安全を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1889,7 +1889,7 @@
                   "groupId": "R7O_Q15",
                   "statement": "浮上の際には、さがり綱(潜降索)は使用しないようにする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "浮上時にさがり綱を使用することで、浮上速度を制御し減圧症・空気塞栓症を予防できる。使用しないことは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1898,7 +1898,7 @@
                   "groupId": "R7O_Q15",
                   "statement": "緊急浮上の場合以外は、毎分10ｍを超えない速度で浮上する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "浮上時にさがり綱を使用することで、浮上速度を制御し減圧症・空気塞栓症を予防できる。使用しないことは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1907,7 +1907,7 @@
                   "groupId": "R7O_Q15",
                   "statement": "無減圧潜水の範囲内の潜水の場合でも、緊急浮上の場合以外は、水深３ｍ前後で安全のため、５分ほど浮上停止を行うようにする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "浮上時にさがり綱を使用することで、浮上速度を制御し減圧症・空気塞栓症を予防できる。使用しないことは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1916,7 +1916,7 @@
                   "groupId": "R7O_Q15",
                   "statement": "緊急浮上を要する場合は、所定の浮上停止を省略し、又は所定の浮上停止時間を短縮し、水面まで浮上する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "浮上時にさがり綱を使用することで、浮上速度を制御し減圧症・空気塞栓症を予防できる。使用しないことは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1925,7 +1925,7 @@
                   "groupId": "R7O_Q15",
                   "statement": "吹き上げにより急速に浮上した場合には、無減圧潜水の範囲内の潜水であっても、直ちに再圧処置を行うようにする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "浮上時にさがり綱を使用することで、浮上速度を制御し減圧症・空気塞栓症を予防できる。使用しないことは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1934,7 +1934,7 @@
                   "groupId": "R7O_Q16",
                   "statement": "Ｍ値とは、ある環境圧力に対して、身体が許容できる各半飽和組織における最大の不活性ガス分圧をいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "M値は各半飽和組織において許容される不活性ガスの最大分圧（全圧）。これを超えると減圧症発症リスクが高まる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1943,7 +1943,7 @@
                   "groupId": "R7O_Q16",
                   "statement": "減圧計算において、ある浮上停止深度で、不活性ガス分圧がＭ値を上回るときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "M値は各半飽和組織において許容される不活性ガスの最大分圧（全圧）。これを超えると減圧症発症リスクが高まる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1952,7 +1952,7 @@
                   "groupId": "R7O_Q16",
                   "statement": "Ｍ値は、半飽和時間が長い組織ほど大きく、潜水者が潜っている深度が深くなるほど小さい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "M値は各半飽和組織において許容される不活性ガスの最大分圧（全圧）。これを超えると減圧症発症リスクが高まる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1961,7 +1961,7 @@
                   "groupId": "R7O_Q16",
                   "statement": "繰り返し潜水において、作業終了後、次の作業まで水上で休息する時間を十分に設けなかった場合には。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "M値は各半飽和組織において許容される不活性ガスの最大分圧（全圧）。これを超えると減圧症発症リスクが高まる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1970,7 +1970,7 @@
                   "groupId": "R7O_Q18",
                   "statement": "ボンベには、クロムモリブデン鋼などの鋼合金で製造されたスチールボンベと、アルミ合金で製造されたアルミボンベがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクーバのボンベ（空気ボンベ）はスチール（クロムモリブデン鋼等）またはアルミ合金製。高圧に耐える設計が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1979,7 +1979,7 @@
                   "groupId": "R7O_Q18",
                   "statement": "ボンベは、一般に、内容積が10～14Ｌで、最高充塡圧力が19.6ＭPa(ゲージ圧力)である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクーバのボンベ（空気ボンベ）はスチール（クロムモリブデン鋼等）またはアルミ合金製。高圧に耐える設計が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1988,7 +1988,7 @@
                   "groupId": "R7O_Q18",
                   "statement": "ボンベは、耐圧、衝撃、気密などの検査が行われ、最高充塡圧力などが刻印されている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクーバのボンベ（空気ボンベ）はスチール（クロムモリブデン鋼等）またはアルミ合金製。高圧に耐える設計が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1997,7 +1997,7 @@
                   "groupId": "R7O_Q18",
                   "statement": "残圧計には、圧力調整器のファーストステージからボンベの高圧空気がホースを通して送られ、ボンベ内の圧力が表示される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクーバのボンベ（空気ボンベ）はスチール（クロムモリブデン鋼等）またはアルミ合金製。高圧に耐える設計が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2006,7 +2006,7 @@
                   "groupId": "R7O_Q18",
                   "statement": "圧力調整器は、潜水後、ボンベから取り外し、ファーストステージのキャつップを外したまま真水に浸け。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "スクーバのボンベ（空気ボンベ）はスチール（クロムモリブデン鋼等）またはアルミ合金製。高圧に耐える設計が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2015,7 +2015,7 @@
                   "groupId": "R7O_Q19",
                   "statement": "全面マスク式潜水器では、ヘルメット式潜水器に比べて多くの送気量が必要となる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式は密閉構造で音声通話が可能だが、送気量はヘルメット式より少なくて済む。多くの送気量が必要というのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2024,7 +2024,7 @@
                   "groupId": "R7O_Q19",
                   "statement": "全面マスク式潜水では、送気ホースの緩み、外れなどにつながるおそれがあるので、足ヒレを用いてはならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式は密閉構造で音声通話が可能だが、送気量はヘルメット式より少なくて済む。多くの送気量が必要というのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2033,7 +2033,7 @@
                   "groupId": "R7O_Q19",
                   "statement": "全面マスク式潜水器のマスク内には、口と鼻を覆う口鼻マスクが取り付けられており。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全面マスク式は密閉構造で音声通話が可能だが、送気量はヘルメット式より少なくて済む。多くの送気量が必要というのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2042,7 +2042,7 @@
                   "groupId": "R7O_Q19",
                   "statement": "全面マスク式潜水で使用する水中電話機用のイヤホンは、潜水中に外れることがないよう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式は密閉構造で音声通話が可能だが、送気量はヘルメット式より少なくて済む。多くの送気量が必要というのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2051,7 +2051,7 @@
                   "groupId": "R7O_Q19",
                   "statement": "全面マスク式潜水では、保温のためドライスーツを着用し、ウエットスーツを着用することはない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式は密閉構造で音声通話が可能だが、送気量はヘルメット式より少なくて済む。多くの送気量が必要というのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -2065,7 +2065,7 @@
                   "groupId": "R7O_Q20",
                   "statement": "水中時計には、現在時刻や潜水経過時間を表示するだけでなく、潜水深度の時間的経過の記録が可能なものもある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中時計（ダイブコンピュータ）は現在時刻・潜水時間・水深・無減圧時間等を記録できるものがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2074,7 +2074,7 @@
                   "groupId": "R7O_Q20",
                   "statement": "さがり綱(潜降索)は、丈夫で耐候性のある素材で作られたロープで、太さ１～２cm程度のものを使用する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中時計（ダイブコンピュータ）は現在時刻・潜水時間・水深・無減圧時間等を記録できるものがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2083,7 +2083,7 @@
                   "groupId": "R7O_Q20",
                   "statement": "全面マスク式潜水用ドライスーツは、ブーツと一体となっており、潜水靴を必要としない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中時計（ダイブコンピュータ）は現在時刻・潜水時間・水深・無減圧時間等を記録できるものがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2092,7 +2092,7 @@
                   "groupId": "R7O_Q20",
                   "statement": "スクーバ式潜水で使用するオープンヒルタイプの足ヒレは、爪先だけを差かかとし込み、踵をストラップで固定する方式である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中時計（ダイブコンピュータ）は現在時刻・潜水時間・水深・無減圧時間等を記録できるものがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2101,7 +2101,7 @@
                   "groupId": "R7O_Q20",
                   "statement": "ヘルメット式潜水の場合、ヘルメット及び潜水服に重量があるので、潜水靴は、できるだけ軽量のものを使用する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水中時計（ダイブコンピュータ）は現在時刻・潜水時間・水深・無減圧時間等を記録できるものがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2110,7 +2110,7 @@
                   "groupId": "R7O_Q21",
                   "statement": "肺の中で行われる、空気と血液の間での酸素と二酸化炭素の交換は、肺胞及び呼吸細気管支でのみ行われている。くう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ガス交換は肺胞のみで行われる（呼吸細気管支は空気の通り道であり、ガス交換は主に肺胞で行われる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2119,7 +2119,7 @@
                   "groupId": "R7O_Q21",
                   "statement": "肺の表面と胸郭内側の面は、胸膜で覆われており、両者間の空間を胸膜腔という。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ガス交換は肺胞のみで行われる（呼吸細気管支は空気の通り道であり、ガス交換は主に肺胞で行われる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2128,7 +2128,7 @@
                   "groupId": "R7O_Q21",
                   "statement": "肺は、筋肉活動による胸郭の拡張に伴って膨らむ。くう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ガス交換は肺胞のみで行われる（呼吸細気管支は空気の通り道であり、ガス交換は主に肺胞で行われる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2137,7 +2137,7 @@
                   "groupId": "R7O_Q21",
                   "statement": "胸膜腔に気体が侵入し胸郭が広がっても肺が広がらない状態を、肺気腫という。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ガス交換は肺胞のみで行われる（呼吸細気管支は空気の通り道であり、ガス交換は主に肺胞で行われる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2146,7 +2146,7 @@
                   "groupId": "R7O_Q21",
                   "statement": "潜水によって生じる肺の過膨張は、浮上時に起こりやすい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ガス交換は肺胞のみで行われる（呼吸細気管支は空気の通り道であり、ガス交換は主に肺胞で行われる）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2155,7 +2155,7 @@
                   "groupId": "R7O_Q22",
                   "statement": "末梢組織から二酸化炭素を受け取った血液は、毛細血管から静脈、大静脈を通って心臓の右心房に戻る。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "末梢組織からCO₂を受け取った血液は静脈→大静脈→右心房の経路で心臓に戻る。正しい記述。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2164,7 +2164,7 @@
                   "groupId": "R7O_Q22",
                   "statement": "心臓は左右の心室及び心房、すなわち四つの部屋に分かれており、血液は左心房から大動脈を通って体全体に送り出される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "末梢組織からCO₂を受け取った血液は静脈→大静脈→右心房の経路で心臓に戻る。正しい記述。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2173,7 +2173,7 @@
                   "groupId": "R7O_Q22",
                   "statement": "心臓の右心房に戻った静脈血は、右心室から肺動脈を通って肺に送られ、そこでガス交換が行われる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "末梢組織からCO₂を受け取った血液は静脈→大静脈→右心房の経路で心臓に戻る。正しい記述。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2182,7 +2182,7 @@
                   "groupId": "R7O_Q22",
                   "statement": "心臓の左右の心房の間が卵円孔開存で通じていると、減圧障害を引き起こすおそれがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "末梢組織からCO₂を受け取った血液は静脈→大静脈→右心房の経路で心臓に戻る。正しい記述。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2191,7 +2191,7 @@
                   "groupId": "R7O_Q22",
                   "statement": "大動脈の根元から出た冠動脈は、心臓の表面を取り巻き、心筋に酸素と栄養を供給する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "末梢組織からCO₂を受け取った血液は静脈→大静脈→右心房の経路で心臓に戻る。正しい記述。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2200,7 +2200,7 @@
                   "groupId": "R7O_Q23",
                   "statement": "大脳は外側の皮質と内側の髄質からなり、大脳皮質には、運動機能中枢、感覚中枢、記憶中枢などの機能がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "大脳は外側の皮質（灰白質）と内側の髄質（白質）からなる。大脳皮質には運動・感覚・言語・記憶等の中枢がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2209,7 +2209,7 @@
                   "groupId": "R7O_Q23",
                   "statement": "延髄には、生命の維持に重要な呼吸中枢がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "大脳は外側の皮質（灰白質）と内側の髄質（白質）からなる。大脳皮質には運動・感覚・言語・記憶等の中枢がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2218,7 +2218,7 @@
                   "groupId": "R7O_Q23",
                   "statement": "感覚器官からの情報を中枢に伝える神経を体性神経といい、中枢からの命令を運動器官に伝える神経を自律神経という。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "大脳は外側の皮質（灰白質）と内側の髄質（白質）からなる。大脳皮質には運動・感覚・言語・記憶等の中枢がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2227,7 +2227,7 @@
                   "groupId": "R7O_Q23",
                   "statement": "交感神経系と副交感神経系は、各種臓器において双方の神経が分布し、相反する作用を有している。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "大脳は外側の皮質（灰白質）と内側の髄質（白質）からなる。大脳皮質には運動・感覚・言語・記憶等の中枢がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2236,7 +2236,7 @@
                   "groupId": "R7O_Q24",
                   "statement": "体温は、代謝によって生じる産熱と、人体と外部環境の温度差に基づく放熱のバランスによって一定に保たれる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "体温調節は視床下部の体温調節中枢が担い、産熱（代謝）と放熱（皮膚血流・発汗・呼吸）のバランスで維持される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2245,7 +2245,7 @@
                   "groupId": "R7O_Q24",
                   "statement": "体温が低下し始めると、筋肉の緊張の増強、酸素摂取量の増加などの症状が現れる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "体温調節は視床下部の体温調節中枢が担い、産熱（代謝）と放熱（皮膚血流・発汗・呼吸）のバランスで維持される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2254,7 +2254,7 @@
                   "groupId": "R7O_Q24",
                   "statement": "一般に、深部体温が35℃以下の状態を低体温症という。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "体温調節は視床下部の体温調節中枢が担い、産熱（代謝）と放熱（皮膚血流・発汗・呼吸）のバランスで維持される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2263,7 +2263,7 @@
                   "groupId": "R7O_Q24",
                   "statement": "重度の低体温症に陥った者への処置としては、できるだけ早く体温を回復させるため、温かいシャワーか風呂に入れるようにする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "体温調節は視床下部の体温調節中枢が担い、産熱（代謝）と放熱（皮膚血流・発汗・呼吸）のバランスで維持される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2272,7 +2272,7 @@
                   "groupId": "R7O_Q25",
                   "statement": "圧外傷は、潜降又は浮上いずれのときでも生じ、潜降時のものをブロック、浮上時のものをスクィーズと呼ぶ。くう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "圧外傷は潜降・浮上の両方で起こる。潜降時はスクィーズ（外圧>内圧）、浮上時はリバーススクィーズ（内圧>外圧）。問題文は名称が逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2281,7 +2281,7 @@
                   "groupId": "R7O_Q25",
                   "statement": "潜降時の圧外傷は、潜降による圧力変化のために体腔内の空気の体積が増くう くうえることにより生じ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "圧外傷は潜降・浮上の両方で起こる。潜降時はスクィーズ（外圧>内圧）、浮上時はリバーススクィーズ（内圧>外圧）。問題文は名称が逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2290,7 +2290,7 @@
                   "groupId": "R7O_Q25",
                   "statement": "浮上時の圧外傷は、浮上による圧力変化のために体腔内の空気の体積が減くう少することにより生じ、副鼻腔、肺などで生じる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "圧外傷は潜降・浮上の両方で起こる。潜降時はスクィーズ（外圧>内圧）、浮上時はリバーススクィーズ（内圧>外圧）。問題文は名称が逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2299,7 +2299,7 @@
                   "groupId": "R7O_Q25",
                   "statement": "浮上時の肺圧外傷を防ぐためには、息を止めたまま浮上するとよい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "圧外傷は潜降・浮上の両方で起こる。潜降時はスクィーズ（外圧>内圧）、浮上時はリバーススクィーズ（内圧>外圧）。問題文は名称が逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2308,7 +2308,7 @@
                   "groupId": "R7O_Q26",
                   "statement": "潜降の途中で耳が痛くなるのは、外耳道と中耳腔との間に圧力差が生じるためである。くう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "耳痛の原因は外耳道と中耳腔の圧力差（中耳腔が外圧より低い）。耳抜きで中耳腔圧力を外圧に合わせる必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2317,7 +2317,7 @@
                   "groupId": "R7O_Q26",
                   "statement": "中耳腔は、耳管によって咽頭と通じているが、この管は通常は閉じている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "耳痛の原因は外耳道と中耳腔の圧力差（中耳腔が外圧より低い）。耳抜きで中耳腔圧力を外圧に合わせる必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2326,7 +2326,7 @@
                   "groupId": "R7O_Q26",
                   "statement": "耳の障害による症状には、耳の痛み、閉塞感、難聴、めまいなどがある。がく くう くう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "耳痛の原因は外耳道と中耳腔の圧力差（中耳腔が外圧より低い）。耳抜きで中耳腔圧力を外圧に合わせる必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2335,7 +2335,7 @@
                   "groupId": "R7O_Q26",
                   "statement": "前頭洞、上顎洞などの副鼻腔は、管によって鼻腔と通じており、耳抜きによってこの管を開いて圧力調整を行う。くう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "耳痛の原因は外耳道と中耳腔の圧力差（中耳腔が外圧より低い）。耳抜きで中耳腔圧力を外圧に合わせる必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2344,7 +2344,7 @@
                   "groupId": "R7O_Q26",
                   "statement": "副鼻腔の障害による症状には、額の周りや目・鼻の根部の痛み、鼻出血などがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "耳痛の原因は外耳道と中耳腔の圧力差（中耳腔が外圧より低い）。耳抜きで中耳腔圧力を外圧に合わせる必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2353,7 +2353,7 @@
                   "groupId": "R7O_Q27",
                   "statement": "二酸化炭素中毒は、二酸化炭素が血液中の赤血球に含まれるヘモグロビンと強く結合し、酸素の運搬ができなくなるために起こる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "二酸化炭素中毒はCO₂の過剰蓄積による。ヘモグロビンとの結合障害を起こすのは一酸化炭素（CO）。CO₂は呼吸中枢を刺激する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2362,7 +2362,7 @@
                   "groupId": "R7O_Q27",
                   "statement": "スクーバ式潜水では、二酸化炭素中毒は生じないが、ヘルメット式潜水では。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "二酸化炭素中毒はCO₂の過剰蓄積による。ヘモグロビンとの結合障害を起こすのは一酸化炭素（CO）。CO₂は呼吸中枢を刺激する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2371,7 +2371,7 @@
                   "groupId": "R7O_Q27",
                   "statement": "酸素中毒は、酸素分圧の高いガスの吸入によって生じ、呼吸ガス中に二酸化炭素が多いときには起こりにくい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "二酸化炭素中毒はCO₂の過剰蓄積による。ヘモグロビンとの結合障害を起こすのは一酸化炭素（CO）。CO₂は呼吸中枢を刺激する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2380,7 +2380,7 @@
                   "groupId": "R7O_Q27",
                   "statement": "脳酸素中毒は、50kPa程度の酸素分圧の呼吸ガスを長時間呼吸したときに生じ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "二酸化炭素中毒はCO₂の過剰蓄積による。ヘモグロビンとの結合障害を起こすのは一酸化炭素（CO）。CO₂は呼吸中枢を刺激する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2389,7 +2389,7 @@
                   "groupId": "R7O_Q27",
                   "statement": "大深度潜水では、酸素中毒を防止するため、潜水深度に応じて酸素濃度を低くした混合ガスを用いる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "二酸化炭素中毒はCO₂の過剰蓄積による。ヘモグロビンとの結合障害を起こすのは一酸化炭素（CO）。CO₂は呼吸中枢を刺激する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2398,7 +2398,7 @@
                   "groupId": "R7O_Q28",
                   "statement": "減圧症は、通常、浮上後24時間以上経過した後に発症するが、長時間の潜水や飽和潜水では24時間以内に発症することがある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "減圧症は通常浮上後数分〜24時間以内に発症。24時間以上経過後の発症は稀。問題文は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2407,7 +2407,7 @@
                   "groupId": "R7O_Q28",
                   "statement": "減圧症は、皮膚の痒み、関節の痛みなどを呈する比較的軽症の減圧症と、脳、肺などが冒される比較的重症の減圧症とがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "減圧症は通常浮上後数分〜24時間以内に発症。24時間以上経過後の発症は稀。問題文は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2416,7 +2416,7 @@
                   "groupId": "R7O_Q28",
                   "statement": "減圧症は、高齢者、最近外傷を受けた人、脱水症状の人などが罹患しやすい。り。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "減圧症は通常浮上後数分〜24時間以内に発症。24時間以上経過後の発症は稀。問題文は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2425,7 +2425,7 @@
                   "groupId": "R7O_Q28",
                   "statement": "作業量が多く、血流量の増える重筋作業の潜水では、減圧症に罹患しやすくなる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "減圧症は通常浮上後数分〜24時間以内に発症。24時間以上経過後の発症は稀。問題文は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2434,7 +2434,7 @@
                   "groupId": "R7O_Q29",
                   "statement": "医師が必要と認める期間、潜水業務への就業が禁止される疾病に該当しないものは貧血症である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "就業禁止疾病（高圧則）には肺結核・心臓疾患・慢性気管支炎等が含まれる。貧血症は就業禁止の対象疾病ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2443,7 +2443,7 @@
                   "groupId": "R7O_Q29",
                   "statement": "医師が必要と認める期間、潜水業務への就業が禁止される疾病に該当しないものは白内障である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "就業禁止疾病（高圧則）には肺結核・心臓疾患・慢性気管支炎等が含まれる。貧血症は就業禁止の対象疾病ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2452,7 +2452,7 @@
                   "groupId": "R7O_Q29",
                   "statement": "医師が必要と認める期間、潜水業務への就業が禁止される疾病に該当しないものはメニエル病である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "就業禁止疾病（高圧則）には肺結核・心臓疾患・慢性気管支炎等が含まれる。貧血症は就業禁止の対象疾病ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2461,7 +2461,7 @@
                   "groupId": "R7O_Q29",
                   "statement": "医師が必要と認める期間、潜水業務への就業が禁止される疾病に該当しないものは関節炎である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "就業禁止疾病（高圧則）には肺結核・心臓疾患・慢性気管支炎等が含まれる。貧血症は就業禁止の対象疾病ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -2475,7 +2475,7 @@
                   "groupId": "R7O_Q30",
                   "statement": "一次救命処置は、できる限り単独で行うことは避ける。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一次救命処置は複数人でのチーム対応が推奨。胸骨圧迫・AED・気道確保を役割分担して行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2484,7 +2484,7 @@
                   "groupId": "R7O_Q30",
                   "statement": "傷病者に反応がある場合は、回復体位をとらせて安静にして、経過を観察する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一次救命処置は複数人でのチーム対応が推奨。胸骨圧迫・AED・気道確保を役割分担して行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2493,7 +2493,7 @@
                   "groupId": "R7O_Q30",
                   "statement": "呼吸を確認して普段どおりの息がない場合や約１分間観察しそても判断できない場合は、心肺停止とみなし、心肺蘇生を開始する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "一次救命処置は複数人でのチーム対応が推奨。胸骨圧迫・AED・気道確保を役割分担して行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2502,7 +2502,7 @@
                   "groupId": "R7O_Q30",
                   "statement": "胸骨圧迫は、胸が約５cm沈む強さで、１分間に100～120回のテンポで行う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一次救命処置は複数人でのチーム対応が推奨。胸骨圧迫・AED・気道確保を役割分担して行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2511,7 +2511,7 @@
                   "groupId": "R7O_Q30",
                   "statement": "ＡＥＤを用いた場合、電気ショックを行った後や電そ気ショック不要の音声メッセージが出たときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一次救命処置は複数人でのチーム対応が推奨。胸骨圧迫・AED・気道確保を役割分担して行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2520,7 +2520,7 @@
                   "groupId": "R7O_Q31",
                   "statement": "送気を調節するための空気槽は、潜水業務従事者ごとに設けなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "高圧則では送気調節用空気槽は潜水業務従事者ごとに設ける必要がある（高圧則6条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2529,7 +2529,7 @@
                   "groupId": "R7O_Q31",
                   "statement": "予備空気槽を設ける場合は、潜水業務従事者ごとに設けなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "高圧則では送気調節用空気槽は潜水業務従事者ごとに設ける必要がある（高圧則6条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2538,7 +2538,7 @@
                   "groupId": "R7O_Q31",
                   "statement": "送気を調節するための空気槽が予備空気槽の内容積等の基準に適合するものであるときは、予備空気槽を設けることを要しない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "高圧則では送気調節用空気槽は潜水業務従事者ごとに設ける必要がある（高圧則6条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2547,7 +2547,7 @@
                   "groupId": "R7O_Q31",
                   "statement": "予備空気槽の内容積等の基準に適合する予備ボンベを潜水業務従事者に携行させるときは、予備空気槽を設けることを要しない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "高圧則では送気調節用空気槽は潜水業務従事者ごとに設ける必要がある（高圧則6条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2556,7 +2556,7 @@
                   "groupId": "R7O_Q31",
                   "statement": "予備空気槽内の空気の圧力は、常時、最高の潜水深度に相当する圧力以上でなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "高圧則では送気調節用空気槽は潜水業務従事者ごとに設ける必要がある（高圧則6条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2565,7 +2565,7 @@
                   "groupId": "R7O_Q32",
                   "statement": "水深10ｍ未満の場所における潜水業務に就かせるときは、特別の教育を行わなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水深10m未満でも高圧作業に該当するため特別教育が必要（高圧則11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2574,7 +2574,7 @@
                   "groupId": "R7O_Q32",
                   "statement": "潜水作業者への送気の調節を行うためのバルブ又はコックを操作する業務に就かせるときは、特別の教育を行わなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水深10m未満でも高圧作業に該当するため特別教育が必要（高圧則11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2583,7 +2583,7 @@
                   "groupId": "R7O_Q32",
                   "statement": "再圧室を操作する業務に就かせるときは、特別の教育を行わなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水深10m未満でも高圧作業に該当するため特別教育が必要（高圧則11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2592,7 +2592,7 @@
                   "groupId": "R7O_Q32",
                   "statement": "特別の教育を行ったときは、その記録を作成して、これを３年間保存しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水深10m未満でも高圧作業に該当するため特別教育が必要（高圧則11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2601,7 +2601,7 @@
                   "groupId": "R7O_Q32",
                   "statement": "特別の教育の科目の全部又は一部について十分な知識及び技能を有していると認められる労働者については。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水深10m未満でも高圧作業に該当するため特別教育が必要（高圧則11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2610,7 +2610,7 @@
                   "groupId": "R7O_Q33",
                   "statement": "潜水業務従事者に圧力調整器を使用させない潜水方式の場合、大気圧下で送気量が毎分240Ｌの空気圧縮機を用いて送気するとき。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "送気量計算：圧力×流量で必要空気量を算出。水深に応じた必要送気量の計算式を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2619,7 +2619,7 @@
                   "groupId": "R7O_Q33",
                   "statement": "潜水業務従事者に圧力調整器を使用させない潜水方式の場合、大気圧下で送気量が毎分240Ｌの空気圧縮機を用いて送気するとき。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "送気量計算：圧力×流量で必要空気量を算出。水深に応じた必要送気量の計算式を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2628,7 +2628,7 @@
                   "groupId": "R7O_Q33",
                   "statement": "潜水業務従事者に圧力調整器を使用させない潜水方式の場合、大気圧下で送気量が毎分240Ｌの空気圧縮機を用いて送気するとき。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "送気量計算：圧力×流量で必要空気量を算出。水深に応じた必要送気量の計算式を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2637,7 +2637,7 @@
                   "groupId": "R7O_Q33",
                   "statement": "潜水業務従事者に圧力調整器を使用させない潜水方式の場合、大気圧下で送気量が毎分240Ｌの空気圧縮機を用いて送気するとき。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "送気量計算：圧力×流量で必要空気量を算出。水深に応じた必要送気量の計算式を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2646,7 +2646,7 @@
                   "groupId": "R7O_Q35",
                   "statement": "連絡員の配置は、潜水業務従事者２人以下ごとに１人とする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連絡員は潜水業務従事者2人以下ごとに1人（高圧則16条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2655,7 +2655,7 @@
                   "groupId": "R7O_Q35",
                   "statement": "連絡員は、潜水業務従事者と連絡して、その者の潜降及び浮上を適正に行わせる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連絡員は潜水業務従事者2人以下ごとに1人（高圧則16条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2664,7 +2664,7 @@
                   "groupId": "R7O_Q35",
                   "statement": "連絡員は、送気設備の故障その他の事故により、潜水業務従事者に危険又は健康障害の生ずるおそれがあるときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "連絡員は潜水業務従事者2人以下ごとに1人（高圧則16条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2673,7 +2673,7 @@
                   "groupId": "R7O_Q35",
                   "statement": "連絡員は、ヘルメット式潜水器を用いて行う潜水業務にあっては。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連絡員は潜水業務従事者2人以下ごとに1人（高圧則16条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2682,7 +2682,7 @@
                   "groupId": "R7O_Q37",
                   "statement": "既往歴及び高気圧業務歴の調査。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜水業務の健康診断項目には既往歴・高気圧業務歴の調査、四肢の運動機能検査等が含まれる（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2691,7 +2691,7 @@
                   "groupId": "R7O_Q37",
                   "statement": "四肢の運動機能の検査。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜水業務の健康診断項目には既往歴・高気圧業務歴の調査、四肢の運動機能検査等が含まれる（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2700,7 +2700,7 @@
                   "groupId": "R7O_Q37",
                   "statement": "鼓膜及び聴力の検査。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜水業務の健康診断項目には既往歴・高気圧業務歴の調査、四肢の運動機能検査等が含まれる（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2709,7 +2709,7 @@
                   "groupId": "R7O_Q37",
                   "statement": "潜水業務に常時従事する労働者に対して行う高気圧業務健康診断において、法令上。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜水業務の健康診断項目には既往歴・高気圧業務歴の調査、四肢の運動機能検査等が含まれる（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2718,7 +2718,7 @@
                   "groupId": "R7O_Q37",
                   "statement": "血液中の尿酸の量の検査。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水業務の健康診断項目には既往歴・高気圧業務歴の調査、四肢の運動機能検査等が含まれる（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2727,7 +2727,7 @@
                   "groupId": "R7O_Q40",
                   "statement": "窒素の分圧は、400kPaを超えてはならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "窒素分圧の上限は400kPa（4気圧）。これを超えると窒素酔い（麻酔様症状）のリスクが高まる（高圧則12条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2736,7 +2736,7 @@
                   "groupId": "R7O_Q40",
                   "statement": "ヘリウムの分圧は、300kPaを超えてはならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "窒素分圧の上限は400kPa（4気圧）。これを超えると窒素酔い（麻酔様症状）のリスクが高まる（高圧則12条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2745,7 +2745,7 @@
                   "groupId": "R7O_Q40",
                   "statement": "酸素の分圧は、18kPa未満であってはならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "窒素分圧の上限は400kPa（4気圧）。これを超えると窒素酔い（麻酔様症状）のリスクが高まる（高圧則12条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2754,7 +2754,7 @@
                   "groupId": "R7O_Q40",
                   "statement": "炭酸ガスの分圧は、0.5kPaを超えてはならない。（終 り）。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "窒素分圧の上限は400kPa（4気圧）。これを超えると窒素酔い（麻酔様症状）のリスクが高まる（高圧則12条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -2774,7 +2774,7 @@
                   "groupId": "R8A_Q3",
                   "statement": "溶解度の小さい気体が、一定量の液体に溶ける場合、温度が一定であれば、気体が溶解する質量は、その気体の分圧に比例する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘンリーの法則：一定温度で液体に溶けるガスの質量は、そのガスの分圧に比例する（圧力が2倍になると溶解量も2倍）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2783,7 +2783,7 @@
                   "groupId": "R8A_Q3",
                   "statement": "異種の気体が薄い透過膜を境として接するときは、双方が平衡となるまで過剰な分圧の気体の拡散浸透が行われる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘンリーの法則：一定温度で液体に溶けるガスの質量は、そのガスの分圧に比例する（圧力が2倍になると溶解量も2倍）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2792,7 +2792,7 @@
                   "groupId": "R8A_Q3",
                   "statement": "窒素は、無色・無臭で、常温・常圧では化学的に安定した不活性の気体であるが、高圧下では麻酔作用がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘンリーの法則：一定温度で液体に溶けるガスの質量は、そのガスの分圧に比例する（圧力が2倍になると溶解量も2倍）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2801,7 +2801,7 @@
                   "groupId": "R8A_Q3",
                   "statement": "一酸化炭素は、無色・無臭の気体で、呼吸によって体内に入ると、赤血球のヘモグロビンと結合し、酸素の組織への運搬を阻害する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘンリーの法則：一定温度で液体に溶けるガスの質量は、そのガスの分圧に比例する（圧力が2倍になると溶解量も2倍）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2810,7 +2810,7 @@
                   "groupId": "R8A_Q3",
                   "statement": "ヘリウムは、密度が極めて大きく、他の元素と化合しにくい気体で、呼吸抵抗は少ない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘンリーの法則：一定温度で液体に溶けるガスの質量は、そのガスの分圧に比例する（圧力が2倍になると溶解量も2倍）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2819,7 +2819,7 @@
                   "groupId": "R8A_Q4",
                   "statement": "0.2ＭPaの空気に接している20℃の水１Ｌに溶解する窒素の質量に最も近いものは、次のうちどれか。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "0.2MPa空気中の窒素分圧≒0.158MPa。溶解量はヘンリーの法則で計算（窒素の溶解係数から算出）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2828,7 +2828,7 @@
                   "groupId": "R8A_Q4",
                   "statement": "0.2ＭPaの空気に接している20℃の水１Ｌに溶解する窒素の質量に最も近いものは、次のうちどれか。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "0.2MPa空気中の窒素分圧≒0.158MPa。溶解量はヘンリーの法則で計算（窒素の溶解係数から算出）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2837,7 +2837,7 @@
                   "groupId": "R8A_Q4",
                   "statement": "0.2ＭPaの空気に接している20℃の水１Ｌに溶解する窒素の質量に最も近いものは、次のうちどれか。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "0.2MPa空気中の窒素分圧≒0.158MPa。溶解量はヘンリーの法則で計算（窒素の溶解係数から算出）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2846,7 +2846,7 @@
                   "groupId": "R8A_Q4",
                   "statement": "0.2ＭPaの空気に接している20℃の水１Ｌに溶解する窒素の質量に最も近いものは、次のうちどれか。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "0.2MPa空気中の窒素分圧≒0.158MPa。溶解量はヘンリーの法則で計算（窒素の溶解係数から算出）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2855,7 +2855,7 @@
                   "groupId": "R8A_Q4",
                   "statement": "0.2ＭPaの空気に接している20℃の水１Ｌに溶解する窒素の質量に最も近いものは、次のうちどれか。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "0.2MPa空気中の窒素分圧≒0.158MPa。溶解量はヘンリーの法則で計算（窒素の溶解係数から算出）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2864,7 +2864,7 @@
                   "groupId": "R8A_Q5",
                   "statement": "濁った水中では、オレンジ色や黄色で蛍光性のものが視認しやすい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中での視認性向上には、吸収されにくい波長（青・緑系）と対比色の蛍光色が有効。オレンジ・黄色の蛍光色は濁り水で視認性が高い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2873,7 +2873,7 @@
                   "groupId": "R8A_Q5",
                   "statement": "光は、水と空気の境界では下の図のように屈折する。空気水入射光。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水中での視認性向上には、吸収されにくい波長（青・緑系）と対比色の蛍光色が有効。オレンジ・黄色の蛍光色は濁り水で視認性が高い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2882,7 +2882,7 @@
                   "groupId": "R8A_Q5",
                   "statement": "澄んだ水中で顔マスクを通して近距離にある物を見た場合、物体の位置は実際より遠く見える。ぱ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水中での視認性向上には、吸収されにくい波長（青・緑系）と対比色の蛍光色が有効。オレンジ・黄色の蛍光色は濁り水で視認性が高い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2891,7 +2891,7 @@
                   "groupId": "R8A_Q5",
                   "statement": "水中では、音は空気中に比べ約３倍の速度で伝わり、また、伝播距離が長いので両耳効果が高められる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水中での視認性向上には、吸収されにくい波長（青・緑系）と対比色の蛍光色が有効。オレンジ・黄色の蛍光色は濁り水で視認性が高い。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2900,7 +2900,7 @@
                   "groupId": "R8A_Q6",
                   "statement": "硬式潜水は、潜水者が潜水深度に応じた水圧を直接受けて潜水する方法で、送気方法により送気式と自給気式に分類される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "硬式潜水は水圧を直接受けて潜水する方式（軟式の対語は硬式潜水スーツ）。送気式と自給気式に分類される記述は正しい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2909,7 +2909,7 @@
                   "groupId": "R8A_Q6",
                   "statement": "全面マスク式潜水は、応需送気式の潜水で、デマンド式レギュレーターとして。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "硬式潜水は水圧を直接受けて潜水する方式（軟式の対語は硬式潜水スーツ）。送気式と自給気式に分類される記述は正しい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2918,7 +2918,7 @@
                   "groupId": "R8A_Q6",
                   "statement": "ヘルメット式潜水は、応需送気式の潜水で、一般に船上のコンプレッサーによって送気し、比較的長時間の水中作業が可能である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "硬式潜水は水圧を直接受けて潜水する方式（軟式の対語は硬式潜水スーツ）。送気式と自給気式に分類される記述は正しい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2927,7 +2927,7 @@
                   "groupId": "R8A_Q6",
                   "statement": "ヘルメット式潜水は、金属製のヘルメットとゴム製の潜水服により構成された潜水器を使用し。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "硬式潜水は水圧を直接受けて潜水する方式（軟式の対語は硬式潜水スーツ）。送気式と自給気式に分類される記述は正しい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2936,7 +2936,7 @@
                   "groupId": "R8A_Q6",
                   "statement": "自給気式潜水は、一般に、リブリーザーを使用した閉鎖循環式スクーバで。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "硬式潜水は水圧を直接受けて潜水する方式（軟式の対語は硬式潜水スーツ）。送気式と自給気式に分類される記述は正しい。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2945,7 +2945,7 @@
                   "groupId": "R8A_Q7",
                   "statement": "潮流のある場所における水中作業で潜水者が潮流によって受ける抵抗は、スクーバ式潜水が最も小さく。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潮流への抵抗はスーツや装備が大きいヘルメット式が最大、軽装のスクーバが最小。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2954,7 +2954,7 @@
                   "groupId": "R8A_Q7",
                   "statement": "水中での溶接・溶断作業では、空気がないのでガス爆発の危険はないが、水は空気よりも電気をよく通すので感電する危険がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潮流への抵抗はスーツや装備が大きいヘルメット式が最大、軽装のスクーバが最小。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2963,7 +2963,7 @@
                   "groupId": "R8A_Q7",
                   "statement": "視界の良いときより、海水が濁って視界の悪いときの方が、サメやシャチのような海の生物による危険性が低い。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潮流への抵抗はスーツや装備が大きいヘルメット式が最大、軽装のスクーバが最小。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2972,7 +2972,7 @@
                   "groupId": "R8A_Q7",
                   "statement": "海中の生物による危険には、サンゴ、フジツボなどによる切り傷、タコ、ウツボなどによる刺し傷のほか。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潮流への抵抗はスーツや装備が大きいヘルメット式が最大、軽装のスクーバが最小。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2981,7 +2981,7 @@
                   "groupId": "R8A_Q7",
                   "statement": "潜水作業中、海上衝突を予防するため、潜水作業船に下の図に示す国際信号書Ａ旗板を掲揚する。白色青色。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潮流への抵抗はスーツや装備が大きいヘルメット式が最大、軽装のスクーバが最小。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2990,7 +2990,7 @@
                   "groupId": "R8A_Q8",
                   "statement": "潜水墜落は、潜水服内部の圧力と水圧の平衡が崩れ、内部の圧力が水圧より高くなったときに起こる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜水墜落は内圧＜水圧の状態（外圧に押される）。吹き上げは内圧＞水圧の状態（内圧で膨らむ）。問題文は吹き上げの説明と混同している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2999,7 +2999,7 @@
                   "groupId": "R8A_Q8",
                   "statement": "吹き上げ時の対応を誤ると、潜水墜落を起こすことがあるが、潜水墜落時の対応を誤っても、吹き上げを起こすことはない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜水墜落は内圧＜水圧の状態（外圧に押される）。吹き上げは内圧＞水圧の状態（内圧で膨らむ）。問題文は吹き上げの説明と混同している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3008,7 +3008,7 @@
                   "groupId": "R8A_Q8",
                   "statement": "ヘルメット式潜水においては、潜水服のベルトの締め付け不足は、吹き上げの原因となる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水墜落は内圧＜水圧の状態（外圧に押される）。吹き上げは内圧＞水圧の状態（内圧で膨らむ）。問題文は吹き上げの説明と混同している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3017,7 +3017,7 @@
                   "groupId": "R8A_Q8",
                   "statement": "流れの速い場所でのヘルメット式潜水においては、送気ホースや信号索をたるませず。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜水墜落は内圧＜水圧の状態（外圧に押される）。吹き上げは内圧＞水圧の状態（内圧で膨らむ）。問題文は吹き上げの説明と混同している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3026,7 +3026,7 @@
                   "groupId": "R8A_Q8",
                   "statement": "スクーバ式潜水は、送気式ではないので、潜水服としてウエットスーツ又はドライスーツのいずれを使用する場合も。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜水墜落は内圧＜水圧の状態（外圧に押される）。吹き上げは内圧＞水圧の状態（内圧で膨らむ）。問題文は吹き上げの説明と混同している。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3035,7 +3035,7 @@
                   "groupId": "R8A_Q9",
                   "statement": "ヘルメット式潜水では、溺れを予防するため、救命胴衣又はＢＣを必ず着用する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水では送気による浮力調整はある程度可能だが、救命胴衣・BCの着用義務についての規定を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3044,7 +3044,7 @@
                   "groupId": "R8A_Q9",
                   "statement": "送気ホースを使用しないスクーバ式潜水では、ロープなどに絡まる水中拘束のおそれはない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水では送気による浮力調整はある程度可能だが、救命胴衣・BCの着用義務についての規定を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3053,7 +3053,7 @@
                   "groupId": "R8A_Q9",
                   "statement": "沈船、洞窟などの狭い場所では、ガイドロープを使うと絡む危険があるので、使わないようにする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水では送気による浮力調整はある程度可能だが、救命胴衣・BCの着用義務についての規定を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3062,7 +3062,7 @@
                   "groupId": "R8A_Q9",
                   "statement": "ダムの取水口付近で足が吸い込まれ、動けなくなって水中拘束になることがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水では送気による浮力調整はある程度可能だが、救命胴衣・BCの着用義務についての規定を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3071,7 +3071,7 @@
                   "groupId": "R8A_Q9",
                   "statement": "水中拘束によって水中滞在時間が延長した場合には、延長した時間に応じて浮上時間を短縮する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式潜水では送気による浮力調整はある程度可能だが、救命胴衣・BCの着用義務についての規定を確認する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -3085,7 +3085,7 @@
                   "groupId": "R8A_Q10",
                   "statement": "河川での潜水では、流れの速さに特に注意する必要があるので、命綱を使用したり、装着するウエイト重量を増やしたりする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "河川での潜水では流速が強く、命綱の使用が安全確保に必須。ウエイト重量増加は流れに対する抵抗を増やし危険な場合もある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3094,7 +3094,7 @@
                   "groupId": "R8A_Q10",
                   "statement": "淡水よりも海水の方がわずかに浮力が大きいため、湖で行う潜水に比べて、海で行う潜水にはより多くのウエイトが必要となる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "河川での潜水では流速が強く、命綱の使用が安全確保に必須。ウエイト重量増加は流れに対する抵抗を増やし危険な場合もある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3103,7 +3103,7 @@
                   "groupId": "R8A_Q10",
                   "statement": "冷水域での潜水では、潜水呼吸器のデマンドバルブ部分が凍結することがあるので、凍結防止対策が施された潜水呼吸器を使用する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "河川での潜水では流速が強く、命綱の使用が安全確保に必須。ウエイト重量増加は流れに対する抵抗を増やし危険な場合もある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3112,7 +3112,7 @@
                   "groupId": "R8A_Q10",
                   "statement": "山岳部のダムなど高所域での潜水では、通常の海洋での潜水よりも長い減圧浮上時間が必要となる。きょ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "河川での潜水では流速が強く、命綱の使用が安全確保に必須。ウエイト重量増加は流れに対する抵抗を増やし危険な場合もある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3121,7 +3121,7 @@
                   "groupId": "R8A_Q10",
                   "statement": "暗渠内では、送気ホースが絡まって水中拘束となるおそれがあるため、送気式潜水を行ってはならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "河川での潜水では流速が強く、命綱の使用が安全確保に必須。ウエイト重量増加は流れに対する抵抗を増やし危険な場合もある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3130,7 +3130,7 @@
                   "groupId": "R8A_Q12",
                   "statement": "予備空気槽は、コンプレッサーの故障などの事故が発生した場合に備えて、必要な空気をあらかじめ蓄えておくためのものである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "予備空気槽（非常用空気槽）はコンプレッサー故障等の緊急時に対応するための予備の圧縮空気を備えた設備（高圧則5条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3139,7 +3139,7 @@
                   "groupId": "R8A_Q12",
                   "statement": "コンプレッサーの機能・性能を保持するためには、原動機とコンプレッサーとの伝動部分をはじめ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "予備空気槽（非常用空気槽）はコンプレッサー故障等の緊急時に対応するための予備の圧縮空気を備えた設備（高圧則5条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3148,7 +3148,7 @@
                   "groupId": "R8A_Q12",
                   "statement": "潜水作業船に設置する固定式のコンプレッサーの空気取入口は、機関室の外に設置する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "予備空気槽（非常用空気槽）はコンプレッサー故障等の緊急時に対応するための予備の圧縮空気を備えた設備（高圧則5条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3157,7 +3157,7 @@
                   "groupId": "R8A_Q12",
                   "statement": "コンプレッサーの圧縮効率は、圧力の上昇に伴い増加する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "予備空気槽（非常用空気槽）はコンプレッサー故障等の緊急時に対応するための予備の圧縮空気を備えた設備（高圧則5条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3166,7 +3166,7 @@
                   "groupId": "R8A_Q12",
                   "statement": "スクーバ式潜水のボンベの充塡に用いる高圧コンプレッサーの最高充塡圧力は。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "予備空気槽（非常用空気槽）はコンプレッサー故障等の緊急時に対応するための予備の圧縮空気を備えた設備（高圧則5条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3175,7 +3175,7 @@
                   "groupId": "R8A_Q13",
                   "statement": "全面マスク式潜水では、通常、送気ホースは、呼び径が13㎜のものが使われている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式の送気ホースの内径（呼び径）は一般に13mm（13A）が使用される。ヘルメット式は大径ホースを使用する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3184,7 +3184,7 @@
                   "groupId": "R8A_Q13",
                   "statement": "送気ホースには、比重により沈用、半浮用及び浮用の３種類のホースがあり、作業内容によって使い分けられる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全面マスク式の送気ホースの内径（呼び径）は一般に13mm（13A）が使用される。ヘルメット式は大径ホースを使用する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3193,7 +3193,7 @@
                   "groupId": "R8A_Q13",
                   "statement": "流量計は、コンプレッサーと調節用空気槽の間に取り付けて、潜水者に送られる空気量を測る計器である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式の送気ホースの内径（呼び径）は一般に13mm（13A）が使用される。ヘルメット式は大径ホースを使用する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3202,7 +3202,7 @@
                   "groupId": "R8A_Q13",
                   "statement": "フェルトを使用した空気清浄装置は、潜水者に送る圧縮空気に含まれる水分と油分のほか、二酸化炭素と一酸化炭素を除去する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式の送気ホースの内径（呼び径）は一般に13mm（13A）が使用される。ヘルメット式は大径ホースを使用する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3211,7 +3211,7 @@
                   "groupId": "R8A_Q13",
                   "statement": "終業後、調節用空気槽には、内部に0.1ＭPa(ゲージ圧力)程度の空気を残すようにしておく。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式の送気ホースの内径（呼び径）は一般に13mm（13A）が使用される。ヘルメット式は大径ホースを使用する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3220,7 +3220,7 @@
                   "groupId": "R8A_Q15",
                   "statement": "浮上の際には、さがり綱(潜降索)は使用しないようにする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "浮上時にさがり綱を使用することで浮上速度を管理できる。さがり綱を使用しない急浮上は禁忌。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3229,7 +3229,7 @@
                   "groupId": "R8A_Q15",
                   "statement": "緊急浮上の場合以外は、毎分10ｍを超えない速度で浮上する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "浮上時にさがり綱を使用することで浮上速度を管理できる。さがり綱を使用しない急浮上は禁忌。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3238,7 +3238,7 @@
                   "groupId": "R8A_Q15",
                   "statement": "無減圧潜水の範囲内の潜水の場合でも、緊急浮上の場合以外は、水深３ｍ前後で安全のため、５分ほど浮上停止を行うようにする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "浮上時にさがり綱を使用することで浮上速度を管理できる。さがり綱を使用しない急浮上は禁忌。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3247,7 +3247,7 @@
                   "groupId": "R8A_Q15",
                   "statement": "緊急浮上を要する場合は、所定の浮上停止を省略し、又は所定の浮上停止時間を短縮し、水面まで浮上する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "浮上時にさがり綱を使用することで浮上速度を管理できる。さがり綱を使用しない急浮上は禁忌。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3256,7 +3256,7 @@
                   "groupId": "R8A_Q15",
                   "statement": "吹き上げにより急速に浮上した場合には、無減圧潜水の範囲内の潜水であっても、直ちに再圧処置を行うようにする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "浮上時にさがり綱を使用することで浮上速度を管理できる。さがり綱を使用しない急浮上は禁忌。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3265,7 +3265,7 @@
                   "groupId": "R8A_Q16",
                   "statement": "半飽和時間とは、ある組織に不活性ガスが飽和するまでにかかる時間の半分の時間のことである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "半飽和時間は特定の体組織に不活性ガスが最大溶解量（飽和量）の半分に達するまでの時間。組織ごとに異なる（5〜480分）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3274,7 +3274,7 @@
                   "groupId": "R8A_Q16",
                   "statement": "生体の組織を、半飽和時間の違いにより16の半飽和組織に分類し、不活性ガスの分圧を計算する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "半飽和時間は特定の体組織に不活性ガスが最大溶解量（飽和量）の半分に達するまでの時間。組織ごとに異なる（5〜480分）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3283,7 +3283,7 @@
                   "groupId": "R8A_Q16",
                   "statement": "半飽和組織は、理論上の概念として考える組織(生体の構成要素)であり、特定の個々の組織を示すものではない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "半飽和時間は特定の体組織に不活性ガスが最大溶解量（飽和量）の半分に達するまでの時間。組織ごとに異なる（5〜480分）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3292,7 +3292,7 @@
                   "groupId": "R8A_Q16",
                   "statement": "不活性ガスの半飽和時間が短い組織は血流が豊富であり、不活性ガスの半飽和時間が長い組織は血流が乏しい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "半飽和時間は特定の体組織に不活性ガスが最大溶解量（飽和量）の半分に達するまでの時間。組織ごとに異なる（5〜480分）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3301,7 +3301,7 @@
                   "groupId": "R8A_Q16",
                   "statement": "全ての半飽和組織の半飽和時間は、ヘリウムより窒素の方が長い。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "半飽和時間は特定の体組織に不活性ガスが最大溶解量（飽和量）の半分に達するまでの時間。組織ごとに異なる（5〜480分）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3310,7 +3310,7 @@
                   "groupId": "R8A_Q17",
                   "statement": "排気弁(キリップ)は、潜水者自身が頭で押して操作するほか、手を使って外部から操作することもできる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘルメット式の排気弁（キリップ）は頭（ヘルメット内側に突起）で操作するほか、外部から手で操作することも可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3319,7 +3319,7 @@
                   "groupId": "R8A_Q17",
                   "statement": "ヘルメット式潜水器は、ヘルメット本体とかぶと台で構成され、使用時にちょうは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘルメット式の排気弁（キリップ）は頭（ヘルメット内側に突起）で操作するほか、外部から手で操作することも可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3328,7 +3328,7 @@
                   "groupId": "R8A_Q17",
                   "statement": "ヘルメットの送気ホース取付口には、逆止弁が組み込まれていて、この弁で送気された圧縮空気の逆流を防ぐ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘルメット式の排気弁（キリップ）は頭（ヘルメット内側に突起）で操作するほか、外部から手で操作することも可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3337,7 +3337,7 @@
                   "groupId": "R8A_Q17",
                   "statement": "ドレーンコックは、潜水者が唾をヘルメットの外に排出するときに使用する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘルメット式の排気弁（キリップ）は頭（ヘルメット内側に突起）で操作するほか、外部から手で操作することも可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3346,7 +3346,7 @@
                   "groupId": "R8A_Q17",
                   "statement": "腰バルブには減圧弁が組み込まれていて、潜水者の呼吸量に応じて自動的に送気空気量を調節する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式の排気弁（キリップ）は頭（ヘルメット内側に突起）で操作するほか、外部から手で操作することも可能。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3355,7 +3355,7 @@
                   "groupId": "R8A_Q18",
                   "statement": "ボンベは、一般に、内容積が10～14Ｌで、最高充塡圧力が19.6ＭPa(ゲージ圧力)である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクーバのボンベは一般に内容積10〜14L、最高充塡圧力（ゲージ）19.6MPa（200kgf/cm²）が標準的。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3364,7 +3364,7 @@
                   "groupId": "R8A_Q18",
                   "statement": "空気専用ボンベは、ボンベの表面積の２分の１以上がねずみ色に塗色されている。さび。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクーバのボンベは一般に内容積10〜14L、最高充塡圧力（ゲージ）19.6MPa（200kgf/cm²）が標準的。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3373,7 +3373,7 @@
                   "groupId": "R8A_Q18",
                   "statement": "ボンベは、終業後十分に水洗いを行い、錆の発生、キズ、破損などがないかを確認し、内部に空気を残さないようにして保管する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "スクーバのボンベは一般に内容積10〜14L、最高充塡圧力（ゲージ）19.6MPa（200kgf/cm²）が標準的。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3382,7 +3382,7 @@
                   "groupId": "R8A_Q18",
                   "statement": "ボンベ内の空気残量を把握するため取り付ける残圧計には、ボンベの高圧空気が送られる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクーバのボンベは一般に内容積10〜14L、最高充塡圧力（ゲージ）19.6MPa（200kgf/cm²）が標準的。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3391,7 +3391,7 @@
                   "groupId": "R8A_Q18",
                   "statement": "圧力調整器は、高圧空気を１ＭPa前後に減圧するファーストステージと。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "スクーバのボンベは一般に内容積10〜14L、最高充塡圧力（ゲージ）19.6MPa（200kgf/cm²）が標準的。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3400,7 +3400,7 @@
                   "groupId": "R8A_Q19",
                   "statement": "全面マスク式潜水器では、ヘルメット式潜水器に比べて少ない送気量で潜水することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全面マスク式は密閉型でヘルメット式より送気量が少なく済む（応答性の良い給気弁を使用）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3409,7 +3409,7 @@
                   "groupId": "R8A_Q19",
                   "statement": "全面マスク式潜水器には、全面マスクにスクーバ用のセカンドステージレギュレーターを取り付ける簡易なタイプがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全面マスク式は密閉型でヘルメット式より送気量が少なく済む（応答性の良い給気弁を使用）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3418,7 +3418,7 @@
                   "groupId": "R8A_Q19",
                   "statement": "全面マスク式潜水では、小型のボンベを携行して潜水することがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全面マスク式は密閉型でヘルメット式より送気量が少なく済む（応答性の良い給気弁を使用）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3427,7 +3427,7 @@
                   "groupId": "R8A_Q19",
                   "statement": "全面マスク式潜水で使用する水中電話機用のイヤホンは、潜水中に外れることがないよう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式は密閉型でヘルメット式より送気量が少なく済む（応答性の良い給気弁を使用）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3436,7 +3436,7 @@
                   "groupId": "R8A_Q19",
                   "statement": "混合ガス潜水に使われる全面マスク式潜水器には、バンドマスクタイプとヘルメットタイプがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全面マスク式は密閉型でヘルメット式より送気量が少なく済む（応答性の良い給気弁を使用）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -3450,7 +3450,7 @@
                   "groupId": "R8A_Q20",
                   "statement": "水中時計には、現在時刻や潜水経過時間を表示するだけでなく、潜水深度の時間的経過の記録が可能なものもある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中時計（ダイブコンピュータ）は時刻・潜水時間・水深・温度・無減圧限界時間等を表示・記録できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3459,7 +3459,7 @@
                   "groupId": "R8A_Q20",
                   "statement": "さがり綱(潜降索)は、丈夫で耐候性のある素材で作られたロープで、太さ１～２cm程度のものを使用する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中時計（ダイブコンピュータ）は時刻・潜水時間・水深・温度・無減圧限界時間等を表示・記録できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3468,7 +3468,7 @@
                   "groupId": "R8A_Q20",
                   "statement": "全面マスク式潜水用ドライスーツは、ブーツと一体となっており、潜水靴を必要としない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中時計（ダイブコンピュータ）は時刻・潜水時間・水深・温度・無減圧限界時間等を表示・記録できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3477,7 +3477,7 @@
                   "groupId": "R8A_Q20",
                   "statement": "スクーバ式潜水で使用するオープンヒルタイプの足ヒレは、爪先だけを差かかとし込み、踵をストラップで固定する方式である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "水中時計（ダイブコンピュータ）は時刻・潜水時間・水深・温度・無減圧限界時間等を表示・記録できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3486,7 +3486,7 @@
                   "groupId": "R8A_Q20",
                   "statement": "ヘルメット式潜水の場合、ヘルメット及び潜水服に重量があり、移動の際に大きな推進力が必要なので。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "水中時計（ダイブコンピュータ）は時刻・潜水時間・水深・温度・無減圧限界時間等を表示・記録できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3495,7 +3495,7 @@
                   "groupId": "R8A_Q21",
                   "statement": "肺の表面と胸郭内側の面は、胸膜で覆われており、両者間の空間を胸膜腔という。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "肺は胸膜（内臓側）で覆われ、胸郭内面は胸膜（壁側）で覆われており、両者の間が胸膜腔（通常は陰圧）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3504,7 +3504,7 @@
                   "groupId": "R8A_Q21",
                   "statement": "肺は、肺胞と胸膜の協調運動によって膨らんだり縮んだりして、空気を出し入れしている。くう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "肺は胸膜（内臓側）で覆われ、胸郭内面は胸膜（壁側）で覆われており、両者の間が胸膜腔（通常は陰圧）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3513,7 +3513,7 @@
                   "groupId": "R8A_Q21",
                   "statement": "胸郭内容積が増し、内圧が低くなるにつれ、鼻腔、気管などの気道を経て肺内へ流れ込む空気が吸気である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "肺は胸膜（内臓側）で覆われ、胸郭内面は胸膜（壁側）で覆われており、両者の間が胸膜腔（通常は陰圧）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3522,7 +3522,7 @@
                   "groupId": "R8A_Q21",
                   "statement": "肺胞内の空気と肺胞を取り巻く毛細血管中の血液との間で行われるガス交換を外呼吸という。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "肺は胸膜（内臓側）で覆われ、胸郭内面は胸膜（壁側）で覆われており、両者の間が胸膜腔（通常は陰圧）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3531,7 +3531,7 @@
                   "groupId": "R8A_Q21",
                   "statement": "二酸化炭素濃度は、通常の空気中では0.04％程度であるが、呼気中では４％程度となる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "肺は胸膜（内臓側）で覆われ、胸郭内面は胸膜（壁側）で覆われており、両者の間が胸膜腔（通常は陰圧）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3540,7 +3540,7 @@
                   "groupId": "R8A_Q23",
                   "statement": "神経系は、身体を環境に順応させたり動かしたりするために、身体の各部の動きや連携の統制をつかさどる。しょう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "神経系（中枢・末梢）が身体各部を統制し環境適応・運動を可能にする。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3549,7 +3549,7 @@
                   "groupId": "R8A_Q23",
                   "statement": "神経系は、中枢神経系と末梢神経系に大別される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "神経系（中枢・末梢）が身体各部を統制し環境適応・運動を可能にする。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3558,7 +3558,7 @@
                   "groupId": "R8A_Q23",
                   "statement": "中枢神経系は、脳と脊髄から成り、脳は特に多くのエネルギーを消費するため。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "神経系（中枢・末梢）が身体各部を統制し環境適応・運動を可能にする。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3567,7 +3567,7 @@
                   "groupId": "R8A_Q23",
                   "statement": "末梢神経は、体性神経と自律神経に分類される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "神経系（中枢・末梢）が身体各部を統制し環境適応・運動を可能にする。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3576,7 +3576,7 @@
                   "groupId": "R8A_Q23",
                   "statement": "感覚器官からの情報を中枢に伝える神経を体性神経といい、中枢からの命令を運動器官に伝える神経を自律神経という。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "神経系（中枢・末梢）が身体各部を統制し環境適応・運動を可能にする。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3585,7 +3585,7 @@
                   "groupId": "R8A_Q24",
                   "statement": "体温は、代謝によって生じる産熱と、人体と外部環境の温度差に基づく放熱のバランスによって一定に保たれる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "体温調節は代謝産熱と放熱のバランスによって維持される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3594,7 +3594,7 @@
                   "groupId": "R8A_Q24",
                   "statement": "一般に、深部体温が35℃以下の状態を低体温症という。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "体温調節は代謝産熱と放熱のバランスによって維持される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3603,7 +3603,7 @@
                   "groupId": "R8A_Q24",
                   "statement": "体温が低下し始めると、筋肉の緊張の増強、酸素摂取量の増加などの症状が現れる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "体温調節は代謝産熱と放熱のバランスによって維持される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3612,7 +3612,7 @@
                   "groupId": "R8A_Q24",
                   "statement": "水中で体温が低下すると、震え、意識の混濁や消失などを起こし、死に至ることもある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "体温調節は代謝産熱と放熱のバランスによって維持される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3621,7 +3621,7 @@
                   "groupId": "R8A_Q25",
                   "statement": "圧外傷は、潜降又は浮上いずれのときでも生じ、潜降時のものをブロック、浮上時のものをスクィーズと呼ぶ。くう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "圧外傷は潜降・浮上どちらでも発生。潜降時はスクィーズ（squeeze）、浮上時はリバーススクィーズ（ブロック）と呼ぶ。問題文の名称は逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3630,7 +3630,7 @@
                   "groupId": "R8A_Q25",
                   "statement": "潜降時の圧外傷は、潜降による圧力変化のために体腔内の空気の体積が増くう くうえることにより生じ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "圧外傷は潜降・浮上どちらでも発生。潜降時はスクィーズ（squeeze）、浮上時はリバーススクィーズ（ブロック）と呼ぶ。問題文の名称は逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3639,7 +3639,7 @@
                   "groupId": "R8A_Q25",
                   "statement": "浮上時の圧外傷は、浮上による圧力変化のために体腔内の空気の体積が減くう少することにより生じ、副鼻腔、肺などで生じる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "圧外傷は潜降・浮上どちらでも発生。潜降時はスクィーズ（squeeze）、浮上時はリバーススクィーズ（ブロック）と呼ぶ。問題文の名称は逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3648,7 +3648,7 @@
                   "groupId": "R8A_Q25",
                   "statement": "深さ２ｍ程度の浅い場所での潜水からの浮上でも、圧外傷が生じることがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "圧外傷は潜降・浮上どちらでも発生。潜降時はスクィーズ（squeeze）、浮上時はリバーススクィーズ（ブロック）と呼ぶ。問題文の名称は逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3657,7 +3657,7 @@
                   "groupId": "R8A_Q25",
                   "statement": "潜降時の耳の圧外傷を防ぐためには、耳栓をするとよい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "圧外傷は潜降・浮上どちらでも発生。潜降時はスクィーズ（squeeze）、浮上時はリバーススクィーズ（ブロック）と呼ぶ。問題文の名称は逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3666,7 +3666,7 @@
                   "groupId": "R8A_Q26",
                   "statement": "空気塞栓症は、急浮上などによる肺の過膨張が原因となって発症する。しょう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "空気塞栓症は肺の過膨張（急浮上・息こらえ）による肺破裂で、気泡が血液に混入して脳・心臓等の血管を塞ぐ重篤な疾患。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3675,7 +3675,7 @@
                   "groupId": "R8A_Q26",
                   "statement": "空気塞栓症は、肺胞の毛細血管に侵入した空気が、動脈系の末梢血管を閉塞することにより起こる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "空気塞栓症は肺の過膨張（急浮上・息こらえ）による肺破裂で、気泡が血液に混入して脳・心臓等の血管を塞ぐ重篤な疾患。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3684,7 +3684,7 @@
                   "groupId": "R8A_Q26",
                   "statement": "空気塞栓症は、脳においてはほとんど認められず、ほぼ全てが心臓において発症する。けいれん。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "空気塞栓症は肺の過膨張（急浮上・息こらえ）による肺破裂で、気泡が血液に混入して脳・心臓等の血管を塞ぐ重篤な疾患。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3693,7 +3693,7 @@
                   "groupId": "R8A_Q26",
                   "statement": "空気塞栓症は、一般的には浮上してすぐに意識障害、痙攣発作などの重篤な症状を示す。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "空気塞栓症は肺の過膨張（急浮上・息こらえ）による肺破裂で、気泡が血液に混入して脳・心臓等の血管を塞ぐ重篤な疾患。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3702,7 +3702,7 @@
                   "groupId": "R8A_Q26",
                   "statement": "空気塞栓症を予防するには、浮上速度を守り、常に呼吸を続けながら浮上する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "空気塞栓症は肺の過膨張（急浮上・息こらえ）による肺破裂で、気泡が血液に混入して脳・心臓等の血管を塞ぐ重篤な疾患。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3711,7 +3711,7 @@
                   "groupId": "R8A_Q27",
                   "statement": "二酸化炭素中毒は、二酸化炭素が血液中の赤血球に含まれるヘモグロビンと強く結合し、酸素の運搬ができなくなるために起こる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "CO₂中毒は呼吸促迫・頭痛・意識障害が主症状。ヘモグロビンと結合して酸素運搬を阻害するのはCO（一酸化炭素）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3720,7 +3720,7 @@
                   "groupId": "R8A_Q27",
                   "statement": "酸素中毒は、酸素分圧の高いガスの吸入によって生じ、呼吸ガス中に二酸化炭素が多いときには起こりにくい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "CO₂中毒は呼吸促迫・頭痛・意識障害が主症状。ヘモグロビンと結合して酸素運搬を阻害するのはCO（一酸化炭素）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3729,7 +3729,7 @@
                   "groupId": "R8A_Q27",
                   "statement": "脳酸素中毒は、50kPa程度の酸素分圧の呼吸ガスを長時間呼吸したときに生じ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "CO₂中毒は呼吸促迫・頭痛・意識障害が主症状。ヘモグロビンと結合して酸素運搬を阻害するのはCO（一酸化炭素）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3738,7 +3738,7 @@
                   "groupId": "R8A_Q27",
                   "statement": "肺酸素中毒は、致命的になることは通常は考えられないが、肺機能の低下をもたらし、肺活量が減少することがある。え。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "CO₂中毒は呼吸促迫・頭痛・意識障害が主症状。ヘモグロビンと結合して酸素運搬を阻害するのはCO（一酸化炭素）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3747,7 +3747,7 @@
                   "groupId": "R8A_Q29",
                   "statement": "潜水業務に常時従事する労働者に対する健康診断では、四肢の運動機能などの検査のほか、必要な場合は、作業条件調査などを行う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水業務の定期健康診断では四肢の運動機能・皮膚感覚・聴力・視力等を検査。必要に応じて作業条件調査も実施（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3756,7 +3756,7 @@
                   "groupId": "R8A_Q29",
                   "statement": "健康診断において行われる関節部のエックス線直接撮影による検査は、え骨壊死のチェックのためで。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水業務の定期健康診断では四肢の運動機能・皮膚感覚・聴力・視力等を検査。必要に応じて作業条件調査も実施（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3765,7 +3765,7 @@
                   "groupId": "R8A_Q29",
                   "statement": "前日の飲酒により体内にアルコールが残った状態で潜水すると、減圧症や低体温症の発症リスクが高くなる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水業務の定期健康診断では四肢の運動機能・皮膚感覚・聴力・視力等を検査。必要に応じて作業条件調査も実施（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3774,7 +3774,7 @@
                   "groupId": "R8A_Q29",
                   "statement": "減圧症の再圧治療が終了した後しばらくは、体内にまだ余分な窒素が残っているので。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水業務の定期健康診断では四肢の運動機能・皮膚感覚・聴力・視力等を検査。必要に応じて作業条件調査も実施（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3783,7 +3783,7 @@
                   "groupId": "R8A_Q29",
                   "statement": "空気塞栓症のリスクを評価する指標としてＵＰＴＤがあり、１日のばく露量が一定の値以下となるように管理する必要がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜水業務の定期健康診断では四肢の運動機能・皮膚感覚・聴力・視力等を検査。必要に応じて作業条件調査も実施（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -3797,7 +3797,7 @@
                   "groupId": "R8A_Q30",
                   "statement": "傷病者の反応の有無を確認し、反応がない場合には、大声で叫んで周囲の注意を喚起し、協力を求める。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "AHA/心肺蘇生ガイドラインでは反応がない場合、大声で叫んで周囲の注意を喚起し助けを求めることを最初に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3806,7 +3806,7 @@
                   "groupId": "R8A_Q30",
                   "statement": "反応はないが普段どおりの呼吸をしている傷病者は、回復体位をとらせて安静にして、経過を観察する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "AHA/心肺蘇生ガイドラインでは反応がない場合、大声で叫んで周囲の注意を喚起し助けを求めることを最初に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3815,7 +3815,7 @@
                   "groupId": "R8A_Q30",
                   "statement": "しゃくりあげるような途切れ途切れの呼吸がみられる場合は、心停止の直後にみられる死戦期呼吸と判断し、胸骨圧迫を開始する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "AHA/心肺蘇生ガイドラインでは反応がない場合、大声で叫んで周囲の注意を喚起し助けを求めることを最初に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3824,7 +3824,7 @@
                   "groupId": "R8A_Q30",
                   "statement": "胸骨圧迫は、胸が約５cm沈む強さで胸骨の下半分を圧迫し、１分間に100～120回のテンポで行う。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "AHA/心肺蘇生ガイドラインでは反応がない場合、大声で叫んで周囲の注意を喚起し助けを求めることを最初に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3833,7 +3833,7 @@
                   "groupId": "R8A_Q31",
                   "statement": "全面マスク式潜水で空気圧縮機により送気し、最高深度20ｍの潜水業務を行う場合。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全面マスク式・コンプレッサー送気・最高水深20mでの潜水業務における必要設備（空気槽・安全弁等）の規定を確認。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3842,7 +3842,7 @@
                   "groupId": "R8A_Q31",
                   "statement": "全面マスク式潜水で空気圧縮機により送気し、最高深度20ｍの潜水業務を行う場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式・コンプレッサー送気・最高水深20mでの潜水業務における必要設備（空気槽・安全弁等）の規定を確認。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3851,7 +3851,7 @@
                   "groupId": "R8A_Q31",
                   "statement": "全面マスク式潜水で空気圧縮機により送気し、最高深度20ｍの潜水業務を行う場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式・コンプレッサー送気・最高水深20mでの潜水業務における必要設備（空気槽・安全弁等）の規定を確認。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3860,7 +3860,7 @@
                   "groupId": "R8A_Q31",
                   "statement": "全面マスク式潜水で空気圧縮機により送気し、最高深度20ｍの潜水業務を行う場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式・コンプレッサー送気・最高水深20mでの潜水業務における必要設備（空気槽・安全弁等）の規定を確認。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3869,7 +3869,7 @@
                   "groupId": "R8A_Q31",
                   "statement": "全面マスク式潜水で空気圧縮機により送気し、最高深度20ｍの潜水業務を行う場合。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全面マスク式・コンプレッサー送気・最高水深20mでの潜水業務における必要設備（空気槽・安全弁等）の規定を確認。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3878,7 +3878,7 @@
                   "groupId": "R8A_Q32",
                   "statement": "再圧室操作業務に従事する労働者に対して行う特別の教育の教育事項には、「高気圧障害の知識に関すること」。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "再圧室操作業務の特別教育事項には高気圧障害の知識・再圧室の操作方法・異常時の措置等が含まれる（高圧則11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3887,7 +3887,7 @@
                   "groupId": "R8A_Q32",
                   "statement": "再圧室操作業務に従事する労働者に対して行う特別の教育の教育事項には。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "再圧室操作業務の特別教育事項には高気圧障害の知識・再圧室の操作方法・異常時の措置等が含まれる（高圧則11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3896,7 +3896,7 @@
                   "groupId": "R8A_Q32",
                   "statement": "送気調節業務に従事する労働者に対して行う特別の教育の教育事項には、「潜水業務に関する知識に関すること」。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "再圧室操作業務の特別教育事項には高気圧障害の知識・再圧室の操作方法・異常時の措置等が含まれる（高圧則11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3905,7 +3905,7 @@
                   "groupId": "R8A_Q32",
                   "statement": "送気調節業務に従事する労働者に対して行う特別の教育の教育事項には。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "再圧室操作業務の特別教育事項には高気圧障害の知識・再圧室の操作方法・異常時の措置等が含まれる（高圧則11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3914,7 +3914,7 @@
                   "groupId": "R8A_Q32",
                   "statement": "特別の教育の科目の全部又は一部について、十分な知識及び技能を有していると認められる労働者については。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "再圧室操作業務の特別教育事項には高気圧障害の知識・再圧室の操作方法・異常時の措置等が含まれる（高圧則11条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3923,7 +3923,7 @@
                   "groupId": "R8A_Q33",
                   "statement": "潜降直前に、潜水業務従事者に対し、当該潜水業務に使用するボンベの現に有する給気能力を知らせなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水直前に潜水者へ「ボンベの現有給気能力」を知らせる義務がある（高圧則13条）。残圧だけでなく潜水可能時間も伝える。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3932,7 +3932,7 @@
                   "groupId": "R8A_Q33",
                   "statement": "潜水業務従事者に異常がないかどうかを監視するための者を置かなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水直前に潜水者へ「ボンベの現有給気能力」を知らせる義務がある（高圧則13条）。残圧だけでなく潜水可能時間も伝える。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3941,7 +3941,7 @@
                   "groupId": "R8A_Q33",
                   "statement": "圧力１ＭPa以上の気体を充塡したボンベからの給気を受けさせるときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水直前に潜水者へ「ボンベの現有給気能力」を知らせる義務がある（高圧則13条）。残圧だけでなく潜水可能時間も伝える。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3950,7 +3950,7 @@
                   "groupId": "R8A_Q33",
                   "statement": "潜水深度が10ｍ未満の潜水業務でも、潜水業務従事者に、さがり綱(潜降索)を使用させなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "潜水直前に潜水者へ「ボンベの現有給気能力」を知らせる義務がある（高圧則13条）。残圧だけでなく潜水可能時間も伝える。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3959,7 +3959,7 @@
                   "groupId": "R8A_Q33",
                   "statement": "潜水業務従事者の潜降速度は、毎分10ｍ以下としなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "潜水直前に潜水者へ「ボンベの現有給気能力」を知らせる義務がある（高圧則13条）。残圧だけでなく潜水可能時間も伝える。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3968,7 +3968,7 @@
                   "groupId": "R8A_Q34",
                   "statement": "ヘルメット式潜水で空気圧縮機により送気する潜水業務を行うとき。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヘルメット式・コンプレッサー送気の場合の必要空気槽容積等の計算は高圧則の規定式に従う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3977,7 +3977,7 @@
                   "groupId": "R8A_Q34",
                   "statement": "ヘルメット式潜水で空気圧縮機により送気する潜水業務を行うとき。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式・コンプレッサー送気の場合の必要空気槽容積等の計算は高圧則の規定式に従う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3986,7 +3986,7 @@
                   "groupId": "R8A_Q34",
                   "statement": "ヘルメット式潜水で空気圧縮機により送気する潜水業務を行うとき。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヘルメット式・コンプレッサー送気の場合の必要空気槽容積等の計算は高圧則の規定式に従う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -3995,7 +3995,7 @@
                   "groupId": "R8A_Q35",
                   "statement": "連絡員の配置は、潜水業務従事者２人以下ごとに１人とする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連絡員（テンダー）は潜水業務従事者2人以下ごとに1人配置（高圧則16条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4004,7 +4004,7 @@
                   "groupId": "R8A_Q35",
                   "statement": "連絡員は、潜水業務従事者と連絡して、その者の潜降及び浮上を適正に行わせる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連絡員（テンダー）は潜水業務従事者2人以下ごとに1人配置（高圧則16条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4013,7 +4013,7 @@
                   "groupId": "R8A_Q35",
                   "statement": "連絡員は、ヘルメット式潜水器を用いて行う潜水業務にあっては、潜降直後に。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "連絡員（テンダー）は潜水業務従事者2人以下ごとに1人配置（高圧則16条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4022,7 +4022,7 @@
                   "groupId": "R8A_Q35",
                   "statement": "連絡員は、潜水業務従事者への送気の調節を行うためのバルブ又はコックを操作する業務に従事する者と連絡して。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連絡員（テンダー）は潜水業務従事者2人以下ごとに1人配置（高圧則16条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4031,7 +4031,7 @@
                   "groupId": "R8A_Q35",
                   "statement": "連絡員は、送気設備の故障その他の事故により、潜水業務従事者に危険又は健康障害の生ずるおそれがあるときは。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "連絡員（テンダー）は潜水業務従事者2人以下ごとに1人配置（高圧則16条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4040,7 +4040,7 @@
                   "groupId": "R8A_Q37",
                   "statement": "健康診断は、雇入れの際、潜水業務への配置替えの際及び潜水業務についた後６か月以内ごとに１回。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "健康診断の頻度は雇入れ時・配置替え時・その後6か月以内ごとに1回（定期）（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4049,7 +4049,7 @@
                   "groupId": "R8A_Q37",
                   "statement": "健康診断の対象者は、水深10ｍ以上の場所で行う潜水業務に常時従事する労働者であり。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "健康診断の頻度は雇入れ時・配置替え時・その後6か月以内ごとに1回（定期）（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4058,7 +4058,7 @@
                   "groupId": "R8A_Q37",
                   "statement": "事業場において実施した健康診断の結果、異常の所見があると診断された労働者については。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "健康診断の頻度は雇入れ時・配置替え時・その後6か月以内ごとに1回（定期）（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4067,7 +4067,7 @@
                   "groupId": "R8A_Q37",
                   "statement": "健康診断結果に基づいて、高気圧業務健康診断個人票を作成し、これを５年間保存しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "健康診断の頻度は雇入れ時・配置替え時・その後6か月以内ごとに1回（定期）（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -4076,7 +4076,7 @@
                   "groupId": "R8A_Q37",
                   "statement": "定期の健康診断を行ったときは、遅滞なく、高気圧業務健康診断結果報告書を所轄労働基準監督署長に提出しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "健康診断の頻度は雇入れ時・配置替え時・その後6か月以内ごとに1回（定期）（高圧則38条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }

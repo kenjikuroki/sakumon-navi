@@ -22,7 +22,7 @@
                   "groupId": "EISEI_R7_Q1",
                   "statement": "衛生管理者は、３人以上選任しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "衛生管理者の選任数は事業場の労働者数に応じて定まり、1000人以下では3人以下、1000人超で3人以上等の基準がある（安衛則7条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -31,7 +31,7 @@
                   "groupId": "EISEI_R7_Q1",
                   "statement": "衛生管理者のうち１人を、衛生工学衛生管理者免許を受けた者のうちから選任しなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "衛生管理者の選任数は事業場の労働者数に応じて定まり、1000人以下では3人以下、1000人超で3人以上等の基準がある（安衛則7条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -40,7 +40,7 @@
                   "groupId": "EISEI_R7_Q1",
                   "statement": "衛生管理者のうち少なくとも１人を、専任の衛生管理者としなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "衛生管理者の選任数は事業場の労働者数に応じて定まり、1000人以下では3人以下、1000人超で3人以上等の基準がある（安衛則7条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -49,7 +49,7 @@
                   "groupId": "EISEI_R7_Q1",
                   "statement": "産業医としての法定の要件を満たしている医師で、この事業場に専属でないものを産業医として選任することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "衛生管理者の選任数は事業場の労働者数に応じて定まり、1000人以下では3人以下、1000人超で3人以上等の基準がある（安衛則7条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -58,7 +58,7 @@
                   "groupId": "EISEI_R7_Q2",
                   "statement": "鉛化合物を製造する工程において鉛等の溶融を行う屋内の作業場所に設置した局所排気装置。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "鉛の溶融等を行う作業場の局所排気装置は1年以内ごとに定期自主検査を実施しなければならない（鉛中毒予防規則）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -67,7 +67,7 @@
                   "groupId": "EISEI_R7_Q2",
                   "statement": "セメントを袋詰めする屋内の作業箇所に設置した局所排気装置に設けた除じん装置。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "鉛の溶融等を行う作業場の局所排気装置は1年以内ごとに定期自主検査を実施しなければならない（鉛中毒予防規則）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -76,7 +76,7 @@
                   "groupId": "EISEI_R7_Q2",
                   "statement": "トルエンを用いて洗浄を行う屋内の作業場所に設置したプッシュプル型換気装置ふっ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "鉛の溶融等を行う作業場の局所排気装置は1年以内ごとに定期自主検査を実施しなければならない（鉛中毒予防規則）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -85,7 +85,7 @@
                   "groupId": "EISEI_R7_Q2",
                   "statement": "弗化水素を含有する気体を排出する製造設備の排気筒に設置した排ガス処理装置。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "鉛の溶融等を行う作業場の局所排気装置は1年以内ごとに定期自主検査を実施しなければならない（鉛中毒予防規則）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -94,7 +94,7 @@
                   "groupId": "EISEI_R7_Q3",
                   "statement": "厚生労働大臣が定める規格を具備しなければ、譲渡し、貸与し、又は設置してはならない機械等に該当しないものは。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "厚生労働大臣が定める規格を具備すべき機械等（安衛法42条）には防じんマスク・防毒マスク・安全帯等が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -103,7 +103,7 @@
                   "groupId": "EISEI_R7_Q3",
                   "statement": "ろ過材及び面体を有する防じんマスク。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "厚生労働大臣が定める規格を具備すべき機械等（安衛法42条）には防じんマスク・防毒マスク・安全帯等が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -112,7 +112,7 @@
                   "groupId": "EISEI_R7_Q3",
                   "statement": "放射性物質による汚染を防止するための防護服。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "厚生労働大臣が定める規格を具備すべき機械等（安衛法42条）には防じんマスク・防毒マスク・安全帯等が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -121,7 +121,7 @@
                   "groupId": "EISEI_R7_Q3",
                   "statement": "排気量40cm３以上の内燃機関を内蔵するチェーンソー。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "厚生労働大臣が定める規格を具備すべき機械等（安衛法42条）には防じんマスク・防毒マスク・安全帯等が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -130,7 +130,7 @@
                   "groupId": "EISEI_R7_Q4",
                   "statement": "石綿作業主任者免許。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "石綿作業主任者免許は石綿障害予防規則に基づく免許。石綿にばく露する作業の指揮・管理を行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -139,7 +139,7 @@
                   "groupId": "EISEI_R7_Q4",
                   "statement": "ガンマ線透過写真撮影作業主任者免許一衛 2/23。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "石綿作業主任者免許は石綿障害予防規則に基づく免許。石綿にばく露する作業の指揮・管理を行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -148,7 +148,7 @@
                   "groupId": "EISEI_R7_Q5",
                   "statement": "著しい騒音を発する一定の屋内作業場については、６か月以内ごとに１回、定期に、等価騒音レベルを測定しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "著しい騒音を発する屋内作業場の等価騒音レベルの測定は6か月以内ごとに1回定期に実施が必要（安衛則590条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -157,7 +157,7 @@
                   "groupId": "EISEI_R7_Q5",
                   "statement": "硫化水素濃度が５ppmを超える場所には、関係者以外の者が立ち入ることを禁止し。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "著しい騒音を発する屋内作業場の等価騒音レベルの測定は6か月以内ごとに1回定期に実施が必要（安衛則590条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -166,7 +166,7 @@
                   "groupId": "EISEI_R7_Q5",
                   "statement": "廃棄物の焼却施設において焼却灰を取り扱う業務を行う作業場については、６か月以内ごとに１回。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "著しい騒音を発する屋内作業場の等価騒音レベルの測定は6か月以内ごとに1回定期に実施が必要（安衛則590条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -175,7 +175,7 @@
                   "groupId": "EISEI_R7_Q5",
                   "statement": "屋内作業場に多量の熱を放散する溶融炉があるときは、加熱された空気を直接屋外に排出し。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "著しい騒音を発する屋内作業場の等価騒音レベルの測定は6か月以内ごとに1回定期に実施が必要（安衛則590条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -184,7 +184,7 @@
                   "groupId": "EISEI_R7_Q5",
                   "statement": "著しく暑熱又は多湿の作業場においては、坑内等特殊な作業場でやむを得ない事由がある場合を除き。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "著しい騒音を発する屋内作業場の等価騒音レベルの測定は6か月以内ごとに1回定期に実施が必要（安衛則590条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -193,7 +193,7 @@
                   "groupId": "EISEI_R7_Q7",
                   "statement": "表示対象物質を容器に入れ、又は包装する以外の方法により譲渡し、又は提供するときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "容器包装以外（パイプラインやバルク輸送等）で表示対象物質を譲渡・提供する場合は、文書（SDS等）の交付で表示に代えることができる（安衛法57条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -202,7 +202,7 @@
                   "groupId": "EISEI_R7_Q8",
                   "statement": "第一種酸素欠乏危険作業を行う作業場については、その日の作業を開始する前に。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "第一種酸素欠乏危険作業場所は作業開始前に酸素濃度（および第二種の場合は硫化水素濃度）を測定しなければならない（酸欠則3条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -211,7 +211,7 @@
                   "groupId": "EISEI_R7_Q8",
                   "statement": "し尿を入れたことのあるポンプを修理する場合で、これを分解する作業に労働者を従事させるときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "第一種酸素欠乏危険作業場所は作業開始前に酸素濃度（および第二種の場合は硫化水素濃度）を測定しなければならない（酸欠則3条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -220,7 +220,7 @@
                   "groupId": "EISEI_R7_Q8",
                   "statement": "酸素又は硫化水素の濃度が法定の基準を満たすようにするために酸素欠乏危険作業を行う場所を換気するときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "第一種酸素欠乏危険作業場所は作業開始前に酸素濃度（および第二種の場合は硫化水素濃度）を測定しなければならない（酸欠則3条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -229,7 +229,7 @@
                   "groupId": "EISEI_R7_Q9",
                   "statement": "チッパーによりチップする業務を行う屋内作業場における等価騒音レベルの測定。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "チッパー等の騒音発生作業場は6か月以内ごとに1回、等価騒音レベルの測定が義務（安衛則590条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -238,7 +238,7 @@
                   "groupId": "EISEI_R7_Q9",
                   "statement": "常時セメントを袋詰めする作業を行う屋内作業場における空気中の粉じん濃度の測定。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "チッパー等の騒音発生作業場は6か月以内ごとに1回、等価騒音レベルの測定が義務（安衛則590条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -247,7 +247,7 @@
                   "groupId": "EISEI_R7_Q9",
                   "statement": "通気設備が設けられている坑内の作業場における通気量の測定。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "チッパー等の騒音発生作業場は6か月以内ごとに1回、等価騒音レベルの測定が義務（安衛則590条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -261,7 +261,7 @@
                   "groupId": "EISEI_R7_Q10",
                   "statement": "著しく暑熱な場所における業務。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "著しく暑熱な場所、多量の低温物体を取り扱う場所等の作業は有害業務に該当し、衛生管理上の管理が必要（安衛則36条等）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -270,7 +270,7 @@
                   "groupId": "EISEI_R7_Q10",
                   "statement": "ボイラー製造等強烈な騒音を発する場所における業務。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "著しく暑熱な場所、多量の低温物体を取り扱う場所等の作業は有害業務に該当し、衛生管理上の管理が必要（安衛則36条等）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -279,7 +279,7 @@
                   "groupId": "EISEI_R7_Q10",
                   "statement": "ヘリウム、アルゴン等の不活性の気体を入れたことのあるタンクの内部における業務。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "著しく暑熱な場所、多量の低温物体を取り扱う場所等の作業は有害業務に該当し、衛生管理上の管理が必要（安衛則36条等）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -288,7 +288,7 @@
                   "groupId": "EISEI_R7_Q10",
                   "statement": "土石、獣毛等のじんあい又は粉末を著しく飛散する場所における業務びょう。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "著しく暑熱な場所、多量の低温物体を取り扱う場所等の作業は有害業務に該当し、衛生管理上の管理が必要（安衛則36条等）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -297,7 +297,7 @@
                   "groupId": "EISEI_R7_Q10",
                   "statement": "削岩機、鋲打機等の使用によって身体に著しい振動を与える業務一衛 6/23。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "著しく暑熱な場所、多量の低温物体を取り扱う場所等の作業は有害業務に該当し、衛生管理上の管理が必要（安衛則36条等）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -306,7 +306,7 @@
                   "groupId": "EISEI_R7_Q11",
                   "statement": "リスクアセスメントの基本的手順のうち最初に実施するのは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "リスクアセスメントの手順は①危険性・有害性の特定→②リスクの見積もり→③リスク低減措置の検討・実施の順に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -315,7 +315,7 @@
                   "groupId": "EISEI_R7_Q11",
                   "statement": "リスクの見積りに当たっては、過去に実際に発生した負傷又は疾病の重篤度ではなく。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "リスクアセスメントの手順は①危険性・有害性の特定→②リスクの見積もり→③リスク低減措置の検討・実施の順に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -324,7 +324,7 @@
                   "groupId": "EISEI_R7_Q11",
                   "statement": "リスクアセスメント対象物による疾病について、当該物質への労働者のばく露濃度等を測定し。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "リスクアセスメントの手順は①危険性・有害性の特定→②リスクの見積もり→③リスク低減措置の検討・実施の順に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -333,7 +333,7 @@
                   "groupId": "EISEI_R7_Q11",
                   "statement": "リスクアセスメント対象物による疾病のリスク低減措置の検討では、作業手順の改善。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "リスクアセスメントの手順は①危険性・有害性の特定→②リスクの見積もり→③リスク低減措置の検討・実施の順に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -342,7 +342,7 @@
                   "groupId": "EISEI_R7_Q11",
                   "statement": "リスクアセスメント対象物による疾病のリスク低減措置の検討に当たっては。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "リスクアセスメントの手順は①危険性・有害性の特定→②リスクの見積もり→③リスク低減措置の検討・実施の順に行う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -351,7 +351,7 @@
                   "groupId": "EISEI_R7_Q13",
                   "statement": "有機溶剤の蒸気は、空気より重いため、地下室やピットなどの通気が不十分な場所では滞留しやすい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "有機溶剤の蒸気は空気より重いものが多く、地下室・ピット・タンク内等に滞留しやすい。局所排気装置や換気が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -360,7 +360,7 @@
                   "groupId": "EISEI_R7_Q13",
                   "statement": "有機溶剤は、全て脂溶性があるほか、揮発性及び引火性があるものが多い。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "有機溶剤の蒸気は空気より重いものが多く、地下室・ピット・タンク内等に滞留しやすい。局所排気装置や換気が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -369,7 +369,7 @@
                   "groupId": "EISEI_R7_Q13",
                   "statement": "有機溶剤による障害のうち、皮膚や粘膜の症状には、皮膚の角化、結膜炎などがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "有機溶剤の蒸気は空気より重いものが多く、地下室・ピット・タンク内等に滞留しやすい。局所排気装置や換気が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -378,7 +378,7 @@
                   "groupId": "EISEI_R7_Q13",
                   "statement": "低濃度の有機溶剤の繰り返しばく露では、頭痛、めまい、記憶力減退、不眠などの不定愁訴がみられる。りゅう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "有機溶剤の蒸気は空気より重いものが多く、地下室・ピット・タンク内等に滞留しやすい。局所排気装置や換気が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -387,7 +387,7 @@
                   "groupId": "EISEI_R7_Q13",
                   "statement": "メタノールによる障害として顕著なものは、網膜微細動脈瘤を伴う脳血管障害である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "有機溶剤の蒸気は空気より重いものが多く、地下室・ピット・タンク内等に滞留しやすい。局所排気装置や換気が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -396,7 +396,7 @@
                   "groupId": "EISEI_R7_Q14",
                   "statement": "電離放射線の被ばくによる身体的影響のうち、白内障は晩発障害に分類される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "電離放射線の白内障は晩発障害（ばく露から長期間後に発症）に分類される。急性障害は白血球減少等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -405,7 +405,7 @@
                   "groupId": "EISEI_R7_Q14",
                   "statement": "電離放射線に被ばく後、数週間程度までに現れる造血器系障害は、急性障害に分類される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "電離放射線の白内障は晩発障害（ばく露から長期間後に発症）に分類される。急性障害は白血球減少等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -414,7 +414,7 @@
                   "groupId": "EISEI_R7_Q14",
                   "statement": "電離放射線の被ばくによる発がんと遺伝的影響は、確率的影響に分類され、症状の程度は線量に依存する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "電離放射線の白内障は晩発障害（ばく露から長期間後に発症）に分類される。急性障害は白血球減少等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -423,7 +423,7 @@
                   "groupId": "EISEI_R7_Q15",
                   "statement": "カドミウム中毒では、上気道炎、肺炎、腎機能障害などがみられる。しょう せん。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "カドミウム中毒では腎尿細管障害（イタイイタイ病）が特徴的。急性では上気道炎・肺炎も起こる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -432,7 +432,7 @@
                   "groupId": "EISEI_R7_Q15",
                   "statement": "鉛中毒では、貧血、末梢神経障害、腹部の疝痛などの症状がみられる。ひ せん。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "カドミウム中毒では腎尿細管障害（イタイイタイ病）が特徴的。急性では上気道炎・肺炎も起こる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -441,7 +441,7 @@
                   "groupId": "EISEI_R7_Q15",
                   "statement": "砒素中毒では、角化症、黒皮症などの皮膚障害、鼻中隔穿孔などの症状がみられる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "カドミウム中毒では腎尿細管障害（イタイイタイ病）が特徴的。急性では上気道炎・肺炎も起こる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -450,7 +450,7 @@
                   "groupId": "EISEI_R7_Q16",
                   "statement": "全身振動障害では、レイノー現象などの末梢循環障害や手指のしびれ感なしょうどの末梢神経障害がみられ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全身振動障害（長距離トラック運転等）では腰痛・消化器障害が主体。レイノー現象・末梢神経障害は局所振動障害（手持ち振動工具）の症状。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -459,7 +459,7 @@
                   "groupId": "EISEI_R7_Q16",
                   "statement": "熱けいれんは、大量の発汗時に水を補給することで血中の塩分濃度が低下することによって生じ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "全身振動障害（長距離トラック運転等）では腰痛・消化器障害が主体。レイノー現象・末梢神経障害は局所振動障害（手持ち振動工具）の症状。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -468,7 +468,7 @@
                   "groupId": "EISEI_R7_Q16",
                   "statement": "減圧症は、潜函作業者や潜水作業者などに発症するもので、高圧下作業からの減圧に伴い。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "全身振動障害（長距離トラック運転等）では腰痛・消化器障害が主体。レイノー現象・末梢神経障害は局所振動障害（手持ち振動工具）の症状。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -477,7 +477,7 @@
                   "groupId": "EISEI_R7_Q17",
                   "statement": "一酸化炭素による中毒では、ヘモグロビン合成の障害による貧血、溶血などがみられる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "一酸化炭素（CO）中毒はヘモグロビンとの結合（COHb）により酸素運搬が阻害される。貧血・溶血を起こすのは鉛中毒等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -486,7 +486,7 @@
                   "groupId": "EISEI_R7_Q17",
                   "statement": "二酸化窒素による健康障害では、肺水腫、気管支炎などがみられる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一酸化炭素（CO）中毒はヘモグロビンとの結合（COHb）により酸素運搬が阻害される。貧血・溶血を起こすのは鉛中毒等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -495,7 +495,7 @@
                   "groupId": "EISEI_R7_Q17",
                   "statement": "シアン化水素による中毒では、細胞内での酸素利用の障害による呼吸困難、けいれんなどがみられる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一酸化炭素（CO）中毒はヘモグロビンとの結合（COHb）により酸素運搬が阻害される。貧血・溶血を起こすのは鉛中毒等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -504,7 +504,7 @@
                   "groupId": "EISEI_R7_Q17",
                   "statement": "硫化水素による健康障害では、脳神経細胞の障害による意識消失、呼吸ひ麻痺などがみられる。ふっ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一酸化炭素（CO）中毒はヘモグロビンとの結合（COHb）により酸素運搬が阻害される。貧血・溶血を起こすのは鉛中毒等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -513,7 +513,7 @@
                   "groupId": "EISEI_R7_Q17",
                   "statement": "弗化水素による慢性中毒では、骨の硬化、斑状歯などがみられる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "一酸化炭素（CO）中毒はヘモグロビンとの結合（COHb）により酸素運搬が阻害される。貧血・溶血を起こすのは鉛中毒等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -522,7 +522,7 @@
                   "groupId": "EISEI_R7_Q18",
                   "statement": "作業環境測定を実施する場合の単位作業場所は、労働者の作業中の行動範囲、有害物の分布の状況などに基づいて設定する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "作業環境測定の単位作業場所は、作業者の行動範囲・有害物の発散源・換気状況等を考慮して設定する（作業環境測定法）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -531,7 +531,7 @@
                   "groupId": "EISEI_R7_Q18",
                   "statement": "Ａ測定は、単位作業場所における有害物質の気中濃度の平均的な分布を知るために行う測定である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "作業環境測定の単位作業場所は、作業者の行動範囲・有害物の発散源・換気状況等を考慮して設定する（作業環境測定法）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -540,7 +540,7 @@
                   "groupId": "EISEI_R7_Q18",
                   "statement": "Ｂ測定は、単位作業場所中の有害物質の発散源に近接する場所で作業が行われる場合において。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "作業環境測定の単位作業場所は、作業者の行動範囲・有害物の発散源・換気状況等を考慮して設定する（作業環境測定法）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -549,7 +549,7 @@
                   "groupId": "EISEI_R7_Q18",
                   "statement": "Ａ測定とＢ測定を併せて行う場合は、Ａ測定の測定値を用いて求めた第一評価値及び第二評価値並びにＢ測定の測定値に基づき。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "作業環境測定の単位作業場所は、作業者の行動範囲・有害物の発散源・換気状況等を考慮して設定する（作業環境測定法）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -558,7 +558,7 @@
                   "groupId": "EISEI_R7_Q19",
                   "statement": "吸気補助具付き防じんマスクは、吸気補助具によって清浄な空気を送る機能がある防じんマスクである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "吸気補助具付き防じんマスク（電動ファン付き呼吸用保護具）は電動ファンで清浄空気を送り込む。通常の防じんマスク（自吸式）とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -567,7 +567,7 @@
                   "groupId": "EISEI_R7_Q19",
                   "statement": "酸素濃度18％未満の場所で使用できる呼吸用保護具には、送気マスク、空気呼吸器のほか、酸素呼吸器がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "吸気補助具付き防じんマスク（電動ファン付き呼吸用保護具）は電動ファンで清浄空気を送り込む。通常の防じんマスク（自吸式）とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -576,7 +576,7 @@
                   "groupId": "EISEI_R7_Q19",
                   "statement": "遮光保護具は、溶接作業における紫外線などによる眼の障害を防ぐために使用する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "吸気補助具付き防じんマスク（電動ファン付き呼吸用保護具）は電動ファンで清浄空気を送り込む。通常の防じんマスク（自吸式）とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -585,7 +585,7 @@
                   "groupId": "EISEI_R7_Q19",
                   "statement": "保護クリームは、作業中に有害な物質が直接皮膚に付着しないようにする目的で塗布するものである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "吸気補助具付き防じんマスク（電動ファン付き呼吸用保護具）は電動ファンで清浄空気を送り込む。通常の防じんマスク（自吸式）とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -599,7 +599,7 @@
                   "groupId": "EISEI_R7_Q20",
                   "statement": "有害物質による健康障害は、多くの場合、諸検査の異常などの他覚的所見より。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "職業性疾病の多くは自覚症状が他覚的所見（血液検査・画像所見等）に先行する場合があり、早期の健康診断が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -608,7 +608,7 @@
                   "groupId": "EISEI_R7_Q20",
                   "statement": "特殊健康診断における生物学的モニタリングによる検査は。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "職業性疾病の多くは自覚症状が他覚的所見（血液検査・画像所見等）に先行する場合があり、早期の健康診断が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -617,7 +617,7 @@
                   "groupId": "EISEI_R7_Q20",
                   "statement": "体内に取り込まれた有機溶剤の生物学的半減期は、数か月と長いので、有機溶剤健康診断における採尿は、任意の時期に行ってよい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "職業性疾病の多くは自覚症状が他覚的所見（血液検査・画像所見等）に先行する場合があり、早期の健康診断が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -626,7 +626,7 @@
                   "groupId": "EISEI_R7_Q20",
                   "statement": "体内に取り込まれた鉛の生物学的半減期は、数時間と短いので、鉛健康診断における採尿及び採血の時期は。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "職業性疾病の多くは自覚症状が他覚的所見（血液検査・画像所見等）に先行する場合があり、早期の健康診断が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -635,7 +635,7 @@
                   "groupId": "EISEI_R7_Q20",
                   "statement": "情報機器作業に係る健康診断では、眼科学的検査などとともに、上肢及び下肢の運動機能の検査を行う。一衛 11/23。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "職業性疾病の多くは自覚症状が他覚的所見（血液検査・画像所見等）に先行する場合があり、早期の健康診断が重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -644,7 +644,7 @@
                   "groupId": "EISEI_R7_Q21",
                   "statement": "常時使用する労働者数が300人の事業場で、法令上、総括安全衛生管理者の選任が義務付けられていない業種は、次のうちどれか。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "総括安全衛生管理者の選任義務がない業種の確認（安衛令2条）。300人以上が対象となる業種は工業的業種・林業等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -653,7 +653,7 @@
                   "groupId": "EISEI_R7_Q21",
                   "statement": "常時使用する労働者数が300人の事業場で、法令上、総括安全衛生管理者の選任が義務付けられていない業種は、次のうちどれか。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "総括安全衛生管理者の選任義務がない業種の確認（安衛令2条）。300人以上が対象となる業種は工業的業種・林業等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -662,7 +662,7 @@
                   "groupId": "EISEI_R7_Q21",
                   "statement": "常時使用する労働者数が300人の事業場で、法令上、総括安全衛生管理者の選任が義務付けられていない業種は、次のうちどれか。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "総括安全衛生管理者の選任義務がない業種の確認（安衛令2条）。300人以上が対象となる業種は工業的業種・林業等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -671,7 +671,7 @@
                   "groupId": "EISEI_R7_Q21",
                   "statement": "常時使用する労働者数が300人の事業場で、法令上、総括安全衛生管理者の選任が義務付けられていない業種は、次のうちどれか。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "総括安全衛生管理者の選任義務がない業種の確認（安衛令2条）。300人以上が対象となる業種は工業的業種・林業等。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -680,7 +680,7 @@
                   "groupId": "EISEI_R7_Q22",
                   "statement": "危険性又は有害性等の調査及びその結果に基づき講ずる措置に関すること。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "安全衛生委員会（または安全委員会・衛生委員会）の調査審議事項にはリスクアセスメント結果・安全衛生に係る計画等が含まれる（安衛法18条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -689,7 +689,7 @@
                   "groupId": "EISEI_R7_Q22",
                   "statement": "安全衛生に関する方針の表明に関すること。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "安全衛生委員会（または安全委員会・衛生委員会）の調査審議事項にはリスクアセスメント結果・安全衛生に係る計画等が含まれる（安衛法18条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -698,7 +698,7 @@
                   "groupId": "EISEI_R7_Q22",
                   "statement": "衛生推進者の指揮に関すること。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "安全衛生委員会（または安全委員会・衛生委員会）の調査審議事項にはリスクアセスメント結果・安全衛生に係る計画等が含まれる（安衛法18条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -707,7 +707,7 @@
                   "groupId": "EISEI_R7_Q22",
                   "statement": "労働者の衛生のための教育の実施に関すること。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "安全衛生委員会（または安全委員会・衛生委員会）の調査審議事項にはリスクアセスメント結果・安全衛生に係る計画等が含まれる（安衛法18条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -716,7 +716,7 @@
                   "groupId": "EISEI_R7_Q22",
                   "statement": "労働災害の原因の調査及び再発防止対策に関すること。一衛 12/23。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "安全衛生委員会（または安全委員会・衛生委員会）の調査審議事項にはリスクアセスメント結果・安全衛生に係る計画等が含まれる（安衛法18条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -725,7 +725,7 @@
                   "groupId": "EISEI_R7_Q23",
                   "statement": "衛生委員会の議長を除く委員の半数については、事業場に労働者の過半数で組織する労働組合がないときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "衛生委員会の委員のうち議長以外の半数は、過半数組合（ない場合は過半数代表者）の推薦に基づき事業者が指名する（安衛法18条4項）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -734,7 +734,7 @@
                   "groupId": "EISEI_R7_Q23",
                   "statement": "事業場に専属でないが、産業医として選任している医師を、衛生委員会の委員として指名することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "衛生委員会の委員のうち議長以外の半数は、過半数組合（ない場合は過半数代表者）の推薦に基づき事業者が指名する（安衛法18条4項）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -743,7 +743,7 @@
                   "groupId": "EISEI_R7_Q23",
                   "statement": "事業場の労働者で、衛生に関し経験を有するものを、衛生委員会の委員として指名することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "衛生委員会の委員のうち議長以外の半数は、過半数組合（ない場合は過半数代表者）の推薦に基づき事業者が指名する（安衛法18条4項）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -752,7 +752,7 @@
                   "groupId": "EISEI_R7_Q24",
                   "statement": "事業者は、面接指導の対象となる労働者の要件に該当する労働者から申出があったときは。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "面接指導の対象となる労働者から申し出があった場合、事業者は遅滞なく医師による面接指導を行わなければならない（安衛法66条の8）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -761,7 +761,7 @@
                   "groupId": "EISEI_R7_Q24",
                   "statement": "面接指導を行う医師として事業者が指名できる医師は、法定の研修を修了した医師に限られる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "面接指導の対象となる労働者から申し出があった場合、事業者は遅滞なく医師による面接指導を行わなければならない（安衛法66条の8）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -770,7 +770,7 @@
                   "groupId": "EISEI_R7_Q24",
                   "statement": "常時50人以上の労働者を使用する事業者は、１年以内ごとに１回。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "面接指導の対象となる労働者から申し出があった場合、事業者は遅滞なく医師による面接指導を行わなければならない（安衛法66条の8）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -779,7 +779,7 @@
                   "groupId": "EISEI_R7_Q24",
                   "statement": "面接指導の結果は、健康診断個人票に記載しなければならない。一衛 13/23。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "面接指導の対象となる労働者から申し出があった場合、事業者は遅滞なく医師による面接指導を行わなければならない（安衛法66条の8）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -788,7 +788,7 @@
                   "groupId": "EISEI_R7_Q25",
                   "statement": "男性５人を含む常時30人の労働者が就業している事業場で、女性用にはが が臥床することのできる休養室を設けているが。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "男性5人を含む30人が就業する事業場では男女ともに休養室（または休憩設備）の設置が必要。女性用臥床設備の基準も確認が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -797,7 +797,7 @@
                   "groupId": "EISEI_R7_Q25",
                   "statement": "事業場に附属する食堂の床面積を、食事の際の１人について、１ｍ２を超えるようにしている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "男性5人を含む30人が就業する事業場では男女ともに休養室（または休憩設備）の設置が必要。女性用臥床設備の基準も確認が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -806,7 +806,7 @@
                   "groupId": "EISEI_R7_Q25",
                   "statement": "事業場に附属する炊事場の入口には、洗浄剤を含浸させたマットを設置して、土足のままでも立ち入ることができるようにしている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "男性5人を含む30人が就業する事業場では男女ともに休養室（または休憩設備）の設置が必要。女性用臥床設備の基準も確認が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -815,7 +815,7 @@
                   "groupId": "EISEI_R7_Q26",
                   "statement": "妊産婦とは、妊娠中の女性及び産後１年を経過しない女性をいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "妊産婦の定義は妊娠中の女性および産後1年を経過しない女性（労働基準法64条の3）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -824,7 +824,7 @@
                   "groupId": "EISEI_R7_Q26",
                   "statement": "１年単位の変形労働時間制を採用している場合であっても、妊産婦が請求した場合には。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "妊産婦の定義は妊娠中の女性および産後1年を経過しない女性（労働基準法64条の3）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -833,7 +833,7 @@
                   "groupId": "EISEI_R7_Q26",
                   "statement": "時間外・休日労働に関する協定を締結し、これを所轄労働基準監督署長に届け出ている場合であっても。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "妊産婦の定義は妊娠中の女性および産後1年を経過しない女性（労働基準法64条の3）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -842,7 +842,7 @@
                   "groupId": "EISEI_R7_Q26",
                   "statement": "生理日の就業が著しく困難な女性が休暇を請求したときは、その者を生理日に就業させてはならない。一衛 14/23。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "妊産婦の定義は妊娠中の女性および産後1年を経過しない女性（労働基準法64条の3）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -856,7 +856,7 @@
                   "groupId": "EISEI_R7_Q27",
                   "statement": "休暇の期間については、原則として、最低賃金又は平均賃金の100分の60の額の手当を支払わなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "産前産後休暇期間中の手当（健康保険の出産手当金）は標準報酬日額の3分の2が支払われる。100分の60は最低賃金の規定等とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -865,7 +865,7 @@
                   "groupId": "EISEI_R7_Q27",
                   "statement": "法令に基づく育児休業又は介護休業で休業した期間は、出勤率の算定に当たっては、全労働日から除外して算出することができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "産前産後休暇期間中の手当（健康保険の出産手当金）は標準報酬日額の3分の2が支払われる。100分の60は最低賃金の規定等とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -874,7 +874,7 @@
                   "groupId": "EISEI_R7_Q27",
                   "statement": "一週間の所定労働時間が30時間で、一週間の所定労働日数が４日である労働者であって。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "産前産後休暇期間中の手当（健康保険の出産手当金）は標準報酬日額の3分の2が支払われる。100分の60は最低賃金の規定等とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -883,7 +883,7 @@
                   "groupId": "EISEI_R7_Q27",
                   "statement": "休暇の請求権は、これを１年間行使しなければ時効によって消滅する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "産前産後休暇期間中の手当（健康保険の出産手当金）は標準報酬日額の3分の2が支払われる。100分の60は最低賃金の規定等とは異なる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -892,7 +892,7 @@
                   "groupId": "EISEI_R7_Q28",
                   "statement": "ディスプレイとの視距離は、おおむね50cmとし、ディスプレイ画面の上端を眼の高さよりもやや下にしている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "VDT作業（ディスプレイ作業）のガイドラインでは視距離はおおむね40cm以上、ディスプレイ上端は眼の高さより下が推奨。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -901,7 +901,7 @@
                   "groupId": "EISEI_R7_Q28",
                   "statement": "グレアの防止、騒音の低減等の措置状況及び椅子、机等の調整状況について定期に点検している。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "VDT作業（ディスプレイ作業）のガイドラインでは視距離はおおむね40cm以上、ディスプレイ上端は眼の高さより下が推奨。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -910,7 +910,7 @@
                   "groupId": "EISEI_R7_Q28",
                   "statement": "１日の情報機器作業の作業時間が４時間未満である労働者については、自覚症状を訴える者についてのみ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "VDT作業（ディスプレイ作業）のガイドラインでは視距離はおおむね40cm以上、ディスプレイ上端は眼の高さより下が推奨。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -919,7 +919,7 @@
                   "groupId": "EISEI_R7_Q28",
                   "statement": "情報機器作業に係る定期健康診断の視力検査において、近見視力の片眼視力が両眼とも0.5以上である者については。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "VDT作業（ディスプレイ作業）のガイドラインでは視距離はおおむね40cm以上、ディスプレイ上端は眼の高さより下が推奨。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -928,7 +928,7 @@
                   "groupId": "EISEI_R7_Q29",
                   "statement": "病休度数率は、在籍労働者の延べ実労働時間数100万時間当たりの疾病休業件数で示される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "病休度数率＝（疾病休業件数÷在籍者の延べ実労働時間数）×100万。実労働時間100万時間当たりの件数で表す。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -937,7 +937,7 @@
                   "groupId": "EISEI_R7_Q29",
                   "statement": "集団を比較する場合、調査の対象とした項目のデータの平均値が等しくても分散が異なっていれば。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "病休度数率＝（疾病休業件数÷在籍者の延べ実労働時間数）×100万。実労働時間100万時間当たりの件数で表す。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -946,7 +946,7 @@
                   "groupId": "EISEI_R7_Q29",
                   "statement": "ばらつきをもって分布するデータの代表値として、平均値、中央値などがあるが。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "病休度数率＝（疾病休業件数÷在籍者の延べ実労働時間数）×100万。実労働時間100万時間当たりの件数で表す。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -955,7 +955,7 @@
                   "groupId": "EISEI_R7_Q29",
                   "statement": "二つの事象の間に、統計上、一方が多いと他方も多いというような相関関係が認められても。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "病休度数率＝（疾病休業件数÷在籍者の延べ実労働時間数）×100万。実労働時間100万時間当たりの件数で表す。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -964,7 +964,7 @@
                   "groupId": "EISEI_R7_Q29",
                   "statement": "健康管理統計において、ある時点での検査における有所見者の割合を有所見率といい、これは発生率と同じ意味で用いられる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "病休度数率＝（疾病休業件数÷在籍者の延べ実労働時間数）×100万。実労働時間100万時間当たりの件数で表す。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -973,7 +973,7 @@
                   "groupId": "EISEI_R7_Q30",
                   "statement": "健康測定の結果に基づき行う健康指導には、運動指導、メンタルヘルスケくうア、栄養指導、口腔保健指導、保健指導が含まれる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "THP（トータル・ヘルス・プロモーション・プラン）に基づく健康指導には運動指導・メンタルヘルスケア・栄養指導・口腔保健指導・保健指導が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -982,7 +982,7 @@
                   "groupId": "EISEI_R7_Q30",
                   "statement": "健康保持増進に関する課題の把握や目標の設定等においては。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "THP（トータル・ヘルス・プロモーション・プラン）に基づく健康指導には運動指導・メンタルヘルスケア・栄養指導・口腔保健指導・保健指導が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -991,7 +991,7 @@
                   "groupId": "EISEI_R7_Q30",
                   "statement": "健康測定とは、健康指導を行うために実施される調査、測定等のことをいい。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "THP（トータル・ヘルス・プロモーション・プラン）に基づく健康指導には運動指導・メンタルヘルスケア・栄養指導・口腔保健指導・保健指導が含まれる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1000,7 +1000,7 @@
                   "groupId": "EISEI_R7_Q31",
                   "statement": "出血性の脳血管疾患は、脳表面のくも膜下腔に出血するくも膜下出血、脳実質内に出血する脳出血などに分類される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "脳血管疾患は出血性（くも膜下出血・脳出血）と虚血性（脳梗塞・一過性脳虚血発作）に分類される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1009,7 +1009,7 @@
                   "groupId": "EISEI_R7_Q31",
                   "statement": "虚血性の脳血管疾患である脳梗塞は、脳血管自体の動脈硬化性病変による脳塞栓症と。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "脳血管疾患は出血性（くも膜下出血・脳出血）と虚血性（脳梗塞・一過性脳虚血発作）に分類される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1018,7 +1018,7 @@
                   "groupId": "EISEI_R7_Q31",
                   "statement": "虚血性心疾患は、冠動脈による心筋への血液の供給が不足したり途絶えることにより起こる心筋障害である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "脳血管疾患は出血性（くも膜下出血・脳出血）と虚血性（脳梗塞・一過性脳虚血発作）に分類される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1027,7 +1027,7 @@
                   "groupId": "EISEI_R7_Q31",
                   "statement": "運動負荷心電図検査は、虚血性心疾患の発見に有用である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "脳血管疾患は出血性（くも膜下出血・脳出血）と虚血性（脳梗塞・一過性脳虚血発作）に分類される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1036,7 +1036,7 @@
                   "groupId": "EISEI_R7_Q32",
                   "statement": "たばこの煙の流出を防止するための技術的基準に適合した喫煙専用室においては。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "改正健康増進法・受動喫煙防止措置により、喫煙専用室でも一定の技術基準（煙の流出防止）への適合が必要。飲食や喫煙以外の行為は制限される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1045,7 +1045,7 @@
                   "groupId": "EISEI_R7_Q32",
                   "statement": "第一種施設は、「原則敷地内禁煙」とされており、敷地内に喫煙場所を一切設置してはならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "改正健康増進法・受動喫煙防止措置により、喫煙専用室でも一定の技術基準（煙の流出防止）への適合が必要。飲食や喫煙以外の行為は制限される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1054,7 +1054,7 @@
                   "groupId": "EISEI_R7_Q32",
                   "statement": "一般の事務所や工場は、第二種施設に含まれ、「原則屋内禁煙」とされている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "改正健康増進法・受動喫煙防止措置により、喫煙専用室でも一定の技術基準（煙の流出防止）への適合が必要。飲食や喫煙以外の行為は制限される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1063,7 +1063,7 @@
                   "groupId": "EISEI_R7_Q33",
                   "statement": "身長175cm、体重80kg、腹囲88cmの人のＢＭＩに最も近い値は、次のうちどれか。は26である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "BMI＝体重(kg)÷身長(m)²。175cm・80kgの場合、BMI＝80÷(1.75)²≒26.1。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1072,7 +1072,7 @@
                   "groupId": "EISEI_R7_Q33",
                   "statement": "身長175cm、体重80kg、腹囲88cmの人のＢＭＩに最も近い値は、次のうちどれか。は29である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "BMI＝体重(kg)÷身長(m)²。175cm・80kgの場合、BMI＝80÷(1.75)²≒26.1。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1081,7 +1081,7 @@
                   "groupId": "EISEI_R7_Q33",
                   "statement": "身長175cm、体重80kg、腹囲88cmの人のＢＭＩに最も近い値は、次のうちどれか。は37である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "BMI＝体重(kg)÷身長(m)²。175cm・80kgの場合、BMI＝80÷(1.75)²≒26.1。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1090,7 +1090,7 @@
                   "groupId": "EISEI_R7_Q33",
                   "statement": "身長175cm、体重80kg、腹囲88cmの人のＢＭＩに最も近い値は、次のうちどれか。は40である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "BMI＝体重(kg)÷身長(m)²。175cm・80kgの場合、BMI＝80÷(1.75)²≒26.1。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -1104,7 +1104,7 @@
                   "groupId": "EISEI_R7_Q34",
                   "statement": "魚、チーズなどに含まれるヒスチジンが細菌により分解されて生成するヒスタミンは、加熱により分解される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "ヒスタミン（アレルギー様食中毒の原因）は加熱では分解されない。細菌（Morganella morganii等）がヒスチジンを分解して生成。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1113,7 +1113,7 @@
                   "groupId": "EISEI_R7_Q34",
                   "statement": "黄色ブドウ球菌による毒素は、熱に強い。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヒスタミン（アレルギー様食中毒の原因）は加熱では分解されない。細菌（Morganella morganii等）がヒスチジンを分解して生成。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1122,7 +1122,7 @@
                   "groupId": "EISEI_R7_Q34",
                   "statement": "サルモネラ菌による食中毒は、食品に付着した菌が腸管内で増殖して発症する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヒスタミン（アレルギー様食中毒の原因）は加熱では分解されない。細菌（Morganella morganii等）がヒスチジンを分解して生成。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1131,7 +1131,7 @@
                   "groupId": "EISEI_R7_Q34",
                   "statement": "ウェルシュ菌、セレウス菌及びカンピロバクターは、いずれも細菌性食中毒の原因菌である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ヒスタミン（アレルギー様食中毒の原因）は加熱では分解されない。細菌（Morganella morganii等）がヒスチジンを分解して生成。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1140,7 +1140,7 @@
                   "groupId": "EISEI_R7_Q35",
                   "statement": "赤血球は、骨髄で産生され、寿命は約120日で、血球の中で最も多い。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "赤血球は骨髄（赤色骨髄）で産生され、寿命は約120日。核がなく酸素運搬のためのヘモグロビンを多量に含む。血球の中で最多。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1149,7 +1149,7 @@
                   "groupId": "EISEI_R7_Q35",
                   "statement": "リンパ球は、白血球の約30％を占め、Ｔリンパ球、Ｂリンパ球などの種類があり、免疫反応に関与している。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "赤血球は骨髄（赤色骨髄）で産生され、寿命は約120日。核がなく酸素運搬のためのヘモグロビンを多量に含む。血球の中で最多。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1158,7 +1158,7 @@
                   "groupId": "EISEI_R7_Q35",
                   "statement": "血小板は、直径２～３µmの不定形細胞で、止血作用を持つ。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "赤血球は骨髄（赤色骨髄）で産生され、寿命は約120日。核がなく酸素運搬のためのヘモグロビンを多量に含む。血球の中で最多。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1167,7 +1167,7 @@
                   "groupId": "EISEI_R7_Q36",
                   "statement": "肺循環により左心房に戻ってきた血液は、左心室を経て大動脈に入る。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "肺循環：右心室→肺動脈→肺（ガス交換）→肺静脈→左心房。大循環：左心室→大動脈→全身→大静脈→右心房。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1176,7 +1176,7 @@
                   "groupId": "EISEI_R7_Q36",
                   "statement": "大動脈を流れる血液は動脈血であるが、肺動脈を流れる血液は静脈血である。しょう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "肺循環：右心室→肺動脈→肺（ガス交換）→肺静脈→左心房。大循環：左心室→大動脈→全身→大静脈→右心房。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1185,7 +1185,7 @@
                   "groupId": "EISEI_R7_Q36",
                   "statement": "心臓の拍動による動脈圧の変動を末梢の動脈で触知したものを脈拍といい、とう一般に、手首の橈骨動脈で触知する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "肺循環：右心室→肺動脈→肺（ガス交換）→肺静脈→左心房。大循環：左心室→大動脈→全身→大静脈→右心房。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1194,7 +1194,7 @@
                   "groupId": "EISEI_R7_Q37",
                   "statement": "呼吸運動は、肋間筋、横隔膜などの呼吸筋によって胸郭内容積を周期的に増減し、それに伴って肺を伸縮させることにより行われる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "呼吸運動は横隔膜（主）と外肋間筋の収縮で胸郭が拡大（吸気）、弛緩で縮小（呼気）。肺自体に筋肉はなく受動的に伸縮する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1203,7 +1203,7 @@
                   "groupId": "EISEI_R7_Q37",
                   "statement": "胸郭内容積が増し、その内圧が低くなるにつれ、鼻腔、気管などの気道を経て肺内へ流れ込む空気が吸気である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "呼吸運動は横隔膜（主）と外肋間筋の収縮で胸郭が拡大（吸気）、弛緩で縮小（呼気）。肺自体に筋肉はなく受動的に伸縮する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1212,7 +1212,7 @@
                   "groupId": "EISEI_R7_Q37",
                   "statement": "肺胞内の空気と肺胞を取り巻く毛細血管中の血液との間で行われるガス交換は、外呼吸である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "呼吸運動は横隔膜（主）と外肋間筋の収縮で胸郭が拡大（吸気）、弛緩で縮小（呼気）。肺自体に筋肉はなく受動的に伸縮する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1221,7 +1221,7 @@
                   "groupId": "EISEI_R7_Q37",
                   "statement": "呼吸数は、通常、１分間に16～20回で、成人の安静時の１回呼吸量は、約500mLである。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "呼吸運動は横隔膜（主）と外肋間筋の収縮で胸郭が拡大（吸気）、弛緩で縮小（呼気）。肺自体に筋肉はなく受動的に伸縮する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1230,7 +1230,7 @@
                   "groupId": "EISEI_R7_Q37",
                   "statement": "身体活動時には、血液中の二酸化炭素分圧の上昇などにより間脳の視床下部にある呼吸中枢が刺激され。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "呼吸運動は横隔膜（主）と外肋間筋の収縮で胸郭が拡大（吸気）、弛緩で縮小（呼気）。肺自体に筋肉はなく受動的に伸縮する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1239,7 +1239,7 @@
                   "groupId": "EISEI_R7_Q39",
                   "statement": "寒冷な環境においては、皮膚の血管が収縮して血流量が減って、熱の放散が減少する。こう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "寒冷環境では皮膚血管が収縮して体表面への血流が減少し、熱の放散（放熱）が抑制される。これにより体温が保持される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1248,7 +1248,7 @@
                   "groupId": "EISEI_R7_Q39",
                   "statement": "暑熱な環境においては、内臓の血流量が増加し体内の代謝活動が亢進することにより、人体からの熱の放散が促進される。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "寒冷環境では皮膚血管が収縮して体表面への血流が減少し、熱の放散（放熱）が抑制される。これにより体温が保持される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1257,7 +1257,7 @@
                   "groupId": "EISEI_R7_Q39",
                   "statement": "体温調節にみられるように、外部環境などが変化しても身体内部の状態を一定に保とうとする性質を恒常性という。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "寒冷環境では皮膚血管が収縮して体表面への血流が減少し、熱の放散（放熱）が抑制される。これにより体温が保持される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1266,7 +1266,7 @@
                   "groupId": "EISEI_R7_Q39",
                   "statement": "計算上、100ｇの水分が体重70㎏の人の体表面から蒸発すると、気化熱が奪われ、体温が約１℃下がる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "寒冷環境では皮膚血管が収縮して体表面への血流が減少し、熱の放散（放熱）が抑制される。これにより体温が保持される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1275,7 +1275,7 @@
                   "groupId": "EISEI_R7_Q40",
                   "statement": "腎臓の腎小体では、糸球体から血液中の蛋白質以外の血漿成分がボウマのう こン嚢に濾し出され、原尿が生成される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "腎小体では糸球体から血漿中のタンパク質・血球を除いた成分（水・尿素・電解質等）がボウマン嚢に濾し出されて原尿となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1284,7 +1284,7 @@
                   "groupId": "EISEI_R7_Q40",
                   "statement": "腎臓の尿細管では、原尿に含まれる大部分の水分及び身体に必要な成分が血液中に再吸収され、残りが尿として生成される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "腎小体では糸球体から血漿中のタンパク質・血球を除いた成分（水・尿素・電解質等）がボウマン嚢に濾し出されて原尿となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1293,7 +1293,7 @@
                   "groupId": "EISEI_R7_Q40",
                   "statement": "尿の生成・排出により、体内の水分の量やナトリウムなどの電解質の濃度を調節するとともに。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "腎小体では糸球体から血漿中のタンパク質・血球を除いた成分（水・尿素・電解質等）がボウマン嚢に濾し出されて原尿となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1302,7 +1302,7 @@
                   "groupId": "EISEI_R7_Q40",
                   "statement": "血液中の尿素窒素(ＢＵＮ)の値が低くなる場合は、腎臓の機能の低下が考えられる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "腎小体では糸球体から血漿中のタンパク質・血球を除いた成分（水・尿素・電解質等）がボウマン嚢に濾し出されて原尿となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1311,7 +1311,7 @@
                   "groupId": "EISEI_R7_Q40",
                   "statement": "尿の約95％は水分で、約５％が固形物であるが、その成分は全身の健康状態をよく反映するので。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "腎小体では糸球体から血漿中のタンパク質・血球を除いた成分（水・尿素・電解質等）がボウマン嚢に濾し出されて原尿となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1320,7 +1320,7 @@
                   "groupId": "EISEI_R7_Q41",
                   "statement": "筋収縮には、グリコーゲン、りん酸化合物などのエネルギー源が必要で、特に。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "筋収縮にはATP（アデノシン三リン酸）がエネルギー源として直接使われ、クレアチンリン酸・グリコーゲンからATPが再合成される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1329,7 +1329,7 @@
                   "groupId": "EISEI_R7_Q41",
                   "statement": "筋肉が収縮して出す最大筋力は、筋肉の単位断面積当たりの平均値をとると、性差や年齢差はほとんどない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "筋収縮にはATP（アデノシン三リン酸）がエネルギー源として直接使われ、クレアチンリン酸・グリコーゲンからATPが再合成される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1338,7 +1338,7 @@
                   "groupId": "EISEI_R7_Q41",
                   "statement": "運動することによって筋肉が太くなることを筋肉の活動性肥大という。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "筋収縮にはATP（アデノシン三リン酸）がエネルギー源として直接使われ、クレアチンリン酸・グリコーゲンからATPが再合成される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1347,7 +1347,7 @@
                   "groupId": "EISEI_R7_Q42",
                   "statement": "老視(老眼)とは、加齢によって水晶体が徐々に変性して調節できる範囲が狭まり、近点が遠くなり、遠点が近くなることをいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "老視（老眼）は水晶体の弾力低下により調節力が衰え、近くにピントが合わせにくくなる。近点が遠ざかる（遠点は変わらない）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1356,7 +1356,7 @@
                   "groupId": "EISEI_R7_Q42",
                   "statement": "半規管は体の傾きの方向や大きさを感じ、前庭は体の回転の方向や速度を感じる平衡感覚器であり、いずれも内耳にある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "老視（老眼）は水晶体の弾力低下により調節力が衰え、近くにピントが合わせにくくなる。近点が遠ざかる（遠点は変わらない）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1365,7 +1365,7 @@
                   "groupId": "EISEI_R7_Q42",
                   "statement": "皮膚感覚には触圧覚、温度覚、痛覚などがあり、これらのうち温覚を感じる場所は、他の感覚を感じる場所よりも密度が高い。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "老視（老眼）は水晶体の弾力低下により調節力が衰え、近くにピントが合わせにくくなる。近点が遠ざかる（遠点は変わらない）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1374,7 +1374,7 @@
                   "groupId": "EISEI_R7_Q43",
                   "statement": "ストレスにより、高血圧症、狭心症、十二指腸潰瘍などの疾患が生じることがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ストレスは自律神経・内分泌系を介して高血圧・胃・十二指腸潰瘍・狭心症・過敏性腸症候群等の身体疾患を引き起こす（心身症）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1383,7 +1383,7 @@
                   "groupId": "EISEI_R7_Q43",
                   "statement": "昇進、転勤、配置替えなどがストレスの原因となることがある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "ストレスは自律神経・内分泌系を介して高血圧・胃・十二指腸潰瘍・狭心症・過敏性腸症候群等の身体疾患を引き起こす（心身症）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
