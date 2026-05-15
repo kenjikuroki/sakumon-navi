@@ -1,0 +1,3296 @@
+{
+  "apps": {
+    "fp3": {
+      "years": [
+        {
+          "examYear": "2025年5月",
+          "sourceType": "official",
+          "categories": [
+            {
+              "categoryName": "正誤問題（問1〜30）",
+              "questions": [
+                {
+                  "id": "fp3_202505_Q01_1",
+                  "groupId": "fp3_202505_Q01",
+                  "statement": "税理士の登録を受けていないファイナンシャル・プランナーが、顧客のために反復継\n続して確定申告書を作成しても、その行為が無償であれば税理士法に抵触しない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q02_1",
+                  "groupId": "fp3_202505_Q02",
+                  "statement": "雇用保険の高年齢雇用継続基本給付金は、原則として、60歳以上65歳未満の被保険者\nが、60歳到達時点に比べて賃金月額が85％未満に低下した状態で就労している場合に支\n給される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q03_1",
+                  "groupId": "fp3_202505_Q03",
+                  "statement": "国民年金の第１号被保険者の収入により生計を維持している配偶者で、20歳以上60歳\n未満の者は、国民年金の第３号被保険者となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q04_1",
+                  "groupId": "fp3_202505_Q04",
+                  "statement": "国民年金の第３号被保険者は、確定拠出年金の個人型年金に加入することができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q05_1",
+                  "groupId": "fp3_202505_Q05",
+                  "statement": "小規模企業共済の掛金月額は、1,000円から７万円までの範囲内で500円単位で選択す\nることができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q06_1",
+                  "groupId": "fp3_202505_Q06",
+                  "statement": "契約転換制度を利用して、現在契約している生命保険を新たな契約に転換する場合、\n転換後契約の保険料は、転換前契約の加入時の年齢に応じた保険料率により算出される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q07_1",
+                  "groupId": "fp3_202505_Q07",
+                  "statement": "定期保険特約付終身保険（更新型）は、定期保険特約の更新の都度、告知が必要であ\nり、被保険者の健康状態によっては定期保険特約を更新することができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q08_1",
+                  "groupId": "fp3_202505_Q08",
+                  "statement": "個人年金保険（終身年金）の保険料は、他の契約条件が同一であれば、被保険者が女\n性のほうが男性よりも高くなる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q09_1",
+                  "groupId": "fp3_202505_Q09",
+                  "statement": "国内旅行傷害保険では、一般に、被保険者が国内旅行中にかかった細菌性食中毒は、\n補償の対象となる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q10_1",
+                  "groupId": "fp3_202505_Q10",
+                  "statement": "自動車保険の人身傷害保険では、記名被保険者が被保険自動車を運転中に自動車同士\nの衝突事故により負傷した場合、自己の過失割合にかかわらず、保険金額を限度として\n損害額が補償される。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q11_1",
+                  "groupId": "fp3_202505_Q11",
+                  "statement": "米国の市場金利が上昇し、日本と米国の金利差が拡大することは、一般に、米ドル高／\n円安の要因となる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q12_1",
+                  "groupId": "fp3_202505_Q12",
+                  "statement": "公社債投資信託は、信託財産に株式をいっさい組み入れることができない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q13_1",
+                  "groupId": "fp3_202505_Q13",
+                  "statement": "一般に、市場金利が上昇すると債券価格は上昇し、市場金利が低下すると債券価格は\n下落する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q14_1",
+                  "groupId": "fp3_202505_Q14",
+                  "statement": "国内の証券取引所に上場している内国株式を普通取引により売買する場合、指値注文\nは成行注文に優先して売買が成立する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q15_1",
+                  "groupId": "fp3_202505_Q15",
+                  "statement": "犯罪による収益の移転防止に関する法律（犯罪収益移転防止法）によれば、金融機関\n等の特定事業者が顧客と特定業務に係る取引を行った場合、特定事業者は、原則として、\n直ちに当該取引に関する記録を作成し、当該取引の行われた日から７年間保存しなけれ\nばならないとされている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q16_1",
+                  "groupId": "fp3_202505_Q16",
+                  "statement": "所得税において、病気で入院したことにより医療保険の被保険者が受け取った入院給\n付金は、非課税である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q17_1",
+                  "groupId": "fp3_202505_Q17",
+                  "statement": "所得税において、その年中の給与等の収入金額が103万円以下である場合、給与所得の\n金額は０（ゼロ）となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q18_1",
+                  "groupId": "fp3_202505_Q18",
+                  "statement": "所得税において、物品販売業を営む個人事業主による事業所得の金額の計算上、商品の\n売上原価は、「期末商品棚卸高＋仕入金額－期首商品棚卸高」の算式により計算する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q19_1",
+                  "groupId": "fp3_202505_Q19",
+                  "statement": "所得税において、賃貸アパートの土地および建物を譲渡したことによる譲渡所得の金\n額の計算上生じた損失の金額は、他の所得金額と損益通算することができない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q20_1",
+                  "groupId": "fp3_202505_Q20",
+                  "statement": "所得税において、納税者の合計所得金額が1,000万円を超えている場合、配偶者の合計\n所得金額の多寡にかかわらず、納税者は配偶者控除の適用を受けることはできない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q21_1",
+                  "groupId": "fp3_202505_Q21",
+                  "statement": "不動産の登記記録において、所有権に関する登記事項は、権利部の甲区に記録される。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q22_1",
+                  "groupId": "fp3_202505_Q22",
+                  "statement": "借地借家法によれば、定期借地権の設定を目的とする契約は、定期借地権の種類にか\nかわらず、公正証書によってしなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q23_1",
+                  "groupId": "fp3_202505_Q23",
+                  "statement": "都市計画法によれば、市街化区域内において行う開発行為は、その規模にかかわらず、\n都道府県知事等の許可を受けなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q24_1",
+                  "groupId": "fp3_202505_Q24",
+                  "statement": "土地や建物を取得し、所有権の移転登記を行う際に課される税金は、登録免許税であ\nる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q25_1",
+                  "groupId": "fp3_202505_Q25",
+                  "statement": "土地の有効活用において、一般に、土地所有者が入居予定の事業会社から建設資金を\n借り受けて、事業会社の要望に沿った建物を建設し、その建物を事業会社に賃貸する方\n式を、事業受託方式という。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q26_1",
+                  "groupId": "fp3_202505_Q26",
+                  "statement": "「直系尊属から教育資金の一括贈与を受けた場合の贈与税の非課税」による非課税限度\n額は、受贈者ごとに2,000万円（そのうち学校等以外の者に支払われる金銭は1,000万円）\nである。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q27_1",
+                  "groupId": "fp3_202505_Q27",
+                  "statement": "公正証書遺言の作成においては、証人２人以上の立会いが必要であるが、遺言者の推\n定相続人はその証人となることができない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q28_1",
+                  "groupId": "fp3_202505_Q28",
+                  "statement": "相続税額の計算上、死亡保険金の非課税金額の規定による非課税限度額は、「1,000万\n円×法定相続人の数」の算式により計算する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q29_1",
+                  "groupId": "fp3_202505_Q29",
+                  "statement": "被相続人の配偶者が「配偶者に対する相続税額の軽減」の適用を受けた場合、配偶者\nの相続税の課税価格が、相続税の課税価格の合計額に対する配偶者の法定相続分相当額\nまたは２億円のいずれか多い金額までであれば、原則として、配偶者が納付すべき相続\n税額は算出されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q30_1",
+                  "groupId": "fp3_202505_Q30",
+                  "statement": "贈与税の申告書は、受贈者が贈与者の住所地の所轄税務署長に提出しなければならな\nい。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                }
+              ]
+            },
+            {
+              "categoryName": "三択問題（問31〜60）",
+              "questions": [
+                {
+                  "id": "fp3_202505_Q31_1",
+                  "groupId": "fp3_202505_Q31",
+                  "statement": "Ａさんの可処分所得（年間）の金額は、下記の〈資料〉によれば、（ ）である。\n〈資料〉Ａさんの年間収入等\n給与収入 ： 800万円（給与所得 ： 610万円）\n所得税・住民税 ： 60万円\n社会保険料 ： 100万円\n生命保険料 ： 10万円\n選択肢1）450万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q31_2",
+                  "groupId": "fp3_202505_Q31",
+                  "statement": "Ａさんの可処分所得（年間）の金額は、下記の〈資料〉によれば、（ ）である。\n〈資料〉Ａさんの年間収入等\n給与収入 ： 800万円（給与所得 ： 610万円）\n所得税・住民税 ： 60万円\n社会保険料 ： 100万円\n生命保険料 ： 10万円\n選択肢2）630万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q31_3",
+                  "groupId": "fp3_202505_Q31",
+                  "statement": "Ａさんの可処分所得（年間）の金額は、下記の〈資料〉によれば、（ ）である。\n〈資料〉Ａさんの年間収入等\n給与収入 ： 800万円（給与所得 ： 610万円）\n所得税・住民税 ： 60万円\n社会保険料 ： 100万円\n生命保険料 ： 10万円\n選択肢3）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q32_1",
+                  "groupId": "fp3_202505_Q32",
+                  "statement": "全国健康保険協会管掌健康保険に任意継続被保険者として加入することができる期間\nは、任意継続被保険者となった日から最長で（ ）である。\n選択肢1）１年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q32_2",
+                  "groupId": "fp3_202505_Q32",
+                  "statement": "全国健康保険協会管掌健康保険に任意継続被保険者として加入することができる期間\nは、任意継続被保険者となった日から最長で（ ）である。\n選択肢2）－6－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q32_3",
+                  "groupId": "fp3_202505_Q32",
+                  "statement": "全国健康保険協会管掌健康保険に任意継続被保険者として加入することができる期間\nは、任意継続被保険者となった日から最長で（ ）である。\n選択肢3）５年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q33_1",
+                  "groupId": "fp3_202505_Q33",
+                  "statement": "65歳到達時に老齢基礎年金の受給資格期間を満たしている者が、70歳０カ月で老齢基\n礎年金の繰下げ支給の申出をし、支給開始を60カ月繰り下げた場合、老齢基礎年金の増\n額率は（ ）となる。\n選択肢1）30％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q33_2",
+                  "groupId": "fp3_202505_Q33",
+                  "statement": "65歳到達時に老齢基礎年金の受給資格期間を満たしている者が、70歳０カ月で老齢基\n礎年金の繰下げ支給の申出をし、支給開始を60カ月繰り下げた場合、老齢基礎年金の増\n額率は（ ）となる。\n選択肢2）36％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q33_3",
+                  "groupId": "fp3_202505_Q33",
+                  "statement": "65歳到達時に老齢基礎年金の受給資格期間を満たしている者が、70歳０カ月で老齢基\n礎年金の繰下げ支給の申出をし、支給開始を60カ月繰り下げた場合、老齢基礎年金の増\n額率は（ ）となる。\n選択肢3）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q34_1",
+                  "groupId": "fp3_202505_Q34",
+                  "statement": "遺族厚生年金を受給することができる遺族の範囲は、厚生年金保険の被保険者等の死\n亡の当時、その者によって生計を維持され、かつ、所定の要件を満たす（ ）とさ\nれ、そのうち最も優先順位の高い者に遺族厚生年金が支給される。\n選択肢1）配偶者、子、父母",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q34_2",
+                  "groupId": "fp3_202505_Q34",
+                  "statement": "遺族厚生年金を受給することができる遺族の範囲は、厚生年金保険の被保険者等の死\n亡の当時、その者によって生計を維持され、かつ、所定の要件を満たす（ ）とさ\nれ、そのうち最も優先順位の高い者に遺族厚生年金が支給される。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q34_3",
+                  "groupId": "fp3_202505_Q34",
+                  "statement": "遺族厚生年金を受給することができる遺族の範囲は、厚生年金保険の被保険者等の死\n亡の当時、その者によって生計を維持され、かつ、所定の要件を満たす（ ）とさ\nれ、そのうち最も優先順位の高い者に遺族厚生年金が支給される。\n選択肢3）配偶者、子、父母、孫、祖父母、兄弟姉妹",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q35_1",
+                  "groupId": "fp3_202505_Q35",
+                  "statement": "住宅金融支援機構と民間金融機関が提携した住宅ローンであるフラット35（買取型）\nの融資金利は（ ① ）であり、借入れをする際には、保証人が（ ② ）である。\n選択肢1）－7－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q35_2",
+                  "groupId": "fp3_202505_Q35",
+                  "statement": "住宅金融支援機構と民間金融機関が提携した住宅ローンであるフラット35（買取型）\nの融資金利は（ ① ）であり、借入れをする際には、保証人が（ ② ）である。\n選択肢2）① 固定金利 ② 必要",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q35_3",
+                  "groupId": "fp3_202505_Q35",
+                  "statement": "住宅金融支援機構と民間金融機関が提携した住宅ローンであるフラット35（買取型）\nの融資金利は（ ① ）であり、借入れをする際には、保証人が（ ② ）である。\n選択肢3）① 変動金利 ② 必要",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q36_1",
+                  "groupId": "fp3_202505_Q36",
+                  "statement": "国内で事業を行う損害保険会社が破綻した場合、自動車損害賠償責任保険（自賠責保\n険）について、損害保険契約者保護機構による補償割合は（ ）である。\n選択肢1）80％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q36_2",
+                  "groupId": "fp3_202505_Q36",
+                  "statement": "国内で事業を行う損害保険会社が破綻した場合、自動車損害賠償責任保険（自賠責保\n険）について、損害保険契約者保護機構による補償割合は（ ）である。\n選択肢2）90％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q36_3",
+                  "groupId": "fp3_202505_Q36",
+                  "statement": "国内で事業を行う損害保険会社が破綻した場合、自動車損害賠償責任保険（自賠責保\n険）について、損害保険契約者保護機構による補償割合は（ ）である。\n選択肢3）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q37_1",
+                  "groupId": "fp3_202505_Q37",
+                  "statement": "生命保険会社が（ ）を引き下げた場合、通常、その後の終身保険の新規契約\nの保険料は高くなる。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q37_2",
+                  "groupId": "fp3_202505_Q37",
+                  "statement": "生命保険会社が（ ）を引き下げた場合、通常、その後の終身保険の新規契約\nの保険料は高くなる。\n選択肢2）予定死亡率",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q37_3",
+                  "groupId": "fp3_202505_Q37",
+                  "statement": "生命保険会社が（ ）を引き下げた場合、通常、その後の終身保険の新規契約\nの保険料は高くなる。\n選択肢3）予定事業費率",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q38_1",
+                  "groupId": "fp3_202505_Q38",
+                  "statement": "自動車損害賠償責任保険（自賠責保険）の保険金の支払限度額は、加害車両が１台の\n場合、被害者１人につき、死亡による損害については（ ① ）、傷害による損害につい\nては（ ② ）、後遺障害による損害については障害の程度に応じて75万円から4,000万\n円である。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q38_2",
+                  "groupId": "fp3_202505_Q38",
+                  "statement": "自動車損害賠償責任保険（自賠責保険）の保険金の支払限度額は、加害車両が１台の\n場合、被害者１人につき、死亡による損害については（ ① ）、傷害による損害につい\nては（ ② ）、後遺障害による損害については障害の程度に応じて75万円から4,000万\n円である。\n選択肢2）① 4,000万円 ② 150万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q38_3",
+                  "groupId": "fp3_202505_Q38",
+                  "statement": "自動車損害賠償責任保険（自賠責保険）の保険金の支払限度額は、加害車両が１台の\n場合、被害者１人につき、死亡による損害については（ ① ）、傷害による損害につい\nては（ ② ）、後遺障害による損害については障害の程度に応じて75万円から4,000万\n円である。\n選択肢3）① 5,000万円 ② 200万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q39_1",
+                  "groupId": "fp3_202505_Q39",
+                  "statement": "先進医療特約では、（ ）時点において厚生労働大臣により定められている先進医\n療が先進医療給付金の対象となる。\n選択肢1）申込日",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q39_2",
+                  "groupId": "fp3_202505_Q39",
+                  "statement": "先進医療特約では、（ ）時点において厚生労働大臣により定められている先進医\n療が先進医療給付金の対象となる。\n選択肢2）責任開始日",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q39_3",
+                  "groupId": "fp3_202505_Q39",
+                  "statement": "先進医療特約では、（ ）時点において厚生労働大臣により定められている先進医\n療が先進医療給付金の対象となる。\n選択肢3）－8－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q40_1",
+                  "groupId": "fp3_202505_Q40",
+                  "statement": "個人年金保険（保証期間付終身年金）において、契約者（＝保険料負担者）、被保険者\nおよび年金受取人がＡさんの父親である場合、保証期間内にＡさんの父親が死亡し、残\nりの保証期間についてＡさんが受け取る年金の年金受給権は、（ ）の課税対象とな\nる。\n選択肢1）贈与税",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q40_2",
+                  "groupId": "fp3_202505_Q40",
+                  "statement": "個人年金保険（保証期間付終身年金）において、契約者（＝保険料負担者）、被保険者\nおよび年金受取人がＡさんの父親である場合、保証期間内にＡさんの父親が死亡し、残\nりの保証期間についてＡさんが受け取る年金の年金受給権は、（ ）の課税対象とな\nる。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q40_3",
+                  "groupId": "fp3_202505_Q40",
+                  "statement": "個人年金保険（保証期間付終身年金）において、契約者（＝保険料負担者）、被保険者\nおよび年金受取人がＡさんの父親である場合、保証期間内にＡさんの父親が死亡し、残\nりの保証期間についてＡさんが受け取る年金の年金受給権は、（ ）の課税対象とな\nる。\n選択肢3）所得税",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q41_1",
+                  "groupId": "fp3_202505_Q41",
+                  "statement": "追加型株式投資信託を基準価額11,500円（１万口当たり）で１万口購入した後、最初の\n決算時に１万口当たり700円の収益分配金が支払われ、分配落ち後の基準価額が11,200円\n（１万口当たり）となった場合、その収益分配金のうち、普通分配金は（ ① ）であり、\n元本払戻金（特別分配金）は（ ② ）である。\n選択肢1）① 300円 ② 400円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q41_2",
+                  "groupId": "fp3_202505_Q41",
+                  "statement": "追加型株式投資信託を基準価額11,500円（１万口当たり）で１万口購入した後、最初の\n決算時に１万口当たり700円の収益分配金が支払われ、分配落ち後の基準価額が11,200円\n（１万口当たり）となった場合、その収益分配金のうち、普通分配金は（ ① ）であり、\n元本払戻金（特別分配金）は（ ② ）である。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q41_3",
+                  "groupId": "fp3_202505_Q41",
+                  "statement": "追加型株式投資信託を基準価額11,500円（１万口当たり）で１万口購入した後、最初の\n決算時に１万口当たり700円の収益分配金が支払われ、分配落ち後の基準価額が11,200円\n（１万口当たり）となった場合、その収益分配金のうち、普通分配金は（ ① ）であり、\n元本払戻金（特別分配金）は（ ② ）である。\n選択肢3）① 500円 ② 200円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q42_1",
+                  "groupId": "fp3_202505_Q42",
+                  "statement": "Ｘ社の株価が1,500円、１株当たり純利益が100円、１株当たり純資産（自己資本）が\n1,000円である場合、Ｘ社のＲＯＥは、（ ）である。\n選択肢1）1.5％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q42_2",
+                  "groupId": "fp3_202505_Q42",
+                  "statement": "Ｘ社の株価が1,500円、１株当たり純利益が100円、１株当たり純資産（自己資本）が\n1,000円である場合、Ｘ社のＲＯＥは、（ ）である。\n選択肢2）－9－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q42_3",
+                  "groupId": "fp3_202505_Q42",
+                  "statement": "Ｘ社の株価が1,500円、１株当たり純利益が100円、１株当たり純資産（自己資本）が\n1,000円である場合、Ｘ社のＲＯＥは、（ ）である。\n選択肢3）15％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q43_1",
+                  "groupId": "fp3_202505_Q43",
+                  "statement": "異なる２資産からなるポートフォリオにおいて、２資産間の相関係数が（ ）であ\nる場合、分散投資によるリスクの低減効果は最大となる。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q43_2",
+                  "groupId": "fp3_202505_Q43",
+                  "statement": "異なる２資産からなるポートフォリオにおいて、２資産間の相関係数が（ ）であ\nる場合、分散投資によるリスクの低減効果は最大となる。\n選択肢2）０",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q43_3",
+                  "groupId": "fp3_202505_Q43",
+                  "statement": "異なる２資産からなるポートフォリオにおいて、２資産間の相関係数が（ ）であ\nる場合、分散投資によるリスクの低減効果は最大となる。\n選択肢3）＋１",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q44_1",
+                  "groupId": "fp3_202505_Q44",
+                  "statement": "ＮＩＳＡの「成長投資枠」と「つみたて投資枠」を利用して株式投資信託等を保有するこ\nとができる上限額（非課税保有限度額）は（ ① ）であり、このうち「成長投資枠」\nでの保有は（ ② ）が上限となる。\n選択肢1）① 1,500万円 ② 1,000万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q44_2",
+                  "groupId": "fp3_202505_Q44",
+                  "statement": "ＮＩＳＡの「成長投資枠」と「つみたて投資枠」を利用して株式投資信託等を保有するこ\nとができる上限額（非課税保有限度額）は（ ① ）であり、このうち「成長投資枠」\nでの保有は（ ② ）が上限となる。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q44_3",
+                  "groupId": "fp3_202505_Q44",
+                  "statement": "ＮＩＳＡの「成長投資枠」と「つみたて投資枠」を利用して株式投資信託等を保有するこ\nとができる上限額（非課税保有限度額）は（ ① ）であり、このうち「成長投資枠」\nでの保有は（ ② ）が上限となる。\n選択肢3）① 2,000万円 ② 1,500万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q45_1",
+                  "groupId": "fp3_202505_Q45",
+                  "statement": "預金保険制度による保護の対象となる預金等のうち、定期預金などの一般預金等につ\nいては、原則として、１金融機関ごとに預金者１人当たり元本（ ）までとその利\n息等が保護される。\n選択肢1）500万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q45_2",
+                  "groupId": "fp3_202505_Q45",
+                  "statement": "預金保険制度による保護の対象となる預金等のうち、定期預金などの一般預金等につ\nいては、原則として、１金融機関ごとに預金者１人当たり元本（ ）までとその利\n息等が保護される。\n選択肢2）－10－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q45_3",
+                  "groupId": "fp3_202505_Q45",
+                  "statement": "預金保険制度による保護の対象となる預金等のうち、定期預金などの一般預金等につ\nいては、原則として、１金融機関ごとに預金者１人当たり元本（ ）までとその利\n息等が保護される。\n選択肢3）1,500万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q46_1",
+                  "groupId": "fp3_202505_Q46",
+                  "statement": "所得税における一時所得に係る総収入金額が300万円で、その収入を得るために支出し\nた金額が100万円である場合、一時所得の金額は（ ① ）となり、そのうち総所得金額\nに算入される金額は（ ② ）となる。\n選択肢1）① 150万円 ② 50万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q46_2",
+                  "groupId": "fp3_202505_Q46",
+                  "statement": "所得税における一時所得に係る総収入金額が300万円で、その収入を得るために支出し\nた金額が100万円である場合、一時所得の金額は（ ① ）となり、そのうち総所得金額\nに算入される金額は（ ② ）となる。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q46_3",
+                  "groupId": "fp3_202505_Q46",
+                  "statement": "所得税における一時所得に係る総収入金額が300万円で、その収入を得るために支出し\nた金額が100万円である場合、一時所得の金額は（ ① ）となり、そのうち総所得金額\nに算入される金額は（ ② ）となる。\n選択肢3）① 200万円 ② 150万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q47_1",
+                  "groupId": "fp3_202505_Q47",
+                  "statement": "所得税において、国民年金基金に加入して支払った掛金は、（ ）の対象となる。\n選択肢1）生命保険料控除",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q47_2",
+                  "groupId": "fp3_202505_Q47",
+                  "statement": "所得税において、国民年金基金に加入して支払った掛金は、（ ）の対象となる。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q47_3",
+                  "groupId": "fp3_202505_Q47",
+                  "statement": "所得税において、国民年金基金に加入して支払った掛金は、（ ）の対象となる。\n選択肢3）小規模企業共済等掛金控除",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q48_1",
+                  "groupId": "fp3_202505_Q48",
+                  "statement": "所得税において、個人が支払う地震保険の保険料に係る地震保険料控除は、原則とし\nて、（ ① ）を限度として年間支払保険料の（ ② ）が控除額となる。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q48_2",
+                  "groupId": "fp3_202505_Q48",
+                  "statement": "所得税において、個人が支払う地震保険の保険料に係る地震保険料控除は、原則とし\nて、（ ① ）を限度として年間支払保険料の（ ② ）が控除額となる。\n選択肢2）① ５万円 ② ２分の１相当額",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q48_3",
+                  "groupId": "fp3_202505_Q48",
+                  "statement": "所得税において、個人が支払う地震保険の保険料に係る地震保険料控除は、原則とし\nて、（ ① ）を限度として年間支払保険料の（ ② ）が控除額となる。\n選択肢3）① 10万円 ② ２分の１相当額",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q49_1",
+                  "groupId": "fp3_202505_Q49",
+                  "statement": "住宅ローンを利用して認定長期優良住宅を新築し、新たに所得税における住宅借入金\n等特別控除の適用を受ける場合、控除期間は最長で（ ）である。\n選択肢1）10年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q49_2",
+                  "groupId": "fp3_202505_Q49",
+                  "statement": "住宅ローンを利用して認定長期優良住宅を新築し、新たに所得税における住宅借入金\n等特別控除の適用を受ける場合、控除期間は最長で（ ）である。\n選択肢2）－11－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q49_3",
+                  "groupId": "fp3_202505_Q49",
+                  "statement": "住宅ローンを利用して認定長期優良住宅を新築し、新たに所得税における住宅借入金\n等特別控除の適用を受ける場合、控除期間は最長で（ ）である。\n選択肢3）15年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q50_1",
+                  "groupId": "fp3_202505_Q50",
+                  "statement": "その年の１月16日以後に新たに事業所得を生ずべき業務を開始した者が、その年分か\nら所得税の青色申告の承認を受けようとする場合、原則として、その業務を開始した日\nから（ ）以内に、青色申告承認申請書を納税地の所轄税務署長に提出しなければ\nならない。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q50_2",
+                  "groupId": "fp3_202505_Q50",
+                  "statement": "その年の１月16日以後に新たに事業所得を生ずべき業務を開始した者が、その年分か\nら所得税の青色申告の承認を受けようとする場合、原則として、その業務を開始した日\nから（ ）以内に、青色申告承認申請書を納税地の所轄税務署長に提出しなければ\nならない。\n選択肢2）３カ月",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q50_3",
+                  "groupId": "fp3_202505_Q50",
+                  "statement": "その年の１月16日以後に新たに事業所得を生ずべき業務を開始した者が、その年分か\nら所得税の青色申告の承認を受けようとする場合、原則として、その業務を開始した日\nから（ ）以内に、青色申告承認申請書を納税地の所轄税務署長に提出しなければ\nならない。\n選択肢3）６カ月",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q51_1",
+                  "groupId": "fp3_202505_Q51",
+                  "statement": "宅地建物取引業法によれば、宅地建物取引業者は、自ら売主となる宅地または建物の\n売買契約の締結に際して、取引の相手方が宅地建物取引業者でない場合、代金の額の\n（ ）を超える額の手付金を受領することができない。\n選択肢1）５％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q51_2",
+                  "groupId": "fp3_202505_Q51",
+                  "statement": "宅地建物取引業法によれば、宅地建物取引業者は、自ら売主となる宅地または建物の\n売買契約の締結に際して、取引の相手方が宅地建物取引業者でない場合、代金の額の\n（ ）を超える額の手付金を受領することができない。\n選択肢2）10％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q51_3",
+                  "groupId": "fp3_202505_Q51",
+                  "statement": "宅地建物取引業法によれば、宅地建物取引業者は、自ら売主となる宅地または建物の\n売買契約の締結に際して、取引の相手方が宅地建物取引業者でない場合、代金の額の\n（ ）を超える額の手付金を受領することができない。\n選択肢3）－12－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q52_1",
+                  "groupId": "fp3_202505_Q52",
+                  "statement": "下記の200㎡の土地に建築面積100㎡、延べ面積150㎡の２階建ての住宅を建築した場合、\n当該建物の建蔽率は、（ ）である。\n６ｍ公道\n200㎡\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q52_2",
+                  "groupId": "fp3_202505_Q52",
+                  "statement": "下記の200㎡の土地に建築面積100㎡、延べ面積150㎡の２階建ての住宅を建築した場合、\n当該建物の建蔽率は、（ ）である。\n６ｍ公道\n200㎡\n選択肢2）75％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q52_3",
+                  "groupId": "fp3_202505_Q52",
+                  "statement": "下記の200㎡の土地に建築面積100㎡、延べ面積150㎡の２階建ての住宅を建築した場合、\n当該建物の建蔽率は、（ ）である。\n６ｍ公道\n200㎡\n選択肢3）100％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q53_1",
+                  "groupId": "fp3_202505_Q53",
+                  "statement": "建物の区分所有等に関する法律（区分所有法）によれば、共用部分に対する各区分所\n有者の共有持分は、各共有者が有する（ ① ）によるものとされており、当該規定は\n規約で別段の定めをすることが（ ② ）。\n選択肢1）① 戸数の総戸数に占める割合 ② できる",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q53_2",
+                  "groupId": "fp3_202505_Q53",
+                  "statement": "建物の区分所有等に関する法律（区分所有法）によれば、共用部分に対する各区分所\n有者の共有持分は、各共有者が有する（ ① ）によるものとされており、当該規定は\n規約で別段の定めをすることが（ ② ）。\n選択肢2）① 専有部分の床面積の割合 ② できない",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q53_3",
+                  "groupId": "fp3_202505_Q53",
+                  "statement": "建物の区分所有等に関する法律（区分所有法）によれば、共用部分に対する各区分所\n有者の共有持分は、各共有者が有する（ ① ）によるものとされており、当該規定は\n規約で別段の定めをすることが（ ② ）。\n選択肢3）－13－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q54_1",
+                  "groupId": "fp3_202505_Q54",
+                  "statement": "個人が土地を譲渡したことによる譲渡所得の金額の計算において、譲渡した土地の取\n得費が不明である場合には、譲渡収入金額の（ ）相当額を取得費とすることがで\nきる。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q54_2",
+                  "groupId": "fp3_202505_Q54",
+                  "statement": "個人が土地を譲渡したことによる譲渡所得の金額の計算において、譲渡した土地の取\n得費が不明である場合には、譲渡収入金額の（ ）相当額を取得費とすることがで\nきる。\n選択肢2）10％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q54_3",
+                  "groupId": "fp3_202505_Q54",
+                  "statement": "個人が土地を譲渡したことによる譲渡所得の金額の計算において、譲渡した土地の取\n得費が不明である場合には、譲渡収入金額の（ ）相当額を取得費とすることがで\nきる。\n選択肢3）15％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q55_1",
+                  "groupId": "fp3_202505_Q55",
+                  "statement": "被相続人の居住用家屋およびその敷地を単独で相続した被相続人の子が、当該家屋お\nよびその敷地を譲渡し、「被相続人の居住用財産（空き家）に係る譲渡所得の特別控除の\n特例」の適用を受けた場合、譲渡所得の金額の計算上、最高で（ ）を控除するこ\nとができる。\n選択肢1）1,000万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q55_2",
+                  "groupId": "fp3_202505_Q55",
+                  "statement": "被相続人の居住用家屋およびその敷地を単独で相続した被相続人の子が、当該家屋お\nよびその敷地を譲渡し、「被相続人の居住用財産（空き家）に係る譲渡所得の特別控除の\n特例」の適用を受けた場合、譲渡所得の金額の計算上、最高で（ ）を控除するこ\nとができる。\n選択肢2）2,000万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q55_3",
+                  "groupId": "fp3_202505_Q55",
+                  "statement": "被相続人の居住用家屋およびその敷地を単独で相続した被相続人の子が、当該家屋お\nよびその敷地を譲渡し、「被相続人の居住用財産（空き家）に係る譲渡所得の特別控除の\n特例」の適用を受けた場合、譲渡所得の金額の計算上、最高で（ ）を控除するこ\nとができる。\n選択肢3）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q56_1",
+                  "groupId": "fp3_202505_Q56",
+                  "statement": "贈与税の配偶者控除は、婚姻期間が（ ① ）以上である配偶者から居住用不動産の\n贈与または居住用不動産を取得するための金銭の贈与を受け、所定の要件を満たす場合、\n贈与税の課税価格から基礎控除額のほかに最高で（ ② ）を控除することができる特\n例である。\n選択肢1）① 10年 ② 2,500万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q56_2",
+                  "groupId": "fp3_202505_Q56",
+                  "statement": "贈与税の配偶者控除は、婚姻期間が（ ① ）以上である配偶者から居住用不動産の\n贈与または居住用不動産を取得するための金銭の贈与を受け、所定の要件を満たす場合、\n贈与税の課税価格から基礎控除額のほかに最高で（ ② ）を控除することができる特\n例である。\n選択肢2）① 10年 ② 2,000万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q56_3",
+                  "groupId": "fp3_202505_Q56",
+                  "statement": "贈与税の配偶者控除は、婚姻期間が（ ① ）以上である配偶者から居住用不動産の\n贈与または居住用不動産を取得するための金銭の贈与を受け、所定の要件を満たす場合、\n贈与税の課税価格から基礎控除額のほかに最高で（ ② ）を控除することができる特\n例である。\n選択肢3）－14－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q57_1",
+                  "groupId": "fp3_202505_Q57",
+                  "statement": "下記の〈親族関係図〉において、Ａさんの相続における父Ｃさんの法定相続分は、（ ）\nである。なお、母Ｄさんは、Ａさんの相続開始前に死亡している。\n〈親族関係図〉\n父Ｃさん 母Ｄさん\n（既に死亡）\n被相続人Ａさん 妻Ｂさん 妹Ｅさん\n選択肢1）２分の１",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q57_2",
+                  "groupId": "fp3_202505_Q57",
+                  "statement": "下記の〈親族関係図〉において、Ａさんの相続における父Ｃさんの法定相続分は、（ ）\nである。なお、母Ｄさんは、Ａさんの相続開始前に死亡している。\n〈親族関係図〉\n父Ｃさん 母Ｄさん\n（既に死亡）\n被相続人Ａさん 妻Ｂさん 妹Ｅさん\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q57_3",
+                  "groupId": "fp3_202505_Q57",
+                  "statement": "下記の〈親族関係図〉において、Ａさんの相続における父Ｃさんの法定相続分は、（ ）\nである。なお、母Ｄさんは、Ａさんの相続開始前に死亡している。\n〈親族関係図〉\n父Ｃさん 母Ｄさん\n（既に死亡）\n被相続人Ａさん 妻Ｂさん 妹Ｅさん\n選択肢3）４分の１",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q58_1",
+                  "groupId": "fp3_202505_Q58",
+                  "statement": "同族株主のいる会社において、同族株主以外の株主等が取得した取引相場のない株式\nの相続税評価額は、原則として、特例的評価方式である（ ）により評価する。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q58_2",
+                  "groupId": "fp3_202505_Q58",
+                  "statement": "同族株主のいる会社において、同族株主以外の株主等が取得した取引相場のない株式\nの相続税評価額は、原則として、特例的評価方式である（ ）により評価する。\n選択肢2）類似業種比準方式",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q58_3",
+                  "groupId": "fp3_202505_Q58",
+                  "statement": "同族株主のいる会社において、同族株主以外の株主等が取得した取引相場のない株式\nの相続税評価額は、原則として、特例的評価方式である（ ）により評価する。\n選択肢3）純資産価額方式",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q59_1",
+                  "groupId": "fp3_202505_Q59",
+                  "statement": "貸家の相続税評価額は、その家屋の固定資産税評価額が8,000万円、借地権割合が60％、\n借家権割合が30％、賃貸割合が100％である場合、原則として、（ ）となる。\n選択肢1）2,400万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q59_2",
+                  "groupId": "fp3_202505_Q59",
+                  "statement": "貸家の相続税評価額は、その家屋の固定資産税評価額が8,000万円、借地権割合が60％、\n借家権割合が30％、賃貸割合が100％である場合、原則として、（ ）となる。\n選択肢2）－15－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q59_3",
+                  "groupId": "fp3_202505_Q59",
+                  "statement": "貸家の相続税評価額は、その家屋の固定資産税評価額が8,000万円、借地権割合が60％、\n借家権割合が30％、賃貸割合が100％である場合、原則として、（ ）となる。\n選択肢3）6,560万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q60_1",
+                  "groupId": "fp3_202505_Q60",
+                  "statement": "相続人が相続により取得した宅地が「小規模宅地等についての相続税の課税価格の計\n算の特例」における特定事業用宅地等に該当する場合、その宅地のうち（ ① ）まで\nを限度面積として、評価額の（ ② ）相当額を減額した金額を、相続税の課税価格に\n算入すべき価額とすることができる。\n選択肢1）① 200㎡ ② 50％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q60_2",
+                  "groupId": "fp3_202505_Q60",
+                  "statement": "相続人が相続により取得した宅地が「小規模宅地等についての相続税の課税価格の計\n算の特例」における特定事業用宅地等に該当する場合、その宅地のうち（ ① ）まで\nを限度面積として、評価額の（ ② ）相当額を減額した金額を、相続税の課税価格に\n算入すべき価額とすることができる。\n選択肢2）① 330㎡ ② 80％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                },
+                {
+                  "id": "fp3_202505_Q60_3",
+                  "groupId": "fp3_202505_Q60",
+                  "statement": "相続人が相続により取得した宅地が「小規模宅地等についての相続税の課税価格の計\n算の特例」における特定事業用宅地等に該当する場合、その宅地のうち（ ① ）まで\nを限度面積として、評価額の（ ② ）相当額を減額した金額を、相続税の課税価格に\n算入すべき価額とすることができる。\n選択肢3）－16－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2024
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "examYear": "2024年5月",
+          "sourceType": "official",
+          "categories": [
+            {
+              "categoryName": "正誤問題（問1〜30）",
+              "questions": [
+                {
+                  "id": "fp3_202405_Q01_1",
+                  "groupId": "fp3_202405_Q01",
+                  "statement": "ファイナンシャル・プランナーは、職業倫理上、顧客情報に関する守秘義務を厳守し\nなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q02_1",
+                  "groupId": "fp3_202405_Q02",
+                  "statement": "正当な理由がなく自己の都合により退職した者に対する雇用保険の基本手当は、待期\n期間の満了後４カ月間は支給されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q03_1",
+                  "groupId": "fp3_202405_Q03",
+                  "statement": "国民年金の第１号被保険者とは、日本国内に住所を有する20歳以上65歳未満の者であっ\nて、国民年金の第２号被保険者および第３号被保険者のいずれにも該当しない者をいう。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q04_1",
+                  "groupId": "fp3_202405_Q04",
+                  "statement": "国民年金の第２号被保険者である公務員が確定拠出年金の個人型年金に加入する場合、\n掛金の拠出限度額は年額14万4,000円である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q05_1",
+                  "groupId": "fp3_202405_Q05",
+                  "statement": "国民年金基金の給付には、老齢年金と遺族一時金がある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q06_1",
+                  "groupId": "fp3_202405_Q06",
+                  "statement": "払済保険とは、一般に、現在契約している生命保険の保険料の払込みを中止し、その\n時点での解約返戻金相当額を基に、元の契約の保険金額を変えずに一時払いの定期保険\nに変更する制度である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q07_1",
+                  "groupId": "fp3_202405_Q07",
+                  "statement": "定期保険は、被保険者が保険期間満了まで生存した場合、死亡保険金と同額の満期保\n険金が支払われる保険である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q08_1",
+                  "groupId": "fp3_202405_Q08",
+                  "statement": "変額個人年金保険では、特別勘定の運用実績に基づいて、将来受け取る年金額が変動\nする。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q09_1",
+                  "groupId": "fp3_202405_Q09",
+                  "statement": "普通傷害保険の保険料は、被保険者の性別や加入時の年齢によって異なる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q10_1",
+                  "groupId": "fp3_202405_Q10",
+                  "statement": "自動車保険の対人賠償保険では、被保険者が被保険自動車を運転中に誤って起こした\n事故により他人を死傷させ、法律上の損害賠償責任を負った場合、自動車損害賠償責任\n保険（自賠責保険）から支払われる限度額を超える損害賠償額に対して保険金が支払わ\nれる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q11_1",
+                  "groupId": "fp3_202405_Q11",
+                  "statement": "国内総生産（GDP）は、国内で一定期間内に生産されたモノやサービスの付加価値の合\n計額を示すものである。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q12_1",
+                  "groupId": "fp3_202405_Q12",
+                  "statement": "投資信託を購入する際には、購入時手数料とあわせて、１カ月分の運用管理費用（信託\n報酬）を支払う必要がある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q13_1",
+                  "groupId": "fp3_202405_Q13",
+                  "statement": "残存期間や表面利率（クーポンレート）等の他の条件が同一であれば、一般に、格付の\n高い債券ほど利回りが高く、格付の低い債券ほど利回りが低い。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q14_1",
+                  "groupId": "fp3_202405_Q14",
+                  "statement": "国内の証券取引所に上場している内国株式を普通取引により売買する場合、売買成立\n日の翌営業日に決済が行われる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q15_1",
+                  "groupId": "fp3_202405_Q15",
+                  "statement": "金融商品取引法によれば、金融商品取引業者等は、金融商品取引行為について、顧客\n（特定投資家を除く）の知識、経験、財産の状況および金融商品取引契約を締結する目的\nに照らして、投資者の保護に欠けるおそれがある不適当な勧誘を行ってはならないとさ\nれている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q16_1",
+                  "groupId": "fp3_202405_Q16",
+                  "statement": "所得税や住民税は国税であり、固定資産税や登録免許税は地方税である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q17_1",
+                  "groupId": "fp3_202405_Q17",
+                  "statement": "個人が受け取った非上場株式の配当については、その金額の多寡にかかわらず、所得\n税の確定申告不要制度を選択することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q18_1",
+                  "groupId": "fp3_202405_Q18",
+                  "statement": "所得税において、賃貸アパートの貸付による所得は、その貸付が事業的規模で行われ\nていたとしても、不動産所得となる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q19_1",
+                  "groupId": "fp3_202405_Q19",
+                  "statement": "所得税において、不動産所得、事業所得、山林所得、譲渡所得の金額の計算上生じた\n損失の金額は、一定のものを除き、他の所得金額と損益通算することができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q20_1",
+                  "groupId": "fp3_202405_Q20",
+                  "statement": "夫が生計を一にする妻に係る医療費を支払った場合に、妻の合計所得金額が48万円を\n超えるときは、その支払った医療費は夫に係る所得税の医療費控除の対象とならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q21_1",
+                  "groupId": "fp3_202405_Q21",
+                  "statement": "不動産の登記事項証明書の交付を請求することができる者は、当該不動産に利害関係\nを有する者に限られる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q22_1",
+                  "groupId": "fp3_202405_Q22",
+                  "statement": "借地借家法によれば、建物の賃貸借契約（定期建物賃貸借等を除く）において、賃貸\n借期間として１年未満の期間を定めた場合、期間の定めのない賃貸借契約とみなされる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q23_1",
+                  "groupId": "fp3_202405_Q23",
+                  "statement": "都市計画法によれば、市街化区域は、既に市街地を形成している区域およびおおむね\n10年以内に優先的かつ計画的に市街化を図るべき区域とされている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q24_1",
+                  "groupId": "fp3_202405_Q24",
+                  "statement": "贈与や相続により不動産を取得した場合、不動産取得税は課されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q25_1",
+                  "groupId": "fp3_202405_Q25",
+                  "statement": "土地の有効活用において、一般に、土地所有者が土地の全部または一部を拠出し、デ\nベロッパーが建設資金を負担してマンション等を建設し、それぞれの出資割合に応じて\n土地・建物に係る権利を取得する方式を、建設協力金方式という。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q26_1",
+                  "groupId": "fp3_202405_Q26",
+                  "statement": "「直系尊属から住宅取得等資金の贈与を受けた場合の贈与税の非課税」による非課税限\n度額は、受贈者ごとに、取得等した家屋が省エネ等住宅である場合は2,000万円、それ以\n外の住宅である場合は1,000万円である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q27_1",
+                  "groupId": "fp3_202405_Q27",
+                  "statement": "自筆証書遺言の作成において、自筆証書に添付する財産目録については、自書によ\nらずにパソコンで作成しても差し支えない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q28_1",
+                  "groupId": "fp3_202405_Q28",
+                  "statement": "被相続人の葬式後に相続人が負担した香典返戻費用は、相続税額の計算上、葬式費用\nとして債務控除の対象となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q29_1",
+                  "groupId": "fp3_202405_Q29",
+                  "statement": "相続税額の計算上、遺産に係る基礎控除額は、「3,000万円＋600万円×法定相続人の数」\nの算式により計算する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q30_1",
+                  "groupId": "fp3_202405_Q30",
+                  "statement": "相続税の申告書の提出先は、原則として、被相続人の死亡の時における住所地の所轄\n税務署長である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                }
+              ]
+            },
+            {
+              "categoryName": "三択問題（問31〜60）",
+              "questions": [
+                {
+                  "id": "fp3_202405_Q31_1",
+                  "groupId": "fp3_202405_Q31",
+                  "statement": "一定の利率で複利運用しながら一定期間経過後に目標とする額を得るために必要な毎\n年の積立額を試算する際、目標とする額に乗じる係数は、（ ）である。\n選択肢1）現価係数",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q31_2",
+                  "groupId": "fp3_202405_Q31",
+                  "statement": "一定の利率で複利運用しながら一定期間経過後に目標とする額を得るために必要な毎\n年の積立額を試算する際、目標とする額に乗じる係数は、（ ）である。\n選択肢2）資本回収係数",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q31_3",
+                  "groupId": "fp3_202405_Q31",
+                  "statement": "一定の利率で複利運用しながら一定期間経過後に目標とする額を得るために必要な毎\n年の積立額を試算する際、目標とする額に乗じる係数は、（ ）である。\n選択肢3）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q32_1",
+                  "groupId": "fp3_202405_Q32",
+                  "statement": "全国健康保険協会管掌健康保険の傷病手当金の支給期間は、同一の傷病に関して、そ\nの支給開始日から通算して最長で（ ）である。\n選択肢1）１年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q32_2",
+                  "groupId": "fp3_202405_Q32",
+                  "statement": "全国健康保険協会管掌健康保険の傷病手当金の支給期間は、同一の傷病に関して、そ\nの支給開始日から通算して最長で（ ）である。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q32_3",
+                  "groupId": "fp3_202405_Q32",
+                  "statement": "全国健康保険協会管掌健康保険の傷病手当金の支給期間は、同一の傷病に関して、そ\nの支給開始日から通算して最長で（ ）である。\n選択肢3）２年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q33_1",
+                  "groupId": "fp3_202405_Q33",
+                  "statement": "60歳０カ月で老齢基礎年金の繰上げ支給の請求をし、支給開始を60カ月繰り上げた場\n合、老齢基礎年金の減額率は（ ）となる。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q33_2",
+                  "groupId": "fp3_202405_Q33",
+                  "statement": "60歳０カ月で老齢基礎年金の繰上げ支給の請求をし、支給開始を60カ月繰り上げた場\n合、老齢基礎年金の減額率は（ ）となる。\n選択肢2）42％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q33_3",
+                  "groupId": "fp3_202405_Q33",
+                  "statement": "60歳０カ月で老齢基礎年金の繰上げ支給の請求をし、支給開始を60カ月繰り上げた場\n合、老齢基礎年金の減額率は（ ）となる。\n選択肢3）60％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q34_1",
+                  "groupId": "fp3_202405_Q34",
+                  "statement": "遺族基礎年金を受給することができる遺族の範囲は、国民年金の被保険者等の死亡の\n当時、その者によって生計を維持され、かつ、所定の要件を満たす（ ）とされる。\n選択肢1）－6－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q34_2",
+                  "groupId": "fp3_202405_Q34",
+                  "statement": "遺族基礎年金を受給することができる遺族の範囲は、国民年金の被保険者等の死亡の\n当時、その者によって生計を維持され、かつ、所定の要件を満たす（ ）とされる。\n選択肢2）子のある妻、子",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q34_3",
+                  "groupId": "fp3_202405_Q34",
+                  "statement": "遺族基礎年金を受給することができる遺族の範囲は、国民年金の被保険者等の死亡の\n当時、その者によって生計を維持され、かつ、所定の要件を満たす（ ）とされる。\n選択肢3）子のある配偶者、子、父母",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q35_1",
+                  "groupId": "fp3_202405_Q35",
+                  "statement": "住宅ローンの元利均等返済方式と元金均等返済方式を比較した場合、借入額、金利、借\n入期間等の条件が同一であれば、通常、総返済額は（ ）。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q35_2",
+                  "groupId": "fp3_202405_Q35",
+                  "statement": "住宅ローンの元利均等返済方式と元金均等返済方式を比較した場合、借入額、金利、借\n入期間等の条件が同一であれば、通常、総返済額は（ ）。\n選択肢2）元金均等返済方式のほうが多くなる",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q35_3",
+                  "groupId": "fp3_202405_Q35",
+                  "statement": "住宅ローンの元利均等返済方式と元金均等返済方式を比較した場合、借入額、金利、借\n入期間等の条件が同一であれば、通常、総返済額は（ ）。\n選択肢3）同じである",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q36_1",
+                  "groupId": "fp3_202405_Q36",
+                  "statement": "国内で事業を行う生命保険会社が破綻した場合、生命保険契約者保護機構による補償\nの対象となる保険契約については、高予定利率契約を除き、破綻時の（ ）の90％\nまで補償される。\n選択肢1）解約返戻金相当額",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q36_2",
+                  "groupId": "fp3_202405_Q36",
+                  "statement": "国内で事業を行う生命保険会社が破綻した場合、生命保険契約者保護機構による補償\nの対象となる保険契約については、高予定利率契約を除き、破綻時の（ ）の90％\nまで補償される。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q36_3",
+                  "groupId": "fp3_202405_Q36",
+                  "statement": "国内で事業を行う生命保険会社が破綻した場合、生命保険契約者保護機構による補償\nの対象となる保険契約については、高予定利率契約を除き、破綻時の（ ）の90％\nまで補償される。\n選択肢3）既払込保険料相当額",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q37_1",
+                  "groupId": "fp3_202405_Q37",
+                  "statement": "生命保険の保険料は、（ ① ）および収支相等の原則に基づき、予定死亡率、（ ② ）、予\n定事業費率の３つの予定基礎率を用いて計算される。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q37_2",
+                  "groupId": "fp3_202405_Q37",
+                  "statement": "生命保険の保険料は、（ ① ）および収支相等の原則に基づき、予定死亡率、（ ② ）、予\n定事業費率の３つの予定基礎率を用いて計算される。\n選択肢2）① 適合性の原則 ② 予定利率",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q37_3",
+                  "groupId": "fp3_202405_Q37",
+                  "statement": "生命保険の保険料は、（ ① ）および収支相等の原則に基づき、予定死亡率、（ ② ）、予\n定事業費率の３つの予定基礎率を用いて計算される。\n選択肢3）① 大数の法則 ② 予定損害率",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q38_1",
+                  "groupId": "fp3_202405_Q38",
+                  "statement": "地震保険の保険金額は、火災保険の保険金額の30％から50％までの範囲内で設定する\nが、居住用建物については（ ① ）、生活用動産（家財）については（ ② ）が上限\nとなる。\n選択肢1）① 1,000万円 ② 200万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q38_2",
+                  "groupId": "fp3_202405_Q38",
+                  "statement": "地震保険の保険金額は、火災保険の保険金額の30％から50％までの範囲内で設定する\nが、居住用建物については（ ① ）、生活用動産（家財）については（ ② ）が上限\nとなる。\n選択肢2）① 3,000万円 ② 500万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q38_3",
+                  "groupId": "fp3_202405_Q38",
+                  "statement": "地震保険の保険金額は、火災保険の保険金額の30％から50％までの範囲内で設定する\nが、居住用建物については（ ① ）、生活用動産（家財）については（ ② ）が上限\nとなる。\n選択肢3）－7－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q39_1",
+                  "groupId": "fp3_202405_Q39",
+                  "statement": "がん保険では、一般に、（ ）程度の免責期間が設けられており、この期間中に\nがんと診断確定されたとしても、がん診断給付金は支払われない。\n選択肢1）30日間",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q39_2",
+                  "groupId": "fp3_202405_Q39",
+                  "statement": "がん保険では、一般に、（ ）程度の免責期間が設けられており、この期間中に\nがんと診断確定されたとしても、がん診断給付金は支払われない。\n選択肢2）60日間",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q39_3",
+                  "groupId": "fp3_202405_Q39",
+                  "statement": "がん保険では、一般に、（ ）程度の免責期間が設けられており、この期間中に\nがんと診断確定されたとしても、がん診断給付金は支払われない。\n選択肢3）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q40_1",
+                  "groupId": "fp3_202405_Q40",
+                  "statement": "生命保険契約において、契約者（＝保険料負担者）および死亡保険金受取人がＡさん、\n被保険者がＡさんの父親である場合、Ａさんの父親の死亡によりＡさんが受け取る死亡\n保険金は、（ ）の課税対象となる。\n選択肢1）贈与税",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q40_2",
+                  "groupId": "fp3_202405_Q40",
+                  "statement": "生命保険契約において、契約者（＝保険料負担者）および死亡保険金受取人がＡさん、\n被保険者がＡさんの父親である場合、Ａさんの父親の死亡によりＡさんが受け取る死亡\n保険金は、（ ）の課税対象となる。\n選択肢2）相続税",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q40_3",
+                  "groupId": "fp3_202405_Q40",
+                  "statement": "生命保険契約において、契約者（＝保険料負担者）および死亡保険金受取人がＡさん、\n被保険者がＡさんの父親である場合、Ａさんの父親の死亡によりＡさんが受け取る死亡\n保険金は、（ ）の課税対象となる。\n選択肢3）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q41_1",
+                  "groupId": "fp3_202405_Q41",
+                  "statement": "株式投資信託の運用において、企業の売上高や利益の伸び率が市場平均よりも高いな\nど、企業の成長性に着目して選定した銘柄に投資する手法を、（ ）という。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q41_2",
+                  "groupId": "fp3_202405_Q41",
+                  "statement": "株式投資信託の運用において、企業の売上高や利益の伸び率が市場平均よりも高いな\nど、企業の成長性に着目して選定した銘柄に投資する手法を、（ ）という。\n選択肢2）バリュー運用",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q41_3",
+                  "groupId": "fp3_202405_Q41",
+                  "statement": "株式投資信託の運用において、企業の売上高や利益の伸び率が市場平均よりも高いな\nど、企業の成長性に着目して選定した銘柄に投資する手法を、（ ）という。\n選択肢3）トップダウン・アプローチ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q42_1",
+                  "groupId": "fp3_202405_Q42",
+                  "statement": "株式の投資指標のうち、（ ）は、株価を１株当たり純資産で除して算出される。\n選択肢1）－8－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q42_2",
+                  "groupId": "fp3_202405_Q42",
+                  "statement": "株式の投資指標のうち、（ ）は、株価を１株当たり純資産で除して算出される。\n選択肢2）PER",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q42_3",
+                  "groupId": "fp3_202405_Q42",
+                  "statement": "株式の投資指標のうち、（ ）は、株価を１株当たり純資産で除して算出される。\n選択肢3）ROE",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q43_1",
+                  "groupId": "fp3_202405_Q43",
+                  "statement": "Ａ資産の期待収益率が2.0％、Ｂ資産の期待収益率が5.0％の場合に、Ａ資産を40％、Ｂ\n資産を60％の割合で組み入れたポートフォリオの期待収益率は、（ ）である。\n選択肢1）3.5％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q43_2",
+                  "groupId": "fp3_202405_Q43",
+                  "statement": "Ａ資産の期待収益率が2.0％、Ｂ資産の期待収益率が5.0％の場合に、Ａ資産を40％、Ｂ\n資産を60％の割合で組み入れたポートフォリオの期待収益率は、（ ）である。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q43_3",
+                  "groupId": "fp3_202405_Q43",
+                  "statement": "Ａ資産の期待収益率が2.0％、Ｂ資産の期待収益率が5.0％の場合に、Ａ資産を40％、Ｂ\n資産を60％の割合で組み入れたポートフォリオの期待収益率は、（ ）である。\n選択肢3）7.0％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q44_1",
+                  "groupId": "fp3_202405_Q44",
+                  "statement": "2024年中にNISAの「成長投資枠」を利用して上場株式を購入することができる限度額\n（年間投資枠）は、年間（ ）である。\n選択肢1）102万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q44_2",
+                  "groupId": "fp3_202405_Q44",
+                  "statement": "2024年中にNISAの「成長投資枠」を利用して上場株式を購入することができる限度額\n（年間投資枠）は、年間（ ）である。\n選択肢2）120万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q44_3",
+                  "groupId": "fp3_202405_Q44",
+                  "statement": "2024年中にNISAの「成長投資枠」を利用して上場株式を購入することができる限度額\n（年間投資枠）は、年間（ ）である。\n選択肢3）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q45_1",
+                  "groupId": "fp3_202405_Q45",
+                  "statement": "預金保険制度の対象金融機関に預け入れた（ ）は、預入金額の多寡にかかわら\nず、その全額が預金保険制度による保護の対象となる。\n選択肢1）定期積金",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q45_2",
+                  "groupId": "fp3_202405_Q45",
+                  "statement": "預金保険制度の対象金融機関に預け入れた（ ）は、預入金額の多寡にかかわら\nず、その全額が預金保険制度による保護の対象となる。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q45_3",
+                  "groupId": "fp3_202405_Q45",
+                  "statement": "預金保険制度の対象金融機関に預け入れた（ ）は、預入金額の多寡にかかわら\nず、その全額が預金保険制度による保護の対象となる。\n選択肢3）定期預金",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q46_1",
+                  "groupId": "fp3_202405_Q46",
+                  "statement": "所得税において、国債や地方債などの特定公社債の利子は、原則として、（ ① ）課\n税の対象となるが、確定申告不要制度を選択すること（ ② ）。\n選択肢1）① 総合 ② ができる",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q46_2",
+                  "groupId": "fp3_202405_Q46",
+                  "statement": "所得税において、国債や地方債などの特定公社債の利子は、原則として、（ ① ）課\n税の対象となるが、確定申告不要制度を選択すること（ ② ）。\n選択肢2）① 源泉分離 ② はできない",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q46_3",
+                  "groupId": "fp3_202405_Q46",
+                  "statement": "所得税において、国債や地方債などの特定公社債の利子は、原則として、（ ① ）課\n税の対象となるが、確定申告不要制度を選択すること（ ② ）。\n選択肢3）－9－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q47_1",
+                  "groupId": "fp3_202405_Q47",
+                  "statement": "所得税において、（ ）は、所得控除に該当する。\n選択肢1）配当控除",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q47_2",
+                  "groupId": "fp3_202405_Q47",
+                  "statement": "所得税において、（ ）は、所得控除に該当する。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q47_3",
+                  "groupId": "fp3_202405_Q47",
+                  "statement": "所得税において、（ ）は、所得控除に該当する。\n選択肢3）住宅借入金等特別控除",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q48_1",
+                  "groupId": "fp3_202405_Q48",
+                  "statement": "納税者が2012年１月１日以後に締結した生命保険契約により、一般の生命保険料控除\nの対象となる保険料、個人年金保険料控除の対象となる保険料および介護医療保険料控\n除の対象となる保険料をそれぞれ年間10万円支払った場合、所得税において、支払った\n年分の生命保険料控除の控除額は、（ ）となる。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q48_2",
+                  "groupId": "fp3_202405_Q48",
+                  "statement": "納税者が2012年１月１日以後に締結した生命保険契約により、一般の生命保険料控除\nの対象となる保険料、個人年金保険料控除の対象となる保険料および介護医療保険料控\n除の対象となる保険料をそれぞれ年間10万円支払った場合、所得税において、支払った\n年分の生命保険料控除の控除額は、（ ）となる。\n選択肢2）15万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q48_3",
+                  "groupId": "fp3_202405_Q48",
+                  "statement": "納税者が2012年１月１日以後に締結した生命保険契約により、一般の生命保険料控除\nの対象となる保険料、個人年金保険料控除の対象となる保険料および介護医療保険料控\n除の対象となる保険料をそれぞれ年間10万円支払った場合、所得税において、支払った\n年分の生命保険料控除の控除額は、（ ）となる。\n選択肢3）30万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q49_1",
+                  "groupId": "fp3_202405_Q49",
+                  "statement": "住宅ローンを利用してマンションを取得し、新たに所得税における住宅借入金等特別\n控除の適用を受ける場合、住宅借入金の償還期間は（ ）以上でなければならない。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q49_2",
+                  "groupId": "fp3_202405_Q49",
+                  "statement": "住宅ローンを利用してマンションを取得し、新たに所得税における住宅借入金等特別\n控除の適用を受ける場合、住宅借入金の償還期間は（ ）以上でなければならない。\n選択肢2）13年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q49_3",
+                  "groupId": "fp3_202405_Q49",
+                  "statement": "住宅ローンを利用してマンションを取得し、新たに所得税における住宅借入金等特別\n控除の適用を受ける場合、住宅借入金の償還期間は（ ）以上でなければならない。\n選択肢3）15年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q50_1",
+                  "groupId": "fp3_202405_Q50",
+                  "statement": "年末調整の対象となる給与所得者のうち、（ ）は、所得税の確定申告をする必要\nがある。\n選択肢1）給与の年間収入金額が1,000万円を超える者",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q50_2",
+                  "groupId": "fp3_202405_Q50",
+                  "statement": "年末調整の対象となる給与所得者のうち、（ ）は、所得税の確定申告をする必要\nがある。\n選択肢2）－10－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q50_3",
+                  "groupId": "fp3_202405_Q50",
+                  "statement": "年末調整の対象となる給与所得者のうち、（ ）は、所得税の確定申告をする必要\nがある。\n選択肢3）生命保険料控除の適用を受けようとする者",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q51_1",
+                  "groupId": "fp3_202405_Q51",
+                  "statement": "宅地建物取引業法上の媒介契約のうち、（ ① ）では、依頼者は他の宅地建物取引業\n者に重ねて媒介の依頼をすることができるが、（ ② ）では、依頼者は他の宅地建物取\n引業者に重ねて媒介の依頼をすることが禁じられている。\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q51_2",
+                  "groupId": "fp3_202405_Q51",
+                  "statement": "宅地建物取引業法上の媒介契約のうち、（ ① ）では、依頼者は他の宅地建物取引業\n者に重ねて媒介の依頼をすることができるが、（ ② ）では、依頼者は他の宅地建物取\n引業者に重ねて媒介の依頼をすることが禁じられている。\n選択肢2）① 専任媒介契約 ② 一般媒介契約",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q51_3",
+                  "groupId": "fp3_202405_Q51",
+                  "statement": "宅地建物取引業法上の媒介契約のうち、（ ① ）では、依頼者は他の宅地建物取引業\n者に重ねて媒介の依頼をすることができるが、（ ② ）では、依頼者は他の宅地建物取\n引業者に重ねて媒介の依頼をすることが禁じられている。\n選択肢3）① 専任媒介契約 ② 専属専任媒介契約",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q52_1",
+                  "groupId": "fp3_202405_Q52",
+                  "statement": "建築基準法によれば、都市計画区域および準都市計画区域内にある建築物の敷地は、原\n則として、幅員（ ① ）以上の道路に（ ② ）以上接していなければならない。\n選択肢1）① ２ｍ ② ４ｍ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q52_2",
+                  "groupId": "fp3_202405_Q52",
+                  "statement": "建築基準法によれば、都市計画区域および準都市計画区域内にある建築物の敷地は、原\n則として、幅員（ ① ）以上の道路に（ ② ）以上接していなければならない。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q52_3",
+                  "groupId": "fp3_202405_Q52",
+                  "statement": "建築基準法によれば、都市計画区域および準都市計画区域内にある建築物の敷地は、原\n則として、幅員（ ① ）以上の道路に（ ② ）以上接していなければならない。\n選択肢3）① ６ｍ ② ３ｍ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q53_1",
+                  "groupId": "fp3_202405_Q53",
+                  "statement": "建物の区分所有等に関する法律（区分所有法）によれば、区分所有者および議決権の\n各（ ）以上の多数による集会の決議により、規約の変更をすることができる。\n選択肢1）３分の２",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q53_2",
+                  "groupId": "fp3_202405_Q53",
+                  "statement": "建物の区分所有等に関する法律（区分所有法）によれば、区分所有者および議決権の\n各（ ）以上の多数による集会の決議により、規約の変更をすることができる。\n選択肢2）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q53_3",
+                  "groupId": "fp3_202405_Q53",
+                  "statement": "建物の区分所有等に関する法律（区分所有法）によれば、区分所有者および議決権の\n各（ ）以上の多数による集会の決議により、規約の変更をすることができる。\n選択肢3）５分の４",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q54_1",
+                  "groupId": "fp3_202405_Q54",
+                  "statement": "個人が土地を譲渡した場合の所得税額の計算において、当該譲渡に係る所得が長期譲\n渡所得に区分されるためには、土地を譲渡した年の１月１日において所有期間が（ ）\nを超えていなければならない。\n選択肢1）－11－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q54_2",
+                  "groupId": "fp3_202405_Q54",
+                  "statement": "個人が土地を譲渡した場合の所得税額の計算において、当該譲渡に係る所得が長期譲\n渡所得に区分されるためには、土地を譲渡した年の１月１日において所有期間が（ ）\nを超えていなければならない。\n選択肢2）10年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q54_3",
+                  "groupId": "fp3_202405_Q54",
+                  "statement": "個人が土地を譲渡した場合の所得税額の計算において、当該譲渡に係る所得が長期譲\n渡所得に区分されるためには、土地を譲渡した年の１月１日において所有期間が（ ）\nを超えていなければならない。\n選択肢3）15年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q55_1",
+                  "groupId": "fp3_202405_Q55",
+                  "statement": "自己が居住していた家屋を譲渡する場合、その家屋に自己が居住しなくなった日から\n（ ① ）を経過する日の属する年の（ ② ）までの間に譲渡しなければ、「居住用財\n産を譲渡した場合の3,000万円の特別控除」の適用を受けることができない。\n選択肢1）① １年 ② 12月31日",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q55_2",
+                  "groupId": "fp3_202405_Q55",
+                  "statement": "自己が居住していた家屋を譲渡する場合、その家屋に自己が居住しなくなった日から\n（ ① ）を経過する日の属する年の（ ② ）までの間に譲渡しなければ、「居住用財\n産を譲渡した場合の3,000万円の特別控除」の適用を受けることができない。\n選択肢2）① ３年 ② ３月15日",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q55_3",
+                  "groupId": "fp3_202405_Q55",
+                  "statement": "自己が居住していた家屋を譲渡する場合、その家屋に自己が居住しなくなった日から\n（ ① ）を経過する日の属する年の（ ② ）までの間に譲渡しなければ、「居住用財\n産を譲渡した場合の3,000万円の特別控除」の適用を受けることができない。\n選択肢3）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q56_1",
+                  "groupId": "fp3_202405_Q56",
+                  "statement": "父母のそれぞれから同一年中に暦年課税による贈与を受けた場合、贈与税額の計算上、\n贈与税の課税価格から基礎控除額として最高で（ ）を控除することができる。\n選択肢1）80万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q56_2",
+                  "groupId": "fp3_202405_Q56",
+                  "statement": "父母のそれぞれから同一年中に暦年課税による贈与を受けた場合、贈与税額の計算上、\n贈与税の課税価格から基礎控除額として最高で（ ）を控除することができる。\n選択肢2）－12－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q56_3",
+                  "groupId": "fp3_202405_Q56",
+                  "statement": "父母のそれぞれから同一年中に暦年課税による贈与を受けた場合、贈与税額の計算上、\n贈与税の課税価格から基礎控除額として最高で（ ）を控除することができる。\n選択肢3）220万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q57_1",
+                  "groupId": "fp3_202405_Q57",
+                  "statement": "下記の〈親族関係図〉において、Ａさんの相続における子Ｃさんの法定相続分は、（ ）\nである。なお、ＡさんとＢさんは、Ａさんの相続開始前に離婚している。\n〈親族関係図〉\n父Ｅさん 母Ｆさん\n×\n元夫Ｂさん 被相続人Ａさん\n子Ｃさん 子Ｄさん\n選択肢1）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q57_2",
+                  "groupId": "fp3_202405_Q57",
+                  "statement": "下記の〈親族関係図〉において、Ａさんの相続における子Ｃさんの法定相続分は、（ ）\nである。なお、ＡさんとＢさんは、Ａさんの相続開始前に離婚している。\n〈親族関係図〉\n父Ｅさん 母Ｆさん\n×\n元夫Ｂさん 被相続人Ａさん\n子Ｃさん 子Ｄさん\n選択肢2）３分の１",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q57_3",
+                  "groupId": "fp3_202405_Q57",
+                  "statement": "下記の〈親族関係図〉において、Ａさんの相続における子Ｃさんの法定相続分は、（ ）\nである。なお、ＡさんとＢさんは、Ａさんの相続開始前に離婚している。\n〈親族関係図〉\n父Ｅさん 母Ｆさん\n×\n元夫Ｂさん 被相続人Ａさん\n子Ｃさん 子Ｄさん\n選択肢3）４分の１",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q58_1",
+                  "groupId": "fp3_202405_Q58",
+                  "statement": "死亡したＡさんが所有していた上場株式Ｘを相続により取得した場合の１株当たりの\n相続税評価額は、下記の〈資料〉によれば、（ ）である。\n〈資料〉上場株式Ｘの価格\nＡさんが死亡した月の前々月の毎日の最終価格の月平均額 ： 540円\nＡさんが死亡した月の前月の毎日の最終価格の月平均額 ： 600円\nＡさんが死亡した月の毎日の最終価格の月平均額 ： 620円\nＡさんが死亡した日の最終価格 ： 600円\n選択肢1）－13－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q58_2",
+                  "groupId": "fp3_202405_Q58",
+                  "statement": "死亡したＡさんが所有していた上場株式Ｘを相続により取得した場合の１株当たりの\n相続税評価額は、下記の〈資料〉によれば、（ ）である。\n〈資料〉上場株式Ｘの価格\nＡさんが死亡した月の前々月の毎日の最終価格の月平均額 ： 540円\nＡさんが死亡した月の前月の毎日の最終価格の月平均額 ： 600円\nＡさんが死亡した月の毎日の最終価格の月平均額 ： 620円\nＡさんが死亡した日の最終価格 ： 600円\n選択肢2）600円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q58_3",
+                  "groupId": "fp3_202405_Q58",
+                  "statement": "死亡したＡさんが所有していた上場株式Ｘを相続により取得した場合の１株当たりの\n相続税評価額は、下記の〈資料〉によれば、（ ）である。\n〈資料〉上場株式Ｘの価格\nＡさんが死亡した月の前々月の毎日の最終価格の月平均額 ： 540円\nＡさんが死亡した月の前月の毎日の最終価格の月平均額 ： 600円\nＡさんが死亡した月の毎日の最終価格の月平均額 ： 620円\nＡさんが死亡した日の最終価格 ： 600円\n選択肢3）620円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q59_1",
+                  "groupId": "fp3_202405_Q59",
+                  "statement": "貸家建付地の相続税評価額は、その自用地としての価額が１億5,000万円、借地権割合\nが60％、借家権割合が30％、賃貸割合が100％である場合、（ ）となる。\n選択肢1）6,000万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q59_2",
+                  "groupId": "fp3_202405_Q59",
+                  "statement": "貸家建付地の相続税評価額は、その自用地としての価額が１億5,000万円、借地権割合\nが60％、借家権割合が30％、賃貸割合が100％である場合、（ ）となる。\n選択肢2）9,000万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q59_3",
+                  "groupId": "fp3_202405_Q59",
+                  "statement": "貸家建付地の相続税評価額は、その自用地としての価額が１億5,000万円、借地権割合\nが60％、借家権割合が30％、賃貸割合が100％である場合、（ ）となる。\n選択肢3）",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q60_1",
+                  "groupId": "fp3_202405_Q60",
+                  "statement": "相続人が相続により取得した宅地が「小規模宅地等についての相続税の課税価格の計\n算の特例」における特定居住用宅地等に該当する場合、その宅地のうち（ ① ）まで\nを限度面積として、評価額の（ ② ）相当額を減額した金額を、相続税の課税価格に\n算入すべき価額とすることができる。\n選択肢1）① 200㎡ ② 50％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q60_2",
+                  "groupId": "fp3_202405_Q60",
+                  "statement": "相続人が相続により取得した宅地が「小規模宅地等についての相続税の課税価格の計\n算の特例」における特定居住用宅地等に該当する場合、その宅地のうち（ ① ）まで\nを限度面積として、評価額の（ ② ）相当額を減額した金額を、相続税の課税価格に\n算入すべき価額とすることができる。\n選択肢2）－14－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202405_Q60_3",
+                  "groupId": "fp3_202405_Q60",
+                  "statement": "相続人が相続により取得した宅地が「小規模宅地等についての相続税の課税価格の計\n算の特例」における特定居住用宅地等に該当する場合、その宅地のうち（ ① ）まで\nを限度面積として、評価額の（ ② ）相当額を減額した金額を、相続税の課税価格に\n算入すべき価額とすることができる。\n選択肢3）① 400㎡ ② 80％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "examYear": "2024年1月",
+          "sourceType": "official",
+          "categories": [
+            {
+              "categoryName": "正誤問題（問1〜30）",
+              "questions": [
+                {
+                  "id": "fp3_202401_Q01_1",
+                  "groupId": "fp3_202401_Q01",
+                  "statement": "弁護士の登録を受けていないファイナンシャル・プランナーが、資産管理の相談に\n来た顧客の求めに応じ、有償で、当該顧客を委任者とする任意後見契約の受任者とな\nることは、弁護士法に抵触する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q02_1",
+                  "groupId": "fp3_202401_Q02",
+                  "statement": "労働者災害補償保険の保険料は、労働者と事業主が折半で負担する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q03_1",
+                  "groupId": "fp3_202401_Q03",
+                  "statement": "国民年金の学生納付特例制度の適用を受けた期間に係る保険料のうち、追納するこ\nとができる保険料は、追納に係る厚生労働大臣の承認を受けた日の属する月前10年以\n内の期間に係るものに限られる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q04_1",
+                  "groupId": "fp3_202401_Q04",
+                  "statement": "遺族基礎年金を受給することができる遺族は、国民年金の被保険者等の死亡の当時、\nその者によって生計を維持され、かつ、所定の要件を満たす「子のある配偶者」また\nは「子」である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q05_1",
+                  "groupId": "fp3_202401_Q05",
+                  "statement": "日本学生支援機構の奨学金と日本政策金融公庫の教育一般貸付（国の教育ローン）\nは、重複して利用することができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q06_1",
+                  "groupId": "fp3_202401_Q06",
+                  "statement": "こども保険（学資保険）において、保険期間中に契約者（＝保険料負担者）である\n親が死亡した場合、一般に、既払込保険料相当額の死亡保険金が支払われて保険契約\nは消滅する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q07_1",
+                  "groupId": "fp3_202401_Q07",
+                  "statement": "個人年金保険（終身年金）の保険料は、性別以外の契約条件が同一であれば、被保\n険者が女性のほうが男性よりも高くなる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q08_1",
+                  "groupId": "fp3_202401_Q08",
+                  "statement": "少額短期保険業者と契約した少額短期保険の保険料は、所得税の生命保険料控除の\n対象とならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q09_1",
+                  "groupId": "fp3_202401_Q09",
+                  "statement": "家族傷害保険（家族型）において、保険期間中に契約者（＝被保険者本人）に子が\n生まれた場合、その子を被保険者に加えるためには追加保険料を支払う必要がある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q10_1",
+                  "groupId": "fp3_202401_Q10",
+                  "statement": "自動車損害賠償責任保険（自賠責保険）では、他人の自動車や建物などの財物を損壊\nし、法律上の損害賠償責任を負担することによって被る損害は補償の対象とならない。\n－1－ 〈2024.1 3級・学科〉",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q11_1",
+                  "groupId": "fp3_202401_Q11",
+                  "statement": "日本銀行の金融政策の1つである公開市場操作（オペレーション）のうち、国債買\n入オペは、日本銀行が長期国債（利付国債）を買い入れることによって金融市場に資\n金を供給するオペレーションである。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q12_1",
+                  "groupId": "fp3_202401_Q12",
+                  "statement": "株式投資信託の運用において、個別銘柄の投資指標の分析や企業業績などのリサー\nチによって投資対象とする銘柄を選定し、その積上げによりポートフォリオを構築す\nる手法を、トップダウン・アプローチという。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q13_1",
+                  "groupId": "fp3_202401_Q13",
+                  "statement": "元金2,500,000円を、年利4％（1年複利）で3年間運用した場合の元利合計額は、税\n金や手数料等を考慮しない場合、2,812,160円である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q14_1",
+                  "groupId": "fp3_202401_Q14",
+                  "statement": "為替予約を締結していない外貨定期預金において、満期時の為替レートが預入時の\n為替レートに比べて円高になれば、当該外貨定期預金の円換算の利回りは高くなる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q15_1",
+                  "groupId": "fp3_202401_Q15",
+                  "statement": "日本国内に本店のある銀行の国内支店に預け入れた外貨預金は、元本1,000万円まで\nとその利息が預金保険制度による保護の対象となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q16_1",
+                  "groupId": "fp3_202401_Q16",
+                  "statement": "所得税における一時所得に係る総収入金額が400万円で、その収入を得るために支出\nした金額が200万円である場合、一時所得の金額のうち総所得金額に算入される金額は、\n75万円である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q17_1",
+                  "groupId": "fp3_202401_Q17",
+                  "statement": "個人が賃貸アパートの敷地および建物を売却したことにより生じた所得は、不動産\n所得となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q18_1",
+                  "groupId": "fp3_202401_Q18",
+                  "statement": "所得税において、納税者の合計所得金額が1,000万円を超えている場合、医療費控除\nの適用を受けることができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q19_1",
+                  "groupId": "fp3_202401_Q19",
+                  "statement": "所得税において、その年の12月31日時点の年齢が16歳未満である扶養親族は、扶養\n控除の対象となる控除対象扶養親族に該当しない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q20_1",
+                  "groupId": "fp3_202401_Q20",
+                  "statement": "所得税において、上場株式の配当に係る配当所得について申告分離課税を選択した\n場合、配当控除の適用を受けることができない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q21_1",
+                  "groupId": "fp3_202401_Q21",
+                  "statement": "不動産の登記記録において、所有権の移転に関する事項は、権利部（甲区）に記録\nされる。\n〈 ファイナンシャル・プランニング技能検定〉 －2－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q22_1",
+                  "groupId": "fp3_202401_Q22",
+                  "statement": "宅地建物取引業法によれば、宅地または建物の売買の媒介契約のうち、専任媒介契\n約を締結した宅地建物取引業者は、依頼者に対し、当該契約に係る業務の処理状況を\n2カ月に1回以上報告しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q23_1",
+                  "groupId": "fp3_202401_Q23",
+                  "statement": "建築基準法によれば、建築物が防火地域および準防火地域にわたる場合、原則とし\nて、その全部について、敷地の過半が属する地域内の建築物に関する規定が適用され\nる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q24_1",
+                  "groupId": "fp3_202401_Q24",
+                  "statement": "不動産取得税は、相続人が不動産を相続により取得した場合には課されない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q25_1",
+                  "groupId": "fp3_202401_Q25",
+                  "statement": "不動産投資に係る収益性を測る指標のうち、純利回り（ＮＯＩ利回り）は、対象不動\n産から得られる年間の総収入額を総投資額で除して算出される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q26_1",
+                  "groupId": "fp3_202401_Q26",
+                  "statement": "定期贈与とは、贈与者が受贈者に対して定期的に財産を給付することを目的とする\n贈与をいい、贈与者または受贈者のいずれか一方が生存している限り、その効力を失\nうことはない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q27_1",
+                  "groupId": "fp3_202401_Q27",
+                  "statement": "相続において、養子の法定相続分は、実子の法定相続分の2分の1となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q28_1",
+                  "groupId": "fp3_202401_Q28",
+                  "statement": "相続税額の計算上、被相続人が生前に購入した墓碑の購入代金で、相続開始時にお\nいて未払いであったものは、債務控除の対象となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q29_1",
+                  "groupId": "fp3_202401_Q29",
+                  "statement": "相続税額の計算上、遺産に係る基礎控除額を計算する際の法定相続人の数は、相続人\nのうちに相続の放棄をした者がいる場合であっても、その放棄がなかったものとした\nときの相続人の数とされる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q30_1",
+                  "groupId": "fp3_202401_Q30",
+                  "statement": "個人が、自己が所有する土地上に建築した店舗用建物を第三者に賃貸していた場合、\n相続税額の計算上、当該敷地は貸家建付地として評価される。\n－3－ 〈2024.1 3級・学科〉\n【第2問】 次の各文章（(31)～(60)）の（ ）内にあてはまる最も適切な文章、語句、数\n字またはそれらの組合せを1)～3)のなかから選び、その番号を解答用紙にマー\nクしなさい。 〔30問〕",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                }
+              ]
+            },
+            {
+              "categoryName": "三択問題（問31〜60）",
+              "questions": [
+                {
+                  "id": "fp3_202401_Q31_1",
+                  "groupId": "fp3_202401_Q31",
+                  "statement": "毎年一定金額を積み立てながら、一定の利率で複利運用した場合の一定期間経過後\nの元利合計額を試算する際、毎年の積立額に乗じる係数は、（ ）である。\n選択肢1）資本回収係数",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q31_2",
+                  "groupId": "fp3_202401_Q31",
+                  "statement": "毎年一定金額を積み立てながら、一定の利率で複利運用した場合の一定期間経過後\nの元利合計額を試算する際、毎年の積立額に乗じる係数は、（ ）である。\n選択肢2）年金終価係数",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q31_3",
+                  "groupId": "fp3_202401_Q31",
+                  "statement": "毎年一定金額を積み立てながら、一定の利率で複利運用した場合の一定期間経過後\nの元利合計額を試算する際、毎年の積立額に乗じる係数は、（ ）である。\n選択肢3）減債基金係数",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q32_1",
+                  "groupId": "fp3_202401_Q32",
+                  "statement": "退職により健康保険の被保険者資格を喪失した者で、喪失日の前日までに継続して\n（ ① ）以上被保険者であった者は、所定の申出により、最長で（ ② ）、健康保\n険の任意継続被保険者となることができる。\n選択肢1）① 1カ月 ② 2年間",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q32_2",
+                  "groupId": "fp3_202401_Q32",
+                  "statement": "退職により健康保険の被保険者資格を喪失した者で、喪失日の前日までに継続して\n（ ① ）以上被保険者であった者は、所定の申出により、最長で（ ② ）、健康保\n険の任意継続被保険者となることができる。\n選択肢2）① 2カ月 ② 1年間",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q32_3",
+                  "groupId": "fp3_202401_Q32",
+                  "statement": "退職により健康保険の被保険者資格を喪失した者で、喪失日の前日までに継続して\n（ ① ）以上被保険者であった者は、所定の申出により、最長で（ ② ）、健康保\n険の任意継続被保険者となることができる。\n選択肢3）① 2カ月 ② 2年間",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q33_1",
+                  "groupId": "fp3_202401_Q33",
+                  "statement": "厚生年金保険の被保険者期間が（ ① ）以上ある者が、老齢厚生年金の受給権を\n取得した当時、一定の要件を満たす（ ② ）未満の配偶者を有する場合、当該受給\n権者が受給する老齢厚生年金に加給年金額が加算される。\n選択肢1）① 10年 ② 65歳",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q33_2",
+                  "groupId": "fp3_202401_Q33",
+                  "statement": "厚生年金保険の被保険者期間が（ ① ）以上ある者が、老齢厚生年金の受給権を\n取得した当時、一定の要件を満たす（ ② ）未満の配偶者を有する場合、当該受給\n権者が受給する老齢厚生年金に加給年金額が加算される。\n選択肢2）① 20年 ② 65歳",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q33_3",
+                  "groupId": "fp3_202401_Q33",
+                  "statement": "厚生年金保険の被保険者期間が（ ① ）以上ある者が、老齢厚生年金の受給権を\n取得した当時、一定の要件を満たす（ ② ）未満の配偶者を有する場合、当該受給\n権者が受給する老齢厚生年金に加給年金額が加算される。\n選択肢3）① 20年 ② 70歳",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q34_1",
+                  "groupId": "fp3_202401_Q34",
+                  "statement": "確定拠出年金の個人型年金の老齢給付金を60歳から受給するためには、通算加入者\n等期間が（ ）以上なければならない。\n選択肢1）10年",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q34_2",
+                  "groupId": "fp3_202401_Q34",
+                  "statement": "確定拠出年金の個人型年金の老齢給付金を60歳から受給するためには、通算加入者\n等期間が（ ）以上なければならない。\n選択肢2）15年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q34_3",
+                  "groupId": "fp3_202401_Q34",
+                  "statement": "確定拠出年金の個人型年金の老齢給付金を60歳から受給するためには、通算加入者\n等期間が（ ）以上なければならない。\n選択肢3）20年\n〈 ファイナンシャル・プランニング技能検定〉 －4－",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q35_1",
+                  "groupId": "fp3_202401_Q35",
+                  "statement": "下図は、住宅ローンの（ ① ）返済方式をイメージ図で表したものであり、図中\nのＰの部分は（ ② ）部分を、Ｑの部分は（ ③ ）部分を示している。\n返 Ｐ\n済\n額\nＱ\n返済期間\n選択肢1）① 元金均等 ② 利息 ③ 元金",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q35_2",
+                  "groupId": "fp3_202401_Q35",
+                  "statement": "下図は、住宅ローンの（ ① ）返済方式をイメージ図で表したものであり、図中\nのＰの部分は（ ② ）部分を、Ｑの部分は（ ③ ）部分を示している。\n返 Ｐ\n済\n額\nＱ\n返済期間\n選択肢2）① 元利均等 ② 元金 ③ 利息",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q35_3",
+                  "groupId": "fp3_202401_Q35",
+                  "statement": "下図は、住宅ローンの（ ① ）返済方式をイメージ図で表したものであり、図中\nのＰの部分は（ ② ）部分を、Ｑの部分は（ ③ ）部分を示している。\n返 Ｐ\n済\n額\nＱ\n返済期間\n選択肢3）① 元利均等 ② 利息 ③ 元金",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q36_1",
+                  "groupId": "fp3_202401_Q36",
+                  "statement": "生命保険の保険料は、純保険料および付加保険料で構成されており、このうち付加\n保険料は、（ ）に基づいて計算される。\n選択肢1）予定利率",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q36_2",
+                  "groupId": "fp3_202401_Q36",
+                  "statement": "生命保険の保険料は、純保険料および付加保険料で構成されており、このうち付加\n保険料は、（ ）に基づいて計算される。\n選択肢2）予定死亡率",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q36_3",
+                  "groupId": "fp3_202401_Q36",
+                  "statement": "生命保険の保険料は、純保険料および付加保険料で構成されており、このうち付加\n保険料は、（ ）に基づいて計算される。\n選択肢3）予定事業費率",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q37_1",
+                  "groupId": "fp3_202401_Q37",
+                  "statement": "国内で事業を行う生命保険会社が破綻した場合、生命保険契約者保護機構による補\n償の対象となる保険契約については、高予定利率契約を除き、（ ① ）の（ ② ）\nまで補償される。\n選択肢1）① 既払込保険料相当額 ② 70％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q37_2",
+                  "groupId": "fp3_202401_Q37",
+                  "statement": "国内で事業を行う生命保険会社が破綻した場合、生命保険契約者保護機構による補\n償の対象となる保険契約については、高予定利率契約を除き、（ ① ）の（ ② ）\nまで補償される。\n選択肢2）① 死亡保険金額 ② 80％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q37_3",
+                  "groupId": "fp3_202401_Q37",
+                  "statement": "国内で事業を行う生命保険会社が破綻した場合、生命保険契約者保護機構による補\n償の対象となる保険契約については、高予定利率契約を除き、（ ① ）の（ ② ）\nまで補償される。\n選択肢3）① 責任準備金等 ② 90％",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q38_1",
+                  "groupId": "fp3_202401_Q38",
+                  "statement": "自動車を運転中にハンドル操作を誤ってガードレールに衝突し、被保険者である運\n転者がケガをした場合、（ ）による補償の対象となる。\n選択肢1）対人賠償保険",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q38_2",
+                  "groupId": "fp3_202401_Q38",
+                  "statement": "自動車を運転中にハンドル操作を誤ってガードレールに衝突し、被保険者である運\n転者がケガをした場合、（ ）による補償の対象となる。\n選択肢2）人身傷害保険",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q38_3",
+                  "groupId": "fp3_202401_Q38",
+                  "statement": "自動車を運転中にハンドル操作を誤ってガードレールに衝突し、被保険者である運\n転者がケガをした場合、（ ）による補償の対象となる。\n選択肢3）自動車損害賠償責任保険\n－5－ 〈2024.1 3級・学科〉",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q39_1",
+                  "groupId": "fp3_202401_Q39",
+                  "statement": "所得税において、個人が支払う地震保険の保険料に係る地震保険料控除は、原則と\nして、（ ① ）を限度として年間支払保険料の（ ② ）が控除額となる。\n選択肢1）① 5万円 ② 全額",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q39_2",
+                  "groupId": "fp3_202401_Q39",
+                  "statement": "所得税において、個人が支払う地震保険の保険料に係る地震保険料控除は、原則と\nして、（ ① ）を限度として年間支払保険料の（ ② ）が控除額となる。\n選択肢2）① 5万円 ② 2分の1相当額",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q39_3",
+                  "groupId": "fp3_202401_Q39",
+                  "statement": "所得税において、個人が支払う地震保険の保険料に係る地震保険料控除は、原則と\nして、（ ① ）を限度として年間支払保険料の（ ② ）が控除額となる。\n選択肢3）① 10万円 ② 2分の1相当額",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q40_1",
+                  "groupId": "fp3_202401_Q40",
+                  "statement": "がん保険において、がんの治療を目的とする入院により被保険者が受け取る入院給\n付金は、一般に、1回の入院での支払日数（ ）。\n選択肢1）に制限はない",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q40_2",
+                  "groupId": "fp3_202401_Q40",
+                  "statement": "がん保険において、がんの治療を目的とする入院により被保険者が受け取る入院給\n付金は、一般に、1回の入院での支払日数（ ）。\n選択肢2）は90日が限度となる",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q40_3",
+                  "groupId": "fp3_202401_Q40",
+                  "statement": "がん保険において、がんの治療を目的とする入院により被保険者が受け取る入院給\n付金は、一般に、1回の入院での支払日数（ ）。\n選択肢3）は180日が限度となる",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q41_1",
+                  "groupId": "fp3_202401_Q41",
+                  "statement": "景気動向指数において、完全失業率は、（ ）に採用されている。\n選択肢1）先行系列",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q41_2",
+                  "groupId": "fp3_202401_Q41",
+                  "statement": "景気動向指数において、完全失業率は、（ ）に採用されている。\n選択肢2）一致系列",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q41_3",
+                  "groupId": "fp3_202401_Q41",
+                  "statement": "景気動向指数において、完全失業率は、（ ）に採用されている。\n選択肢3）遅行系列",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q42_1",
+                  "groupId": "fp3_202401_Q42",
+                  "statement": "追加型株式投資信託を基準価額1万200円（1万口当たり）で1万口購入した後、最\n初の決算時に1万口当たり700円の収益分配金が支払われ、分配落ち後の基準価額が\n1万円（1万口当たり）となった場合、その収益分配金のうち、普通分配金は（ ① ）\nであり、元本払戻金（特別分配金）は（ ② ）である。\n選択肢1）① 200円 ② 500円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q42_2",
+                  "groupId": "fp3_202401_Q42",
+                  "statement": "追加型株式投資信託を基準価額1万200円（1万口当たり）で1万口購入した後、最\n初の決算時に1万口当たり700円の収益分配金が支払われ、分配落ち後の基準価額が\n1万円（1万口当たり）となった場合、その収益分配金のうち、普通分配金は（ ① ）\nであり、元本払戻金（特別分配金）は（ ② ）である。\n選択肢2）① 500円 ② 200円",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q42_3",
+                  "groupId": "fp3_202401_Q42",
+                  "statement": "追加型株式投資信託を基準価額1万200円（1万口当たり）で1万口購入した後、最\n初の決算時に1万口当たり700円の収益分配金が支払われ、分配落ち後の基準価額が\n1万円（1万口当たり）となった場合、その収益分配金のうち、普通分配金は（ ① ）\nであり、元本払戻金（特別分配金）は（ ② ）である。\n選択肢3）① 700円 ② 200円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q43_1",
+                  "groupId": "fp3_202401_Q43",
+                  "statement": "表面利率（クーポンレート）4％、残存期間5年の固定利付債券を額面100円当たり\n104円で購入した場合の最終利回り（年率・単利）は、（ ）である。なお、税金\n等は考慮しないものとし、計算結果は表示単位の小数点以下第3位を四捨五入してい\nる。\n選択肢1）3.08％",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q43_2",
+                  "groupId": "fp3_202401_Q43",
+                  "statement": "表面利率（クーポンレート）4％、残存期間5年の固定利付債券を額面100円当たり\n104円で購入した場合の最終利回り（年率・単利）は、（ ）である。なお、税金\n等は考慮しないものとし、計算結果は表示単位の小数点以下第3位を四捨五入してい\nる。\n選択肢2）3.20％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q43_3",
+                  "groupId": "fp3_202401_Q43",
+                  "statement": "表面利率（クーポンレート）4％、残存期間5年の固定利付債券を額面100円当たり\n104円で購入した場合の最終利回り（年率・単利）は、（ ）である。なお、税金\n等は考慮しないものとし、計算結果は表示単位の小数点以下第3位を四捨五入してい\nる。\n選択肢3）3.33％\n〈 ファイナンシャル・プランニング技能検定〉 －6－",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q44_1",
+                  "groupId": "fp3_202401_Q44",
+                  "statement": "株式の投資指標のうち、（ ）は、株価を1株当たり当期純利益で除して算出さ\nれる。\n選択肢1）ＰＢＲ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q44_2",
+                  "groupId": "fp3_202401_Q44",
+                  "statement": "株式の投資指標のうち、（ ）は、株価を1株当たり当期純利益で除して算出さ\nれる。\n選択肢2）ＰＥＲ",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q44_3",
+                  "groupId": "fp3_202401_Q44",
+                  "statement": "株式の投資指標のうち、（ ）は、株価を1株当たり当期純利益で除して算出さ\nれる。\n選択肢3）ＢＰＳ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q45_1",
+                  "groupId": "fp3_202401_Q45",
+                  "statement": "異なる2資産からなるポートフォリオにおいて、2資産間の相関係数が（ ）\nである場合、分散投資によるリスクの低減効果は最大となる。\n選択肢1）＋1",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q45_2",
+                  "groupId": "fp3_202401_Q45",
+                  "statement": "異なる2資産からなるポートフォリオにおいて、2資産間の相関係数が（ ）\nである場合、分散投資によるリスクの低減効果は最大となる。\n選択肢2）0",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q45_3",
+                  "groupId": "fp3_202401_Q45",
+                  "statement": "異なる2資産からなるポートフォリオにおいて、2資産間の相関係数が（ ）\nである場合、分散投資によるリスクの低減効果は最大となる。\n選択肢3）－1",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q46_1",
+                  "groupId": "fp3_202401_Q46",
+                  "statement": "所得税において、病気で入院したことにより医療保険の被保険者が受け取った入院\n給付金は、（ ）とされる。\n選択肢1）非課税所得",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q46_2",
+                  "groupId": "fp3_202401_Q46",
+                  "statement": "所得税において、病気で入院したことにより医療保険の被保険者が受け取った入院\n給付金は、（ ）とされる。\n選択肢2）一時所得",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q46_3",
+                  "groupId": "fp3_202401_Q46",
+                  "statement": "所得税において、病気で入院したことにより医療保険の被保険者が受け取った入院\n給付金は、（ ）とされる。\n選択肢3）雑所得",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q47_1",
+                  "groupId": "fp3_202401_Q47",
+                  "statement": "所得税において、為替予約を締結していない外貨定期預金を満期時に円貨で払い戻\nした結果生じた為替差益は、（ ）として総合課税の対象となる。\n選択肢1）利子所得",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q47_2",
+                  "groupId": "fp3_202401_Q47",
+                  "statement": "所得税において、為替予約を締結していない外貨定期預金を満期時に円貨で払い戻\nした結果生じた為替差益は、（ ）として総合課税の対象となる。\n選択肢2）一時所得",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q47_3",
+                  "groupId": "fp3_202401_Q47",
+                  "statement": "所得税において、為替予約を締結していない外貨定期預金を満期時に円貨で払い戻\nした結果生じた為替差益は、（ ）として総合課税の対象となる。\n選択肢3）雑所得",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q48_1",
+                  "groupId": "fp3_202401_Q48",
+                  "statement": "日本国内において支払を受ける預貯金の利子は、原則として、所得税および復興特\n別所得税と住民税の合計で（ ① ）の税率による（ ② ）分離課税の対象となる。\n選択肢1）① 10.21％ ② 申告",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q48_2",
+                  "groupId": "fp3_202401_Q48",
+                  "statement": "日本国内において支払を受ける預貯金の利子は、原則として、所得税および復興特\n別所得税と住民税の合計で（ ① ）の税率による（ ② ）分離課税の対象となる。\n選択肢2）① 20.315％ ② 申告",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q48_3",
+                  "groupId": "fp3_202401_Q48",
+                  "statement": "日本国内において支払を受ける預貯金の利子は、原則として、所得税および復興特\n別所得税と住民税の合計で（ ① ）の税率による（ ② ）分離課税の対象となる。\n選択肢3）① 20.315％ ② 源泉",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q49_1",
+                  "groupId": "fp3_202401_Q49",
+                  "statement": "所得税において、納税者の合計所得金額が2,400万円以下である場合、基礎控除の\n控除額は、（ ）である。\n選択肢1）38万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q49_2",
+                  "groupId": "fp3_202401_Q49",
+                  "statement": "所得税において、納税者の合計所得金額が2,400万円以下である場合、基礎控除の\n控除額は、（ ）である。\n選択肢2）48万円",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q49_3",
+                  "groupId": "fp3_202401_Q49",
+                  "statement": "所得税において、納税者の合計所得金額が2,400万円以下である場合、基礎控除の\n控除額は、（ ）である。\n選択肢3）63万円\n－7－ 〈2024.1 3級・学科〉",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q50_1",
+                  "groupId": "fp3_202401_Q50",
+                  "statement": "年末調整の対象となる給与所得者は、所定の手続により、年末調整で所得税の\n（ ）の適用を受けることができる。\n選択肢1）雑損控除",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q50_2",
+                  "groupId": "fp3_202401_Q50",
+                  "statement": "年末調整の対象となる給与所得者は、所定の手続により、年末調整で所得税の\n（ ）の適用を受けることができる。\n選択肢2）寄附金控除",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q50_3",
+                  "groupId": "fp3_202401_Q50",
+                  "statement": "年末調整の対象となる給与所得者は、所定の手続により、年末調整で所得税の\n（ ）の適用を受けることができる。\n選択肢3）小規模企業共済等掛金控除",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q51_1",
+                  "groupId": "fp3_202401_Q51",
+                  "statement": "宅地に係る固定資産税評価額は、原則として、（ ① ）ごとの基準年度において\n評価替えが行われ、前年の地価公示法による公示価格等の（ ② ）を目途として評\n定される。\n選択肢1）① 3年 ② 70％",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q51_2",
+                  "groupId": "fp3_202401_Q51",
+                  "statement": "宅地に係る固定資産税評価額は、原則として、（ ① ）ごとの基準年度において\n評価替えが行われ、前年の地価公示法による公示価格等の（ ② ）を目途として評\n定される。\n選択肢2）① 3年 ② 80％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q51_3",
+                  "groupId": "fp3_202401_Q51",
+                  "statement": "宅地に係る固定資産税評価額は、原則として、（ ① ）ごとの基準年度において\n評価替えが行われ、前年の地価公示法による公示価格等の（ ② ）を目途として評\n定される。\n選択肢3）① 5年 ② 80％",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q52_1",
+                  "groupId": "fp3_202401_Q52",
+                  "statement": "都市計画法によれば、市街化調整区域は、（ ）とされている。\n選択肢1）既に市街地を形成している区域",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q52_2",
+                  "groupId": "fp3_202401_Q52",
+                  "statement": "都市計画法によれば、市街化調整区域は、（ ）とされている。\n選択肢2）市街化を抑制すべき区域",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q52_3",
+                  "groupId": "fp3_202401_Q52",
+                  "statement": "都市計画法によれば、市街化調整区域は、（ ）とされている。\n選択肢3）優先的かつ計画的に市街化を図るべき区域",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q53_1",
+                  "groupId": "fp3_202401_Q53",
+                  "statement": "都市計画区域内にある幅員4ｍ未満の道で、建築基準法第42条第2項により道路と\nみなされるものについては、原則として、その中心線からの水平距離で（ ① ）後\n退した線がその道路の境界線とみなされ、当該境界線と道路の間の敷地部分は建蔽率\nや容積率を算定する際の敷地面積に算入（ ② ）。\n選択肢1）① 2ｍ ② することができる",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q53_2",
+                  "groupId": "fp3_202401_Q53",
+                  "statement": "都市計画区域内にある幅員4ｍ未満の道で、建築基準法第42条第2項により道路と\nみなされるものについては、原則として、その中心線からの水平距離で（ ① ）後\n退した線がその道路の境界線とみなされ、当該境界線と道路の間の敷地部分は建蔽率\nや容積率を算定する際の敷地面積に算入（ ② ）。\n選択肢2）① 2ｍ ② することができない",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q53_3",
+                  "groupId": "fp3_202401_Q53",
+                  "statement": "都市計画区域内にある幅員4ｍ未満の道で、建築基準法第42条第2項により道路と\nみなされるものについては、原則として、その中心線からの水平距離で（ ① ）後\n退した線がその道路の境界線とみなされ、当該境界線と道路の間の敷地部分は建蔽率\nや容積率を算定する際の敷地面積に算入（ ② ）。\n選択肢3）① 4ｍ ② することができない",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q54_1",
+                  "groupId": "fp3_202401_Q54",
+                  "statement": "農地法によれば、農地を農地以外のものに転用する場合、原則として、（ ① ）の\n許可を受けなければならないが、市街化区域内にある農地を農地以外のものに転用す\nる場合、あらかじめ当該転用に係る届出書を（ ② ）に提出すれば、（ ① ）の許\n可を受ける必要はない。\n選択肢1）① 農林水産大臣 ② 都道府県知事等",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q54_2",
+                  "groupId": "fp3_202401_Q54",
+                  "statement": "農地法によれば、農地を農地以外のものに転用する場合、原則として、（ ① ）の\n許可を受けなければならないが、市街化区域内にある農地を農地以外のものに転用す\nる場合、あらかじめ当該転用に係る届出書を（ ② ）に提出すれば、（ ① ）の許\n可を受ける必要はない。\n選択肢2）① 農林水産大臣 ② 農業委員会",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q54_3",
+                  "groupId": "fp3_202401_Q54",
+                  "statement": "農地法によれば、農地を農地以外のものに転用する場合、原則として、（ ① ）の\n許可を受けなければならないが、市街化区域内にある農地を農地以外のものに転用す\nる場合、あらかじめ当該転用に係る届出書を（ ② ）に提出すれば、（ ① ）の許\n可を受ける必要はない。\n選択肢3）① 都道府県知事等 ② 農業委員会\n〈 ファイナンシャル・プランニング技能検定〉 －8－",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q55_1",
+                  "groupId": "fp3_202401_Q55",
+                  "statement": "所得税額の計算において、個人が土地を譲渡したことによる譲渡所得が長期譲渡所\n得に区分されるためには、土地を譲渡した年の1月1日における所有期間が（ ）\nを超えていなければならない。\n選択肢1）5年",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q55_2",
+                  "groupId": "fp3_202401_Q55",
+                  "statement": "所得税額の計算において、個人が土地を譲渡したことによる譲渡所得が長期譲渡所\n得に区分されるためには、土地を譲渡した年の1月1日における所有期間が（ ）\nを超えていなければならない。\n選択肢2）10年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q55_3",
+                  "groupId": "fp3_202401_Q55",
+                  "statement": "所得税額の計算において、個人が土地を譲渡したことによる譲渡所得が長期譲渡所\n得に区分されるためには、土地を譲渡した年の1月1日における所有期間が（ ）\nを超えていなければならない。\n選択肢3）20年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q56_1",
+                  "groupId": "fp3_202401_Q56",
+                  "statement": "贈与税の申告書は、原則として、贈与を受けた年の翌年の（ ① ）から3月15日\nまでの間に、（ ② ）の住所地を所轄する税務署長に提出しなければならない。\n選択肢1）① 2月1日 ② 受贈者",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q56_2",
+                  "groupId": "fp3_202401_Q56",
+                  "statement": "贈与税の申告書は、原則として、贈与を受けた年の翌年の（ ① ）から3月15日\nまでの間に、（ ② ）の住所地を所轄する税務署長に提出しなければならない。\n選択肢2）① 2月1日 ② 贈与者",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q56_3",
+                  "groupId": "fp3_202401_Q56",
+                  "statement": "贈与税の申告書は、原則として、贈与を受けた年の翌年の（ ① ）から3月15日\nまでの間に、（ ② ）の住所地を所轄する税務署長に提出しなければならない。\n選択肢3）① 2月16日 ② 贈与者",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q57_1",
+                  "groupId": "fp3_202401_Q57",
+                  "statement": "贈与税の配偶者控除は、婚姻期間が（ ① ）以上である配偶者から居住用不動産\nまたは居住用不動産を取得するための金銭の贈与を受け、所定の要件を満たす場合、\n贈与税の課税価格から基礎控除額のほかに最高で（ ② ）を控除することができる\n特例である。\n選択肢1）① 10年 ② 2,000万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q57_2",
+                  "groupId": "fp3_202401_Q57",
+                  "statement": "贈与税の配偶者控除は、婚姻期間が（ ① ）以上である配偶者から居住用不動産\nまたは居住用不動産を取得するための金銭の贈与を受け、所定の要件を満たす場合、\n贈与税の課税価格から基礎控除額のほかに最高で（ ② ）を控除することができる\n特例である。\n選択肢2）① 20年 ② 2,000万円",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q57_3",
+                  "groupId": "fp3_202401_Q57",
+                  "statement": "贈与税の配偶者控除は、婚姻期間が（ ① ）以上である配偶者から居住用不動産\nまたは居住用不動産を取得するための金銭の贈与を受け、所定の要件を満たす場合、\n贈与税の課税価格から基礎控除額のほかに最高で（ ② ）を控除することができる\n特例である。\n選択肢3）① 20年 ② 2,500万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q58_1",
+                  "groupId": "fp3_202401_Q58",
+                  "statement": "下記の〈親族関係図〉において、Ａさんの相続における妻Ｂさんの法定相続分は、\n（ ）である。なお、Ａさんの父母は、Ａさんの相続開始前に死亡している。\n〈親族関係図〉\n父 母\n（既に死亡） （既に死亡）\n姉Ｃさん 兄Ｄさん Ａさん 妻Ｂさん\n（被相続人）\n選択肢1）2分の1",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q58_2",
+                  "groupId": "fp3_202401_Q58",
+                  "statement": "下記の〈親族関係図〉において、Ａさんの相続における妻Ｂさんの法定相続分は、\n（ ）である。なお、Ａさんの父母は、Ａさんの相続開始前に死亡している。\n〈親族関係図〉\n父 母\n（既に死亡） （既に死亡）\n姉Ｃさん 兄Ｄさん Ａさん 妻Ｂさん\n（被相続人）\n選択肢2）3分の2",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q58_3",
+                  "groupId": "fp3_202401_Q58",
+                  "statement": "下記の〈親族関係図〉において、Ａさんの相続における妻Ｂさんの法定相続分は、\n（ ）である。なお、Ａさんの父母は、Ａさんの相続開始前に死亡している。\n〈親族関係図〉\n父 母\n（既に死亡） （既に死亡）\n姉Ｃさん 兄Ｄさん Ａさん 妻Ｂさん\n（被相続人）\n選択肢3）4分の3\n－9－ 〈2024.1 3級・学科〉",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q59_1",
+                  "groupId": "fp3_202401_Q59",
+                  "statement": "相続税額の計算上、死亡退職金の非課税金額の規定による非課税限度額は、\n「（ ）×法定相続人の数」の算式により算出される。\n選択肢1）500万円",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q59_2",
+                  "groupId": "fp3_202401_Q59",
+                  "statement": "相続税額の計算上、死亡退職金の非課税金額の規定による非課税限度額は、\n「（ ）×法定相続人の数」の算式により算出される。\n選択肢2）600万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q59_3",
+                  "groupId": "fp3_202401_Q59",
+                  "statement": "相続税額の計算上、死亡退職金の非課税金額の規定による非課税限度額は、\n「（ ）×法定相続人の数」の算式により算出される。\n選択肢3）1,000万円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q60_1",
+                  "groupId": "fp3_202401_Q60",
+                  "statement": "2024年1月10日（水）に死亡したＡさんが所有していた上場株式Ｘを、相続人が相\n続により取得した場合の1株当たりの相続税評価額は、下記の〈資料〉によれば、（ ）\nである。\n〈資料〉上場株式Ｘの価格\n2023年11月の毎日の最終価格の月平均額 1,480円\n2023年12月の毎日の最終価格の月平均額 1,490円\n2024年1月の毎日の最終価格の月平均額 1,500円\n2024年1月10日（水）の最終価格 1,490円\n選択肢1）1,480円",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q60_2",
+                  "groupId": "fp3_202401_Q60",
+                  "statement": "2024年1月10日（水）に死亡したＡさんが所有していた上場株式Ｘを、相続人が相\n続により取得した場合の1株当たりの相続税評価額は、下記の〈資料〉によれば、（ ）\nである。\n〈資料〉上場株式Ｘの価格\n2023年11月の毎日の最終価格の月平均額 1,480円\n2023年12月の毎日の最終価格の月平均額 1,490円\n2024年1月の毎日の最終価格の月平均額 1,500円\n2024年1月10日（水）の最終価格 1,490円\n選択肢2）1,490円",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                },
+                {
+                  "id": "fp3_202401_Q60_3",
+                  "groupId": "fp3_202401_Q60",
+                  "statement": "2024年1月10日（水）に死亡したＡさんが所有していた上場株式Ｘを、相続人が相\n続により取得した場合の1株当たりの相続税評価額は、下記の〈資料〉によれば、（ ）\nである。\n〈資料〉上場株式Ｘの価格\n2023年11月の毎日の最終価格の月平均額 1,480円\n2023年12月の毎日の最終価格の月平均額 1,490円\n2024年1月の毎日の最終価格の月平均額 1,500円\n2024年1月10日（水）の最終価格 1,490円\n選択肢3）1,500円\n〈 ファイナンシャル・プランニング技能検定〉 －10－\n（終）",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2023
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
