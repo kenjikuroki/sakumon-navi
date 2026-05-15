@@ -3804,6 +3804,1781 @@
               ]
             }
           ]
+        },
+        {
+          "examYear": "令和4年度",
+          "sourceType": "official_exam",
+          "categories": [
+            {
+              "categoryName": "マンション管理士",
+              "questions": [
+                {
+                  "id": "mansion_R4_Q01_c1",
+                  "groupId": "mansion_R4_Q01",
+                  "statement": "一つ",
+                  "answer": false,
+                  "explanation": "区分所有法上の共用部分は、専有部分以外の建物の部分・付属物・規約共用部分の3種類。正しい記述の数を問う問題。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q01_c2",
+                  "groupId": "mansion_R4_Q01",
+                  "statement": "二つ",
+                  "answer": false,
+                  "explanation": "区分所有法上の共用部分は、専有部分以外の建物の部分・付属物・規約共用部分の3種類。正しい記述の数を問う問題。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q01_c3",
+                  "groupId": "mansion_R4_Q01",
+                  "statement": "三つ",
+                  "answer": true,
+                  "explanation": "区分所有法上の共用部分は、専有部分以外の建物の部分・付属物・規約共用部分の3種類。正しい記述の数を問う問題。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q01_c4",
+                  "groupId": "mansion_R4_Q01",
+                  "statement": "四つ",
+                  "answer": false,
+                  "explanation": "区分所有法上の共用部分は、専有部分以外の建物の部分・付属物・規約共用部分の3種類。正しい記述の数を問う問題。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q02_c1",
+                  "groupId": "mansion_R4_Q02",
+                  "statement": "一つ",
+                  "answer": false,
+                  "explanation": "区分所有建物の敷地に関する正誤問題。専有部分と敷地利用権の分離処分禁止、敷地権表示、共有持分の規定に関する知識を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q02_c2",
+                  "groupId": "mansion_R4_Q02",
+                  "statement": "二つ",
+                  "answer": true,
+                  "explanation": "区分所有建物の敷地に関する正誤問題。専有部分と敷地利用権の分離処分禁止、敷地権表示、共有持分の規定に関する知識を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q02_c3",
+                  "groupId": "mansion_R4_Q02",
+                  "statement": "三つ",
+                  "answer": false,
+                  "explanation": "区分所有建物の敷地に関する正誤問題。専有部分と敷地利用権の分離処分禁止、敷地権表示、共有持分の規定に関する知識を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q02_c4",
+                  "groupId": "mansion_R4_Q02",
+                  "statement": "四つ 1",
+                  "answer": false,
+                  "explanation": "区分所有建物の敷地に関する正誤問題。専有部分と敷地利用権の分離処分禁止、敷地権表示、共有持分の規定に関する知識を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q03_c1",
+                  "groupId": "mansion_R4_Q03",
+                  "statement": "規約の別段の定めによっても、管理者は一部共用部分を所有することはでき ない。",
+                  "answer": false,
+                  "explanation": "管理所有者は保存・改良に必要な範囲で他の区分所有者の専有部分等の使用を請求できる（区分所有法第27条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q03_c2",
+                  "groupId": "mansion_R4_Q03",
+                  "statement": "規約の別段の定めによっても、共用部分の所有者を管理者以外の特定の区分 所有者とすることはできない。",
+                  "answer": false,
+                  "explanation": "管理所有者は保存・改良に必要な範囲で他の区分所有者の専有部分等の使用を請求できる（区分所有法第27条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q03_c3",
+                  "groupId": "mansion_R4_Q03",
+                  "statement": "管理所有者は、その者が管理所有する共用部分を保存し、又は改良するため 必要な範囲内において、他の区分所有者の専有部分又は自己の所有に属しない 共用部分の使用を請求することができる。",
+                  "answer": true,
+                  "explanation": "管理所有者は保存・改良に必要な範囲で他の区分所有者の専有部分等の使用を請求できる（区分所有法第27条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q03_c4",
+                  "groupId": "mansion_R4_Q03",
+                  "statement": "管理所有者は、その者が管理所有する共用部分について、その形状又は効用 の著しい変更を伴わないものであっても、変更をすることはできない。",
+                  "answer": false,
+                  "explanation": "管理所有者は保存・改良に必要な範囲で他の区分所有者の専有部分等の使用を請求できる（区分所有法第27条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q05_c1",
+                  "groupId": "mansion_R4_Q05",
+                  "statement": "一つ",
+                  "answer": false,
+                  "explanation": "管理者の職務に関する正誤問題。保存行為・共用部分の管理・集会の招集等に関する区分所有法の規定を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q05_c2",
+                  "groupId": "mansion_R4_Q05",
+                  "statement": "二つ",
+                  "answer": false,
+                  "explanation": "管理者の職務に関する正誤問題。保存行為・共用部分の管理・集会の招集等に関する区分所有法の規定を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q05_c3",
+                  "groupId": "mansion_R4_Q05",
+                  "statement": "三つ",
+                  "answer": false,
+                  "explanation": "管理者の職務に関する正誤問題。保存行為・共用部分の管理・集会の招集等に関する区分所有法の規定を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q05_c4",
+                  "groupId": "mansion_R4_Q05",
+                  "statement": "四つ",
+                  "answer": true,
+                  "explanation": "管理者の職務に関する正誤問題。保存行為・共用部分の管理・集会の招集等に関する区分所有法の規定を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q06_c1",
+                  "groupId": "mansion_R4_Q06",
+                  "statement": "電磁的記録とは、電子的方式、磁気的方式その他人の知覚によっては認識す ることができない方式で作られる記録であって、電子計算機による情報処理の 用に供されるものとして法務省令で定めるものをいう。",
+                  "answer": false,
+                  "explanation": "集会の議事録を電磁的記録で作成するには、規約の規定または集会の決議が必要（区分所有法第42条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q06_c2",
+                  "groupId": "mansion_R4_Q06",
+                  "statement": "電磁的方法とは、電子情報処理組織を使用する方法その他の情報通信の技術 を利用する方法であって法務省令で定めるものをいう。",
+                  "answer": false,
+                  "explanation": "集会の議事録を電磁的記録で作成するには、規約の規定または集会の決議が必要（区分所有法第42条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q06_c3",
+                  "groupId": "mansion_R4_Q06",
+                  "statement": "集会の議事録を電磁的記録により作成するためには、規約による規定又は集 会の決議が必要である。",
+                  "answer": true,
+                  "explanation": "集会の議事録を電磁的記録で作成するには、規約の規定または集会の決議が必要（区分所有法第42条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q06_c4",
+                  "groupId": "mansion_R4_Q06",
+                  "statement": "規約により集会において決議すべきものとされた事項については、区分所有 者全員の書面又は電磁的方法による合意があったときは、書面又は電磁的方法 による決議があったものとみなす。 3",
+                  "answer": false,
+                  "explanation": "集会の議事録を電磁的記録で作成するには、規約の規定または集会の決議が必要（区分所有法第42条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q07_c1",
+                  "groupId": "mansion_R4_Q07",
+                  "statement": "BとCが集会において議決権を行使すべき者一人を定めていないときは、集 会を開催するに当たって、集会の招集者は、BとCのいずれか一方に集会の招 集通知をすれば足りる。",
+                  "answer": false,
+                  "explanation": "専有部分を数人で共有する場合、議決権行使者を一人に定めるが、規約に特別定めがあれば掲示による招集通知も可能。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q07_c2",
+                  "groupId": "mansion_R4_Q07",
+                  "statement": "Cが未成年の高校生であったとしても、BとCが合意をすれば、Cを議決権 を行使すべき者と定めることができる。",
+                  "answer": false,
+                  "explanation": "専有部分を数人で共有する場合、議決権行使者を一人に定めるが、規約に特別定めがあれば掲示による招集通知も可能。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q07_c3",
+                  "groupId": "mansion_R4_Q07",
+                  "statement": "BとCが、Bを議決権行使者と定める旨の合意をし、管理組合に議決権行使 者をBとする旨の通知をしていない場合であっても、Bは議決権行使者の指定 を受けたことを証明することにより、議決権を行使することができる。",
+                  "answer": false,
+                  "explanation": "専有部分を数人で共有する場合、議決権行使者を一人に定めるが、規約に特別定めがあれば掲示による招集通知も可能。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q07_c4",
+                  "groupId": "mansion_R4_Q07",
+                  "statement": "Cは甲マンション101号室に居住しておらず、Bが同号室に居住している場 合で、BとCが、Cを議決権行使者と定める合意をし、Cの住所を記載して書 面で通知した場合であっても、規約に特別の定めがあるときは、集会の招集の 通知は、建物内の見やすい場所に掲示してすることができる。",
+                  "answer": true,
+                  "explanation": "専有部分を数人で共有する場合、議決権行使者を一人に定めるが、規約に特別定めがあれば掲示による招集通知も可能。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q08_c1",
+                  "groupId": "mansion_R4_Q08",
+                  "statement": "区分所有建物の一部の階段室をエレベーター室へ変更すること。",
+                  "answer": false,
+                  "explanation": "管理者の解任は集会の普通決議で可能。形状・効用の著しい変更は特別多数決議、復旧は別途規定が適用される。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q08_c2",
+                  "groupId": "mansion_R4_Q08",
+                  "statement": "管理員室を廃止して、来客用の宿泊室に転用すること。",
+                  "answer": false,
+                  "explanation": "管理者の解任は集会の普通決議で可能。形状・効用の著しい変更は特別多数決議、復旧は別途規定が適用される。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q08_c3",
+                  "groupId": "mansion_R4_Q08",
+                  "statement": "管理者を解任すること。",
+                  "answer": true,
+                  "explanation": "管理者の解任は集会の普通決議で可能。形状・効用の著しい変更は特別多数決議、復旧は別途規定が適用される。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q08_c4",
+                  "groupId": "mansion_R4_Q08",
+                  "statement": "建物の価格の2分の1を超える部分が滅失したときに、滅失した共用部分を 復旧すること。 4",
+                  "answer": false,
+                  "explanation": "管理者の解任は集会の普通決議で可能。形状・効用の著しい変更は特別多数決議、復旧は別途規定が適用される。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q09_c1",
+                  "groupId": "mansion_R4_Q09",
+                  "statement": "一つ",
+                  "answer": false,
+                  "explanation": "区分所有法上の義務違反者に対する措置（使用禁止・競売請求等）に関する正誤問題。「二つ」または「三つ」が正解。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q09_c2",
+                  "groupId": "mansion_R4_Q09",
+                  "statement": "二つ",
+                  "answer": true,
+                  "explanation": "区分所有法上の義務違反者に対する措置（使用禁止・競売請求等）に関する正誤問題。「二つ」または「三つ」が正解。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q09_c3",
+                  "groupId": "mansion_R4_Q09",
+                  "statement": "三つ",
+                  "answer": true,
+                  "explanation": "区分所有法上の義務違反者に対する措置（使用禁止・競売請求等）に関する正誤問題。「二つ」または「三つ」が正解。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q09_c4",
+                  "groupId": "mansion_R4_Q09",
+                  "statement": "四つ 5",
+                  "answer": false,
+                  "explanation": "区分所有法上の義務違反者に対する措置（使用禁止・競売請求等）に関する正誤問題。「二つ」または「三つ」が正解。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q10_c1",
+                  "groupId": "mansion_R4_Q10",
+                  "statement": "敷地共有者等集会の構成員は、政令指定災害によって全部又は一部が滅失し た建物の区分所有者及び区分所有者以外の敷地の共有者である。",
+                  "answer": false,
+                  "explanation": "政令指定災害後に区分所有者全員の同意で建物を取り壊した場合でも、政令施行日から3年間は敷地共有者等集会を開催できる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q10_c2",
+                  "groupId": "mansion_R4_Q10",
+                  "statement": "政令指定災害により、区分所有建物の一部が滅失した後、区分所有者全員の 同意によって区分所有建物の全部を取り壊したときにも、政令の施行の日から 起算して3年が経過する日までの間は、敷地共有者等集会を開くことが認めら れる。",
+                  "answer": true,
+                  "explanation": "政令指定災害後に区分所有者全員の同意で建物を取り壊した場合でも、政令施行日から3年間は敷地共有者等集会を開催できる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q10_c3",
+                  "groupId": "mansion_R4_Q10",
+                  "statement": "敷地共有者等集会においては、滅失した区分所有建物に係る建物の敷地若し くはその一部の土地又は当該建物の敷地の全部若しくは一部を含む土地の管理 に係る規約を定めることができる。",
+                  "answer": false,
+                  "explanation": "政令指定災害後に区分所有者全員の同意で建物を取り壊した場合でも、政令施行日から3年間は敷地共有者等集会を開催できる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q10_c4",
+                  "groupId": "mansion_R4_Q10",
+                  "statement": "敷地共有者等が所在不明となっている場合に、敷地共有者等集会の招集の通 知をするためには、民法第98条に定める公示送達による方法(裁判所の掲示 場に掲示し、かつ、その掲示があったことを官報に掲載する方法)によらなけ ればならない。 6",
+                  "answer": false,
+                  "explanation": "政令指定災害後に区分所有者全員の同意で建物を取り壊した場合でも、政令施行日から3年間は敷地共有者等集会を開催できる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q11_c1",
+                  "groupId": "mansion_R4_Q11",
+                  "statement": "A棟の区分所有者は、A棟の集会の決議があれば、A棟の管理のための規約 を定めることができる。",
+                  "answer": false,
+                  "explanation": "団地規約に団地共用部分の定めを設けることで、団地管理組合の管理者を団地共用部分の所有者と定めることができる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q11_c2",
+                  "groupId": "mansion_R4_Q11",
+                  "statement": "団地内の区分所有建物に係る管理事項について、一部のみを団地管理組合で 行い、その余を各棟の管理組合で行うものと定めることができる。",
+                  "answer": false,
+                  "explanation": "団地規約に団地共用部分の定めを設けることで、団地管理組合の管理者を団地共用部分の所有者と定めることができる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q11_c3",
+                  "groupId": "mansion_R4_Q11",
+                  "statement": "団地管理組合において、A棟及びB棟の管理又は使用について団地管理規約 (区分所有法第66条において準用する同法第30条第1項の規約をいう。以 下、この問いにおいて同じ。)が定められている場合であっても、A棟の区分 所有者の集会で、A棟の管理組合における管理者を定めることができる。",
+                  "answer": false,
+                  "explanation": "団地規約に団地共用部分の定めを設けることで、団地管理組合の管理者を団地共用部分の所有者と定めることができる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q11_c4",
+                  "groupId": "mansion_R4_Q11",
+                  "statement": "団地管理規約に団地共用部分の定めを設けることにより、団地管理組合の管 理者を団地共用部分の所有者と定めることができる。",
+                  "answer": true,
+                  "explanation": "団地規約に団地共用部分の定めを設けることで、団地管理組合の管理者を団地共用部分の所有者と定めることができる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q12_c1",
+                  "groupId": "mansion_R4_Q12",
+                  "statement": "Aは、本心では202号室を売却するつもりはなく売買契約を締結した場合に おいて、Bがそのことを知り、又は知ることができたときは、売買契約は無効 となる。",
+                  "answer": false,
+                  "explanation": "動機の錯誤は相手方に表示された場合に取り消し可能（民法95条）。第三者詐欺は善意無過失の相手方には主張できない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q12_c2",
+                  "groupId": "mansion_R4_Q12",
+                  "statement": "Aは、本心では202号室を売却するつもりはなかったが、借入金の返済が滞 り差押えを受ける可能性があったため、Bと相談のうえ、Bに売却したことに して売買契約を締結したときは、売買契約は無効となる。",
+                  "answer": false,
+                  "explanation": "動機の錯誤は相手方に表示された場合に取り消し可能（民法95条）。第三者詐欺は善意無過失の相手方には主張できない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q12_c3",
+                  "groupId": "mansion_R4_Q12",
+                  "statement": "Bは、甲マンションの近くに駅が新設されると考えて202号室を購入した が、そのような事実がなかったときは、Bが駅の新設を理由に購入したことが Aに表示されていなくても、Bは売買契約を取り消すことができる。",
+                  "answer": true,
+                  "explanation": "動機の錯誤は相手方に表示された場合に取り消し可能（民法95条）。第三者詐欺は善意無過失の相手方には主張できない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q12_c4",
+                  "groupId": "mansion_R4_Q12",
+                  "statement": "Bは、知人のCによる詐欺により、202号室を購入することを決め、Aと売 買契約を締結した場合において、BがCによる詐欺を理由に売買契約を締結し たことをAが知らず、かつ、知ることもできなかったときは、Bは売買契約を 取り消すことができない。 7",
+                  "answer": false,
+                  "explanation": "動機の錯誤は相手方に表示された場合に取り消し可能（民法95条）。第三者詐欺は善意無過失の相手方には主張できない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q13_c1",
+                  "groupId": "mansion_R4_Q13",
+                  "statement": "Aが501号室を退去した後に、居住するための権利を有しないCが同室に居 住している場合、AからBへの501号室の区分所有権の移転登記が経由されて いないときは、Bは、Cに対して、同室の明渡しを請求することができない。",
+                  "answer": true,
+                  "explanation": "不動産の二重譲渡では登記が対抗要件。登記未経由の買主は権利を主張できない場合がある。正しいものは「一つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q13_c2",
+                  "groupId": "mansion_R4_Q13",
+                  "statement": "AからBへの501号室の区分所有権の移転登記が経由されない間に、AがC に同室を売却する旨の売買契約を締結し、Cに同室が引き渡された場合におい て、AからB及びCのいずれに対しても同室の区分所有権の移転登記を経由し ていないときは、Bは、Cに対して同室を明け渡すように請求することができ ない。",
+                  "answer": false,
+                  "explanation": "不動産の二重譲渡では登記が対抗要件。登記未経由の買主は権利を主張できない場合がある。正しいものは「一つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q13_c3",
+                  "groupId": "mansion_R4_Q13",
+                  "statement": "AからBに501号室の区分所有権の移転登記を経由した後に、AがBの詐欺 を理由にAB間の売買契約を取り消したが、その後にBがCに同室を売却する 旨の売買契約を締結して、区分所有権の移転登記をBからCに経由し、Cが居 住しているときは、Aは、Cに対して、同室の明渡しを求めることができな い。",
+                  "answer": false,
+                  "explanation": "不動産の二重譲渡では登記が対抗要件。登記未経由の買主は権利を主張できない場合がある。正しいものは「一つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q13_c4",
+                  "groupId": "mansion_R4_Q13",
+                  "statement": "AからBに501号室の区分所有権の移転登記が経由された後に、AがBの代 金未払いを理由にAB間の契約を解除したが、その解除の前にBがCに同室を 売却する旨の売買契約を締結してCが居住している場合、区分所有権の移転登 記がBからCに経由されていないときは、Aは、Cに対して、同室の明渡しを 求めることができる。 8",
+                  "answer": false,
+                  "explanation": "不動産の二重譲渡では登記が対抗要件。登記未経由の買主は権利を主張できない場合がある。正しいものは「一つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q14_c1",
+                  "groupId": "mansion_R4_Q14",
+                  "statement": "AB間の賃貸借契約において、B以外の第三者の賃料支払を禁止していたと きは、Cが弁済をするについて正当な利益を有していても、AはCの弁済を拒 絶することができる。",
+                  "answer": false,
+                  "explanation": "第三者弁済は正当な利益を有する者なら債務者の意思に反しても可能だが、債権者が知っていれば拒絶できる（民法474条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q14_c2",
+                  "groupId": "mansion_R4_Q14",
+                  "statement": "AB間の賃貸借契約において、B以外の第三者の賃料支払を禁止又は制限し ていなかったときは、Cが弁済をするについて正当な利益を有していなくて も、BがCに弁済の委託をし、これをあらかじめAに伝えていれば、AはCの 弁済を拒絶することができない。",
+                  "answer": false,
+                  "explanation": "第三者弁済は正当な利益を有する者なら債務者の意思に反しても可能だが、債権者が知っていれば拒絶できる（民法474条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q14_c3",
+                  "groupId": "mansion_R4_Q14",
+                  "statement": "AB間の賃貸借契約において、B以外の第三者の賃料支払を禁止又は制限し ていなかった場合、Cが弁済をするについて正当な利益を有していても、Cの 弁済がBの意思に反していることをAが知っていたときは、AはCの弁済を拒 絶することができる。",
+                  "answer": true,
+                  "explanation": "第三者弁済は正当な利益を有する者なら債務者の意思に反しても可能だが、債権者が知っていれば拒絶できる（民法474条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q14_c4",
+                  "groupId": "mansion_R4_Q14",
+                  "statement": "AB間の賃貸借契約において、B以外の第三者の賃料支払を禁止又は制限し ていなかった場合、Cが弁済をするについて正当な利益を有していなくても、 Cの弁済がBの意思に反していることをAが知らなかったときは、AはCの弁 済を受領することができる。",
+                  "answer": false,
+                  "explanation": "第三者弁済は正当な利益を有する者なら債務者の意思に反しても可能だが、債権者が知っていれば拒絶できる（民法474条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q15_c1",
+                  "groupId": "mansion_R4_Q15",
+                  "statement": "Aが、Bとの間で、302号室をBに贈与する旨の贈与契約を成立させるため には、書面によって契約をする必要がある。",
+                  "answer": true,
+                  "explanation": "書面によらない贈与は撤回可能（民法550条）。定期建物賃貸借は書面による締結が必要（借地借家法38条）。正しいものは「一つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q15_c2",
+                  "groupId": "mansion_R4_Q15",
+                  "statement": "Aが、Cとの間で、302号室を無償でCに貸す旨の使用貸借契約を成立させ るためには、302号室の引渡しをする必要はない。",
+                  "answer": false,
+                  "explanation": "書面によらない贈与は撤回可能（民法550条）。定期建物賃貸借は書面による締結が必要（借地借家法38条）。正しいものは「一つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q15_c3",
+                  "groupId": "mansion_R4_Q15",
+                  "statement": "Aが、Dとの間で、302号室を賃料月額10万円でDに賃貸する旨の賃貸借 契約を成立させるためには、302号室の引渡しをする必要はない。",
+                  "answer": false,
+                  "explanation": "書面によらない贈与は撤回可能（民法550条）。定期建物賃貸借は書面による締結が必要（借地借家法38条）。正しいものは「一つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q15_c4",
+                  "groupId": "mansion_R4_Q15",
+                  "statement": "Aが、Eとの間で、302号室を賃料月額10万円でEに賃貸する旨の定期建 物賃貸借の契約を成立させるためには、書面によって契約をする必要がある。 9",
+                  "answer": false,
+                  "explanation": "書面によらない贈与は撤回可能（民法550条）。定期建物賃貸借は書面による締結が必要（借地借家法38条）。正しいものは「一つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q16_c1",
+                  "groupId": "mansion_R4_Q16",
+                  "statement": "AB間の契約が、定期建物賃貸借でない場合、Aが、Bに対し、期間満了の 1年前から6ヵ月前までの間に更新をしない旨の通知又は条件を変更しなけれ ば更新をしない旨の通知をしなかったときは、期間の定めのない賃貸借契約と して更新される。",
+                  "answer": false,
+                  "explanation": "定期建物賃貸借（200㎡未満居住用）は、転勤・療養・親族介護等のやむを得ない事情があれば借主から中途解約が可能（借地借家法38条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q16_c2",
+                  "groupId": "mansion_R4_Q16",
+                  "statement": "AB間の契約が、定期建物賃貸借である場合、Aが、Bに対し、期間満了の 1年前から6ヵ月前までの間に期間満了により契約が終了する旨の通知をしな かったときでも、Bは期間満了による契約の終了をAに主張できる。",
+                  "answer": false,
+                  "explanation": "定期建物賃貸借（200㎡未満居住用）は、転勤・療養・親族介護等のやむを得ない事情があれば借主から中途解約が可能（借地借家法38条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q16_c3",
+                  "groupId": "mansion_R4_Q16",
+                  "statement": "AB間の契約が、定期建物賃貸借でない場合、特約がない限り、Bは、Aに 対し、契約期間内に解約の申入れをすることはできない。",
+                  "answer": false,
+                  "explanation": "定期建物賃貸借（200㎡未満居住用）は、転勤・療養・親族介護等のやむを得ない事情があれば借主から中途解約が可能（借地借家法38条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q16_c4",
+                  "groupId": "mansion_R4_Q16",
+                  "statement": "AB間の契約が、定期建物賃貸借である場合、特約がなくとも、Aがその親 族の介護をするため甲マンションの102号室を使用する必要が生じて、Bに対 し、解約の申入れをしたときは、当該定期賃貸借契約は、解約の申入れの日か ら1ヵ月を経過することによって終了する。",
+                  "answer": true,
+                  "explanation": "定期建物賃貸借（200㎡未満居住用）は、転勤・療養・親族介護等のやむを得ない事情があれば借主から中途解約が可能（借地借家法38条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q17_c1",
+                  "groupId": "mansion_R4_Q17",
+                  "statement": "BC間の遺産分割の協議により、303号室と1(cid:9751)000万円をBが取得し、Cは 何も取得しない旨の遺産分割をした場合、この協議は無効である。",
+                  "answer": false,
+                  "explanation": "遺産分割協議は共同相続人全員の合意があれば、代金分割内容や協議成立後の全部合意解除も可能（民法907条）。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q17_c2",
+                  "groupId": "mansion_R4_Q17",
+                  "statement": "BC間の遺産分割の協議により、303号室を売却して、その売却代金と 1(cid:9751)000万円をBCで平等に分割する旨の遺産分割をすることができる。",
+                  "answer": true,
+                  "explanation": "遺産分割協議は共同相続人全員の合意があれば、代金分割内容や協議成立後の全部合意解除も可能（民法907条）。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q17_c3",
+                  "groupId": "mansion_R4_Q17",
+                  "statement": "BC間の遺産分割の協議により、303号室をBが、1(cid:9751)000万円をCがそれぞれ 取得する旨の遺産分割が行われた。その後、BCは、その協議の全部を合意に よって解除し、改めて、異なる内容の遺産分割の協議をすることはできない。",
+                  "answer": false,
+                  "explanation": "遺産分割協議は共同相続人全員の合意があれば、代金分割内容や協議成立後の全部合意解除も可能（民法907条）。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q17_c4",
+                  "groupId": "mansion_R4_Q17",
+                  "statement": "BC間の遺産分割の協議により、303号室をBが、1(cid:9751)000万円をCがそれぞ れ取得する旨の遺産分割が行われた。その後、Dからの認知の訴えが認めら れ、DもAの共同相続人となった場合、BC間の遺産分割の協議はその効力を 失い、Dを含めて再度の遺産分割の協議をしなければならない。 10",
+                  "answer": false,
+                  "explanation": "遺産分割協議は共同相続人全員の合意があれば、代金分割内容や協議成立後の全部合意解除も可能（民法907条）。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q18_c1",
+                  "groupId": "mansion_R4_Q18",
+                  "statement": "地上権の敷地権が登記された土地については、当該土地の所有権を対象とす る抵当権を設定してその登記を申請することはできない。",
+                  "answer": false,
+                  "explanation": "敷地権利変換手続開始の登記後、敷地権の一部抹消登記申請時に、登記官は土地の登記記録に敷地権であった権利等を記録しなければならない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q18_c2",
+                  "groupId": "mansion_R4_Q18",
+                  "statement": "敷地権の登記された土地の一部が分筆により区分建物が所在しない土地と なった場合、当該土地については、敷地権の一部抹消のため区分建物の表題部 の変更登記を申請しなければならない。",
+                  "answer": false,
+                  "explanation": "敷地権利変換手続開始の登記後、敷地権の一部抹消登記申請時に、登記官は土地の登記記録に敷地権であった権利等を記録しなければならない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q18_c3",
+                  "groupId": "mansion_R4_Q18",
+                  "statement": "敷地権付き区分建物について相続を原因とする所有権の移転の登記をする場 合、同時に、敷地権の移転の登記をしなければならない。",
+                  "answer": false,
+                  "explanation": "敷地権利変換手続開始の登記後、敷地権の一部抹消登記申請時に、登記官は土地の登記記録に敷地権であった権利等を記録しなければならない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q18_c4",
+                  "groupId": "mansion_R4_Q18",
+                  "statement": "規約により建物の敷地とされた所有権の敷地権が登記された土地につき、当 該規約が廃止されて、敷地権の一部抹消のため区分建物の表題部の変更登記が 申請された場合、登記官は、当該土地の登記記録に敷地権であった権利、その 権利の登記名義人の氏名又は名称及び住所並びに登記名義人が二人以上である ときは当該権利の登記名義人ごとの持分を記録しなければならない。",
+                  "answer": true,
+                  "explanation": "敷地権利変換手続開始の登記後、敷地権の一部抹消登記申請時に、登記官は土地の登記記録に敷地権であった権利等を記録しなければならない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q19_c1",
+                  "groupId": "mansion_R4_Q19",
+                  "statement": "特定要除却認定を受けた場合においては、団地内建物を構成する特定要除却 認定を受けたマンションの敷地(当該特定要除却認定マンションの敷地利用権 が借地権であるときは、その借地権)の共有者である当該団地内建物の団地建 物所有者(この問いにおいて「特定団地建物所有者」という。)及び議決権の 各5分の4以上の多数で、敷地分割決議をすることができる。",
+                  "answer": false,
+                  "explanation": "敷地権利変換手続開始の登記後は、組合員が団地内建物の所有権・分割実施敷地持分を処分する際、都道府県知事の承認が必要（マンション建替え等円滑化法）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q19_c2",
+                  "groupId": "mansion_R4_Q19",
+                  "statement": "敷地権利変換計画においては、除却マンション敷地となるべき土地に現に存 する団地内建物の特定団地建物所有者に対しては、除却敷地持分が与えられる ように定めなければならない。",
+                  "answer": false,
+                  "explanation": "敷地権利変換手続開始の登記後は、組合員が団地内建物の所有権・分割実施敷地持分を処分する際、都道府県知事の承認が必要（マンション建替え等円滑化法）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q19_c3",
+                  "groupId": "mansion_R4_Q19",
+                  "statement": "敷地権利変換手続開始の登記があった後においては、組合員は、当該登記に 係る団地内建物の所有権及び分割実施敷地持分を処分するときは、都道府県知 事の承認を得なければならない。",
+                  "answer": true,
+                  "explanation": "敷地権利変換手続開始の登記後は、組合員が団地内建物の所有権・分割実施敷地持分を処分する際、都道府県知事の承認が必要（マンション建替え等円滑化法）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q19_c4",
+                  "groupId": "mansion_R4_Q19",
+                  "statement": "総会の決議により組合を解散する場合は、組合員の議決権及び分割実施敷地 持分の割合の各4分の3以上で決する。 11",
+                  "answer": false,
+                  "explanation": "敷地権利変換手続開始の登記後は、組合員が団地内建物の所有権・分割実施敷地持分を処分する際、都道府県知事の承認が必要（マンション建替え等円滑化法）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q20_c1",
+                  "groupId": "mansion_R4_Q20",
+                  "statement": "都市計画区域外においては、都市計画に、都市施設を定めることができる。",
+                  "answer": true,
+                  "explanation": "都市計画区域外でも、都市計画に都市施設を定めることができる（都市計画法11条）。正しいものは「一つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q20_c2",
+                  "groupId": "mansion_R4_Q20",
+                  "statement": "都市計画区域においては、都市計画に、地区計画を定めなければならない。",
+                  "answer": false,
+                  "explanation": "都市計画区域外でも、都市計画に都市施設を定めることができる（都市計画法11条）。正しいものは「一つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q20_c3",
+                  "groupId": "mansion_R4_Q20",
+                  "statement": "工業地域においては、都市計画に、建築物の建(cid:7789)率を定めるものとするとさ れているが、準工業地域においては、建築物の建(cid:7789)率を定めるものとするとは されていない。",
+                  "answer": false,
+                  "explanation": "都市計画区域外でも、都市計画に都市施設を定めることができる（都市計画法11条）。正しいものは「一つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q20_c4",
+                  "groupId": "mansion_R4_Q20",
+                  "statement": "現に土地の利用状況が著しく変化しつつあり、又は著しく変化することが確 実であると見込まれる土地の区域における地区計画については、都市計画に、 再開発等促進区を定めなければならない。",
+                  "answer": false,
+                  "explanation": "都市計画区域外でも、都市計画に都市施設を定めることができる（都市計画法11条）。正しいものは「一つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q21_c1",
+                  "groupId": "mansion_R4_Q21",
+                  "statement": "床面積の合計が200m2を超える共同住宅(国、都道府県又は建築主事を置 く市町村が所有し、又は管理するものを除く。)の場合、その所有者又は管理 者は、その建築物の敷地、構造及び建築設備を常時適法な状態に維持するた め、必要に応じ、その維持保全に関する準則又は計画を作成し、その他適切な 措置を講じなければならない。",
+                  "answer": false,
+                  "explanation": "防火地域・準防火地域では、改築部分の床面積が10㎡以内でも建築確認が必要（建築基準法6条）。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q21_c2",
+                  "groupId": "mansion_R4_Q21",
+                  "statement": "防火地域又は準防火地域において共同住宅を改築しようとする場合、その改 築に係る部分の床面積の合計が10m2以内であれば、建築確認を受ける必要は ない。",
+                  "answer": true,
+                  "explanation": "防火地域・準防火地域では、改築部分の床面積が10㎡以内でも建築確認が必要（建築基準法6条）。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q21_c3",
+                  "groupId": "mansion_R4_Q21",
+                  "statement": "防火地域内にある共同住宅の屋上に高さ2mの広告塔を設ける場合、その 主要な部分を不燃材料で造り、又は覆わなければならない。",
+                  "answer": false,
+                  "explanation": "防火地域・準防火地域では、改築部分の床面積が10㎡以内でも建築確認が必要（建築基準法6条）。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q21_c4",
+                  "groupId": "mansion_R4_Q21",
+                  "statement": "共同住宅の居室の天井の高さは、居室の床面から測り、一室で天井の高さが 異なる部分がある場合、その平(cid:13432)の高さが2(cid:9754)1m以上でなければならない。 12",
+                  "answer": false,
+                  "explanation": "防火地域・準防火地域では、改築部分の床面積が10㎡以内でも建築確認が必要（建築基準法6条）。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q22_c1",
+                  "groupId": "mansion_R4_Q22",
+                  "statement": "水道事業者は、その供給規程において、貯水槽水道の設置者の責任に関する 事項を適正かつ明確に定めなければならない。",
+                  "answer": false,
+                  "explanation": "簡易専用水道の設置者は、給水栓で臭気・味・色・大腸菌の水質検査を行わなければならない（水道法34条の2）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q22_c2",
+                  "groupId": "mansion_R4_Q22",
+                  "statement": "水槽の有効容量の合計が20m3の貯水槽水道の設置者は、水槽の掃除を毎年 1回以上定期に行わなければならない。",
+                  "answer": false,
+                  "explanation": "簡易専用水道の設置者は、給水栓で臭気・味・色・大腸菌の水質検査を行わなければならない（水道法34条の2）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q22_c3",
+                  "groupId": "mansion_R4_Q22",
+                  "statement": "貯水槽水道とは、水道事業の用に供する水道及び専用水道以外の水道であっ て、水道事業の用に供する水道から供給を受ける水のみを水源とするものをい う。",
+                  "answer": false,
+                  "explanation": "簡易専用水道の設置者は、給水栓で臭気・味・色・大腸菌の水質検査を行わなければならない（水道法34条の2）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q22_c4",
+                  "groupId": "mansion_R4_Q22",
+                  "statement": "簡易専用水道の設置者は、給水栓における水質の検査として、給水栓におけ る臭気、味、色及び大腸菌に関する検査を行わなければならない。",
+                  "answer": true,
+                  "explanation": "簡易専用水道の設置者は、給水栓で臭気・味・色・大腸菌の水質検査を行わなければならない（水道法34条の2）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q23_c1",
+                  "groupId": "mansion_R4_Q23",
+                  "statement": "避難口誘導灯及び通路誘導灯は、地階及び無窓階のない、9階建ての共同住 宅には設置する必要がない。",
+                  "answer": false,
+                  "explanation": "延べ面積1,000㎡以上の特定防火対象物は消防設備士等有資格者による点検が義務。共同住宅は規模・用途に応じて判断する。正しいものは「三つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q23_c2",
+                  "groupId": "mansion_R4_Q23",
+                  "statement": "非常コンセント設備は、地階のない、10階建ての共同住宅には設置する必 要がない。",
+                  "answer": false,
+                  "explanation": "延べ面積1,000㎡以上の特定防火対象物は消防設備士等有資格者による点検が義務。共同住宅は規模・用途に応じて判断する。正しいものは「三つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q23_c3",
+                  "groupId": "mansion_R4_Q23",
+                  "statement": "延べ面積が500m2の共同住宅の消防用設備等に係る点検は、消防設備士免 状の交付を受けている者又は総務省令で定める資格を有する者に行わせなけれ ばならない。",
+                  "answer": true,
+                  "explanation": "延べ面積1,000㎡以上の特定防火対象物は消防設備士等有資格者による点検が義務。共同住宅は規模・用途に応じて判断する。正しいものは「三つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q23_c4",
+                  "groupId": "mansion_R4_Q23",
+                  "statement": "共同住宅に設置された消防用設備等の点検結果は、3年に1回消防長(消防 本部を置かない市町村においては、市町村長。)又は消防署長に報告しなけれ ばならない。 13",
+                  "answer": false,
+                  "explanation": "延べ面積1,000㎡以上の特定防火対象物は消防設備士等有資格者による点検が義務。共同住宅は規模・用途に応じて判断する。正しいものは「三つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q24_c1",
+                  "groupId": "mansion_R4_Q24",
+                  "statement": "警備業を営もうとする者は、都道府県公安委員会から認定を受けなければな らず、認定を受けないで警備業を営んだ者は、刑事処分の対象となる。",
+                  "answer": false,
+                  "explanation": "警備業務は「他人の需要に応じて」行うものであり、デパート自社従業員の万引き防止業務は警備業法上の警備業務に該当しない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q24_c2",
+                  "groupId": "mansion_R4_Q24",
+                  "statement": "警備業法における警備業務とは、他人の需要に応じて盗難等の事故の発生を 警戒し、防止する業務をいうが、例えば、デパートにおいて、その従業員が商 品の万引き防止のために店内の警戒を行う業務も警備業務に該当する。",
+                  "answer": true,
+                  "explanation": "警備業務は「他人の需要に応じて」行うものであり、デパート自社従業員の万引き防止業務は警備業法上の警備業務に該当しない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q24_c3",
+                  "groupId": "mansion_R4_Q24",
+                  "statement": "警備業法は、警備員又は警備員になろうとする者について、その知識及び能 力に関する検定を行うことを定めているが、検定に合格したとしても、18歳 未満の者は警備員となってはならない。",
+                  "answer": false,
+                  "explanation": "警備業務は「他人の需要に応じて」行うものであり、デパート自社従業員の万引き防止業務は警備業法上の警備業務に該当しない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q24_c4",
+                  "groupId": "mansion_R4_Q24",
+                  "statement": "警備業者は、警備業務の依頼者と警備業務を行う契約を締結しようとすると きは、当該契約をするまでに、その概要について記載した書面を交付しなけれ ばならず、契約を締結したときは、遅滞なく、当該契約の内容を明らかにする 書面を依頼者に交付(電磁的方法による提供を含む。)しなければならない。",
+                  "answer": false,
+                  "explanation": "警備業務は「他人の需要に応じて」行うものであり、デパート自社従業員の万引き防止業務は警備業法上の警備業務に該当しない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q25_c1",
+                  "groupId": "mansion_R4_Q25",
+                  "statement": "共用部分配管設備の清掃等に要する費用は、共用設備の保守維持費として管 理費を充当することが可能です。",
+                  "answer": false,
+                  "explanation": "共用部分の配管取替えは修繕積立金を財源とし普通決議で実施可能。特別決議は不要（標準管理規約第47条・第28条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q25_c2",
+                  "groupId": "mansion_R4_Q25",
+                  "statement": "共用部分の配管の取替えはそれだけでかなり多額の費用がかかるため、特別 決議により実施する必要があります。",
+                  "answer": true,
+                  "explanation": "共用部分の配管取替えは修繕積立金を財源とし普通決議で実施可能。特別決議は不要（標準管理規約第47条・第28条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q25_c3",
+                  "groupId": "mansion_R4_Q25",
+                  "statement": "共用部分の配管の取替えと専有部分の配管の取替えを同時に行うことによ り、専有部分の配管の取替えを単独で行うよりも費用が軽減される場合には、 これらについて一体的に工事を行うことも考えられます。",
+                  "answer": false,
+                  "explanation": "共用部分の配管取替えは修繕積立金を財源とし普通決議で実施可能。特別決議は不要（標準管理規約第47条・第28条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q25_c4",
+                  "groupId": "mansion_R4_Q25",
+                  "statement": "あらかじめ長期修繕計画において専有部分の配管の取替えについて記載し、 その工事費用を修繕積立金から拠出することについて規約に規定しておくこと により、修繕積立金を取り崩すことができます。 14",
+                  "answer": false,
+                  "explanation": "共用部分の配管取替えは修繕積立金を財源とし普通決議で実施可能。特別決議は不要（標準管理規約第47条・第28条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q26_c1",
+                  "groupId": "mansion_R4_Q26",
+                  "statement": "マンションやその周辺における防災・防犯活動のうち、その経費に見合った マンションの資産価値の向上がもたらされるもので、建物並びにその敷地及び 附属施設の管理の範囲内で行われる活動については、管理組合で実施すること ができる。",
+                  "answer": false,
+                  "explanation": "理事長は住戸への立入りを請求できるが、区分所有者の承諾なしに一方的に立ち入ることはできない（標準管理規約第23条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q26_c2",
+                  "groupId": "mansion_R4_Q26",
+                  "statement": "1階部分の住戸の区分所有者から、住戸の窓や扉等の開口部につき防犯機能 を強化するための改良工事を、当該区分所有者の責任と負担において実施する 旨の申出があった場合において、管理組合が当該工事を速やかに実施できない ときは、理事長は、理事会の決議を経て当該工事の実施の承認をすることがで きる。",
+                  "answer": false,
+                  "explanation": "理事長は住戸への立入りを請求できるが、区分所有者の承諾なしに一方的に立ち入ることはできない（標準管理規約第23条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q26_c3",
+                  "groupId": "mansion_R4_Q26",
+                  "statement": "共用部分に防犯カメラを設置する工事や敷地内に防犯灯を設置する工事は、 総会の普通決議により実施可能である。",
+                  "answer": false,
+                  "explanation": "理事長は住戸への立入りを請求できるが、区分所有者の承諾なしに一方的に立ち入ることはできない（標準管理規約第23条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q26_c4",
+                  "groupId": "mansion_R4_Q26",
+                  "statement": "現在空室となっている住戸に不審者が出入りをしているとの通報があった場 合には、理事長は、当該住戸の区分所有者に対し請求をすることなく、直ちに 当該住戸に立ち入り、室内を確認することができる。",
+                  "answer": true,
+                  "explanation": "理事長は住戸への立入りを請求できるが、区分所有者の承諾なしに一方的に立ち入ることはできない（標準管理規約第23条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q27_c1",
+                  "groupId": "mansion_R4_Q27",
+                  "statement": "建物の建替え及びマンション敷地売却に係る合意形成に必要となる事項の調 査費用",
+                  "answer": false,
+                  "explanation": "WEB会議システム用機器の一括購入費用は修繕積立金の取崩し対象に当たらず、管理費から支出する性質でもない。正しいものは「三つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q27_c2",
+                  "groupId": "mansion_R4_Q27",
+                  "statement": "敷地及び共用部分等の管理に関し、区分所有者全体の利益のために特別に必 要となる管理費用",
+                  "answer": false,
+                  "explanation": "WEB会議システム用機器の一括購入費用は修繕積立金の取崩し対象に当たらず、管理費から支出する性質でもない。正しいものは「三つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q27_c3",
+                  "groupId": "mansion_R4_Q27",
+                  "statement": "WEB会議システムで理事会が開催できるようにするための理事全員分の器 材一括購入費用",
+                  "answer": true,
+                  "explanation": "WEB会議システム用機器の一括購入費用は修繕積立金の取崩し対象に当たらず、管理費から支出する性質でもない。正しいものは「三つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q27_c4",
+                  "groupId": "mansion_R4_Q27",
+                  "statement": "不測の事故により必要となる修繕費用 15",
+                  "answer": false,
+                  "explanation": "WEB会議システム用機器の一括購入費用は修繕積立金の取崩し対象に当たらず、管理費から支出する性質でもない。正しいものは「三つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q28_c1",
+                  "groupId": "mansion_R4_Q28",
+                  "statement": "一つ",
+                  "answer": false,
+                  "explanation": "標準管理規約に関する正誤問題。専有部分・共用部分の管理・使用細則等の規定で、正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q28_c2",
+                  "groupId": "mansion_R4_Q28",
+                  "statement": "二つ",
+                  "answer": true,
+                  "explanation": "標準管理規約に関する正誤問題。専有部分・共用部分の管理・使用細則等の規定で、正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q28_c3",
+                  "groupId": "mansion_R4_Q28",
+                  "statement": "三つ",
+                  "answer": false,
+                  "explanation": "標準管理規約に関する正誤問題。専有部分・共用部分の管理・使用細則等の規定で、正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q28_c4",
+                  "groupId": "mansion_R4_Q28",
+                  "statement": "四つ 16",
+                  "answer": false,
+                  "explanation": "標準管理規約に関する正誤問題。専有部分・共用部分の管理・使用細則等の規定で、正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q29_c1",
+                  "groupId": "mansion_R4_Q29",
+                  "statement": "Bが通知先としてその住所を管理組合に届け出ていない場合には、総会の招 集の通知は103号室あてに発することで、招集手続として有効である。",
+                  "answer": false,
+                  "explanation": "夫婦が専有部分を共有する場合、議決権行使書を提出した共有者がいれば、定足数の計算上「出席」として扱える（標準管理規約第46条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q29_c2",
+                  "groupId": "mansion_R4_Q29",
+                  "statement": "A及びBがともに総会を欠席したが、Aが議決権行使書を提出していた場合 には、定足数の確認においては、103号室の組合員を「出席」と扱ってよい。",
+                  "answer": true,
+                  "explanation": "夫婦が専有部分を共有する場合、議決権行使書を提出した共有者がいれば、定足数の計算上「出席」として扱える（標準管理規約第46条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q29_c3",
+                  "groupId": "mansion_R4_Q29",
+                  "statement": "Aが総会に出席し、Bが議決権行使書を提出していた場合には、Aの総会の 場での賛否の意思表示にかかわらず、Bが提出した議決権行使書の内容を、 103号室の賛否とする。",
+                  "answer": false,
+                  "explanation": "夫婦が専有部分を共有する場合、議決権行使書を提出した共有者がいれば、定足数の計算上「出席」として扱える（標準管理規約第46条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q29_c4",
+                  "groupId": "mansion_R4_Q29",
+                  "statement": "甲マンションの他の組合員Cを代理人として議決権を行使しようとする場合 には、Bを委任者、Cを受任者とする委任状を作成し、理事長に提出する必要 がある。",
+                  "answer": false,
+                  "explanation": "夫婦が専有部分を共有する場合、議決権行使書を提出した共有者がいれば、定足数の計算上「出席」として扱える（標準管理規約第46条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q30_c1",
+                  "groupId": "mansion_R4_Q30",
+                  "statement": "組合員が総会において議決権を行使する場合、書面による議決権の行使に代 えて、電磁的方法によって行使することは認められていない。",
+                  "answer": false,
+                  "explanation": "組合員の資格の得喪（売買等による変動）の届出は、電磁的方法によって行うことができる（標準管理規約第31条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q30_c2",
+                  "groupId": "mansion_R4_Q30",
+                  "statement": "電磁的記録で作成された議事録の閲覧請求があったときは、当該電磁的記録 に記録された情報の内容を紙面又は出力装置の映像面に表示する方法により表 示したものを請求者の自宅において閲覧させることとなる。",
+                  "answer": false,
+                  "explanation": "組合員の資格の得喪（売買等による変動）の届出は、電磁的方法によって行うことができる（標準管理規約第31条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q30_c3",
+                  "groupId": "mansion_R4_Q30",
+                  "statement": "あらかじめ管理規約でWEB会議システム等を用いて総会が開催できる旨定 めている場合に限り、当該方法により総会を開催することができる。",
+                  "answer": false,
+                  "explanation": "組合員の資格の得喪（売買等による変動）の届出は、電磁的方法によって行うことができる（標準管理規約第31条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q30_c4",
+                  "groupId": "mansion_R4_Q30",
+                  "statement": "住戸が売買されて組合員の変動が生じた場合の組合員の資格の得喪の届出 は、電磁的方法により行うことができる。 17",
+                  "answer": true,
+                  "explanation": "組合員の資格の得喪（売買等による変動）の届出は、電磁的方法によって行うことができる（標準管理規約第31条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q31_c1",
+                  "groupId": "mansion_R4_Q31",
+                  "statement": "理事会で、理事長、副理事長及び会計担当理事の役職解任の決議をする場 合、WEB会議システム等によって行うことはできない。",
+                  "answer": false,
+                  "explanation": "理事長が管理費等の未納について訴訟を提起する場合は、理事会の決議を経る必要がある（標準管理規約第54条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q31_c2",
+                  "groupId": "mansion_R4_Q31",
+                  "statement": "総会提出議案は、理事の過半数の承諾があれば、書面又は電磁的方法により 理事会で決議することができる。",
+                  "answer": false,
+                  "explanation": "理事長が管理費等の未納について訴訟を提起する場合は、理事会の決議を経る必要がある（標準管理規約第54条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q31_c3",
+                  "groupId": "mansion_R4_Q31",
+                  "statement": "理事が止むを得ず理事会を欠席する場合には、規約の明文の規定がなくて も、あらかじめ通知された事項について書面で賛否を記載し意思表示すること が認められる。",
+                  "answer": false,
+                  "explanation": "理事長が管理費等の未納について訴訟を提起する場合は、理事会の決議を経る必要がある（標準管理規約第54条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q31_c4",
+                  "groupId": "mansion_R4_Q31",
+                  "statement": "理事長は、未納の管理費等及び使用料の請求に関し、管理組合を代表して訴 訟を追行する場合には、理事会の決議を経ることが必要である。",
+                  "answer": true,
+                  "explanation": "理事長が管理費等の未納について訴訟を提起する場合は、理事会の決議を経る必要がある（標準管理規約第54条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q32_c1",
+                  "groupId": "mansion_R4_Q32",
+                  "statement": "団地内のA棟の棟総会について、A棟から選出されている理事が招集できる ようにするための規約の変更は、A棟の棟総会の決議のみで行うことができ る。",
+                  "answer": true,
+                  "explanation": "団地内の棟総会の招集権者に関する規約変更は、その棟の棟総会のみの決議で変更可能であり、団地総会の決議は不要（標準管理規約別添）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q32_c2",
+                  "groupId": "mansion_R4_Q32",
+                  "statement": "団地総会が成立するためには、それぞれの棟の議決権総数の過半数を有する 区分所有者が出席する必要がある。",
+                  "answer": false,
+                  "explanation": "団地内の棟総会の招集権者に関する規約変更は、その棟の棟総会のみの決議で変更可能であり、団地総会の決議は不要（標準管理規約別添）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q32_c3",
+                  "groupId": "mansion_R4_Q32",
+                  "statement": "敷地内に設置している駐車場の使用料は、駐車場の管理に要する費用に充て るほか、団地修繕積立金として積み立てる必要がある。",
+                  "answer": false,
+                  "explanation": "団地内の棟総会の招集権者に関する規約変更は、その棟の棟総会のみの決議で変更可能であり、団地総会の決議は不要（標準管理規約別添）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q32_c4",
+                  "groupId": "mansion_R4_Q32",
+                  "statement": "棟総会の議事録は、各棟において保管者を決めて保管し、他の棟の区分所有 者を含めた団地管理組合の組合員又はその利害関係人からの請求があれば、閲 覧させなければならない。 18",
+                  "answer": false,
+                  "explanation": "団地内の棟総会の招集権者に関する規約変更は、その棟の棟総会のみの決議で変更可能であり、団地総会の決議は不要（標準管理規約別添）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q33_c1",
+                  "groupId": "mansion_R4_Q33",
+                  "statement": "1、2階が店舗、3階以上が住宅の複合用途型マンションの住宅だけに設置 されているバルコニーの床の防水工事を計画修繕として行う場合には、総会で 決議し、その費用は全体修繕積立金を充当する。",
+                  "answer": false,
+                  "explanation": "複合用途型マンションで外壁仕様が異なる場合、店舗部会・住宅部会それぞれの決議後に総会で決議し、各一部修繕積立金を充当する。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q33_c2",
+                  "groupId": "mansion_R4_Q33",
+                  "statement": "団地型マンションにおいて、一つの棟の耐震性能が低いため耐震改修工事を することは、当該棟の共用部分の変更ではあるが、団地総会で決議し、その費 用は当該棟の修繕積立金を充当する。",
+                  "answer": false,
+                  "explanation": "複合用途型マンションで外壁仕様が異なる場合、店舗部会・住宅部会それぞれの決議後に総会で決議し、各一部修繕積立金を充当する。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q33_c3",
+                  "groupId": "mansion_R4_Q33",
+                  "statement": "1、2階が店舗、3階以上が住宅の複合用途型マンションで、店舗の外壁は タイル張り、住宅の外壁はモルタル仕様である場合において、計画修繕として 外壁の改修工事を行うときは、店舗部会及び住宅部会でそれぞれの決議をした 上で総会で決議し、その費用は店舗一部修繕積立金及び住宅一部修繕積立金を 充当する。",
+                  "answer": true,
+                  "explanation": "複合用途型マンションで外壁仕様が異なる場合、店舗部会・住宅部会それぞれの決議後に総会で決議し、各一部修繕積立金を充当する。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q33_c4",
+                  "groupId": "mansion_R4_Q33",
+                  "statement": "団地型マンションにおいて、マンション管理適正化法第5条の3第1項に基 づく管理計画の認定の申請を行う場合には、各棟ごとの決議を経る必要はな く、団地総会で決議し、その費用は管理費を充当する。 19",
+                  "answer": false,
+                  "explanation": "複合用途型マンションで外壁仕様が異なる場合、店舗部会・住宅部会それぞれの決議後に総会で決議し、各一部修繕積立金を充当する。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q34_c1",
+                  "groupId": "mansion_R4_Q34",
+                  "statement": "令和3年度の支払保険料が令和2年度より10(cid:9751)000円減少した理由は、令和 2年度に令和3年度分の保険料10(cid:9751)000円を前払いしていたためです。",
+                  "answer": false,
+                  "explanation": "管理組合の収支報告書の読み取り問題。令和2年度の水道光熱費は収支計算書の該当科目を正確に読み取ることで判断する。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q34_c2",
+                  "groupId": "mansion_R4_Q34",
+                  "statement": "令和2年度の水道光熱費は、80(cid:9751)000円でした。",
+                  "answer": true,
+                  "explanation": "管理組合の収支報告書の読み取り問題。令和2年度の水道光熱費は収支計算書の該当科目を正確に読み取ることで判断する。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q34_c3",
+                  "groupId": "mansion_R4_Q34",
+                  "statement": "令和2年度には組合員Aの管理費の未収が10(cid:9751)000円ありましたが、令和3 年度に回収されたため、管理費は10(cid:9751)000円増加しました。",
+                  "answer": false,
+                  "explanation": "管理組合の収支報告書の読み取り問題。令和2年度の水道光熱費は収支計算書の該当科目を正確に読み取ることで判断する。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q34_c4",
+                  "groupId": "mansion_R4_Q34",
+                  "statement": "令和2年度の次期繰越収支差額は、580(cid:9751)000円でした。 20",
+                  "answer": false,
+                  "explanation": "管理組合の収支報告書の読み取り問題。令和2年度の水道光熱費は収支計算書の該当科目を正確に読み取ることで判断する。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q35_c1",
+                  "groupId": "mansion_R4_Q35",
+                  "statement": "一つ",
+                  "answer": false,
+                  "explanation": "マンション管理適正化法上の管理業者・管理業務主任者の業務・義務等に関する正誤問題。正しいものは「四つ」全て。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q35_c2",
+                  "groupId": "mansion_R4_Q35",
+                  "statement": "二つ",
+                  "answer": false,
+                  "explanation": "マンション管理適正化法上の管理業者・管理業務主任者の業務・義務等に関する正誤問題。正しいものは「四つ」全て。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q35_c3",
+                  "groupId": "mansion_R4_Q35",
+                  "statement": "三つ",
+                  "answer": false,
+                  "explanation": "マンション管理適正化法上の管理業者・管理業務主任者の業務・義務等に関する正誤問題。正しいものは「四つ」全て。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q35_c4",
+                  "groupId": "mansion_R4_Q35",
+                  "statement": "四つ 21",
+                  "answer": true,
+                  "explanation": "マンション管理適正化法上の管理業者・管理業務主任者の業務・義務等に関する正誤問題。正しいものは「四つ」全て。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q36_c1",
+                  "groupId": "mansion_R4_Q36",
+                  "statement": "修繕工事の実施前に行う建物診断は、長期修繕計画の対象に含まれない。",
+                  "answer": false,
+                  "explanation": "長期修繕計画の対象工事には、窓・玄関扉等の開口部の改良工事が含まれる（長期修繕計画作成ガイドライン）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q36_c2",
+                  "groupId": "mansion_R4_Q36",
+                  "statement": "窓及び玄関の扉などの開口部の改良工事は、長期修繕計画の対象となる工事 に含まれる。",
+                  "answer": true,
+                  "explanation": "長期修繕計画の対象工事には、窓・玄関扉等の開口部の改良工事が含まれる（長期修繕計画作成ガイドライン）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q36_c3",
+                  "groupId": "mansion_R4_Q36",
+                  "statement": "長期修繕計画の計画期間は、30年以上、又は大規模修繕工事が2回含まれ る期間以上とする。",
+                  "answer": false,
+                  "explanation": "長期修繕計画の対象工事には、窓・玄関扉等の開口部の改良工事が含まれる（長期修繕計画作成ガイドライン）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q36_c4",
+                  "groupId": "mansion_R4_Q36",
+                  "statement": "長期修繕計画の見直しに当たっては、空き住戸率、賃貸化率、修繕積立金滞 納率を考慮する。",
+                  "answer": false,
+                  "explanation": "長期修繕計画の対象工事には、窓・玄関扉等の開口部の改良工事が含まれる（長期修繕計画作成ガイドライン）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q37_c1",
+                  "groupId": "mansion_R4_Q37",
+                  "statement": "外壁の目地部分のシーリング材の劣化が心配されたので、シーリング材を部 分的に切り取り、引張強度や伸びを調べた。",
+                  "answer": false,
+                  "explanation": "外壁塗装の白亜化（チョーキング）は塗膜劣化による粉化現象。コンクリート中の石灰が溶け出すエフロレッセンスとは別の現象。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q37_c2",
+                  "groupId": "mansion_R4_Q37",
+                  "statement": "外壁タイルのひび割れは、その下地のモルタルやコンクリートが原因である ことが多い。",
+                  "answer": false,
+                  "explanation": "外壁塗装の白亜化（チョーキング）は塗膜劣化による粉化現象。コンクリート中の石灰が溶け出すエフロレッセンスとは別の現象。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q37_c3",
+                  "groupId": "mansion_R4_Q37",
+                  "statement": "外壁塗装の白亜化は、下地のコンクリート中の石灰等が水に溶けて塗装面に しみ出すことをいう。",
+                  "answer": true,
+                  "explanation": "外壁塗装の白亜化（チョーキング）は塗膜劣化による粉化現象。コンクリート中の石灰が溶け出すエフロレッセンスとは別の現象。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q37_c4",
+                  "groupId": "mansion_R4_Q37",
+                  "statement": "外壁のコンクリートのひび割れの調査の結果、ひび割れ幅が0(cid:9754)2mm〜 0(cid:9754)4mmの範囲だったので、漏水の可能性があると判断した。 22",
+                  "answer": false,
+                  "explanation": "外壁塗装の白亜化（チョーキング）は塗膜劣化による粉化現象。コンクリート中の石灰が溶け出すエフロレッセンスとは別の現象。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q38_c1",
+                  "groupId": "mansion_R4_Q38",
+                  "statement": "ウレタン系シーリング材は、耐候性が高いので屋外の金属と金属との接合部 の目地に適したシーリング材である。",
+                  "answer": false,
+                  "explanation": "露出アスファルト防水工法は表面が高温になるため、人が歩行するルーフバルコニー等の日常使用箇所には採用されない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q38_c2",
+                  "groupId": "mansion_R4_Q38",
+                  "statement": "屋上の保護アスファルト防水の改修では、既存防水層を撤去し新たな防水層 を施工することが一般的である。",
+                  "answer": false,
+                  "explanation": "露出アスファルト防水工法は表面が高温になるため、人が歩行するルーフバルコニー等の日常使用箇所には採用されない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q38_c3",
+                  "groupId": "mansion_R4_Q38",
+                  "statement": "露出アスファルト防水工法は、ルーフバルコニー等の日常的に使用する場所 には採用されない。",
+                  "answer": true,
+                  "explanation": "露出アスファルト防水工法は表面が高温になるため、人が歩行するルーフバルコニー等の日常使用箇所には採用されない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q38_c4",
+                  "groupId": "mansion_R4_Q38",
+                  "statement": "シリコーン系シーリング材は、耐久性及び接着性が高く、目地周辺を汚染し ないので、使用箇所が限定されない。",
+                  "answer": false,
+                  "explanation": "露出アスファルト防水工法は表面が高温になるため、人が歩行するルーフバルコニー等の日常使用箇所には採用されない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q39_c1",
+                  "groupId": "mansion_R4_Q39",
+                  "statement": "X線法 ― 給水管の肉厚の減少や(cid:7690)こぶの状態",
+                  "answer": false,
+                  "explanation": "ドリル削孔（粉末）法はコンクリートに穴を開けて粉末を採取し、中性化深さや強度推定に用いる調査法。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q39_c2",
+                  "groupId": "mansion_R4_Q39",
+                  "statement": "ドリル削孔(粉末)法 ― コンクリートの強度",
+                  "answer": true,
+                  "explanation": "ドリル削孔（粉末）法はコンクリートに穴を開けて粉末を採取し、中性化深さや強度推定に用いる調査法。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q39_c3",
+                  "groupId": "mansion_R4_Q39",
+                  "statement": "反発法 ― 外壁タイルの浮き",
+                  "answer": false,
+                  "explanation": "ドリル削孔（粉末）法はコンクリートに穴を開けて粉末を採取し、中性化深さや強度推定に用いる調査法。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q39_c4",
+                  "groupId": "mansion_R4_Q39",
+                  "statement": "電磁波レーダ法 ― コンクリート中の鉄筋の位置 23",
+                  "answer": false,
+                  "explanation": "ドリル削孔（粉末）法はコンクリートに穴を開けて粉末を採取し、中性化深さや強度推定に用いる調査法。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q40_c1",
+                  "groupId": "mansion_R4_Q40",
+                  "statement": "中廊下型のマンションは、片廊下型のマンションに比べ、日照や通風などの 居住性が劣っている。",
+                  "answer": false,
+                  "explanation": "建築基準法上、避難経路となるバルコニーへの避難器具の全設置義務はなく、避難上有効な構造であることが求められる。正しいものは「三つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q40_c2",
+                  "groupId": "mansion_R4_Q40",
+                  "statement": "1階部分で壁がなく柱だけで構成された吹き抜け空間のことをピロティとい う。屋外であっても雨にさらされないため、駐輪場や駐車場として使われるこ とが多い。",
+                  "answer": false,
+                  "explanation": "建築基準法上、避難経路となるバルコニーへの避難器具の全設置義務はなく、避難上有効な構造であることが求められる。正しいものは「三つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q40_c3",
+                  "groupId": "mansion_R4_Q40",
+                  "statement": "マンションで火災が発生した場合、住戸から安全に避難できるよう計画され ている必要があるため、避難経路となる全てのバルコニーには、避難器具を設 けなければならない。",
+                  "answer": true,
+                  "explanation": "建築基準法上、避難経路となるバルコニーへの避難器具の全設置義務はなく、避難上有効な構造であることが求められる。正しいものは「三つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q40_c4",
+                  "groupId": "mansion_R4_Q40",
+                  "statement": "マンションの管理員室は、管理員の管理事務の空間であるとともに、各種資 料の保管場所でもあり、また、居住者から相談を受ける場所でもある。流しや トイレが設置されることもある。",
+                  "answer": false,
+                  "explanation": "建築基準法上、避難経路となるバルコニーへの避難器具の全設置義務はなく、避難上有効な構造であることが求められる。正しいものは「三つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q41_c1",
+                  "groupId": "mansion_R4_Q41",
+                  "statement": "鉄骨鉄筋コンクリート構造は、鉄骨を鉄筋コンクリートで被覆した構造形式 であり、コンクリートの中性化が起きにくい。",
+                  "answer": true,
+                  "explanation": "鉄骨鉄筋コンクリート（SRC）構造は鉄骨をコンクリートで被覆するため鉄骨の酸化を防止でき、コンクリートの中性化も起きにくい。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q41_c2",
+                  "groupId": "mansion_R4_Q41",
+                  "statement": "鉄筋コンクリート構造、鉄骨鉄筋コンクリート構造の施工には、多量の水を 使用する湿式工法が用いられる。",
+                  "answer": false,
+                  "explanation": "鉄骨鉄筋コンクリート（SRC）構造は鉄骨をコンクリートで被覆するため鉄骨の酸化を防止でき、コンクリートの中性化も起きにくい。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q41_c3",
+                  "groupId": "mansion_R4_Q41",
+                  "statement": "鉄骨構造は、地震力などに対して粘り強い構造であるが、鉄筋コンクリート 構造と同等の耐火性を備えようとすると、耐火被覆や防(cid:7690)処理が必要となる。",
+                  "answer": false,
+                  "explanation": "鉄骨鉄筋コンクリート（SRC）構造は鉄骨をコンクリートで被覆するため鉄骨の酸化を防止でき、コンクリートの中性化も起きにくい。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q41_c4",
+                  "groupId": "mansion_R4_Q41",
+                  "statement": "地盤改良に用いられる工法は複数あるが、土の間(cid:20273)部分、特に間(cid:20273)水をどう 処理するかということがポイントとなる。 24",
+                  "answer": false,
+                  "explanation": "鉄骨鉄筋コンクリート（SRC）構造は鉄骨をコンクリートで被覆するため鉄骨の酸化を防止でき、コンクリートの中性化も起きにくい。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q42_c1",
+                  "groupId": "mansion_R4_Q42",
+                  "statement": "高齢者、障害者等の移動等の円滑化の促進に関する法律(平成18年法律第 91号)における建築物特定施設には、敷地内の通路や駐車場が含まれる。",
+                  "answer": false,
+                  "explanation": "移動等円滑化基準では、不特定多数または高齢者・障害者が主に利用する階段には、踊場を含めた手すりの設置が義務付けられている。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q42_c2",
+                  "groupId": "mansion_R4_Q42",
+                  "statement": "高齢者が住むことが想定される住戸とエレベーターホールをつなぐ共用廊下 は、仕上材を滑りにくい材料とし、段差のないつくりとした。",
+                  "answer": false,
+                  "explanation": "移動等円滑化基準では、不特定多数または高齢者・障害者が主に利用する階段には、踊場を含めた手すりの設置が義務付けられている。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q42_c3",
+                  "groupId": "mansion_R4_Q42",
+                  "statement": "階段の代わりに設けた傾斜路の両側に、手が置きやすいように床面から 85cmの位置に手すりを設けた。",
+                  "answer": false,
+                  "explanation": "移動等円滑化基準では、不特定多数または高齢者・障害者が主に利用する階段には、踊場を含めた手すりの設置が義務付けられている。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q42_c4",
+                  "groupId": "mansion_R4_Q42",
+                  "statement": "建築物移動等円滑化基準に、不特定かつ多数の者が利用し、又は主として高 齢者、障害者等が利用する階段は、踊場を含めて手すりを設けることが定めら れている。",
+                  "answer": true,
+                  "explanation": "移動等円滑化基準では、不特定多数または高齢者・障害者が主に利用する階段には、踊場を含めた手すりの設置が義務付けられている。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q43_c1",
+                  "groupId": "mansion_R4_Q43",
+                  "statement": "高層のマンションの排水立て管では、最上部及び最下部とともに、3階以内 ごと又は15m以内ごとに管内清掃用の掃除口を設置することが望ましい。",
+                  "answer": false,
+                  "explanation": "敷地内埋設の排水横管で管径125mmの場合、汚水桝は延長20m以内ごとを目安に設置する（SHASE-S206等）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q43_c2",
+                  "groupId": "mansion_R4_Q43",
+                  "statement": "敷地内に埋設する排水横管の管径が125mmの場合、汚水排水ますは、保守 点検及び清掃を容易にするために延長が20mの距離間を目安に設置する。",
+                  "answer": true,
+                  "explanation": "敷地内埋設の排水横管で管径125mmの場合、汚水桝は延長20m以内ごとを目安に設置する（SHASE-S206等）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q43_c3",
+                  "groupId": "mansion_R4_Q43",
+                  "statement": "圧縮空気法による排水管の清掃では、付着物で閉塞した排水管内に水を送 り、圧縮空気を放出してその衝撃で付着物を除去する。",
+                  "answer": false,
+                  "explanation": "敷地内埋設の排水横管で管径125mmの場合、汚水桝は延長20m以内ごとを目安に設置する（SHASE-S206等）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q43_c4",
+                  "groupId": "mansion_R4_Q43",
+                  "statement": "高圧洗浄法による排水管の清掃では、高圧の水を洗浄ノズルから噴射し、噴 射力で管内の汚れ、付着物を除去する。 25",
+                  "answer": false,
+                  "explanation": "敷地内埋設の排水横管で管径125mmの場合、汚水桝は延長20m以内ごとを目安に設置する（SHASE-S206等）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q44_c1",
+                  "groupId": "mansion_R4_Q44",
+                  "statement": "水道用架橋ポリエチレン管は、耐衝撃性及び耐食性に優れており、主に共用 部分に設置する給水立て管に用いられる。",
+                  "answer": false,
+                  "explanation": "ポンプ直送方式では受水槽の有効容量を1日使用水量の1/2程度とする。給水圧力は70kPa以上が必要で30kPaは不足となる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q44_c2",
+                  "groupId": "mansion_R4_Q44",
+                  "statement": "給水立て管からの各住戸へ配水する分岐管には、専有部分の給水管の更新工 事を行う際に、他の給水系統へ水が逆流しないように逆止弁を設ける。",
+                  "answer": false,
+                  "explanation": "ポンプ直送方式では受水槽の有効容量を1日使用水量の1/2程度とする。給水圧力は70kPa以上が必要で30kPaは不足となる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q44_c3",
+                  "groupId": "mansion_R4_Q44",
+                  "statement": "ポンプ直送方式の給水方式における受水槽の有効容量を、マンション全体の 1日の使用水量の2分の1程度に設定する。",
+                  "answer": true,
+                  "explanation": "ポンプ直送方式では受水槽の有効容量を1日使用水量の1/2程度とする。給水圧力は70kPa以上が必要で30kPaは不足となる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q44_c4",
+                  "groupId": "mansion_R4_Q44",
+                  "statement": "専有部分のシャワー水栓の給水圧力を、給水に支障が生じないようにするた め、30kPaとした。",
+                  "answer": false,
+                  "explanation": "ポンプ直送方式では受水槽の有効容量を1日使用水量の1/2程度とする。給水圧力は70kPa以上が必要で30kPaは不足となる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q45_c1",
+                  "groupId": "mansion_R4_Q45",
+                  "statement": "水栓を閉める際に生じるウォーターハンマーの防止策として、給水管内の流 速の上限値を2(cid:9754)5m/sとすることが有効である。",
+                  "answer": false,
+                  "explanation": "敷地内の排水横主管で管径125mmの場合、勾配は1/150以上を確保することで円滑な排水が可能となる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q45_c2",
+                  "groupId": "mansion_R4_Q45",
+                  "statement": "ガス給湯器の湯を供給する出湯能力は「号数」で表す。1号は入水温度を 20℃上昇させた湯を毎分1ℓ出湯する能力を示す。",
+                  "answer": false,
+                  "explanation": "敷地内の排水横主管で管径125mmの場合、勾配は1/150以上を確保することで円滑な排水が可能となる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q45_c3",
+                  "groupId": "mansion_R4_Q45",
+                  "statement": "敷地内に設置する排水横主管の管径が125mmの場合に、円滑に排水を流す ために、勾配を150分の1以上とした。",
+                  "answer": true,
+                  "explanation": "敷地内の排水横主管で管径125mmの場合、勾配は1/150以上を確保することで円滑な排水が可能となる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q45_c4",
+                  "groupId": "mansion_R4_Q45",
+                  "statement": "建築基準法によれば、居室では、シックハウス対策として、換気回数0(cid:9754)4回/h 以上の機械換気設備の設置が必要である。 26",
+                  "answer": false,
+                  "explanation": "敷地内の排水横主管で管径125mmの場合、勾配は1/150以上を確保することで円滑な排水が可能となる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q46_c1",
+                  "groupId": "mansion_R4_Q46",
+                  "statement": "一つ",
+                  "answer": false,
+                  "explanation": "マンション管理適正化法上の管理業者の義務（重要事項説明・契約締結時書面等）に関する正誤問題。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q46_c2",
+                  "groupId": "mansion_R4_Q46",
+                  "statement": "二つ",
+                  "answer": true,
+                  "explanation": "マンション管理適正化法上の管理業者の義務（重要事項説明・契約締結時書面等）に関する正誤問題。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q46_c3",
+                  "groupId": "mansion_R4_Q46",
+                  "statement": "三つ",
+                  "answer": false,
+                  "explanation": "マンション管理適正化法上の管理業者の義務（重要事項説明・契約締結時書面等）に関する正誤問題。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q46_c4",
+                  "groupId": "mansion_R4_Q46",
+                  "statement": "四つ 27",
+                  "answer": false,
+                  "explanation": "マンション管理適正化法上の管理業者の義務（重要事項説明・契約締結時書面等）に関する正誤問題。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q47_c1",
+                  "groupId": "mansion_R4_Q47",
+                  "statement": "一つ",
+                  "answer": false,
+                  "explanation": "マンション管理士の義務・資格登録・信用失墜行為の禁止等に関する正誤問題。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q47_c2",
+                  "groupId": "mansion_R4_Q47",
+                  "statement": "二つ",
+                  "answer": true,
+                  "explanation": "マンション管理士の義務・資格登録・信用失墜行為の禁止等に関する正誤問題。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q47_c3",
+                  "groupId": "mansion_R4_Q47",
+                  "statement": "三つ",
+                  "answer": false,
+                  "explanation": "マンション管理士の義務・資格登録・信用失墜行為の禁止等に関する正誤問題。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q47_c4",
+                  "groupId": "mansion_R4_Q47",
+                  "statement": "四つ 28",
+                  "answer": false,
+                  "explanation": "マンション管理士の義務・資格登録・信用失墜行為の禁止等に関する正誤問題。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q48_c1",
+                  "groupId": "mansion_R4_Q48",
+                  "statement": "一つ",
+                  "answer": false,
+                  "explanation": "マンション管理適正化法上の管理業務主任者の設置義務・職務・登録等に関する正誤問題。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q48_c2",
+                  "groupId": "mansion_R4_Q48",
+                  "statement": "二つ",
+                  "answer": true,
+                  "explanation": "マンション管理適正化法上の管理業務主任者の設置義務・職務・登録等に関する正誤問題。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q48_c3",
+                  "groupId": "mansion_R4_Q48",
+                  "statement": "三つ",
+                  "answer": false,
+                  "explanation": "マンション管理適正化法上の管理業務主任者の設置義務・職務・登録等に関する正誤問題。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q48_c4",
+                  "groupId": "mansion_R4_Q48",
+                  "statement": "四つ",
+                  "answer": false,
+                  "explanation": "マンション管理適正化法上の管理業務主任者の設置義務・職務・登録等に関する正誤問題。正しいものは「二つ」。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q49_c1",
+                  "groupId": "mansion_R4_Q49",
+                  "statement": "都道府県知事は、マンション管理適正化推進計画の策定の有無にかかわら ず、管理計画の認定をすることができる。",
+                  "answer": false,
+                  "explanation": "管理計画の認定要件として、組合員名簿・居住者名簿を備え、年1回以上内容を確認していることが必要（マンション管理適正化法第5条の4）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q49_c2",
+                  "groupId": "mansion_R4_Q49",
+                  "statement": "管理計画の認定は、10年ごとにその更新を受けなければ、その期間の経過 によって、その効力を失う。",
+                  "answer": false,
+                  "explanation": "管理計画の認定要件として、組合員名簿・居住者名簿を備え、年1回以上内容を確認していることが必要（マンション管理適正化法第5条の4）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q49_c3",
+                  "groupId": "mansion_R4_Q49",
+                  "statement": "管理計画を認定するためには、長期修繕計画の計画期間が30年以上である か、又は長期修繕計画の残存期間内に大規模修繕工事が2回以上含まれるよう に設定されていることが必要である。",
+                  "answer": false,
+                  "explanation": "管理計画の認定要件として、組合員名簿・居住者名簿を備え、年1回以上内容を確認していることが必要（マンション管理適正化法第5条の4）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q49_c4",
+                  "groupId": "mansion_R4_Q49",
+                  "statement": "管理計画を認定するためには、管理組合が組合員名簿、居住者名簿を備えて いることに加え、1年に1回以上は内容の確認を行っていることが必要であ る。 29",
+                  "answer": true,
+                  "explanation": "管理計画の認定要件として、組合員名簿・居住者名簿を備え、年1回以上内容を確認していることが必要（マンション管理適正化法第5条の4）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q50_c1",
+                  "groupId": "mansion_R4_Q50",
+                  "statement": "10日 区分所有者等 理事会等 管理組合の管理者等 区分所有者等及び",
+                  "answer": false,
+                  "explanation": "適正化法の立入検査・報告徴収において、事前通知は「1週間前」に「区分所有者等」へ行い、「認定管理者等」が対象となる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q50_c2",
+                  "groupId": "mansion_R4_Q50",
+                  "statement": "1週間 区分所有者等 認定管理者等 管理組合の管理者等 区分所有者等及び",
+                  "answer": true,
+                  "explanation": "適正化法の立入検査・報告徴収において、事前通知は「1週間前」に「区分所有者等」へ行い、「認定管理者等」が対象となる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q50_c3",
+                  "groupId": "mansion_R4_Q50",
+                  "statement": "区分所有者等 10日 認定管理者等 管理組合の管理者等 区分所有者等及び",
+                  "answer": false,
+                  "explanation": "適正化法の立入検査・報告徴収において、事前通知は「1週間前」に「区分所有者等」へ行い、「認定管理者等」が対象となる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "mansion_R4_Q50_c4",
+                  "groupId": "mansion_R4_Q50",
+                  "statement": "区分所有者等 1週間 理事会等 管理組合の管理者等 30",
+                  "answer": false,
+                  "explanation": "適正化法の立入検査・報告徴収において、事前通知は「1週間前」に「区分所有者等」へ行い、「認定管理者等」が対象となる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -3957,6 +3957,2267 @@
               ]
             }
           ]
+        },
+        {
+          "examYear": "令和7年度",
+          "sourceType": "official_exam",
+          "categories": [
+            {
+              "categoryName": "行政書士",
+              "questions": [
+                {
+                  "id": "gyosei_R7_Q02_c1",
+                  "groupId": "gyosei_R7_Q02",
+                  "statement": "裁判員は、衆議院議員の選挙権を有する者の中から、くじその他の作為が加わら ない方法で選任される。",
+                  "answer": false,
+                  "explanation": "裁判員の関与する判断は、裁判官と裁判員の合議体の構成員の過半数の意見によるものであり、裁判員だけの過半数では不十分。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q02_c2",
+                  "groupId": "gyosei_R7_Q02",
+                  "statement": "一定の事由があれば、検察官、被告人または弁護人は、裁判所に対して、選任さ れた裁判員の解任の請求をすることができる。",
+                  "answer": false,
+                  "explanation": "裁判員の関与する判断は、裁判官と裁判員の合議体の構成員の過半数の意見によるものであり、裁判員だけの過半数では不十分。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q02_c3",
+                  "groupId": "gyosei_R7_Q02",
+                  "statement": "裁判員は、地方裁判所で行われる一定の刑事裁判の訴訟手続に参加する。",
+                  "answer": false,
+                  "explanation": "裁判員の関与する判断は、裁判官と裁判員の合議体の構成員の過半数の意見によるものであり、裁判員だけの過半数では不十分。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q02_c4",
+                  "groupId": "gyosei_R7_Q02",
+                  "statement": "裁判員の関与する判断は、合議体を構成する裁判官の意見を聞いた上で、裁判員 の過半数の意見によって行われる。",
+                  "answer": true,
+                  "explanation": "裁判員の関与する判断は、裁判官と裁判員の合議体の構成員の過半数の意見によるものであり、裁判員だけの過半数では不十分。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q02_c5",
+                  "groupId": "gyosei_R7_Q02",
+                  "statement": "裁判員が、その関与する判断のための評議の秘密を漏らしたときは、当該裁判員 は、刑罰を科される。 (注) * 裁判員の参加する刑事裁判に関する法律",
+                  "answer": false,
+                  "explanation": "裁判員の関与する判断は、裁判官と裁判員の合議体の構成員の過半数の意見によるものであり、裁判員だけの過半数では不十分。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q03_c1",
+                  "groupId": "gyosei_R7_Q03",
+                  "statement": "尊属殺を通常の殺人よりも高度の道義的非難に値するものとみなし、その刑罰を 通常の殺人よりも加重する規定については、社会的身分による差別を行うものとし て、通常よりも厳格な基準でその合憲性が審査されなければならない。",
+                  "answer": false,
+                  "explanation": "嫡出でない子の相続差別は、子が選択できない出生事情に基づく不利益であり最高裁2013年決定で違憲・規定の合理性喪失とされた。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q03_c2",
+                  "groupId": "gyosei_R7_Q03",
+                  "statement": "所得税の賦課・徴収に際して、給与所得者と自営業者等との間で異なる取り扱い を行う法律の規定については、それが人種・信条・性別など憲法14条1項の列挙 する事由による差別に該当しないので、立法者の裁量を広く認めることができる。",
+                  "answer": false,
+                  "explanation": "嫡出でない子の相続差別は、子が選択できない出生事情に基づく不利益であり最高裁2013年決定で違憲・規定の合理性喪失とされた。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q03_c3",
+                  "groupId": "gyosei_R7_Q03",
+                  "statement": "女性のみに再婚禁止期間を定めた民法の規定の合憲性を判断する際には、性別に よる差別が憲法24条にいう個人の尊厳と深く関わるため、性別以外による法的取 り扱いの区別に比べて厳格な基準で審査が行われなければならない。",
+                  "answer": false,
+                  "explanation": "嫡出でない子の相続差別は、子が選択できない出生事情に基づく不利益であり最高裁2013年決定で違憲・規定の合理性喪失とされた。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q03_c4",
+                  "groupId": "gyosei_R7_Q03",
+                  "statement": "子にとって自ら選択・修正する余地のない事柄を理由にその子に不利益を及ぼす ことは許されず、子を個人として尊重し、権利を保障すべきだという考えが確立さ れてきており、嫡出でない子の法定相続分を差別する規定の合理性は失われている。",
+                  "answer": true,
+                  "explanation": "嫡出でない子の相続差別は、子が選択できない出生事情に基づく不利益であり最高裁2013年決定で違憲・規定の合理性喪失とされた。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q03_c5",
+                  "groupId": "gyosei_R7_Q03",
+                  "statement": "憲法25条の定める生存権は個人の尊厳と密接に関係する権利であり、これに関 係する法的取り扱いの区別の合憲性については、立法者がその裁量を踰越していな いか厳格かつ慎重に審査されなければならない。",
+                  "answer": false,
+                  "explanation": "嫡出でない子の相続差別は、子が選択できない出生事情に基づく不利益であり最高裁2013年決定で違憲・規定の合理性喪失とされた。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q04_c1",
+                  "groupId": "gyosei_R7_Q04",
+                  "statement": "公正な刑事裁判の実現を保障するために、報道機関の取材活動によって得られた ものが証拠として必要と認められるような場合には、取材の自由がある程度の制約 をこうむることとなってもやむを得ない。",
+                  "answer": false,
+                  "explanation": "取材源の秘密は民事訴訟法上の「職業の秘密」に該当しうるが、公正な裁判実現のためには開示が必要とされ、証言拒絶が認められない場合がある（最高裁2006年決定）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q04_c2",
+                  "groupId": "gyosei_R7_Q04",
+                  "statement": "報道機関の取材の手段・方法が一般の刑罰法令に触れなくても、取材対象者の個 人としての人格の尊厳を著しく蹂躪する等、法秩序全体の精神に照らし社会観念上 是認できない態様である場合には、正当な取材活動の範囲を逸脱する。",
+                  "answer": false,
+                  "explanation": "取材源の秘密は民事訴訟法上の「職業の秘密」に該当しうるが、公正な裁判実現のためには開示が必要とされ、証言拒絶が認められない場合がある（最高裁2006年決定）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q04_c3",
+                  "groupId": "gyosei_R7_Q04",
+                  "statement": "不法行為の成立を前提としない反論権は、特に公的事項に関する批判的記事の掲 載をちゅうちょさせ、憲法が保障する表現の自由を間接的に侵す危険につながるお それも多分に存し、当然に認められるものではない。",
+                  "answer": false,
+                  "explanation": "取材源の秘密は民事訴訟法上の「職業の秘密」に該当しうるが、公正な裁判実現のためには開示が必要とされ、証言拒絶が認められない場合がある（最高裁2006年決定）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q04_c4",
+                  "groupId": "gyosei_R7_Q04",
+                  "statement": "報道の公共性、報道のための取材の自由に対する配慮に基づき、司法記者クラブ 所属の報道機関の記者に対してのみ法廷におけるメモの採取を許可したとしても、 法の下の平等には反しない。",
+                  "answer": false,
+                  "explanation": "取材源の秘密は民事訴訟法上の「職業の秘密」に該当しうるが、公正な裁判実現のためには開示が必要とされ、証言拒絶が認められない場合がある（最高裁2006年決定）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q04_c5",
+                  "groupId": "gyosei_R7_Q04",
+                  "statement": "報道関係者の取材源は、それがみだりに開示されると将来の自由で円滑な取材活 動に一定の支障は生じうるが、公正な裁判の実現のためには取材源を明らかにする 必要があり、民事訴訟法上の証言拒絶が認められうる職業の秘密には該当しない。",
+                  "answer": true,
+                  "explanation": "取材源の秘密は民事訴訟法上の「職業の秘密」に該当しうるが、公正な裁判実現のためには開示が必要とされ、証言拒絶が認められない場合がある（最高裁2006年決定）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q05_c1",
+                  "groupId": "gyosei_R7_Q05",
+                  "statement": "会期 特別 臨時 権限又は権能",
+                  "answer": false,
+                  "explanation": "国会の「会期」・「臨時」会・「特別」会の順序と、免責特権の対象が「権利又は利益」である組み合わせを問う空欄補充問題。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q05_c2",
+                  "groupId": "gyosei_R7_Q05",
+                  "statement": "立法期 臨時 特別 権限又は権能",
+                  "answer": false,
+                  "explanation": "国会の「会期」・「臨時」会・「特別」会の順序と、免責特権の対象が「権利又は利益」である組み合わせを問う空欄補充問題。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q05_c3",
+                  "groupId": "gyosei_R7_Q05",
+                  "statement": "会期 特別 臨時 権利又は利益",
+                  "answer": false,
+                  "explanation": "国会の「会期」・「臨時」会・「特別」会の順序と、免責特権の対象が「権利又は利益」である組み合わせを問う空欄補充問題。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q05_c4",
+                  "groupId": "gyosei_R7_Q05",
+                  "statement": "立法期 特別 臨時 権限又は権能",
+                  "answer": false,
+                  "explanation": "国会の「会期」・「臨時」会・「特別」会の順序と、免責特権の対象が「権利又は利益」である組み合わせを問う空欄補充問題。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q05_c5",
+                  "groupId": "gyosei_R7_Q05",
+                  "statement": "会期 臨時 特別 権利又は利益",
+                  "answer": true,
+                  "explanation": "国会の「会期」・「臨時」会・「特別」会の順序と、免責特権の対象が「権利又は利益」である組み合わせを問う空欄補充問題。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q06_c1",
+                  "groupId": "gyosei_R7_Q06",
+                  "statement": "内閣総理大臣は、大日本帝国憲法では内閣の首長と位置づけられていたが、実際 の運用では、他の国務大臣と対等な地位にあるものとして扱われていた。",
+                  "answer": false,
+                  "explanation": "法律・政令には主任国務大臣が署名し内閣総理大臣が連署する（憲法74条）。総理大臣が「連署」であり「署名」ではない点に注意。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q06_c2",
+                  "groupId": "gyosei_R7_Q06",
+                  "statement": "内閣総理大臣は、衆議院議員の中から国会の議決により指名されるが、衆参両院 で指名の議決が異なった場合には、衆議院の議決が優越する。",
+                  "answer": false,
+                  "explanation": "法律・政令には主任国務大臣が署名し内閣総理大臣が連署する（憲法74条）。総理大臣が「連署」であり「署名」ではない点に注意。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q06_c3",
+                  "groupId": "gyosei_R7_Q06",
+                  "statement": "内閣総理大臣に事故のあるときは、予め指定された国務大臣が臨時にその職務を 行うが、その場合でも、衆議院の解散のような内閣総理大臣に一身専属的な権限は 行使できないと解されている。",
+                  "answer": false,
+                  "explanation": "法律・政令には主任国務大臣が署名し内閣総理大臣が連署する（憲法74条）。総理大臣が「連署」であり「署名」ではない点に注意。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q06_c4",
+                  "groupId": "gyosei_R7_Q06",
+                  "statement": "国務大臣は、内閣総理大臣の同意がなければ、国会の会期中逮捕されず、会期前 に逮捕された国務大臣は、内閣総理大臣の要求があれば、会期中これを釈放しなけ ればならない。",
+                  "answer": false,
+                  "explanation": "法律・政令には主任国務大臣が署名し内閣総理大臣が連署する（憲法74条）。総理大臣が「連署」であり「署名」ではない点に注意。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q06_c5",
+                  "groupId": "gyosei_R7_Q06",
+                  "statement": "法律及び政令には、すべて主任の国務大臣が署名し、内閣総理大臣が連署するこ とを必要とする。",
+                  "answer": true,
+                  "explanation": "法律・政令には主任国務大臣が署名し内閣総理大臣が連署する（憲法74条）。総理大臣が「連署」であり「署名」ではない点に注意。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q07_c1",
+                  "groupId": "gyosei_R7_Q07",
+                  "statement": "皇室典範は、皇室会議が定める規則であるが、憲法の授権により、皇位の継承や 摂政など、本来は法律で定めるべき事項を規定することができる。",
+                  "answer": false,
+                  "explanation": "最高裁判所規則制定権（憲法77条）は下級裁判所への委任が認められており、下級裁判所は委任された範囲で規則を定めることができる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q07_c2",
+                  "groupId": "gyosei_R7_Q07",
+                  "statement": "衆参各議院の規則は、会議その他の手続及び内部の規律に関する事項を広く規定 しており、本会議における議事や議決の定足数、議事を非公開にするための要件な どの議事に関する重要事項も、専ら各議院の規則が定めている。",
+                  "answer": false,
+                  "explanation": "最高裁判所規則制定権（憲法77条）は下級裁判所への委任が認められており、下級裁判所は委任された範囲で規則を定めることができる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q07_c3",
+                  "groupId": "gyosei_R7_Q07",
+                  "statement": "憲法は、内閣が定める政令についてのみ、法律の委任を条件に罰則を設けること を認めているので、各省大臣が定める省令については、法律の委任によって罰則を 設けることはできない。",
+                  "answer": false,
+                  "explanation": "最高裁判所規則制定権（憲法77条）は下級裁判所への委任が認められており、下級裁判所は委任された範囲で規則を定めることができる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q07_c4",
+                  "groupId": "gyosei_R7_Q07",
+                  "statement": "最高裁判所は、訴訟に関する手続、弁護士、裁判所の内部規律及び司法事務処理 に関する事項について規則を定める権限を有するが、下級裁判所に関する規則を定 める権限を、下級裁判所に委任することができる。",
+                  "answer": true,
+                  "explanation": "最高裁判所規則制定権（憲法77条）は下級裁判所への委任が認められており、下級裁判所は委任された範囲で規則を定めることができる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q07_c5",
+                  "groupId": "gyosei_R7_Q07",
+                  "statement": "会計検査院は、憲法上独立性が保障された機関であることから内部組織に関する 自律権が認められており、その組織・権限は専ら会計検査院自身が定める規則に よって規定される。",
+                  "answer": false,
+                  "explanation": "最高裁判所規則制定権（憲法77条）は下級裁判所への委任が認められており、下級裁判所は委任された範囲で規則を定めることができる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q08_c1",
+                  "groupId": "gyosei_R7_Q08",
+                  "statement": "瑕疵なく成立した授益的処分について、事後の事情の変化を理由に講学上の撤回 をすることは、かかる撤回ができる旨を定める明文の規定が法律または条例にある ときに限られる。",
+                  "answer": false,
+                  "explanation": "処分の瑕疵の「明白性」は処分の外形上・客観的に一見して誤認が看取できるかどうかで判断され、外部から認識できないものは明白とはいえない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q08_c2",
+                  "groupId": "gyosei_R7_Q08",
+                  "statement": "重大かつ明白な瑕疵を有する処分は当然に無効とされるが、処分の瑕疵が明白で あるかどうかは、処分の外形上、客観的に誤認が一見看取し得るものであるかどう かにより決まる。",
+                  "answer": true,
+                  "explanation": "処分の瑕疵の「明白性」は処分の外形上・客観的に一見して誤認が看取できるかどうかで判断され、外部から認識できないものは明白とはいえない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q08_c3",
+                  "groupId": "gyosei_R7_Q08",
+                  "statement": "一定の争訟手続に従って当事者を手続に関与せしめ、紛争の終局的解決を図るこ とを目的とする処分であっても、当該処分をした行政庁は、特別の規定がない限 り、当該処分を取り消すことができる。",
+                  "answer": false,
+                  "explanation": "処分の瑕疵の「明白性」は処分の外形上・客観的に一見して誤認が看取できるかどうかで判断され、外部から認識できないものは明白とはいえない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q08_c4",
+                  "groupId": "gyosei_R7_Q08",
+                  "statement": "既になされた授益的処分について、講学上の職権取消しができるのは、当該授益 的処分の成立時に違法があるときに限られ、不当があるにすぎない場合は除外され る。",
+                  "answer": false,
+                  "explanation": "処分の瑕疵の「明白性」は処分の外形上・客観的に一見して誤認が看取できるかどうかで判断され、外部から認識できないものは明白とはいえない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q08_c5",
+                  "groupId": "gyosei_R7_Q08",
+                  "statement": "処分の成立時点において瑕疵があった場合、事後の事情の変化により当該瑕疵が 解消するに至ったとしても、その瑕疵は治癒されることはなく、当該処分はそれを 理由として取り消されるか、または当然に無効であるとされる。",
+                  "answer": false,
+                  "explanation": "処分の瑕疵の「明白性」は処分の外形上・客観的に一見して誤認が看取できるかどうかで判断され、外部から認識できないものは明白とはいえない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q09_c1",
+                  "groupId": "gyosei_R7_Q09",
+                  "statement": "ア・イ",
+                  "answer": true,
+                  "explanation": "組み合わせ問題。ア・イが正しい記述。独占禁止法上の行政罰（課徴金）は二重処罰禁止に抵触しないが、重加算税と刑罰の並科は制裁性の有無で区別される。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q09_c2",
+                  "groupId": "gyosei_R7_Q09",
+                  "statement": "ア・ウ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・イが正しい記述。独占禁止法上の行政罰（課徴金）は二重処罰禁止に抵触しないが、重加算税と刑罰の並科は制裁性の有無で区別される。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q09_c3",
+                  "groupId": "gyosei_R7_Q09",
+                  "statement": "イ・ウ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・イが正しい記述。独占禁止法上の行政罰（課徴金）は二重処罰禁止に抵触しないが、重加算税と刑罰の並科は制裁性の有無で区別される。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q09_c4",
+                  "groupId": "gyosei_R7_Q09",
+                  "statement": "イ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・イが正しい記述。独占禁止法上の行政罰（課徴金）は二重処罰禁止に抵触しないが、重加算税と刑罰の並科は制裁性の有無で区別される。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q09_c5",
+                  "groupId": "gyosei_R7_Q09",
+                  "statement": "ウ・エ (注) * 私的独占の禁止及び公正取引の確保に関する法律",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・イが正しい記述。独占禁止法上の行政罰（課徴金）は二重処罰禁止に抵触しないが、重加算税と刑罰の並科は制裁性の有無で区別される。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q10_c1",
+                  "groupId": "gyosei_R7_Q10",
+                  "statement": "行政庁は、行政行為に附款を付すことができる旨の法令の根拠が存在しない場合 でも、裁量の範囲内で行政行為に附款を付すことができる。",
+                  "answer": true,
+                  "explanation": "法令の根拠がなくても裁量の範囲内であれば附款を付すことができるが、負担違反は取消事由であり遡及無効ではなく、道路占用の日付指定は「期限」に当たる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q10_c2",
+                  "groupId": "gyosei_R7_Q10",
+                  "statement": "行政庁は、行政行為について撤回権を留保する附款を付すことができるが、この ような附款を付さなかった場合には、法令に根拠のない限り、行政行為を撤回する ことはできない。",
+                  "answer": false,
+                  "explanation": "法令の根拠がなくても裁量の範囲内であれば附款を付すことができるが、負担違反は取消事由であり遡及無効ではなく、道路占用の日付指定は「期限」に当たる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q10_c3",
+                  "groupId": "gyosei_R7_Q10",
+                  "statement": "行政行為の附款は行政庁の意思表示の一部を形成するものであるから、道路占用 許可に付された使用料の納付などの負担を課す附款に違反した場合、当該占用許可 は許可の時点に遡って無効となる。",
+                  "answer": false,
+                  "explanation": "法令の根拠がなくても裁量の範囲内であれば附款を付すことができるが、負担違反は取消事由であり遡及無効ではなく、道路占用の日付指定は「期限」に当たる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q10_c4",
+                  "groupId": "gyosei_R7_Q10",
+                  "statement": "道路の占用許可について、開始と終了の具体的な日付を示す附款は、講学上の 「条件」に該当する。",
+                  "answer": false,
+                  "explanation": "法令の根拠がなくても裁量の範囲内であれば附款を付すことができるが、負担違反は取消事由であり遡及無効ではなく、道路占用の日付指定は「期限」に当たる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q10_c5",
+                  "groupId": "gyosei_R7_Q10",
+                  "statement": "行政行為の附款において、行政庁が負担として課すことができるのは作為義務に 限られ、不作為義務を課すことはできない。",
+                  "answer": false,
+                  "explanation": "法令の根拠がなくても裁量の範囲内であれば附款を付すことができるが、負担違反は取消事由であり遡及無効ではなく、道路占用の日付指定は「期限」に当たる。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q11_c1",
+                  "groupId": "gyosei_R7_Q11",
+                  "statement": "不利益処分の名宛人となるべき者として弁明の機会の付与の通知を受けた者は、 代理人を選任することができる。",
+                  "answer": true,
+                  "explanation": "弁明の機会の付与では、名宛人となるべき者は代理人を選任できる（行政手続法29条2項）。聴聞と異なり調書・報告書の作成義務はない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q11_c2",
+                  "groupId": "gyosei_R7_Q11",
+                  "statement": "不利益処分の名宛人となるべき者として弁明の機会の付与の通知を受けた者は、 行政庁に対し、弁明を記載した書面(弁明書)を提出する時までの間、当該不利益 処分の原因となる事実を証する資料の閲覧を求めることができる。",
+                  "answer": false,
+                  "explanation": "弁明の機会の付与では、名宛人となるべき者は代理人を選任できる（行政手続法29条2項）。聴聞と異なり調書・報告書の作成義務はない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q11_c3",
+                  "groupId": "gyosei_R7_Q11",
+                  "statement": "弁明を記載した書面(弁明書)が提出された後、当該不利益処分に利害関係を有 する者が当該弁明書の閲覧を求めた場合、行政庁は、正当な理由があるときでなけ れば、その閲覧を拒むことができない。",
+                  "answer": false,
+                  "explanation": "弁明の機会の付与では、名宛人となるべき者は代理人を選任できる（行政手続法29条2項）。聴聞と異なり調書・報告書の作成義務はない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q11_c4",
+                  "groupId": "gyosei_R7_Q11",
+                  "statement": "弁明を記載した書面(弁明書)の提出を受けた行政庁は、当該弁明についての調 書及び報告書を作成しなければならない。",
+                  "answer": false,
+                  "explanation": "弁明の機会の付与では、名宛人となるべき者は代理人を選任できる（行政手続法29条2項）。聴聞と異なり調書・報告書の作成義務はない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q11_c5",
+                  "groupId": "gyosei_R7_Q11",
+                  "statement": "行政庁は、弁明を記載した書面(弁明書)が提出された後に新たな事情が生じた ときは、弁明書を提出した者に対しその再提出を求めなければならない。",
+                  "answer": false,
+                  "explanation": "弁明の機会の付与では、名宛人となるべき者は代理人を選任できる（行政手続法29条2項）。聴聞と異なり調書・報告書の作成義務はない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q12_c1",
+                  "groupId": "gyosei_R7_Q12",
+                  "statement": "ア・ウ",
+                  "answer": false,
+                  "explanation": "個人情報保護法に関する組み合わせ問題。イ・エが正しい記述。個人情報取扱事業者の義務や個人情報保護委員会の権限に関する知識を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q12_c2",
+                  "groupId": "gyosei_R7_Q12",
+                  "statement": "ア・エ",
+                  "answer": false,
+                  "explanation": "個人情報保護法に関する組み合わせ問題。イ・エが正しい記述。個人情報取扱事業者の義務や個人情報保護委員会の権限に関する知識を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q12_c3",
+                  "groupId": "gyosei_R7_Q12",
+                  "statement": "イ・ウ",
+                  "answer": false,
+                  "explanation": "個人情報保護法に関する組み合わせ問題。イ・エが正しい記述。個人情報取扱事業者の義務や個人情報保護委員会の権限に関する知識を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q12_c4",
+                  "groupId": "gyosei_R7_Q12",
+                  "statement": "イ・エ",
+                  "answer": true,
+                  "explanation": "個人情報保護法に関する組み合わせ問題。イ・エが正しい記述。個人情報取扱事業者の義務や個人情報保護委員会の権限に関する知識を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q12_c5",
+                  "groupId": "gyosei_R7_Q12",
+                  "statement": "ウ・エ (注) * 個人情報の保護に関する法律",
+                  "answer": false,
+                  "explanation": "個人情報保護法に関する組み合わせ問題。イ・エが正しい記述。個人情報取扱事業者の義務や個人情報保護委員会の権限に関する知識を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q13_c1",
+                  "groupId": "gyosei_R7_Q13",
+                  "statement": "行政庁は、申請を拒否する処分については申請者に対し当該処分の理由を示さな ければならないが、それは申請者からの求めがあった場合に限られ、当該申請者の 求める形で行えば足りる。",
+                  "answer": false,
+                  "explanation": "審査の進行状況・処分時期の見通しの教示は努力義務であり、申請者の求めに応じて行えば足りる（行政手続法9条1項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q13_c2",
+                  "groupId": "gyosei_R7_Q13",
+                  "statement": "行政庁は、申請者に対し、当該申請にかかる審査の進行状況及び当該申請に対す る処分の時期の見通しを示すよう努めなければならないが、それは申請者の求めに 応じて行えば足りる。",
+                  "answer": true,
+                  "explanation": "審査の進行状況・処分時期の見通しの教示は努力義務であり、申請者の求めに応じて行えば足りる（行政手続法9条1項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q13_c3",
+                  "groupId": "gyosei_R7_Q13",
+                  "statement": "行政庁は、申請に対する処分について処分基準を定めなければならないが、その 処分基準を定めるにあたっては、処分の性質に照らしてできる限り具体的なものと しなければならない。",
+                  "answer": false,
+                  "explanation": "審査の進行状況・処分時期の見通しの教示は努力義務であり、申請者の求めに応じて行えば足りる（行政手続法9条1項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q13_c4",
+                  "groupId": "gyosei_R7_Q13",
+                  "statement": "行政庁は、申請を拒否する処分をしようとする場合には、当該申請者について意 見陳述のための手続を執らなければならないが、その手続は原則として弁明の機会 の付与で足りる。",
+                  "answer": false,
+                  "explanation": "審査の進行状況・処分時期の見通しの教示は努力義務であり、申請者の求めに応じて行えば足りる（行政手続法9条1項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q13_c5",
+                  "groupId": "gyosei_R7_Q13",
+                  "statement": "行政庁は、申請がその形式上の要件に適合しない場合には、速やかに、当該申請 者に対し相当の期間を定めてその補正を求めなければならず、補正を求めることな く許認可等を拒否してはならない。",
+                  "answer": false,
+                  "explanation": "審査の進行状況・処分時期の見通しの教示は努力義務であり、申請者の求めに応じて行えば足りる（行政手続法9条1項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q14_c1",
+                  "groupId": "gyosei_R7_Q14",
+                  "statement": "法人でない社団または財団で代表者または管理人の定めがあるものは、その名で 審査請求をすることができる。",
+                  "answer": true,
+                  "explanation": "法人でない社団・財団で代表者または管理人の定めがあるものは、その名で審査請求ができる（行政不服申立法11条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q14_c2",
+                  "groupId": "gyosei_R7_Q14",
+                  "statement": "審査庁は、必要があると認めるときは審査請求人の代理人の選任を命じることが できるが、選任された代理人は、審査請求人のために、取下げを含めた当該審査請 求に関する一切の行為をすることができる。",
+                  "answer": false,
+                  "explanation": "法人でない社団・財団で代表者または管理人の定めがあるものは、その名で審査請求ができる（行政不服申立法11条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q14_c3",
+                  "groupId": "gyosei_R7_Q14",
+                  "statement": "審査庁となるべき行政庁は、審理員となるべき者の名簿を作成しなければならな いが、当該名簿を公にする必要はない。",
+                  "answer": false,
+                  "explanation": "法人でない社団・財団で代表者または管理人の定めがあるものは、その名で審査請求ができる（行政不服申立法11条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q14_c4",
+                  "groupId": "gyosei_R7_Q14",
+                  "statement": "処分についての審査請求は、複数人が共同してすることはできず、各自がそれぞ れ審査請求をする必要がある。",
+                  "answer": false,
+                  "explanation": "法人でない社団・財団で代表者または管理人の定めがあるものは、その名で審査請求ができる（行政不服申立法11条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q14_c5",
+                  "groupId": "gyosei_R7_Q14",
+                  "statement": "処分の申請に対する不作為について審査請求をすることができる者は、申請者に 限られることはなく、当該処分がなされることにつき法律上の利益を有する者も含 まれる。",
+                  "answer": false,
+                  "explanation": "法人でない社団・財団で代表者または管理人の定めがあるものは、その名で審査請求ができる（行政不服申立法11条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q15_c1",
+                  "groupId": "gyosei_R7_Q15",
+                  "statement": "ア・イ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。行政不服申立て（審査請求）における手続や審理員制度に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q15_c2",
+                  "groupId": "gyosei_R7_Q15",
+                  "statement": "ア・ウ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。行政不服申立て（審査請求）における手続や審理員制度に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q15_c3",
+                  "groupId": "gyosei_R7_Q15",
+                  "statement": "イ・ウ",
+                  "answer": true,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。行政不服申立て（審査請求）における手続や審理員制度に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q15_c4",
+                  "groupId": "gyosei_R7_Q15",
+                  "statement": "イ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。行政不服申立て（審査請求）における手続や審理員制度に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q15_c5",
+                  "groupId": "gyosei_R7_Q15",
+                  "statement": "ウ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。行政不服申立て（審査請求）における手続や審理員制度に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q16_c1",
+                  "groupId": "gyosei_R7_Q16",
+                  "statement": "行政庁は、利害関係人から、当該処分が不服申立てをすることができる処分であ るかどうかや不服申立期間等につき教示を求められても、利害関係人は処分の相手 方以外の者であることから、当該事項等を教示する必要はない。",
+                  "answer": false,
+                  "explanation": "不服申立て先の教示を怠った場合、処分庁に審査請求書を提出でき、処分庁は審査庁へ送付義務を負い、送付時に初めから当該庁への審査請求とみなされる（行政不服申立法22条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q16_c2",
+                  "groupId": "gyosei_R7_Q16",
+                  "statement": "行政庁は、審査請求もしくは再調査の請求または他の法令に基づく不服申立てを することができる処分を書面でする場合、当該処分の相手方に対し、不服申立てが できること、不服申立てをすべき行政庁、不服申立てができる期間について、教示 をしなければならないが、口頭による教示も認められている。",
+                  "answer": false,
+                  "explanation": "不服申立て先の教示を怠った場合、処分庁に審査請求書を提出でき、処分庁は審査庁へ送付義務を負い、送付時に初めから当該庁への審査請求とみなされる（行政不服申立法22条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q16_c3",
+                  "groupId": "gyosei_R7_Q16",
+                  "statement": "行政庁は、利害関係人から、当該処分が不服申立てをすることができる処分であ るかどうかや不服申立期間等につき書面による教示を求められた場合であっても、 これに代えて口頭により教示をすることができる。",
+                  "answer": false,
+                  "explanation": "不服申立て先の教示を怠った場合、処分庁に審査請求書を提出でき、処分庁は審査庁へ送付義務を負い、送付時に初めから当該庁への審査請求とみなされる（行政不服申立法22条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q16_c4",
+                  "groupId": "gyosei_R7_Q16",
+                  "statement": "処分庁により審査請求をすべき行政庁について誤った行政庁が教示された場合、 誤って教示された行政庁に書面で審査請求がなされたときは、当該行政庁は、審査 庁となるべき行政庁を改めて教示し、審査請求人に審査請求書を返送しなければな らない。",
+                  "answer": false,
+                  "explanation": "不服申立て先の教示を怠った場合、処分庁に審査請求書を提出でき、処分庁は審査庁へ送付義務を負い、送付時に初めから当該庁への審査請求とみなされる（行政不服申立法22条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q16_c5",
+                  "groupId": "gyosei_R7_Q16",
+                  "statement": "処分庁が不服申立てをすべき行政庁につき教示を怠った場合、当該処分に不服が ある者は、処分庁に審査請求書を提出することができ、処分庁以外の行政庁に審査 請求ができる処分であるときは、処分庁は、審査請求書を当該行政庁に送付しなけ ればならず、送付された場合、初めから当該行政庁に審査請求がされたものとみな される。",
+                  "answer": true,
+                  "explanation": "不服申立て先の教示を怠った場合、処分庁に審査請求書を提出でき、処分庁は審査庁へ送付義務を負い、送付時に初めから当該庁への審査請求とみなされる（行政不服申立法22条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q17_c1",
+                  "groupId": "gyosei_R7_Q17",
+                  "statement": "関税定率法(当時)の規定に基づく輸入禁制品に該当する貨物と認めるのに相当 の理由がある旨の税関長による通知は、いわゆる観念の通知と見るべきものである が、当該通知があった場合には、輸入申告者は貨物を適法に輸入する道を閉ざされ るのであって、これは当該通知によって生ずるに至った法律上の効果と見るのが相 当であり、当該通知は行政処分に当たる。",
+                  "answer": true,
+                  "explanation": "税関長の輸入禁制品該当通知は、観念の通知でも輸入の道を閉ざす法律効果があるとして行政処分（処分性あり）と判断された（最高裁1984年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q17_c2",
+                  "groupId": "gyosei_R7_Q17",
+                  "statement": "交通反則金の納付の通告は、通告を受けた者において通告に係る反則金を納付す べき法律上の義務を生じさせるものであるから、行政処分に当たる。",
+                  "answer": false,
+                  "explanation": "税関長の輸入禁制品該当通知は、観念の通知でも輸入の道を閉ざす法律効果があるとして行政処分（処分性あり）と判断された（最高裁1984年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q17_c3",
+                  "groupId": "gyosei_R7_Q17",
+                  "statement": "地方公共団体の水道事業において、水道料金を条例の適用範囲全域につき一律に 値上げすることを内容とする水道給水条例が制定された場合、水道の利用者はかか る条例の施行によって値上げされた水道料金の支払義務を負うこととなるため、当 該条例の制定行為は行政処分に当たる。",
+                  "answer": false,
+                  "explanation": "税関長の輸入禁制品該当通知は、観念の通知でも輸入の道を閉ざす法律効果があるとして行政処分（処分性あり）と判断された（最高裁1984年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q17_c4",
+                  "groupId": "gyosei_R7_Q17",
+                  "statement": "登録免許税を過大に納付して登記を受けた者が、登記機関に対して税務署長への 還付通知を行うように登録免許税法に基づいて請求した場合、当該通知を拒否する 旨の登記機関による通知は、登記等を受けた者の手続上の地位を否定する法的効果 を有さないため、行政処分に当たらない。",
+                  "answer": false,
+                  "explanation": "税関長の輸入禁制品該当通知は、観念の通知でも輸入の道を閉ざす法律効果があるとして行政処分（処分性あり）と判断された（最高裁1984年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q17_c5",
+                  "groupId": "gyosei_R7_Q17",
+                  "statement": "都市計画法に基づく都市計画決定としてなされる工業地域指定は、これによって 当該地域内において、建築物の建築を制限する法的効果が土地所有者等に対して生 じることとなるため、具体的な権利侵害を伴うものであるから、行政処分に当た る。",
+                  "answer": false,
+                  "explanation": "税関長の輸入禁制品該当通知は、観念の通知でも輸入の道を閉ざす法律効果があるとして行政処分（処分性あり）と判断された（最高裁1984年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q18_c1",
+                  "groupId": "gyosei_R7_Q18",
+                  "statement": "行訴法は、行訴法14条1項のほかに、処分の日から一定期間を経過したとき は、取消訴訟を提起することができない旨の定めを置いているが、この定めには 「正当な理由があるときは、この限りでない。」とのただし書きは付されていな い。",
+                  "answer": false,
+                  "explanation": "告示によって多数の権利者に画一的に告知される処分（都市計画事業認可等）は、告示があった日が取消訴訟の出訴期間の起算日となる（行訴法14条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q18_c2",
+                  "groupId": "gyosei_R7_Q18",
+                  "statement": "個人情報保護条例(当時)に基づく保有個人情報の一部開示決定に対する取消 訴訟について、開示文書の内容の詳細や不利益性を認識した時が基準日となるこ とから、基準日は、当該決定の通知書が到達した日ではなく、当該開示文書が到 達した日とされる。",
+                  "answer": false,
+                  "explanation": "告示によって多数の権利者に画一的に告知される処分（都市計画事業認可等）は、告示があった日が取消訴訟の出訴期間の起算日となる（行訴法14条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q18_c3",
+                  "groupId": "gyosei_R7_Q18",
+                  "statement": "行訴法14条1項が定める出訴期間の定めは、無効等確認訴訟の他、形式的当 事者訴訟にも準用されることが行訴法において規定されている。",
+                  "answer": false,
+                  "explanation": "告示によって多数の権利者に画一的に告知される処分（都市計画事業認可等）は、告示があった日が取消訴訟の出訴期間の起算日となる（行訴法14条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q18_c4",
+                  "groupId": "gyosei_R7_Q18",
+                  "statement": "審査請求をすることができる処分についてそれがなされた場合、当該処分に係 る取消訴訟は、当該審査請求をした者については、行訴法14条1項の規定にか かわらず、当該審査請求を行った日が基準日とされる。",
+                  "answer": false,
+                  "explanation": "告示によって多数の権利者に画一的に告知される処分（都市計画事業認可等）は、告示があった日が取消訴訟の出訴期間の起算日となる（行訴法14条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q18_c5",
+                  "groupId": "gyosei_R7_Q18",
+                  "statement": "都市計画法における都市計画事業の認可のように、処分が個別の通知ではなく 告示をもって多数の関係権利者等に画一的に告知される場合には、当該告示が あった日が基準日とされる。",
+                  "answer": true,
+                  "explanation": "告示によって多数の権利者に画一的に告知される処分（都市計画事業認可等）は、告示があった日が取消訴訟の出訴期間の起算日となる（行訴法14条）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q19_c1",
+                  "groupId": "gyosei_R7_Q19",
+                  "statement": "ア・イ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。抗告訴訟（義務付け訴訟・差止訴訟）の要件や仮の救済手続に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q19_c2",
+                  "groupId": "gyosei_R7_Q19",
+                  "statement": "ア・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。抗告訴訟（義務付け訴訟・差止訴訟）の要件や仮の救済手続に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q19_c3",
+                  "groupId": "gyosei_R7_Q19",
+                  "statement": "イ・エ",
+                  "answer": true,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。抗告訴訟（義務付け訴訟・差止訴訟）の要件や仮の救済手続に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q19_c4",
+                  "groupId": "gyosei_R7_Q19",
+                  "statement": "ウ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。抗告訴訟（義務付け訴訟・差止訴訟）の要件や仮の救済手続に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q19_c5",
+                  "groupId": "gyosei_R7_Q19",
+                  "statement": "ウ・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。抗告訴訟（義務付け訴訟・差止訴訟）の要件や仮の救済手続に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q20_c1",
+                  "groupId": "gyosei_R7_Q20",
+                  "statement": "ア・イ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。行政事件訴訟における訴訟要件・執行停止・本案審理等に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q20_c2",
+                  "groupId": "gyosei_R7_Q20",
+                  "statement": "ア・ウ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。行政事件訴訟における訴訟要件・執行停止・本案審理等に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q20_c3",
+                  "groupId": "gyosei_R7_Q20",
+                  "statement": "ア・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。行政事件訴訟における訴訟要件・執行停止・本案審理等に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q20_c4",
+                  "groupId": "gyosei_R7_Q20",
+                  "statement": "イ・エ",
+                  "answer": true,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。行政事件訴訟における訴訟要件・執行停止・本案審理等に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q20_c5",
+                  "groupId": "gyosei_R7_Q20",
+                  "statement": "ウ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。行政事件訴訟における訴訟要件・執行停止・本案審理等に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q21_c1",
+                  "groupId": "gyosei_R7_Q21",
+                  "statement": "国又は公共団体の損害賠償の責任については、民法の規定が補充的に適用される とされており、失火責任法*もここにいう民法に含まれるが、消防署職員の消火活 動が不十分なため残り火が再燃して火災が発生した事案は、失火責任法にいう「失 火」に該当せず、失火責任法の適用はない。",
+                  "answer": false,
+                  "explanation": "公の営造物の設置・管理費用の負担者には、法律上の負担義務者のほか、実質的に事業を共同執行していると認められる者も含まれ、双方が国賠法2条責任を負う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q21_c2",
+                  "groupId": "gyosei_R7_Q21",
+                  "statement": "国又は公共団体の公権力の行使に当たる複数の公務員が、その職務を行うについ て、共同して故意によって違法に他人に加えた損害につき、国又は公共団体がこれ を賠償した場合において、当該加害公務員は、国又は公共団体に対し、各自が負う 責任の度合いや資力の有無に応じて分割された求償債務を負う。",
+                  "answer": false,
+                  "explanation": "公の営造物の設置・管理費用の負担者には、法律上の負担義務者のほか、実質的に事業を共同執行していると認められる者も含まれ、双方が国賠法2条責任を負う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q21_c3",
+                  "groupId": "gyosei_R7_Q21",
+                  "statement": "市町村が設置する学校の教諭につき、当該教諭の給与を都道府県が負担する場合 において、当該教諭がその職務を行うについて故意又は過失によって違法に生徒に 損害を与えたときは、当該教諭の給与を負担する都道府県が、国家賠償法に基づく 損害賠償の義務を負い、学校の設置主体である当該市町村は、同法に基づく損害賠 償責任を負わない。",
+                  "answer": false,
+                  "explanation": "公の営造物の設置・管理費用の負担者には、法律上の負担義務者のほか、実質的に事業を共同執行していると認められる者も含まれ、双方が国賠法2条責任を負う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q21_c4",
+                  "groupId": "gyosei_R7_Q21",
+                  "statement": "公の営造物の設置又は管理に瑕疵があることによる国家賠償責任につき、当該営 造物の設置又は管理に当たる者とその費用の負担者とが異なるときは、その双方が 責任を負うことになるが、ここにいう設置費用の負担者には、当該営造物の設置費 用につき法律上の負担義務を負う者のほか、この者と同等もしくはこれに近い設置 費用を負担し、実質的には事業を共同して執行していると認められる一定範囲の者 も含まれる。",
+                  "answer": true,
+                  "explanation": "公の営造物の設置・管理費用の負担者には、法律上の負担義務者のほか、実質的に事業を共同執行していると認められる者も含まれ、双方が国賠法2条責任を負う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q21_c5",
+                  "groupId": "gyosei_R7_Q21",
+                  "statement": "国又は公共団体の公務員による一連の職務上の行為の過程において他人(被害 者)に被害を生ぜしめた事案においては、それらの一連の行為を組成する各行為の いずれもが国又は同一の公共団体の公務員の職務上の行為にあたる場合であったと しても、国家賠償法1条1項に基づく損害賠償責任が成立するためには、被害者に おいて、当該事案における加害行為とそれを行った者を特定しなければならない。 (注) * 失火ノ責任ニ関スル法律",
+                  "answer": false,
+                  "explanation": "公の営造物の設置・管理費用の負担者には、法律上の負担義務者のほか、実質的に事業を共同執行していると認められる者も含まれ、双方が国賠法2条責任を負う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q22_c1",
+                  "groupId": "gyosei_R7_Q22",
+                  "statement": "ため池の破損等の原因となる堤とうの使用行為は憲法、民法の保障する財産権の 行使の埒外にあることから、これを条例をもって禁止し、処罰の対象にしても憲法 および法律に抵触するものとはいえない。",
+                  "answer": false,
+                  "explanation": "集団行進規制条例が道路交通法と同一行為を処罰するからといって直ちに違憲とはならず、法律と条例の目的・規制対象が異なれば並存可能（最高裁1975年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q22_c2",
+                  "groupId": "gyosei_R7_Q22",
+                  "statement": "地方自治法の定める相当に具体的な内容の事項につき、同法に基づき限定された 刑罰の範囲内において、条例をもって罰則を定めることは憲法31条に反するとは いえない。",
+                  "answer": false,
+                  "explanation": "集団行進規制条例が道路交通法と同一行為を処罰するからといって直ちに違憲とはならず、法律と条例の目的・規制対象が異なれば並存可能（最高裁1975年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q22_c3",
+                  "groupId": "gyosei_R7_Q22",
+                  "statement": "暴走族による集会等を規制する暴走族追放条例は、その規制対象が本来的な意味 における暴走族およびその類似集団による集会に限定されると解されることから、 憲法21条1項、31条に反するとはいえない。",
+                  "answer": false,
+                  "explanation": "集団行進規制条例が道路交通法と同一行為を処罰するからといって直ちに違憲とはならず、法律と条例の目的・規制対象が異なれば並存可能（最高裁1975年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q22_c4",
+                  "groupId": "gyosei_R7_Q22",
+                  "statement": "国民健康保険の保険料率を定める国民健康保険条例が、市長に対して、条例の定 める基準に基づき保険料率を決定・公示することを委任したとしても、そのことが 憲法84条の趣旨に違反するとはいえない。",
+                  "answer": false,
+                  "explanation": "集団行進規制条例が道路交通法と同一行為を処罰するからといって直ちに違憲とはならず、法律と条例の目的・規制対象が異なれば並存可能（最高裁1975年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q22_c5",
+                  "groupId": "gyosei_R7_Q22",
+                  "statement": "集団行進および集団示威行為における交通秩序の維持を目的とする条例は、道路 交通法と同一の行為を処罰することになるため、憲法31条に違反する。",
+                  "answer": true,
+                  "explanation": "集団行進規制条例が道路交通法と同一行為を処罰するからといって直ちに違憲とはならず、法律と条例の目的・規制対象が異なれば並存可能（最高裁1975年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q23_c1",
+                  "groupId": "gyosei_R7_Q23",
+                  "statement": "議会の議決に属する事項については、軽易な事項であるか否かにかかわらず、議 会が議決により知事の専決処分に委ねることはできない。",
+                  "answer": false,
+                  "explanation": "知事は、議会の議決が法令に違反しない場合でも、異議があれば再議に付すことができる（地方自治法176条1項・一般的拒否権）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q23_c2",
+                  "groupId": "gyosei_R7_Q23",
+                  "statement": "知事は、議会における議決について異議があるときは、その議決が法令に違反し ないものである場合であっても、当該議決を再議に付すことができる。",
+                  "answer": true,
+                  "explanation": "知事は、議会の議決が法令に違反しない場合でも、異議があれば再議に付すことができる（地方自治法176条1項・一般的拒否権）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q23_c3",
+                  "groupId": "gyosei_R7_Q23",
+                  "statement": "再議の結果、議決がなお法令に違反すると知事が認める場合には、内閣総理大臣 に対し審査を申し立てることができる。",
+                  "answer": false,
+                  "explanation": "知事は、議会の議決が法令に違反しない場合でも、異議があれば再議に付すことができる（地方自治法176条1項・一般的拒否権）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q23_c4",
+                  "groupId": "gyosei_R7_Q23",
+                  "statement": "知事は、緊急を要するため議会を招集する時間的余裕がないことが明らかである と認める場合には、議決事項を専決処分とすることができるが、後に議会がこれを 承認しない場合には、当該専決処分は無効となる。",
+                  "answer": false,
+                  "explanation": "知事は、議会の議決が法令に違反しない場合でも、異議があれば再議に付すことができる（地方自治法176条1項・一般的拒否権）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q23_c5",
+                  "groupId": "gyosei_R7_Q23",
+                  "statement": "議会により不信任が議決された場合には、知事は議会を解散することができる が、解散後初めて議会が招集された時に自動的に失職する。",
+                  "answer": false,
+                  "explanation": "知事は、議会の議決が法令に違反しない場合でも、異議があれば再議に付すことができる（地方自治法176条1項・一般的拒否権）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q24_c1",
+                  "groupId": "gyosei_R7_Q24",
+                  "statement": "ア・イ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・エが正しい記述。地方公共団体の条例制定権の範囲・限界および住民自治に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q24_c2",
+                  "groupId": "gyosei_R7_Q24",
+                  "statement": "ア・エ",
+                  "answer": true,
+                  "explanation": "組み合わせ問題。ア・エが正しい記述。地方公共団体の条例制定権の範囲・限界および住民自治に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q24_c3",
+                  "groupId": "gyosei_R7_Q24",
+                  "statement": "イ・ウ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・エが正しい記述。地方公共団体の条例制定権の範囲・限界および住民自治に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q24_c4",
+                  "groupId": "gyosei_R7_Q24",
+                  "statement": "イ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・エが正しい記述。地方公共団体の条例制定権の範囲・限界および住民自治に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q24_c5",
+                  "groupId": "gyosei_R7_Q24",
+                  "statement": "ウ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・エが正しい記述。地方公共団体の条例制定権の範囲・限界および住民自治に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q25_c1",
+                  "groupId": "gyosei_R7_Q25",
+                  "statement": "東京都建築安全条例に基づく安全認定を先行処分とする建築確認の取消訴訟にお いて、当該安全認定について裁判所が審査できるのは、重大かつ明白な瑕疵があり 無効か否かに限定される。",
+                  "answer": false,
+                  "explanation": "建築確認は適法性の公権的判断にすぎず、工事完了後は建築確認の取消しによって建築物除却を命じる実益が失われるため、訴えの利益が消滅する（最高裁1999年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q25_c2",
+                  "groupId": "gyosei_R7_Q25",
+                  "statement": "建築主事は、建築確認の申請書を受理してから一定期間内に申請者に確認済証を 交付しなければならないところ、この期間経過後も交付をしないことが適法とされ るのは、当該申請者がそれにつき任意に同意をしているものと明確に認められる場 合に限られる。",
+                  "answer": false,
+                  "explanation": "建築確認は適法性の公権的判断にすぎず、工事完了後は建築確認の取消しによって建築物除却を命じる実益が失われるため、訴えの利益が消滅する（最高裁1999年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q25_c3",
+                  "groupId": "gyosei_R7_Q25",
+                  "statement": "建築確認は、建築工事の開始前に、当該建築物の計画が建築関係規定に適合する ことを公権的に判断する行為にすぎないため、建築確認に対する取消訴訟の係属中 に、当該建築確認に係る建築工事が完了した場合、当該取消訴訟の訴えの利益は消 滅する。",
+                  "answer": true,
+                  "explanation": "建築確認は適法性の公権的判断にすぎず、工事完了後は建築確認の取消しによって建築物除却を命じる実益が失われるため、訴えの利益が消滅する（最高裁1999年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q25_c4",
+                  "groupId": "gyosei_R7_Q25",
+                  "statement": "民間の指定確認検査機関が行った建築確認につき、その取消訴訟を提起した原告 が、この訴えを、損害賠償を求める訴えに変更することの許可を申し立てる場合、 変更後の訴えの被告は、当該指定確認検査機関である民間法人となる。",
+                  "answer": false,
+                  "explanation": "建築確認は適法性の公権的判断にすぎず、工事完了後は建築確認の取消しによって建築物除却を命じる実益が失われるため、訴えの利益が消滅する（最高裁1999年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q25_c5",
+                  "groupId": "gyosei_R7_Q25",
+                  "statement": "一級建築士により構造計算書に偽装が行われていた建築物の計画について、これ を看過した建築主事による建築確認が国家賠償法の適用上違法となる余地はなく、 当該建築確認の申請者である建築主による国家賠償請求は認められない。",
+                  "answer": false,
+                  "explanation": "建築確認は適法性の公権的判断にすぎず、工事完了後は建築確認の取消しによって建築物除却を命じる実益が失われるため、訴えの利益が消滅する（最高裁1999年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q26_c1",
+                  "groupId": "gyosei_R7_Q26",
+                  "statement": "開示請求にかかる行政文書に個人に関する情報が含まれている場合、開示請求者 は、法が定める範囲内で、行政機関において、特定の個人を識別することができな いように個人情報を加工した情報を記載した新たな別の行政文書を作成し、その交 付を求めることができる。",
+                  "answer": false,
+                  "explanation": "情報公開法上の不開示情報（個人情報）は、氏名・生年月日等により特定個人を識別できるものが対象であり、他人に知られたくないかどうかは問わない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q26_c2",
+                  "groupId": "gyosei_R7_Q26",
+                  "statement": "法にいう「行政文書」とは、行政機関の職員が職務上作成し、又は取得した文 書、図画及び電磁的記録であって、当該行政機関の職員が組織的に用いるものとし て、事案処理手続における決裁、縦覧を経た上で当該行政機関が保有しているもの をいう。",
+                  "answer": false,
+                  "explanation": "情報公開法上の不開示情報（個人情報）は、氏名・生年月日等により特定個人を識別できるものが対象であり、他人に知られたくないかどうかは問わない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q26_c3",
+                  "groupId": "gyosei_R7_Q26",
+                  "statement": "法は、国民主権の理念にのっとり、行政文書の開示を請求する権利につき定める ことにより、政府の有するその諸活動を国民に説明する責務が全うされるようにす ることを目的としていることから、外国に在住する外国人は、行政文書の開示を請 求する権利を有しない。",
+                  "answer": false,
+                  "explanation": "情報公開法上の不開示情報（個人情報）は、氏名・生年月日等により特定個人を識別できるものが対象であり、他人に知られたくないかどうかは問わない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q26_c4",
+                  "groupId": "gyosei_R7_Q26",
+                  "statement": "法は、個人に関する情報について、それが一般に他人に知られたくないと望むこ とが正当であると認められる情報であるか否かにかかわりなく、当該情報に含まれ る氏名、生年月日その他の記述等により特定の個人を識別することができるものを 不開示情報としている。",
+                  "answer": true,
+                  "explanation": "情報公開法上の不開示情報（個人情報）は、氏名・生年月日等により特定個人を識別できるものが対象であり、他人に知られたくないかどうかは問わない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q26_c5",
+                  "groupId": "gyosei_R7_Q26",
+                  "statement": "行政機関の長は、開示請求に係る行政文書の一部に不開示情報が記録されている 場合において、不開示情報が記録されている部分を容易に区分して除くことができ るときは、法の定める場合を除き、開示請求者の求めに応じ、当該部分を除いた情 報の概要を記載した新たな別の文書を作成し、これを交付しなければならない。 (注) * 行政機関の保有する情報の公開に関する法律",
+                  "answer": false,
+                  "explanation": "情報公開法上の不開示情報（個人情報）は、氏名・生年月日等により特定個人を識別できるものが対象であり、他人に知られたくないかどうかは問わない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q27_c1",
+                  "groupId": "gyosei_R7_Q27",
+                  "statement": "補助人の同意を得なければならない行為について、補助人が被補助人の利益を害 するおそれがないにもかかわらず同意をしないときは、家庭裁判所は、被補助人の 請求により、補助人の同意に代わる許可を与えることができる。",
+                  "answer": false,
+                  "explanation": "被保佐人が「相続の承認・放棄」をするには保佐人の同意が必要（民法13条1項6号）だが、「遺産分割」は同意不要の行為である。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q27_c2",
+                  "groupId": "gyosei_R7_Q27",
+                  "statement": "後見開始の審判をする場合において、本人が被保佐人又は被補助人であるとき は、家庭裁判所は、その本人に係る保佐開始又は補助開始の審判を取り消さなけれ ばならない。",
+                  "answer": false,
+                  "explanation": "被保佐人が「相続の承認・放棄」をするには保佐人の同意が必要（民法13条1項6号）だが、「遺産分割」は同意不要の行為である。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q27_c3",
+                  "groupId": "gyosei_R7_Q27",
+                  "statement": "被保佐人が遺産の分割をする場合には、その保佐人の同意を得る必要はないが、 被保佐人が相続の承認又は放棄をする場合には、その保佐人の同意を得なければな らない。",
+                  "answer": true,
+                  "explanation": "被保佐人が「相続の承認・放棄」をするには保佐人の同意が必要（民法13条1項6号）だが、「遺産分割」は同意不要の行為である。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q27_c4",
+                  "groupId": "gyosei_R7_Q27",
+                  "statement": "制限行為能力者が、行為能力者であることを信じさせるため詐術を用いたとき は、その行為を取り消すことができない。",
+                  "answer": false,
+                  "explanation": "被保佐人が「相続の承認・放棄」をするには保佐人の同意が必要（民法13条1項6号）だが、「遺産分割」は同意不要の行為である。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q27_c5",
+                  "groupId": "gyosei_R7_Q27",
+                  "statement": "制限行為能力者の相手方が、制限行為能力者が行為能力者とならない間に、その 法定代理人、保佐人又は補助人に対し、その権限内の行為について、1箇月以上の 期間を定めて、その期間内にその取り消すことができる行為を追認するかどうかを 確答すべき旨の催告をした場合、これらの者がその期間内に確答を発しないとき は、その行為を追認したものとみなす。",
+                  "answer": false,
+                  "explanation": "被保佐人が「相続の承認・放棄」をするには保佐人の同意が必要（民法13条1項6号）だが、「遺産分割」は同意不要の行為である。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q28_c1",
+                  "groupId": "gyosei_R7_Q28",
+                  "statement": "ア・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。意思表示の効力（錯誤・詐欺・強迫）および意思表示の到達に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q28_c2",
+                  "groupId": "gyosei_R7_Q28",
+                  "statement": "ア・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。意思表示の効力（錯誤・詐欺・強迫）および意思表示の到達に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q28_c3",
+                  "groupId": "gyosei_R7_Q28",
+                  "statement": "イ・ウ",
+                  "answer": true,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。意思表示の効力（錯誤・詐欺・強迫）および意思表示の到達に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q28_c4",
+                  "groupId": "gyosei_R7_Q28",
+                  "statement": "イ・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。意思表示の効力（錯誤・詐欺・強迫）および意思表示の到達に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q28_c5",
+                  "groupId": "gyosei_R7_Q28",
+                  "statement": "ウ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。意思表示の効力（錯誤・詐欺・強迫）および意思表示の到達に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q29_c1",
+                  "groupId": "gyosei_R7_Q29",
+                  "statement": "ア・ウ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。エ・オが正しい記述。代理（無権代理・表見代理・代理権の濫用）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q29_c2",
+                  "groupId": "gyosei_R7_Q29",
+                  "statement": "ア・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。エ・オが正しい記述。代理（無権代理・表見代理・代理権の濫用）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q29_c3",
+                  "groupId": "gyosei_R7_Q29",
+                  "statement": "イ・ウ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。エ・オが正しい記述。代理（無権代理・表見代理・代理権の濫用）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q29_c4",
+                  "groupId": "gyosei_R7_Q29",
+                  "statement": "イ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。エ・オが正しい記述。代理（無権代理・表見代理・代理権の濫用）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q29_c5",
+                  "groupId": "gyosei_R7_Q29",
+                  "statement": "エ・オ",
+                  "answer": true,
+                  "explanation": "組み合わせ問題。エ・オが正しい記述。代理（無権代理・表見代理・代理権の濫用）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q30_c1",
+                  "groupId": "gyosei_R7_Q30",
+                  "statement": "AはBに対して、催告した上で代金不払を理由として本件売買契約を解除する旨 の通知を行った場合、その後Bは甲をCに売却して引き渡したとしても、Aは、C に対して甲の返還を求めることができる。",
+                  "answer": false,
+                  "explanation": "所有権留保特約がある場合、売主Aは留保所有権に基づいて目的物の引渡しを求めることができ、買主Bが第三者Gに譲渡担保設定しても対抗できる（最高裁2023年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q30_c2",
+                  "groupId": "gyosei_R7_Q30",
+                  "statement": "DがBから甲の修理を請け負い、修理を終えて甲をBに返還したが報酬の支払を 受けていない場合においても、Aは、甲につき先取特権を行使して、Dに先立って 優先弁済を受けることができる。",
+                  "answer": false,
+                  "explanation": "所有権留保特約がある場合、売主Aは留保所有権に基づいて目的物の引渡しを求めることができ、買主Bが第三者Gに譲渡担保設定しても対抗できる（最高裁2023年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q30_c3",
+                  "groupId": "gyosei_R7_Q30",
+                  "statement": "BがEのために甲に質権を設定した場合においても、Aは、甲につき先取特権を 行使して、Eに先立って優先弁済を受けることができる。",
+                  "answer": false,
+                  "explanation": "所有権留保特約がある場合、売主Aは留保所有権に基づいて目的物の引渡しを求めることができ、買主Bが第三者Gに譲渡担保設定しても対抗できる（最高裁2023年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q30_c4",
+                  "groupId": "gyosei_R7_Q30",
+                  "statement": "BがFのために甲を譲渡担保に供して占有改定の方法により引き渡した場合にお いても、Aは、甲につき先取特権を行使することができ、Fはこれに対して異議を 述べることはできない。",
+                  "answer": false,
+                  "explanation": "所有権留保特約がある場合、売主Aは留保所有権に基づいて目的物の引渡しを求めることができ、買主Bが第三者Gに譲渡担保設定しても対抗できる（最高裁2023年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q30_c5",
+                  "groupId": "gyosei_R7_Q30",
+                  "statement": "本件売買契約において所有権留保特約が設けられていた場合、BがGのために甲 を譲渡担保に供して占有改定の方法により引き渡したとしても、Aは、Bに対して 留保所有権に基づいて甲の引渡しを求めることができ、Gはこれに対して異議を述 べることはできない。",
+                  "answer": true,
+                  "explanation": "所有権留保特約がある場合、売主Aは留保所有権に基づいて目的物の引渡しを求めることができ、買主Bが第三者Gに譲渡担保設定しても対抗できる（最高裁2023年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q31_c1",
+                  "groupId": "gyosei_R7_Q31",
+                  "statement": "本件債権譲渡通知がZに到達する前に、ZがすでにAに対して本件債権を弁済し ていた場合、Zは、Bから本件債権の弁済を請求されたとしても、これを拒むこと ができる。",
+                  "answer": false,
+                  "explanation": "同順位の対抗要件（同時到達）を具備した競合譲受人が存在する場合、債務者Zはいずれの譲受人に対しても弁済を拒むことができる（最高裁1989年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q31_c2",
+                  "groupId": "gyosei_R7_Q31",
+                  "statement": "Aは、本件債権をBに譲渡した直後にCに対しても譲渡し、その旨の債権譲渡通 知が内容証明郵便によって行われ、これが本件債権譲渡通知と同時にZに到達し た。Zが、Bから本件債権の弁済を求められた場合、同順位の対抗要件を具備した Cの存在を理由として、これを拒むことができる。",
+                  "answer": true,
+                  "explanation": "同順位の対抗要件（同時到達）を具備した競合譲受人が存在する場合、債務者Zはいずれの譲受人に対しても弁済を拒むことができる（最高裁1989年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q31_c3",
+                  "groupId": "gyosei_R7_Q31",
+                  "statement": "Aは、本件債権をBに譲渡した直後にCに対しても譲渡し、その旨の債権譲渡通 知が内容証明郵便によって行われ、これが本件債権譲渡通知と同時にZに到達した ため、Zが、本件債権につき弁済供託を行った場合、Bは、本件債権全額について は供託金の還付を請求することはできない。",
+                  "answer": false,
+                  "explanation": "同順位の対抗要件（同時到達）を具備した競合譲受人が存在する場合、債務者Zはいずれの譲受人に対しても弁済を拒むことができる（最高裁1989年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q31_c4",
+                  "groupId": "gyosei_R7_Q31",
+                  "statement": "本件債権譲渡通知がZに到達する前に、ZがすでにAに対して貸金債権を有して いる場合、当該通知の到達後に、Aに対して本件債権と当該貸金債権を相殺する旨 の意思表示を行ったとしても、Zは、この相殺による本件債権の消滅をBに対して 主張することができる。",
+                  "answer": false,
+                  "explanation": "同順位の対抗要件（同時到達）を具備した競合譲受人が存在する場合、債務者Zはいずれの譲受人に対しても弁済を拒むことができる（最高裁1989年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q31_c5",
+                  "groupId": "gyosei_R7_Q31",
+                  "statement": "本件債権譲渡通知がZに到達した後になって、AZ間の売買契約の履行としてA から引き渡された目的物の品質が契約に適合しておらず、ZのAに対する損害賠償 請求権が発生したため、Zは、Aに対して本件債権と当該損害賠償請求権を相殺す る旨の意思表示を行った。Zは、この相殺による本件債権の消滅をBに対して主張 することができる。",
+                  "answer": false,
+                  "explanation": "同順位の対抗要件（同時到達）を具備した競合譲受人が存在する場合、債務者Zはいずれの譲受人に対しても弁済を拒むことができる（最高裁1989年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q32_c1",
+                  "groupId": "gyosei_R7_Q32",
+                  "statement": "Aが、Cに400万円を弁済するのに先立ち、Bに事前の通知をすることを怠った 場合において、すでに弁済により共同の免責を得ていたBがAに事後の通知をして いなかったときは、Aは、Bに対して自己の免責行為を有効であるとみなすことが できる。",
+                  "answer": false,
+                  "explanation": "連帯債務者Aが事前通知を怠って弁済した場合、他の連帯債務者Bは自己が持つ反対債権による相殺をもってAの求償に対抗できる（民法443条2項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q32_c2",
+                  "groupId": "gyosei_R7_Q32",
+                  "statement": "Aが、Cに400万円を弁済するのに先立ち、Bに事前の通知をしないで弁済を し、共同の免責を得た場合において、Bは、Cに対して200万円の反対債権を有し ていたときは、自己の負担部分の200万円について、Aの求償に対して相殺をもっ て対抗できる。",
+                  "answer": true,
+                  "explanation": "連帯債務者Aが事前通知を怠って弁済した場合、他の連帯債務者Bは自己が持つ反対債権による相殺をもってAの求償に対抗できる（民法443条2項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q32_c3",
+                  "groupId": "gyosei_R7_Q32",
+                  "statement": "Aが、Cに対して400万円の反対債権を有する場合において、Aが相殺を援用し たときは、Aの負担部分の200万円についてのみ、Bの利益のためにも、その効力 を生ずる。",
+                  "answer": false,
+                  "explanation": "連帯債務者Aが事前通知を怠って弁済した場合、他の連帯債務者Bは自己が持つ反対債権による相殺をもってAの求償に対抗できる（民法443条2項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q32_c4",
+                  "groupId": "gyosei_R7_Q32",
+                  "statement": "Cが、Aに対して債務を免除した場合において、Aの負担部分の200万円の限度 で、Bは、Cに対して債務の履行を拒むことができる。",
+                  "answer": false,
+                  "explanation": "連帯債務者Aが事前通知を怠って弁済した場合、他の連帯債務者Bは自己が持つ反対債権による相殺をもってAの求償に対抗できる（民法443条2項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q32_c5",
+                  "groupId": "gyosei_R7_Q32",
+                  "statement": "AのためにCの貸金債権の消滅時効が完成した場合において、BがCに400万円 を弁済したときは、Bは、Aに求償権を行使することができない。",
+                  "answer": false,
+                  "explanation": "連帯債務者Aが事前通知を怠って弁済した場合、他の連帯債務者Bは自己が持つ反対債権による相殺をもってAの求償に対抗できる（民法443条2項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q33_c1",
+                  "groupId": "gyosei_R7_Q33",
+                  "statement": "ア・ウ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。賃貸借・使用貸借・消費貸借等の契約に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q33_c2",
+                  "groupId": "gyosei_R7_Q33",
+                  "statement": "ア・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。賃貸借・使用貸借・消費貸借等の契約に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q33_c3",
+                  "groupId": "gyosei_R7_Q33",
+                  "statement": "イ・エ",
+                  "answer": true,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。賃貸借・使用貸借・消費貸借等の契約に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q33_c4",
+                  "groupId": "gyosei_R7_Q33",
+                  "statement": "イ・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。賃貸借・使用貸借・消費貸借等の契約に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q33_c5",
+                  "groupId": "gyosei_R7_Q33",
+                  "statement": "ウ・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・エが正しい記述。賃貸借・使用貸借・消費貸借等の契約に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q34_c1",
+                  "groupId": "gyosei_R7_Q34",
+                  "statement": "盗品である動産甲を、盗品とは知らずに、甲と同種の物の販売業者から購入して 引渡しを受けた買主が、所有者に甲を返還すべき場合、その買主は、所有者に対し て、返還するまでの間における甲の使用利益相当額を支払わなければならない。",
+                  "answer": false,
+                  "explanation": "不法原因給付（民法708条）において、不倫目的の贈与は不法原因給付だが、登記未了の場合は所有権がまだ給付者に残るため返還請求が認められる（最高裁1966年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q34_c2",
+                  "groupId": "gyosei_R7_Q34",
+                  "statement": "他人物である動産乙の売買契約に基づいてその引渡しを受けた買主が、その後乙 を所有者に返還して売買契約を解除した場合、その買主は売主に対して、返還する までの間における乙の使用利益相当額を支払う義務を負わない。",
+                  "answer": false,
+                  "explanation": "不法原因給付（民法708条）において、不倫目的の贈与は不法原因給付だが、登記未了の場合は所有権がまだ給付者に残るため返還請求が認められる（最高裁1966年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q34_c3",
+                  "groupId": "gyosei_R7_Q34",
+                  "statement": "違法な賭博を目的とする契約に基づいて賭金を支払った者は、いつでも当該契約 が無効であることを理由として、相手方に対して賭金の返還を求めることができる。",
+                  "answer": false,
+                  "explanation": "不法原因給付（民法708条）において、不倫目的の贈与は不法原因給付だが、登記未了の場合は所有権がまだ給付者に残るため返還請求が認められる（最高裁1966年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q34_c4",
+                  "groupId": "gyosei_R7_Q34",
+                  "statement": "不倫関係の維持を目的として丙建物(既登記建物)の所有者Aが丙建物を受贈者 Bに贈与してこれを引き渡したが、所有権移転登記手続が未了であった場合、その 贈与者Aは当該契約が無効であることを理由として、Bに対して丙建物の返還を求 めることができる。",
+                  "answer": true,
+                  "explanation": "不法原因給付（民法708条）において、不倫目的の贈与は不法原因給付だが、登記未了の場合は所有権がまだ給付者に残るため返還請求が認められる（最高裁1966年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q34_c5",
+                  "groupId": "gyosei_R7_Q34",
+                  "statement": "Aを貸主、Bを借主とする金銭消費貸借契約において、AがBに対して有する貸 金債権につき、BがCから騙取した金銭をもって弁済を行った場合、Cは、弁済と して受領した金銭が騙取金である旨をAが知っていたか否かを問わず、Aに対して その返還を求めることができる。",
+                  "answer": false,
+                  "explanation": "不法原因給付（民法708条）において、不倫目的の贈与は不法原因給付だが、登記未了の場合は所有権がまだ給付者に残るため返還請求が認められる（最高裁1966年判決）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q35_c1",
+                  "groupId": "gyosei_R7_Q35",
+                  "statement": "嫡出でない成年の子を、その父又は母が認知する場合には、子の承諾を得なけれ ばならない。",
+                  "answer": false,
+                  "explanation": "認知の効力は出生時に遡及するのが原則（民法784条本文）。「認知の時から効力を生ずる」とする記述は誤り。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q35_c2",
+                  "groupId": "gyosei_R7_Q35",
+                  "statement": "父が胎内にある子を認知する場合には、母の承諾を得なければならない。",
+                  "answer": false,
+                  "explanation": "認知の効力は出生時に遡及するのが原則（民法784条本文）。「認知の時から効力を生ずる」とする記述は誤り。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q35_c3",
+                  "groupId": "gyosei_R7_Q35",
+                  "statement": "認知は、認知の時からその効力を生ずる。",
+                  "answer": true,
+                  "explanation": "認知の効力は出生時に遡及するのが原則（民法784条本文）。「認知の時から効力を生ずる」とする記述は誤り。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q35_c4",
+                  "groupId": "gyosei_R7_Q35",
+                  "statement": "認知をした父又は母は、その認知を取り消すことができない。",
+                  "answer": false,
+                  "explanation": "認知の効力は出生時に遡及するのが原則（民法784条本文）。「認知の時から効力を生ずる」とする記述は誤り。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q35_c5",
+                  "groupId": "gyosei_R7_Q35",
+                  "statement": "子、その直系卑属又はこれらの者の法定代理人は、認知の訴えを提起することが できるが、父又は母の死亡の日から3年を経過したときは、その訴えを提起するこ とはできない。",
+                  "answer": false,
+                  "explanation": "認知の効力は出生時に遡及するのが原則（民法784条本文）。「認知の時から効力を生ずる」とする記述は誤り。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q36_c1",
+                  "groupId": "gyosei_R7_Q36",
+                  "statement": "交互計算とは、商人間での平常取引において、一定の期間内の取引から生じる債 権および債務の総額について相殺をし、それによって生じた残額の支払いを約する ことをいい、商人と商人でない者との間での平常取引では、交互計算を約すること はできない。",
+                  "answer": true,
+                  "explanation": "交互計算は「商人間」の平常取引に限定されており（商法529条）、商人と非商人の間では締結できない。これが正しい記述（正解肢）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q36_c2",
+                  "groupId": "gyosei_R7_Q36",
+                  "statement": "交互計算の当事者が相殺をすべき期間を定めなかったときは、その期間は、6か 月とする。",
+                  "answer": false,
+                  "explanation": "交互計算は「商人間」の平常取引に限定されており（商法529条）、商人と非商人の間では締結できない。これが正しい記述（正解肢）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q36_c3",
+                  "groupId": "gyosei_R7_Q36",
+                  "statement": "交互計算の当事者は、債権および債務の各項目を記載した計算書の承認をしたと きは、当該計算書の記載の錯誤または脱漏の場合を除き、当該各項目について異議 を述べることができない。",
+                  "answer": false,
+                  "explanation": "交互計算は「商人間」の平常取引に限定されており（商法529条）、商人と非商人の間では締結できない。これが正しい記述（正解肢）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q36_c4",
+                  "groupId": "gyosei_R7_Q36",
+                  "statement": "交互計算に基づく相殺によって生じた残額については、債権者は、計算の閉鎖の 日以後の法定利息を請求することができる。",
+                  "answer": false,
+                  "explanation": "交互計算は「商人間」の平常取引に限定されており（商法529条）、商人と非商人の間では締結できない。これが正しい記述（正解肢）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q36_c5",
+                  "groupId": "gyosei_R7_Q36",
+                  "statement": "交互計算の各当事者は、いつでも交互計算の解除をすることができる。",
+                  "answer": false,
+                  "explanation": "交互計算は「商人間」の平常取引に限定されており（商法529条）、商人と非商人の間では締結できない。これが正しい記述（正解肢）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q37_c1",
+                  "groupId": "gyosei_R7_Q37",
+                  "statement": "発起人とは、定款に署名、記名押印または電子署名をした者をいうが、定款に署 名、記名押印または電子署名をしていないものの、実質的に設立を企画し尽力した 者であれば、会社の設立事務を行う義務と権限を有する発起人とみなされる。",
+                  "answer": false,
+                  "explanation": "発起人は払込期日等の最遅日以後、遅滞なく創立総会を招集しなければならない（会社法65条1項）。設立時募集株式発行における手続の正確な理解が必要。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q37_c2",
+                  "groupId": "gyosei_R7_Q37",
+                  "statement": "発起人は、設立時発行株式と引換えにする金銭の払込みまたは財産の給付につい てあらかじめ定めた期日またはその期間内に出資の履行をしないときは、直ちに当 該出資の履行により設立時発行株式の株主となる権利を失う。",
+                  "answer": false,
+                  "explanation": "発起人は払込期日等の最遅日以後、遅滞なく創立総会を招集しなければならない（会社法65条1項）。設立時募集株式発行における手続の正確な理解が必要。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q37_c3",
+                  "groupId": "gyosei_R7_Q37",
+                  "statement": "設立時募集株式と引換えに給付した現物出資財産の価額が当該現物出資財産につ いて定款に記載され、または記録された価額に著しく不足するときは、当該現物出 資財産を給付した引受人は、発起人および設立時取締役と連帯して、株式会社に対 し当該不足額を支払う義務を負う。",
+                  "answer": false,
+                  "explanation": "発起人は払込期日等の最遅日以後、遅滞なく創立総会を招集しなければならない（会社法65条1項）。設立時募集株式発行における手続の正確な理解が必要。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q37_c4",
+                  "groupId": "gyosei_R7_Q37",
+                  "statement": "株式会社の成立により発起人が受ける報酬その他の特別の利益について定款の定 めがない場合には、株式会社の成立の時までに、発起人の全員の同意または創立総 会の決議によって当該事項を決定することができる。",
+                  "answer": false,
+                  "explanation": "発起人は払込期日等の最遅日以後、遅滞なく創立総会を招集しなければならない（会社法65条1項）。設立時募集株式発行における手続の正確な理解が必要。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q37_c5",
+                  "groupId": "gyosei_R7_Q37",
+                  "statement": "設立時発行株式を引き受ける者の募集をする場合には、発起人は、設立時募集株 式と引換えにする金銭の払込みの期日または期間の末日のうち最も遅い日以後、遅 滞なく、創立総会を招集しなければならない。",
+                  "answer": true,
+                  "explanation": "発起人は払込期日等の最遅日以後、遅滞なく創立総会を招集しなければならない（会社法65条1項）。設立時募集株式発行における手続の正確な理解が必要。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q38_c1",
+                  "groupId": "gyosei_R7_Q38",
+                  "statement": "取締役会は、募集社債の総額その他の社債を引き受ける者の募集に関する重要な 事項として法務省令で定める事項の決定を取締役に委任することができない。",
+                  "answer": false,
+                  "explanation": "取締役会議事録に異議を留めずに署名・記名押印した取締役は、その決議に賛成したものとみなされる（会社法369条5項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q38_c2",
+                  "groupId": "gyosei_R7_Q38",
+                  "statement": "株式会社の取締役は、自己のために当該株式会社の事業の部類に属する取引をし た場合には、当該取引後、遅滞なく、当該取引についての重要な事実を取締役会に 報告しなければならない。",
+                  "answer": false,
+                  "explanation": "取締役会議事録に異議を留めずに署名・記名押印した取締役は、その決議に賛成したものとみなされる（会社法369条5項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q38_c3",
+                  "groupId": "gyosei_R7_Q38",
+                  "statement": "取締役会を招集する取締役については、定款または取締役会で定めることもでき る。",
+                  "answer": false,
+                  "explanation": "取締役会議事録に異議を留めずに署名・記名押印した取締役は、その決議に賛成したものとみなされる（会社法369条5項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q38_c4",
+                  "groupId": "gyosei_R7_Q38",
+                  "statement": "取締役会の決議について特別の利害関係を有する取締役は、議決に加わることが できない。",
+                  "answer": false,
+                  "explanation": "取締役会議事録に異議を留めずに署名・記名押印した取締役は、その決議に賛成したものとみなされる（会社法369条5項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q38_c5",
+                  "groupId": "gyosei_R7_Q38",
+                  "statement": "取締役会の決議に参加した取締役が、当該取締役会の議事録に異議をとどめない で署名または記名押印した場合には、当該決議に賛成したものとみなされる。",
+                  "answer": true,
+                  "explanation": "取締役会議事録に異議を留めずに署名・記名押印した取締役は、その決議に賛成したものとみなされる（会社法369条5項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q39_c1",
+                  "groupId": "gyosei_R7_Q39",
+                  "statement": "会計監査人設置会社(監査等委員会設置会社および指名委員会等設置会社を除 く。)は、監査役を置かなければならない。",
+                  "answer": false,
+                  "explanation": "監査役会設置会社において常勤監査役を選定するのは「監査役会」であり、株主総会でも取締役会でもない（会社法390条2項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q39_c2",
+                  "groupId": "gyosei_R7_Q39",
+                  "statement": "監査役は、特別取締役による議決の定めがあるときを除き、取締役会に出席し、 必要があると認めるときは、意見を述べなければならない。",
+                  "answer": false,
+                  "explanation": "監査役会設置会社において常勤監査役を選定するのは「監査役会」であり、株主総会でも取締役会でもない（会社法390条2項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q39_c3",
+                  "groupId": "gyosei_R7_Q39",
+                  "statement": "公開会社でない株式会社(監査役会設置会社および会計監査人設置会社を除 く。)は、その監査役の監査の範囲を会計に関するものに限定する旨を定款で定め ることができる。",
+                  "answer": false,
+                  "explanation": "監査役会設置会社において常勤監査役を選定するのは「監査役会」であり、株主総会でも取締役会でもない（会社法390条2項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q39_c4",
+                  "groupId": "gyosei_R7_Q39",
+                  "statement": "監査役会設置会社においては、常勤の監査役は、監査役の中から株主総会の決議 によって選任しなければならない。",
+                  "answer": true,
+                  "explanation": "監査役会設置会社において常勤監査役を選定するのは「監査役会」であり、株主総会でも取締役会でもない（会社法390条2項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q39_c5",
+                  "groupId": "gyosei_R7_Q39",
+                  "statement": "取締役、会計参与、監査役または会計監査人が監査役の全員に対して監査役会に 報告すべき事項を通知したときは、当該事項を監査役会へ報告することを要しな い。",
+                  "answer": false,
+                  "explanation": "監査役会設置会社において常勤監査役を選定するのは「監査役会」であり、株主総会でも取締役会でもない（会社法390条2項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q40_c1",
+                  "groupId": "gyosei_R7_Q40",
+                  "statement": "ア・イ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。株主総会の決議要件・招集手続・議決権行使等に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q40_c2",
+                  "groupId": "gyosei_R7_Q40",
+                  "statement": "ア・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。株主総会の決議要件・招集手続・議決権行使等に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q40_c3",
+                  "groupId": "gyosei_R7_Q40",
+                  "statement": "イ・ウ",
+                  "answer": true,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。株主総会の決議要件・招集手続・議決権行使等に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q40_c4",
+                  "groupId": "gyosei_R7_Q40",
+                  "statement": "ウ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。株主総会の決議要件・招集手続・議決権行使等に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q40_c5",
+                  "groupId": "gyosei_R7_Q40",
+                  "statement": "エ・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。イ・ウが正しい記述。株主総会の決議要件・招集手続・議決権行使等に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q47_c1",
+                  "groupId": "gyosei_R7_Q47",
+                  "statement": "市町村合併の当否をめぐり住民投票が行われた事例はない。",
+                  "answer": false,
+                  "explanation": "住民投票条例には、特定課題について都度制定する「個別型」と、手続を事前に定める「常設型」の2種類があり、合併・施設建設・原発等で実施例がある。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q47_c2",
+                  "groupId": "gyosei_R7_Q47",
+                  "statement": "住民投票を実施するために制定される住民投票条例には、投票すべき課題に関し てその都度制定される個別型と、将来に備えてあらかじめ住民投票の手続等を定め ておく常設型がある。",
+                  "answer": true,
+                  "explanation": "住民投票条例には、特定課題について都度制定する「個別型」と、手続を事前に定める「常設型」の2種類があり、合併・施設建設・原発等で実施例がある。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q47_c3",
+                  "groupId": "gyosei_R7_Q47",
+                  "statement": "地方公共団体が整備する公共施設の建設の当否について住民投票が行われた事例 はない。",
+                  "answer": false,
+                  "explanation": "住民投票条例には、特定課題について都度制定する「個別型」と、手続を事前に定める「常設型」の2種類があり、合併・施設建設・原発等で実施例がある。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q47_c4",
+                  "groupId": "gyosei_R7_Q47",
+                  "statement": "原子力発電所の設置に関して住民投票が行われた事例はない。",
+                  "answer": false,
+                  "explanation": "住民投票条例には、特定課題について都度制定する「個別型」と、手続を事前に定める「常設型」の2種類があり、合併・施設建設・原発等で実施例がある。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q47_c5",
+                  "groupId": "gyosei_R7_Q47",
+                  "statement": "いわゆる大阪都構想(大阪市を廃止して特別区を設置する構想)をめぐる住民投 票は、国会決議に基づいて実施された。",
+                  "answer": false,
+                  "explanation": "住民投票条例には、特定課題について都度制定する「個別型」と、手続を事前に定める「常設型」の2種類があり、合併・施設建設・原発等で実施例がある。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q48_c1",
+                  "groupId": "gyosei_R7_Q48",
+                  "statement": "ア・イ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・ウが正しい記述。政党助成金・政治資金・連立政権の歴史に関する正誤を問う。田中角栄内閣は自民党単独政権。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q48_c2",
+                  "groupId": "gyosei_R7_Q48",
+                  "statement": "ア・ウ",
+                  "answer": true,
+                  "explanation": "組み合わせ問題。ア・ウが正しい記述。政党助成金・政治資金・連立政権の歴史に関する正誤を問う。田中角栄内閣は自民党単独政権。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q48_c3",
+                  "groupId": "gyosei_R7_Q48",
+                  "statement": "イ・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・ウが正しい記述。政党助成金・政治資金・連立政権の歴史に関する正誤を問う。田中角栄内閣は自民党単独政権。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q48_c4",
+                  "groupId": "gyosei_R7_Q48",
+                  "statement": "ウ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・ウが正しい記述。政党助成金・政治資金・連立政権の歴史に関する正誤を問う。田中角栄内閣は自民党単独政権。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q48_c5",
+                  "groupId": "gyosei_R7_Q48",
+                  "statement": "エ・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・ウが正しい記述。政党助成金・政治資金・連立政権の歴史に関する正誤を問う。田中角栄内閣は自民党単独政権。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q49_c1",
+                  "groupId": "gyosei_R7_Q49",
+                  "statement": "「米公方」と呼ばれた江戸幕府将軍・徳川綱吉は、米価を安定させて、犬などの 生類の保護をしようとして、大阪の堂島米市場を公認するなどした。",
+                  "answer": false,
+                  "explanation": "1970年代の食糧管理制度では米価規制と並行して減反政策（生産調整）が実施された。新食糧法（1995年）施行後は市場原理が導入され公定価格制は廃止された。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q49_c2",
+                  "groupId": "gyosei_R7_Q49",
+                  "statement": "大正期に米価が急落すると、全国各地で米商人などによる政府機関へのテロ・襲 撃が起きて大騒擾となり、「米騒動」と呼ばれた。",
+                  "answer": false,
+                  "explanation": "1970年代の食糧管理制度では米価規制と並行して減反政策（生産調整）が実施された。新食糧法（1995年）施行後は市場原理が導入され公定価格制は廃止された。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q49_c3",
+                  "groupId": "gyosei_R7_Q49",
+                  "statement": "1970年代の日本の食糧管理制度では、政府は、米などの価格を規制する一方、 米の過剰生産を抑えるために減反(生産調整)を行った。",
+                  "answer": true,
+                  "explanation": "1970年代の食糧管理制度では米価規制と並行して減反政策（生産調整）が実施された。新食糧法（1995年）施行後は市場原理が導入され公定価格制は廃止された。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q49_c4",
+                  "groupId": "gyosei_R7_Q49",
+                  "statement": "1995年のいわゆる新食糧法*の施行によって、米価に関しては原則的に公定価格 (生産者米価と消費者米価)によることとされた。",
+                  "answer": false,
+                  "explanation": "1970年代の食糧管理制度では米価規制と並行して減反政策（生産調整）が実施された。新食糧法（1995年）施行後は市場原理が導入され公定価格制は廃止された。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q49_c5",
+                  "groupId": "gyosei_R7_Q49",
+                  "statement": "米価の急騰を受けて、2025 年から、米国政府国際開発庁(USAID;U. S. Agency for International Development)は、対日支援として備蓄米の放出を開始 した。 (注) * 主要食糧の需給及び価格の安定に関する法律",
+                  "answer": false,
+                  "explanation": "1970年代の食糧管理制度では米価規制と並行して減反政策（生産調整）が実施された。新食糧法（1995年）施行後は市場原理が導入され公定価格制は廃止された。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q50_c1",
+                  "groupId": "gyosei_R7_Q50",
+                  "statement": "第二次世界大戦後に「関税及び貿易に関する一般協定」(GATT)が締結され、 現在では世界貿易機関(WTO)が設立されている。",
+                  "answer": false,
+                  "explanation": "TPPは米国離脱後、残る11か国でCPTPP（環太平洋パートナーシップに関する包括的及び先進的な協定）として発効。APECとは別の枠組みである。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q50_c2",
+                  "groupId": "gyosei_R7_Q50",
+                  "statement": "環太平洋経済連携協定(TPP)は、日本が離脱した後、新たにアジア太平洋経 済協力(APEC)として締結された。",
+                  "answer": true,
+                  "explanation": "TPPは米国離脱後、残る11か国でCPTPP（環太平洋パートナーシップに関する包括的及び先進的な協定）として発効。APECとは別の枠組みである。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q50_c3",
+                  "groupId": "gyosei_R7_Q50",
+                  "statement": "輸入の急増によって国内産業に重大な損害を与える、あるいは与える恐れがある 場合に、輸入数量制限や関税引き上げ等を行うことを、セーフガードと呼ぶ。",
+                  "answer": false,
+                  "explanation": "TPPは米国離脱後、残る11か国でCPTPP（環太平洋パートナーシップに関する包括的及び先進的な協定）として発効。APECとは別の枠組みである。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q50_c4",
+                  "groupId": "gyosei_R7_Q50",
+                  "statement": "関税以外の手段で行われる、自由貿易を妨げる障害を総称して非関税障壁と呼 ぶ。",
+                  "answer": false,
+                  "explanation": "TPPは米国離脱後、残る11か国でCPTPP（環太平洋パートナーシップに関する包括的及び先進的な協定）として発効。APECとは別の枠組みである。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q50_c5",
+                  "groupId": "gyosei_R7_Q50",
+                  "statement": "国内産業保護のために、相殺関税やアンチダンピング関税が用いられることもあ る。",
+                  "answer": false,
+                  "explanation": "TPPは米国離脱後、残る11か国でCPTPP（環太平洋パートナーシップに関する包括的及び先進的な協定）として発効。APECとは別の枠組みである。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q51_c1",
+                  "groupId": "gyosei_R7_Q51",
+                  "statement": "需要曲線とは、ある財について、ある消費者が一定期間に消費したい量を、その 財の価格の関数として描いた曲線を意味する。",
+                  "answer": false,
+                  "explanation": "機会費用とは、ある選択をするために放棄した他の選択肢の価値のこと。取引相手の探索コスト等は「取引費用（transaction cost）」である。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q51_c2",
+                  "groupId": "gyosei_R7_Q51",
+                  "statement": "需要の価格弾力性とは、ある財の価格が1%上昇した際の、需要の減少率を意味 する。",
+                  "answer": false,
+                  "explanation": "機会費用とは、ある選択をするために放棄した他の選択肢の価値のこと。取引相手の探索コスト等は「取引費用（transaction cost）」である。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q51_c3",
+                  "groupId": "gyosei_R7_Q51",
+                  "statement": "機会費用とは、ある財の取引機会を利用するために必要な、取引相手の探索や条 件の交渉などにかかる費用を意味する。",
+                  "answer": true,
+                  "explanation": "機会費用とは、ある選択をするために放棄した他の選択肢の価値のこと。取引相手の探索コスト等は「取引費用（transaction cost）」である。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q51_c4",
+                  "groupId": "gyosei_R7_Q51",
+                  "statement": "完全競争とは、多数の生産者と多数の消費者が市場に参加しており、その結果と して、個別の経済主体の行動が価格に与える影響が無視できるほど小さい状態を意 味する。",
+                  "answer": false,
+                  "explanation": "機会費用とは、ある選択をするために放棄した他の選択肢の価値のこと。取引相手の探索コスト等は「取引費用（transaction cost）」である。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q51_c5",
+                  "groupId": "gyosei_R7_Q51",
+                  "statement": "市場の失敗とは、ある財の市場において外部性が発生するなどの理由により、市 場が効率性の達成に失敗する状態を意味する。",
+                  "answer": false,
+                  "explanation": "機会費用とは、ある選択をするために放棄した他の選択肢の価値のこと。取引相手の探索コスト等は「取引費用（transaction cost）」である。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q52_c1",
+                  "groupId": "gyosei_R7_Q52",
+                  "statement": "英国では、19世紀末から20世紀初頭にかけて、参政権を求めて女性たちが抗議 活動を行い、厳しい取締りを受けた。",
+                  "answer": false,
+                  "explanation": "男女雇用機会均等法は、妊娠・出産・産前産後休業取得等を理由とする解雇を明示的に禁止している（均等法9条3項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q52_c2",
+                  "groupId": "gyosei_R7_Q52",
+                  "statement": "米国では、1969年に、同性愛者らが集まるとされる特定のバーへの取締りを機 に、同性愛者らによる抗議運動が起きた。",
+                  "answer": false,
+                  "explanation": "男女雇用機会均等法は、妊娠・出産・産前産後休業取得等を理由とする解雇を明示的に禁止している（均等法9条3項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q52_c3",
+                  "groupId": "gyosei_R7_Q52",
+                  "statement": "日本では、2019年に、性暴力に反対するフラワーデモが各地で行われ、多くの ひとたちが集まった。",
+                  "answer": false,
+                  "explanation": "男女雇用機会均等法は、妊娠・出産・産前産後休業取得等を理由とする解雇を明示的に禁止している（均等法9条3項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q52_c4",
+                  "groupId": "gyosei_R7_Q52",
+                  "statement": "国 連 の 女 性 差 別 撤 廃 委 員 会(CEDAW:Committee on the Elimination of Discrimination Against Women)は、日本政府に対して、女性が婚姻後も婚姻前 の姓を実質的に保持できるよう、法律を改正することを勧告した。",
+                  "answer": false,
+                  "explanation": "男女雇用機会均等法は、妊娠・出産・産前産後休業取得等を理由とする解雇を明示的に禁止している（均等法9条3項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q52_c5",
+                  "groupId": "gyosei_R7_Q52",
+                  "statement": "日本の男女雇用機会均等法*では、妊娠や出産を理由とする解雇は禁止されてい ない。 (注) * 雇用の分野における男女の均等な機会及び待遇の確保等に関する法律",
+                  "answer": true,
+                  "explanation": "男女雇用機会均等法は、妊娠・出産・産前産後休業取得等を理由とする解雇を明示的に禁止している（均等法9条3項）。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q53_c1",
+                  "groupId": "gyosei_R7_Q53",
+                  "statement": "ア・イ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ウ・エが正しい記述。日本の社会保障制度（年金・医療・介護等）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q53_c2",
+                  "groupId": "gyosei_R7_Q53",
+                  "statement": "ア・ウ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ウ・エが正しい記述。日本の社会保障制度（年金・医療・介護等）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q53_c3",
+                  "groupId": "gyosei_R7_Q53",
+                  "statement": "イ・ウ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ウ・エが正しい記述。日本の社会保障制度（年金・医療・介護等）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q53_c4",
+                  "groupId": "gyosei_R7_Q53",
+                  "statement": "イ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ウ・エが正しい記述。日本の社会保障制度（年金・医療・介護等）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q53_c5",
+                  "groupId": "gyosei_R7_Q53",
+                  "statement": "ウ・エ",
+                  "answer": true,
+                  "explanation": "組み合わせ問題。ウ・エが正しい記述。日本の社会保障制度（年金・医療・介護等）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q54_c1",
+                  "groupId": "gyosei_R7_Q54",
+                  "statement": "ア・イ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・ウが正しい記述。行政書士法上の懲戒処分権限（都道府県知事）および行政書士法人の解散処分権限（都道府県知事）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q54_c2",
+                  "groupId": "gyosei_R7_Q54",
+                  "statement": "ア・ウ",
+                  "answer": true,
+                  "explanation": "組み合わせ問題。ア・ウが正しい記述。行政書士法上の懲戒処分権限（都道府県知事）および行政書士法人の解散処分権限（都道府県知事）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q54_c3",
+                  "groupId": "gyosei_R7_Q54",
+                  "statement": "イ・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・ウが正しい記述。行政書士法上の懲戒処分権限（都道府県知事）および行政書士法人の解散処分権限（都道府県知事）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q54_c4",
+                  "groupId": "gyosei_R7_Q54",
+                  "statement": "ウ・エ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・ウが正しい記述。行政書士法上の懲戒処分権限（都道府県知事）および行政書士法人の解散処分権限（都道府県知事）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q54_c5",
+                  "groupId": "gyosei_R7_Q54",
+                  "statement": "エ・オ",
+                  "answer": false,
+                  "explanation": "組み合わせ問題。ア・ウが正しい記述。行政書士法上の懲戒処分権限（都道府県知事）および行政書士法人の解散処分権限（都道府県知事）に関する正誤を問う。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q55_c1",
+                  "groupId": "gyosei_R7_Q55",
+                  "statement": "ディープフェイクは、生成AI技術によって作成されることがある。",
+                  "answer": false,
+                  "explanation": "ディープフェイクとは、AIで人物の顔・声等を合成・改ざんした偽コンテンツであり、「個人の能力や嗜好を推測する技術」という定義は誤り。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q55_c2",
+                  "groupId": "gyosei_R7_Q55",
+                  "statement": "ディープフェイクは、著名人や公人以外の人にも被害を及ぼすことがある。",
+                  "answer": false,
+                  "explanation": "ディープフェイクとは、AIで人物の顔・声等を合成・改ざんした偽コンテンツであり、「個人の能力や嗜好を推測する技術」という定義は誤り。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q55_c3",
+                  "groupId": "gyosei_R7_Q55",
+                  "statement": "ディープフェイクは、個人の能力や嗜好をAIで推測するための技術である。",
+                  "answer": true,
+                  "explanation": "ディープフェイクとは、AIで人物の顔・声等を合成・改ざんした偽コンテンツであり、「個人の能力や嗜好を推測する技術」という定義は誤り。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q55_c4",
+                  "groupId": "gyosei_R7_Q55",
+                  "statement": "ディープフェイクは、詐欺などの犯罪行為に利用されることがある。",
+                  "answer": false,
+                  "explanation": "ディープフェイクとは、AIで人物の顔・声等を合成・改ざんした偽コンテンツであり、「個人の能力や嗜好を推測する技術」という定義は誤り。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q55_c5",
+                  "groupId": "gyosei_R7_Q55",
+                  "statement": "ディープフェイクは、写真や動画の他、音声データとしても作成される。",
+                  "answer": false,
+                  "explanation": "ディープフェイクとは、AIで人物の顔・声等を合成・改ざんした偽コンテンツであり、「個人の能力や嗜好を推測する技術」という定義は誤り。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q56_c1",
+                  "groupId": "gyosei_R7_Q56",
+                  "statement": "被害者はインターネットを頻繁に利用する若年層が多く、半数以上が30歳未満 である。",
+                  "answer": true,
+                  "explanation": "SNS型投資詐欺の被害者は若年層だけでなく幅広い年代に及ぶ。被害のきっかけはSNS・メッセージングサービスが多く、著名人なりすまし広告も手口の一つ。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q56_c2",
+                  "groupId": "gyosei_R7_Q56",
+                  "statement": "被害に遭うきっかけとしては、投資サイトよりも、メッセージングサービスや ソーシャルネットワークサービスが多くを占める。",
+                  "answer": false,
+                  "explanation": "SNS型投資詐欺の被害者は若年層だけでなく幅広い年代に及ぶ。被害のきっかけはSNS・メッセージングサービスが多く、著名人なりすまし広告も手口の一つ。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q56_c3",
+                  "groupId": "gyosei_R7_Q56",
+                  "statement": "被害を避けるには、著名人のなりすましによる広告での勧誘ではないかを判断す るために、本人の公式アカウントなどで情報を確認することが望ましい。",
+                  "answer": false,
+                  "explanation": "SNS型投資詐欺の被害者は若年層だけでなく幅広い年代に及ぶ。被害のきっかけはSNS・メッセージングサービスが多く、著名人なりすまし広告も手口の一つ。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q56_c4",
+                  "groupId": "gyosei_R7_Q56",
+                  "statement": "詐欺の手段として、存在しない架空の暗号資産への投資勧誘が行われることがあ る。",
+                  "answer": false,
+                  "explanation": "SNS型投資詐欺の被害者は若年層だけでなく幅広い年代に及ぶ。被害のきっかけはSNS・メッセージングサービスが多く、著名人なりすまし広告も手口の一つ。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q56_c5",
+                  "groupId": "gyosei_R7_Q56",
+                  "statement": "振込先として個人の口座が指定されたり、振込先の口座が頻繁に変わることがあ る。",
+                  "answer": false,
+                  "explanation": "SNS型投資詐欺の被害者は若年層だけでなく幅広い年代に及ぶ。被害のきっかけはSNS・メッセージングサービスが多く、著名人なりすまし広告も手口の一つ。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q57_c1",
+                  "groupId": "gyosei_R7_Q57",
+                  "statement": "個人情報保護法*では、民間事業者への罰則として、年間の売上高に応じた額を 上限とした罰金が定められている。",
+                  "answer": false,
+                  "explanation": "個人情報保護委員会は個人情報取扱事業者等に対して立入検査を行う権限を有する（個人情報保護法143条）。売上高連動罰金や制定時からの課徴金規定は存在しない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q57_c2",
+                  "groupId": "gyosei_R7_Q57",
+                  "statement": "個人情報保護法には、刑事罰としての罰金以外に、制定時以来、課徴金が定めら れている。",
+                  "answer": false,
+                  "explanation": "個人情報保護委員会は個人情報取扱事業者等に対して立入検査を行う権限を有する（個人情報保護法143条）。売上高連動罰金や制定時からの課徴金規定は存在しない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q57_c3",
+                  "groupId": "gyosei_R7_Q57",
+                  "statement": "個人情報保護委員会は、いわゆるマイナンバーカード(個人番号カード)の交付 事務を行っている。",
+                  "answer": false,
+                  "explanation": "個人情報保護委員会は個人情報取扱事業者等に対して立入検査を行う権限を有する（個人情報保護法143条）。売上高連動罰金や制定時からの課徴金規定は存在しない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q57_c4",
+                  "groupId": "gyosei_R7_Q57",
+                  "statement": "個人情報保護委員会は、個人情報保護法の定める行政機関等に対しては監視を行 わない。",
+                  "answer": false,
+                  "explanation": "個人情報保護委員会は個人情報取扱事業者等に対して立入検査を行う権限を有する（個人情報保護法143条）。売上高連動罰金や制定時からの課徴金規定は存在しない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "gyosei_R7_Q57_c5",
+                  "groupId": "gyosei_R7_Q57",
+                  "statement": "個人情報保護委員会は、個人情報保護法の定める個人情報取扱事業者等に対して 立入検査を行うことができる。 (注) * 個人情報の保護に関する法律",
+                  "answer": true,
+                  "explanation": "個人情報保護委員会は個人情報取扱事業者等に対して立入検査を行う権限を有する（個人情報保護法143条）。売上高連動罰金や制定時からの課徴金規定は存在しない。",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            }
+          ]
         }
       ]
     }
