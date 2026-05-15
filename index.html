@@ -138,7 +138,8 @@
     .search-input {
       -webkit-appearance: none; appearance: none;
       box-sizing: border-box;
-      flex: 1; min-width: 0; height: 72px;
+      flex: 1 1 auto; min-width: 0;
+      height: 72px; min-height: 72px;
       border: 1px solid var(--line); border-radius: 16px;
       background: #fff; padding: 0 20px; font-size: 17px;
       box-shadow: 0 12px 28px rgba(15,23,42,0.07); outline: none;
@@ -155,8 +156,10 @@
     }
 
     .primary-button {
+      box-sizing: border-box;
       display: inline-flex; align-items: center; justify-content: center;
-      height: 72px; border: none; border-radius: 16px;
+      flex: 0 0 auto;
+      height: 72px; min-height: 72px; border: none; border-radius: 16px;
       background: var(--blue); color: #fff; padding: 0 28px;
       font-size: 15px; font-weight: 900; cursor: pointer;
       box-shadow: 0 14px 28px rgba(37,99,235,0.28);
