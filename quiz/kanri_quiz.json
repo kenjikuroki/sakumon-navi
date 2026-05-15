@@ -1507,6 +1507,701 @@
               ]
             }
           ]
+        },
+        {
+          "examYear": "令和4年度",
+          "sourceType": "official_exam",
+          "categories": [
+            {
+              "categoryName": "管理業務主任者",
+              "questions": [
+                {
+                  "id": "kanri_r4_Q45_c2",
+                  "groupId": "kanri_r4_Q45",
+                  "statement": "宅地建物取引業者は,契約の解除に関する定めがあるときは,その内容を37条書面 に記載しなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q50_c4",
+                  "groupId": "kanri_r4_Q50",
+                  "statement": "事務所 30 6",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q37_c1",
+                  "groupId": "kanri_r4_Q37",
+                  "statement": "ア ウ イ エ オ",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q19_c1",
+                  "groupId": "kanri_r4_Q19",
+                  "statement": "中性化深さは経過年数（t）に比例するので,鉄筋に到達するまで約25年かかる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q16_c4",
+                  "groupId": "kanri_r4_Q16",
+                  "statement": "器具備品 3,500,000 普通預金 3,500,000 修繕費 450,000 未払金 450,000",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q12_c1",
+                  "groupId": "kanri_r4_Q12",
+                  "statement": "監事は,いつでも,理事及び管理組合の職員に対して業務の報告を求め,又は業務 及び財産の状況の調査をすることができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q25_c4",
+                  "groupId": "kanri_r4_Q25",
+                  "statement": "長期修繕計画は,計画的に見直す必要があり,また,その際には,併せて,修繕積 立金の額も見直す必要がある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q21_c4",
+                  "groupId": "kanri_r4_Q21",
+                  "statement": "鉄(cid:7690)については,ディスクグラインダーを用いて除去した後に,水洗いした。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q17_c3",
+                  "groupId": "kanri_r4_Q17",
+                  "statement": "「主要構造部」とは,壁,柱,床,はり,屋根又は階段をいい,建築物の構造上重 要でない部分を除く。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q08_c4",
+                  "groupId": "kanri_r4_Q08",
+                  "statement": "報告連絡業務には,立会結果等の報告,事故等発生時の連絡が含まれる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q06_c3",
+                  "groupId": "kanri_r4_Q06",
+                  "statement": "マンション管理業者は,管理組合の要求に基づいて,自己の名をもって総会議事録 を作成し,組合員等に交付する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q43_c4",
+                  "groupId": "kanri_r4_Q43",
+                  "statement": "建替えが行われたマンションの件数は,令和3年4月1日時点の累計で,100件未 満である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q02_c2",
+                  "groupId": "kanri_r4_Q02",
+                  "statement": "時効の利益は,時効完成後には放棄することができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q19_c4",
+                  "groupId": "kanri_r4_Q19",
+                  "statement": "中性化深さは経過年数の立方根（3 t ）に比例するので,鉄筋に到達するまで約175 年かかる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q43_c2",
+                  "groupId": "kanri_r4_Q43",
+                  "statement": "分譲マンションストック総数は,昭和43年以降増加傾向であったが,令和元年を ピークに減少に転じている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q17_c4",
+                  "groupId": "kanri_r4_Q17",
+                  "statement": "「大規模の修繕」とは,建築物の主要構造部の一種以上について行う過半の修繕を いう。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q35_c3",
+                  "groupId": "kanri_r4_Q35",
+                  "statement": "区分所有者の一人が借地契約を解除された場合には,当該区分所有者は,敷地利用 権を有しない区分所有者となる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q28_c2",
+                  "groupId": "kanri_r4_Q28",
+                  "statement": "ｇ=（ａ+ｂ）'ｅ'ｆ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q21_c2",
+                  "groupId": "kanri_r4_Q21",
+                  "statement": "カビについては,ワイヤブラシでかき落とした後に,水洗いした。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q24_c4",
+                  "groupId": "kanri_r4_Q24",
+                  "statement": "非常用エレベーターの乗降ロビーの床面積は,非常用エレベーター1基について 10m2以上としなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q16_c2",
+                  "groupId": "kanri_r4_Q16",
+                  "statement": "（借 方） （貸 方） 修繕費 3,950,000 普通預金 3,950,000",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q21_c1",
+                  "groupId": "kanri_r4_Q21",
+                  "statement": "塵埃については,ブラシを用いて水洗いした。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q37_c4",
+                  "groupId": "kanri_r4_Q37",
+                  "statement": "オ ウ ア イ エ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q20_c4",
+                  "groupId": "kanri_r4_Q20",
+                  "statement": "外気温の変動による挙動が大きいひび割れ幅1．0mmの補修に,可撓性エポキシ樹  脂による充填工法を適用した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q20_c1",
+                  "groupId": "kanri_r4_Q20",
+                  "statement": "外気温の変動による挙動が小さいひび割れ幅0．1mmの補修に,ポリマーセメント ペーストによるひび割れ被覆工法を適用した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q30_c3",
+                  "groupId": "kanri_r4_Q30",
+                  "statement": "共用部分に係る火災保険料に充当する場合",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q30_c2",
+                  "groupId": "kanri_r4_Q30",
+                  "statement": "共用部分の階段のすべり止めに数箇所の剥離が生じたため,その補修費に充当する 場合",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q18_c1",
+                  "groupId": "kanri_r4_Q18",
+                  "statement": "住宅用防災警報器とは,住宅における火災の発生を未然に又は早期に感知して報知 する警報器をいう。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q04_c4",
+                  "groupId": "kanri_r4_Q04",
+                  "statement": "Ｂの抵当権は,Ａに対しては,被担保債権が存在していても,時効によって消滅す る。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q08_c2",
+                  "groupId": "kanri_r4_Q08",
+                  "statement": "点検業務には,建物の外観目視点検,無断駐車等の確認が含まれる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q34_c4",
+                  "groupId": "kanri_r4_Q34",
+                  "statement": "規約の保管場所は,建物内の見やすい場所に掲示しなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q37_c2",
+                  "groupId": "kanri_r4_Q37",
+                  "statement": "イ オ ア ウ エ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q34_c1",
+                  "groupId": "kanri_r4_Q34",
+                  "statement": "区分所有者全員で構成する団体に管理者が選任されている場合には,規約は,管理 者が保管しなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q17_c1",
+                  "groupId": "kanri_r4_Q17",
+                  "statement": "「建築物」とは,土地に定着する工作物のうち,屋根及び柱若しくは壁を有するも のなどをいい,建築設備を含まない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q20_c2",
+                  "groupId": "kanri_r4_Q20",
+                  "statement": "外気温の変動による挙動が小さいひび割れ幅0．5mmの補修に,アクリル樹脂系注 入材による注入工法を適用した。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q22_c4",
+                  "groupId": "kanri_r4_Q22",
+                  "statement": "ガス給湯機の能力表示における1号とは,毎分流量1ℓの水の温度を25℃上昇させ る能力をいう。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q28_c4",
+                  "groupId": "kanri_r4_Q28",
+                  "statement": "ｇ=（ａ+ｂ+ｃ）'ｅ'ｆ",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q28_c3",
+                  "groupId": "kanri_r4_Q28",
+                  "statement": "ｇ=（ａ+ｂ+ｃ）'ｄ'ｆ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q08_c1",
+                  "groupId": "kanri_r4_Q08",
+                  "statement": "受付等の業務には,宅配物の預かり,引渡し,利害関係人に対する管理規約等の閲 覧が含まれる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q08_c3",
+                  "groupId": "kanri_r4_Q08",
+                  "statement": "立会業務には,災害,事故等の処理の立会い,そのための専有部分の(cid:20276)の保管が含 まれる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q30_c4",
+                  "groupId": "kanri_r4_Q30",
+                  "statement": "ＷＥＢ会議システムを用いて理事会を開催するため,パソコン数台を購入する費用 に充当する場合",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q07_c3",
+                  "groupId": "kanri_r4_Q07",
+                  "statement": "管理事務室は,管理組合がマンション管理業者に管理事務を行わせるため,有償で 使用させるものとしている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q23_c3",
+                  "groupId": "kanri_r4_Q23",
+                  "statement": "換気効率の指標の一つである「空気齢」は,その数値が小さいほど,その地点に供 給される空気が汚染されている可能性が高い。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q37_c3",
+                  "groupId": "kanri_r4_Q37",
+                  "statement": "ウ イ エ ア オ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q12_c2",
+                  "groupId": "kanri_r4_Q12",
+                  "statement": "監事は,管理組合の業務の執行及び財産の状況について不正があると認めるときは, 臨時総会を招集することができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q13_c3",
+                  "groupId": "kanri_r4_Q13",
+                  "statement": "収支決算の結果,管理費に余剰を生じた場合には,その余剰は翌年度における管理 費に充当する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q21_c3",
+                  "groupId": "kanri_r4_Q21",
+                  "statement": "油脂類については,中性洗剤洗いをした後に,水洗いした。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q18_c4",
+                  "groupId": "kanri_r4_Q18",
+                  "statement": "住宅の関係者には,住宅用防災警報器を設置する義務に加えて,適切に維持する義 務が課せられている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q02_c4",
+                  "groupId": "kanri_r4_Q02",
+                  "statement": "地上権や地役権についても,時効による権利の取得が認められる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q04_c1",
+                  "groupId": "kanri_r4_Q04",
+                  "statement": "抵当権設定当時,甲土地上にＡ所有の建物があった場合には,当該抵当権の効力は 当該建物にも及ぶ。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q17_c2",
+                  "groupId": "kanri_r4_Q17",
+                  "statement": "「敷地」とは,一の建築物又は用途上不可分の関係にある二以上の建築物のある一 団の土地をいう。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q04_c3",
+                  "groupId": "kanri_r4_Q04",
+                  "statement": "抵当権の設定行為において別段の合意がない限り,被担保債権の利息は当該抵当権 によって担保されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q13_c2",
+                  "groupId": "kanri_r4_Q13",
+                  "statement": "駐車場使用料収入は,当該駐車場の管理に要する費用に充てるほか,修繕積立金と して積み立てる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q50_c3",
+                  "groupId": "kanri_r4_Q50",
+                  "statement": "営業所 10 3",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q01_c3",
+                  "groupId": "kanri_r4_Q01",
+                  "statement": "委任者は,受任者に不利な時期には,委任契約を解除することができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q35_c4",
+                  "groupId": "kanri_r4_Q35",
+                  "statement": "敷地利用権を有しない区分所有者は,土地所有者に対して当該区分所有権を時価で 買い取るように請求することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q16_c1",
+                  "groupId": "kanri_r4_Q16",
+                  "statement": "修繕費 1,450,000 未払金 1,450,000 未払金 3,500,000 普通預金 3,500,000",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q18_c3",
+                  "groupId": "kanri_r4_Q18",
+                  "statement": "住宅用防災警報器は,市町村の火災予防条例による別段の定めがある場合を除き, 台所にのみ設置すればよい。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q16_c3",
+                  "groupId": "kanri_r4_Q16",
+                  "statement": "未払金 3,500,000 普通預金 3,500,000 修繕費 450,000 未払金 450,000",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q02_c1",
+                  "groupId": "kanri_r4_Q02",
+                  "statement": "消滅時効が完成し,時効が援用されて権利が消滅すると,その権利は最初からな かったものとされる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q43_c1",
+                  "groupId": "kanri_r4_Q43",
+                  "statement": "令和2年末時点における分譲マンションストック総数は,900万戸を超えている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q35_c1",
+                  "groupId": "kanri_r4_Q35",
+                  "statement": "土地所有者と各区分所有者との間で締結された借地契約相互の関係は,一つの借地 契約を準共有する関係にある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q20_c3",
+                  "groupId": "kanri_r4_Q20",
+                  "statement": "外気温の変動による挙動が大きいひび割れ幅0．5mmの補修に,ポリマーセメント ペーストによる注入工法を適用した。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q06_c1",
+                  "groupId": "kanri_r4_Q06",
+                  "statement": "マンション管理業者は,年に一度,管理組合の組合員の管理費等の滞納状況を,当 該管理組合に報告する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q13_c4",
+                  "groupId": "kanri_r4_Q13",
+                  "statement": "管理組合の会計処理に関する細則の変更は,総会の特別多数決議を経なければなら ない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q19_c2",
+                  "groupId": "kanri_r4_Q19",
+                  "statement": "中性化深さは経過年数の二乗（t2）に比例するので,鉄筋に到達するまで約10年 かかる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q12_c4",
+                  "groupId": "kanri_r4_Q12",
+                  "statement": "監事は,理事が不正の行為をし,若しくは当該行為をするおそれがあると認めると きは,直ちに,理事会を招集することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q12_c3",
+                  "groupId": "kanri_r4_Q12",
+                  "statement": "監事は,理事会に出席し,必要があると認めるときは,意見を述べなければならな い。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q28_c1",
+                  "groupId": "kanri_r4_Q28",
+                  "statement": "ｇ=（ａ+ｂ）'ｄ'ｆ",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q01_c2",
+                  "groupId": "kanri_r4_Q01",
+                  "statement": "受任者は,特約がなければ,委任者に対して報酬を請求することができない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q30_c1",
+                  "groupId": "kanri_r4_Q30",
+                  "statement": "建物の建替えに係る合意形成に必要となる事項の調査に要する経費に充当する場合",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q19_c3",
+                  "groupId": "kanri_r4_Q19",
+                  "statement": "中性化深さは経過年数の平方根（ t ）に比例するので,鉄筋に到達するまで約75 年かかる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q40_c4",
+                  "groupId": "kanri_r4_Q40",
+                  "statement": "当該マンションが建設工事の完了の日から起算して1年を経過して初めて分譲され た場合には,品確法上の担保責任は問えない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q50_c2",
+                  "groupId": "kanri_r4_Q50",
+                  "statement": "営業所 30 6",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q50_c1",
+                  "groupId": "kanri_r4_Q50",
+                  "statement": "事務所 10 3",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "kanri_r4_Q23_c1",
+                  "groupId": "kanri_r4_Q23",
+                  "statement": "全熱交換型の換気は,「第1種換気方式」である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            }
+          ]
         }
       ]
     }
