@@ -136,10 +136,17 @@
     .search-box { display: flex; gap: 12px; width: 100%; }
 
     .search-input {
+      -webkit-appearance: none; appearance: none;
+      box-sizing: border-box;
       flex: 1; min-width: 0; height: 72px;
       border: 1px solid var(--line); border-radius: 16px;
       background: #fff; padding: 0 20px; font-size: 17px;
       box-shadow: 0 12px 28px rgba(15,23,42,0.07); outline: none;
+    }
+
+    .search-input::-webkit-search-decoration,
+    .search-input::-webkit-search-cancel-button {
+      -webkit-appearance: none;
     }
 
     .search-input:focus {
