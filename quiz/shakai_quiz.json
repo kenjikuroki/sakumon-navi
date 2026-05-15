@@ -11808,7 +11808,9 @@
       ],
       "config": {
         "ios_premium_id": "unlock_shakai",
-        "android_premium_id": "unlock_shakai"
+        "android_premium_id": "unlock_shakai",
+        "ios_ad_banner": "ca-app-pub-3331079517737737/6719516278",
+        "ios_ad_inter": "ca-app-pub-3331079517737737/9137190815"
       }
     }
   }

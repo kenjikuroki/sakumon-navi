@@ -9825,7 +9825,9 @@
       ],
       "config": {
         "ios_premium_id": "unlock_kango",
-        "android_premium_id": "unlock_kango"
+        "android_premium_id": "unlock_kango",
+        "ios_ad_banner": "ca-app-pub-3331079517737737/6719516278",
+        "ios_ad_inter": "ca-app-pub-3331079517737737/9137190815"
       }
     }
   }
