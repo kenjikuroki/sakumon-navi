@@ -1,0 +1,2569 @@
+{
+  "apps": {
+    "sharosi": {
+      "years": [
+        {
+          "examYear": 2025,
+          "sourceType": "official",
+          "categories": [
+            {
+              "categoryName": "労働基準法及び労働安全衛生法",
+              "questions": [
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q02_1",
+                  "groupId": "sharosi_R7_roudou_kijun_Q02",
+                  "statement": "労働基準法第12条（以下本問において「本条」という。）に定める平均賃金に\n関する次の記述のうち、誤っているものはどれか。\n選択肢A：令和7年1月1日から、賃金が日給1万円、毎月20日締切、当月25日\n支払いの条件で雇われている労働者について、同年7月15日に平均賃金\nを算定すべき事由が発生した。当該労働者に支払われていた賃金は、1月\n支払分から6月支払分までいずれも労働日数は月10日で支払額は各月10\n万円であり、本条第3項各号に掲げられている業務上負傷し療養のために\n休業した期間等の控除期間がなかった。この場合の当該労働者に係る平均\n賃金の額は6，000円である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q02_2",
+                  "groupId": "sharosi_R7_roudou_kijun_Q02",
+                  "statement": "労働基準法第12条（以下本問において「本条」という。）に定める平均賃金に\n関する次の記述のうち、誤っているものはどれか。\n選択肢B：労働基準法第20条に基づく解雇予告手当を算定する際の平均賃金算定\n事由発生日は、「労働者に解雇の通告をした日」であり、その後、当該労働\n者の同意を得て解雇日を変更した場合においても、当初の解雇を通告した\n日とするものとされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q02_3",
+                  "groupId": "sharosi_R7_roudou_kijun_Q02",
+                  "statement": "労働基準法第12条（以下本問において「本条」という。）に定める平均賃金に\n関する次の記述のうち、誤っているものはどれか。\n選択肢C：所定労働時間が二暦日にわたる勤務を行う労働者（一昼夜交替勤務のご\nとく明らかに2日の労働と解することが適当な場合を除く。）について、当\n該勤務の二暦日目に平均賃金を算定すべき事由が発生した場合において\nは、当該勤務の始業時刻の属する日に当該事由が発生したものとして取り\n扱うこととされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q02_4",
+                  "groupId": "sharosi_R7_roudou_kijun_Q02",
+                  "statement": "労働基準法第12条（以下本問において「本条」という。）に定める平均賃金に\n関する次の記述のうち、誤っているものはどれか。\n選択肢D：雇入れ後3か月未満の労働者について平均賃金を算定すべき事由が発生\nした場合には、算定事由発生日前に賃金締切日があるか否かにかかわら\nず、雇入れ後の期間とその期間中の賃金の総額で算定することとされている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q02_5",
+                  "groupId": "sharosi_R7_roudou_kijun_Q02",
+                  "statement": "労働基準法第12条（以下本問において「本条」という。）に定める平均賃金に\n関する次の記述のうち、誤っているものはどれか。\n選択肢E：本条第3項第1号から第4号までに掲げられている業務上負傷し療養の\nために休業した期間等の控除期間が、平均賃金を算定すべき事由の発生し\nた日以前3か月以上にわたる場合の平均賃金は、都道府県労働局長がこれ\nを定めることとされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q03_1",
+                  "groupId": "sharosi_R7_roudou_kijun_Q03",
+                  "statement": "労働基準法に定める労働契約等に関する次の記述のうち、正しいものは\nどれか。\n選択肢A：労働基準法第14条第1項第2号は、満60歳以上である労働者との労働\n契約（同条同項第1号に掲げる労働契約を除く。）は、期間の定めのないも\nのを除き、一定の事業の完了に必要な期間を定めるもののほかは、5年を\n超える期間について締結してはならないと定めているが、満60歳以上で\nあるかどうかは当該労働契約締結時の年齢で判断される。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q03_2",
+                  "groupId": "sharosi_R7_roudou_kijun_Q03",
+                  "statement": "労働基準法に定める労働契約等に関する次の記述のうち、正しいものは\nどれか。\n選択肢B：労働基準法第14条第1項に規定する期間を超える期間を定めた労働契\n約を締結した場合は、同条同項には使用者とも労働者とも規定されていな\nいことから、使用者と労働者の双方に罰則が適用される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q03_3",
+                  "groupId": "sharosi_R7_roudou_kijun_Q03",
+                  "statement": "労働基準法に定める労働契約等に関する次の記述のうち、正しいものは\nどれか。\n選択肢C：労働契約の締結に際し明示された労働条件が事実と相違している場合、\n労働者は、即時に労働契約を解除することができるにとどまり、明示され\nたとおりの労働条件の履行を使用者に要求することはできない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q03_4",
+                  "groupId": "sharosi_R7_roudou_kijun_Q03",
+                  "statement": "労働基準法に定める労働契約等に関する次の記述のうち、正しいものは\nどれか。\n選択肢D：事業主が同一人でないＸ社とＹ社に使用される労働者が、Ｘ社の業務に\nより負傷し、その療養のために休業する期間及びその後30日間について\nは、Ｘ社もＹ社も当該労働者を解雇してはならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q03_5",
+                  "groupId": "sharosi_R7_roudou_kijun_Q03",
+                  "statement": "労働基準法に定める労働契約等に関する次の記述のうち、正しいものは\nどれか。\n選択肢E：事業主が犯した経済法令違反を原因として購入した諸機械、資材等を没\n収され、事業の継続が不可能となったときは、労働基準法第20条第1項\nにいう「やむを得ない事由のために事業の継続が不可能となつた場合」に該\n当することから、当該事業主が、これを理由として労働者を解雇しようと\nする場合には、少なくとも30日前にその予告をしなければならない等の\n同条同項に定める解雇の予告を行う必要はない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q04_1",
+                  "groupId": "sharosi_R7_roudou_kijun_Q04",
+                  "statement": "労働基準法に定める賃金等に関する次の記述のうち、正しいものはどれか。\n選択肢A：使用者は、当該事業場の労働者の過半数で組織する労働組合があるとき\nはその労働組合、労働者の過半数で組織する労働組合がないときは労働者\nの過半数を代表する者との書面による協定がある場合においては、賃金を\n前借金その他労働することを条件とする前貸の債権と相殺することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q04_2",
+                  "groupId": "sharosi_R7_roudou_kijun_Q04",
+                  "statement": "労働基準法に定める賃金等に関する次の記述のうち、正しいものはどれか。\n選択肢B：労働基準法第24条第1項は、使用者の意思で労働者本人以外の者に賃\n金を支払うことを禁止するものであるから、労働者の意思で第三者に賃金\n受領権限を与えようとする委任、代理等の法律行為は無効となるものでは\nない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q04_3",
+                  "groupId": "sharosi_R7_roudou_kijun_Q04",
+                  "statement": "労働基準法に定める賃金等に関する次の記述のうち、正しいものはどれか。\n選択肢C：労働協約によりストライキ中の賃金を支払わないことを定めているＸ社\nでは日給月給制を採用しており、毎月15日に当月の賃金を前払いする（例\nえば、8月15日に8月1日から同月末日までの分の賃金を支払う）ことに\nなっているが、所定労働日である8月21日から25日まで5日間ストライキ\nが行われた場合、当該ストライキに参加した労働者の賃金について、使用\n者が9月15日の賃金支払いにおいて前月のストライキの5日間分を控除\nして支払うことは、賃金全額払原則に違反する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q04_4",
+                  "groupId": "sharosi_R7_roudou_kijun_Q04",
+                  "statement": "労働基準法に定める賃金等に関する次の記述のうち、正しいものはどれか。\n選択肢D：労働者が労働基準法第25条に従い賃金の非常時払を請求する場合に\nは、使用者は、特約のない限り、いまだ労務の提供のない期間に対する賃\n金も含めて支払期日前に支払う義務を負う。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q04_5",
+                  "groupId": "sharosi_R7_roudou_kijun_Q04",
+                  "statement": "労働基準法に定める賃金等に関する次の記述のうち、正しいものはどれか。\n選択肢E：使用者の責に帰すべき事由による休業期間中であっても、労働協約、就\n業規則又は労働契約により休日と定められている日については、労働基準\n法第26条に定める休業手当を支払う義務は生じない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q05_1",
+                  "groupId": "sharosi_R7_roudou_kijun_Q05",
+                  "statement": "労働基準法第36条に定める時間外・休日労働協定（以下本問において\n「協定」という。）に関する次の記述のうち、誤っているものはどれか。\n選択肢A：労働者数が、本社、Ｘ支店及びＹ支店の合計で180人の企業において、\n100人の労働者で組織する労働組合があるとき、本社、Ｘ支店及びＹ支店\nのいずれの事業場においても労働者側の協定当事者は、それぞれの事業場\nの労働組合員数にかかわらず、その労働組合となる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q05_2",
+                  "groupId": "sharosi_R7_roudou_kijun_Q05",
+                  "statement": "労働基準法第36条に定める時間外・休日労働協定（以下本問において\n「協定」という。）に関する次の記述のうち、誤っているものはどれか。\n選択肢B：協定当事者である「労働者の過半数を代表する者」が、協定締結後に死亡\nした場合であっても、当該協定の効力は失われない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q05_3",
+                  "groupId": "sharosi_R7_roudou_kijun_Q05",
+                  "statement": "労働基準法第36条に定める時間外・休日労働協定（以下本問において\n「協定」という。）に関する次の記述のうち、誤っているものはどれか。\n選択肢C：協定当事者である「労働者の過半数を代表する者」の「労働者」の範囲に\nは、労働基準法第41条第2号の「管理監督者」、同条第3号の「監視、断続\n的労働従事者で行政官庁の許可を受けた者」、満18歳に満たない者などの\nような、時間外労働又は休日労働を考える余地のない者を含む全ての労働\n者と解すべきであるとされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q05_4",
+                  "groupId": "sharosi_R7_roudou_kijun_Q05",
+                  "statement": "労働基準法第36条に定める時間外・休日労働協定（以下本問において\n「協定」という。）に関する次の記述のうち、誤っているものはどれか。\n選択肢D：協定当事者である使用者は、労働基準法第10条の「使用者」であるか\nら、各事業場の長ではなく、株式会社の社長自らが協定当事者となること\nも可能である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q05_5",
+                  "groupId": "sharosi_R7_roudou_kijun_Q05",
+                  "statement": "労働基準法第36条に定める時間外・休日労働協定（以下本問において\n「協定」という。）に関する次の記述のうち、誤っているものはどれか。\n選択肢E：法人の役員を含む全従業員により構成されており、その目的・活動内容\nに照らし労働組合とは認められない親睦団体の代表者が自動的に協定を\n締結したにすぎない場合、当該代表者は、「労働者の過半数を代表する者」\nに当たらないとされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q06_1",
+                  "groupId": "sharosi_R7_roudou_kijun_Q06",
+                  "statement": "労働基準法第37条（以下本問において「本条」という。）に定める割増賃金の\n基礎となる賃金に関する次の記述のうち、正しいものはどれか。\n選択肢A：通勤手当を、月額1，000円までは距離にかかわらず一律に、1，000円を\n超える場合は実際距離に応じた額を支給することとしている場合、割増賃\n金の基礎となる賃金の算定に当たっては、一律に支給される1，000円を含\nむ通勤手当として支給した額全額を、割増賃金の基礎となる賃金に算入し\nなくとも差し支えないとされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q06_2",
+                  "groupId": "sharosi_R7_roudou_kijun_Q06",
+                  "statement": "労働基準法第37条（以下本問において「本条」という。）に定める割増賃金の\n基礎となる賃金に関する次の記述のうち、正しいものはどれか。\n選択肢B：手術に従事した医師に対して支払われる手術手当は、当該手術手当を支\n給される医師が手術以外の業務で法定時間外労働を行った場合において\nも、割増賃金の基礎となる賃金に算入しなければならないとされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q06_3",
+                  "groupId": "sharosi_R7_roudou_kijun_Q06",
+                  "statement": "労働基準法第37条（以下本問において「本条」という。）に定める割増賃金の\n基礎となる賃金に関する次の記述のうち、正しいものはどれか。\n選択肢C：通常は事務作業に従事している労働者が、法定労働時間外に特殊作業手\n当が支払われる現場作業に従事した場合、当該労働者にとって当該現場作\n業は本条第1項の「通常の労働時間」には該当しないので、当該特殊作業手\n当は割増賃金の基礎となる賃金に算入しなくとも差し支えないとされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q06_4",
+                  "groupId": "sharosi_R7_roudou_kijun_Q06",
+                  "statement": "労働基準法第37条（以下本問において「本条」という。）に定める割増賃金の\n基礎となる賃金に関する次の記述のうち、正しいものはどれか。\n選択肢D：いわゆる年俸制の適用を受ける労働者の割増賃金の取扱いについて、\n賞与の支給額が確定しており、かつ、毎月支払部分と賞与とが明確に区分\nされている場合には、当該賞与額を割増賃金の基礎となる賃金に算入しな\nくとも差し支えない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q06_5",
+                  "groupId": "sharosi_R7_roudou_kijun_Q06",
+                  "statement": "労働基準法第37条（以下本問において「本条」という。）に定める割増賃金の\n基礎となる賃金に関する次の記述のうち、正しいものはどれか。\n選択肢E：正規の勤務時間による勤務の一部又は全部が午後10時から午前5時ま\nでの間において行われる看護業務に従事したときに、その勤務1回につき\n夜間看護手当として3，000円を支払う場合、当該夜間看護手当は、本条第\n1項の通常の労働時間又は労働日の賃金とは認められないから、割増賃金\nの基礎となる賃金に算入しなくとも差し支えないとされている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q07_1",
+                  "groupId": "sharosi_R7_roudou_kijun_Q07",
+                  "statement": "労働基準法に定める就業規則に関する次の記述のうち、誤っているものは\nどれか。\n選択肢A：就業規則を作成した使用者は、当該就業規則を備え付けている場所等を\n労働者に示すこと等により、労働者が必要なときに容易に確認できる状態\nにする必要がある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q07_2",
+                  "groupId": "sharosi_R7_roudou_kijun_Q07",
+                  "statement": "労働基準法に定める就業規則に関する次の記述のうち、誤っているものは\nどれか。\n選択肢B：使用者がその従業員に対して金品の不正隠匿の摘発・防止のために行う\n所持品検査は、これを必要とする合理的理由に基づいて、一般的に妥当な\n方法と程度で、しかも制度として、職場従業員に対して画一的に実施され\nるものでなければならず、このようなものとしての所持品検査が就業規則\nその他明示の根拠に基づいて行われるときは、従業員は、個別的な場合に\nその方法や程度が妥当を欠く等特段の事情がない限り、検査を受忍すべき\n義務があるとするのが、最高裁判所の判例である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q07_3",
+                  "groupId": "sharosi_R7_roudou_kijun_Q07",
+                  "statement": "労働基準法に定める就業規則に関する次の記述のうち、誤っているものは\nどれか。\n選択肢C：労働契約の締結時点では労働日や労働時間を確定的に定めず、一定期間\n（1週間、1か月など）ごとに作成される勤務割や勤務シフトなどにおいて\n初めて具体的な労働日や労働時間が確定するような形態（シフト制）の労働\n者に関する労働基準法第89条第1項第1号に係る事項の就業規則への\n記載に際して、「個別の労働契約による」、「シフトによる」との記載のみに\nとどめた場合、就業規則の作成義務を果たしたことにならないが、基本と\nなる始業及び終業の時刻や休日を定めた上で、「具体的には個別の労働契\n約で定める」、「具体的にはシフトによる」旨を定めることは差し支えない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q07_4",
+                  "groupId": "sharosi_R7_roudou_kijun_Q07",
+                  "statement": "労働基準法に定める就業規則に関する次の記述のうち、誤っているものは\nどれか。\n選択肢D：労働基準法第90条第2項の規定により就業規則の届出に添付すべき\n意見を記した書面は、労働者を代表する者の氏名を記載しただけでは足り\nず、この者の押印もなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q07_5",
+                  "groupId": "sharosi_R7_roudou_kijun_Q07",
+                  "statement": "労働基準法に定める就業規則に関する次の記述のうち、誤っているものは\nどれか。\n選択肢E：労働者が、遅刻・早退をした場合、その時間については賃金債権が生じ\nないものであるから、その時間分の減給は、労働基準法第91条に定める\n減給の制裁に関する規定の適用を受けないが、遅刻・早退の時間に対する\n賃金額を超える減給は制裁とみなされ、同条に定める規定の適用を受ける。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q08_1",
+                  "groupId": "sharosi_R7_roudou_kijun_Q08",
+                  "statement": "労働安全衛生法に関する次の記述のうち、誤っているものはどれか。\nなお、Bにおける「電子情報処理組織」とは、情報通信技術を活用した行政\nの推進等に関する法律（平成14年法律第151号）第6条第1項に規定する電\n子情報処理組織をいう。\n選択肢A：労働安全衛生法第3条第3項には、仕事を他人に請け負わせる者は、施\n工方法、工期等について、安全で衛生的な作業の遂行を損なうおそれのあ\nる条件を付さないように配慮しなければならないとの責務が定められてい\nるが、当該規定は、建設工事以外の注文者にも適用される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q08_2",
+                  "groupId": "sharosi_R7_roudou_kijun_Q08",
+                  "statement": "労働安全衛生法に関する次の記述のうち、誤っているものはどれか。\nなお、Bにおける「電子情報処理組織」とは、情報通信技術を活用した行政\nの推進等に関する法律（平成14年法律第151号）第6条第1項に規定する電\n子情報処理組織をいう。\n選択肢B：労働安全衛生法第29条第1項には、元方事業者は、関係請負人及び関\n係請負人の労働者が、当該仕事に関し、労働安全衛生法又はこれに基づく\n命令の規定に違反しないよう必要な指導を行わなければならないと定めら\nれているが、当該規定は、建設業、造船業及び製造業に限らず全ての事業\nに適用される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q08_3",
+                  "groupId": "sharosi_R7_roudou_kijun_Q08",
+                  "statement": "労働安全衛生法に関する次の記述のうち、誤っているものはどれか。\nなお、Bにおける「電子情報処理組織」とは、情報通信技術を活用した行政\nの推進等に関する法律（平成14年法律第151号）第6条第1項に規定する電\n子情報処理組織をいう。\n選択肢C：労働安全衛生規則第2条第2項は、事業者が労働安全衛生法の定めによ\nり総括安全衛生管理者を選任したときは、遅滞なく、電子情報処理組織を\n使用して、所定事項を、所轄労働基準監督署長に報告しなければならない\n旨定めている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q08_4",
+                  "groupId": "sharosi_R7_roudou_kijun_Q08",
+                  "statement": "労働安全衛生法に関する次の記述のうち、誤っているものはどれか。\nなお、Bにおける「電子情報処理組織」とは、情報通信技術を活用した行政\nの推進等に関する法律（平成14年法律第151号）第6条第1項に規定する電\n子情報処理組織をいう。\n選択肢D：労働安全衛生規則第11条第1項には、衛生管理者は、少なくとも毎週\n1回作業場等を巡視し、設備、作業方法又は衛生状態に有害のおそれがあ\nるときは、直ちに、労働者の健康障害を防止するため必要な措置を講じな\nければならないとされているが、産業医については、作業場等を定期巡視\nする義務を課す規定は定められていない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q08_5",
+                  "groupId": "sharosi_R7_roudou_kijun_Q08",
+                  "statement": "労働安全衛生法に関する次の記述のうち、誤っているものはどれか。\nなお、Bにおける「電子情報処理組織」とは、情報通信技術を活用した行政\nの推進等に関する法律（平成14年法律第151号）第6条第1項に規定する電\n子情報処理組織をいう。\n選択肢E：労働安全衛生規則第12条の3第1項には、安全衛生推進者は、労働安\n全コンサルタント、労働衛生コンサルタントその他厚生労働大臣が定める\n者のうちから選任する場合を除きその事業場に専属の者を選任するよう定\nめられているが、専任の者とすることまでは定められていない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q09_1",
+                  "groupId": "sharosi_R7_roudou_kijun_Q09",
+                  "statement": "労働安全衛生法に定める就業制限に関する次の記述のうち、正しいものは\nどれか。\nなお、選択肢A、C及びDにおける「運転」は、道路交通法（昭和35年法律\n第105号）第2条第1項第1号に規定する道路を走行させる運転を除くもの\nとする。\n選択肢A：事業者は、つり上げ荷重5トン以上の移動式クレーンの運転の業務につ\nいては、クレーン・デリック運転士免許を受けた者を就かせることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q09_2",
+                  "groupId": "sharosi_R7_roudou_kijun_Q09",
+                  "statement": "労働安全衛生法に定める就業制限に関する次の記述のうち、正しいものは\nどれか。\nなお、選択肢A、C及びDにおける「運転」は、道路交通法（昭和35年法律\n第105号）第2条第1項第1号に規定する道路を走行させる運転を除くもの\nとする。\n選択肢B：事業者は、つり上げ荷重3トンのクレーンを床上で運転し、かつ、当該\n運転をする者が荷の移動とともに移動する方式のクレーンの運転の業務に\nついては、小型移動式クレーン運転技能講習を修了した者を就かせること\nができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q09_3",
+                  "groupId": "sharosi_R7_roudou_kijun_Q09",
+                  "statement": "労働安全衛生法に定める就業制限に関する次の記述のうち、正しいものは\nどれか。\nなお、選択肢A、C及びDにおける「運転」は、道路交通法（昭和35年法律\n第105号）第2条第1項第1号に規定する道路を走行させる運転を除くもの\nとする。\n選択肢C：機体重量が3トン未満のパワー・シヨベル（労働安全衛生法施行令別表\n第7第2号に定めるものをいう。）で、動力を用い、かつ、不特定の場所に\n自走することができるものの運転の業務は、労働安全衛生法第61条に定\nめる就業制限業務に該当しない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q09_4",
+                  "groupId": "sharosi_R7_roudou_kijun_Q09",
+                  "statement": "労働安全衛生法に定める就業制限に関する次の記述のうち、正しいものは\nどれか。\nなお、選択肢A、C及びDにおける「運転」は、道路交通法（昭和35年法律\n第105号）第2条第1項第1号に規定する道路を走行させる運転を除くもの\nとする。\n選択肢D：最大荷重が3トン未満のショベルローダー又はフォークローダーの運転\nの業務は、労働安全衛生法第61条に定める就業制限業務に該当しない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q09_5",
+                  "groupId": "sharosi_R7_roudou_kijun_Q09",
+                  "statement": "労働安全衛生法に定める就業制限に関する次の記述のうち、正しいものは\nどれか。\nなお、選択肢A、C及びDにおける「運転」は、道路交通法（昭和35年法律\n第105号）第2条第1項第1号に規定する道路を走行させる運転を除くもの\nとする。\n選択肢E：つり上げ荷重5トンのクレーンで重さが1トン未満の荷を吊り上げよう\nとする場合の玉掛けの業務は、労働安全衛生法第61条に定める就業制限\n業務に該当しない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q10_1",
+                  "groupId": "sharosi_R7_roudou_kijun_Q10",
+                  "statement": "労働安全衛生法に定める作業環境測定の実施頻度に関する次の記述の\nうち、誤っているものはどれか。\n選択肢A：事業者は、粉じん障害防止規則第25条で定める常時特定粉じん作業が\n行われる屋内作業場について、6月以内ごとに1回、定期に、当該作業場\nにおける空気中の粉じんの濃度を測定しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q10_2",
+                  "groupId": "sharosi_R7_roudou_kijun_Q10",
+                  "statement": "労働安全衛生法に定める作業環境測定の実施頻度に関する次の記述の\nうち、誤っているものはどれか。\n選択肢B：事業者は、溶鉱炉により鉱物又は金属を製錬する業務を行う暑熱の屋内\n作業場について、半月以内ごとに1回、定期に、当該屋内作業場における\n気温、湿度及びふく射熱を測定しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q10_3",
+                  "groupId": "sharosi_R7_roudou_kijun_Q10",
+                  "statement": "労働安全衛生法に定める作業環境測定の実施頻度に関する次の記述の\nうち、誤っているものはどれか。\n選択肢C：事業者は、労働安全衛生規則第588条に規定する著しい騒音を発する\n屋内作業場について、6月以内ごとに1回、定期に、等価騒音レベルを\n測定しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q10_4",
+                  "groupId": "sharosi_R7_roudou_kijun_Q10",
+                  "statement": "労働安全衛生法に定める作業環境測定の実施頻度に関する次の記述の\nうち、誤っているものはどれか。\n選択肢D：事業者は、特定化学物質である労働安全衛生法施行令別表第3第2号7\nの塩素を取り扱う屋内作業場について、6月以内ごとに1回、定期に、当\n該作業場における空気中の塩素の濃度を測定しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_roudou_kijun_Q10_5",
+                  "groupId": "sharosi_R7_roudou_kijun_Q10",
+                  "statement": "労働安全衛生法に定める作業環境測定の実施頻度に関する次の記述の\nうち、誤っているものはどれか。\n選択肢E：事業者は、労働安全衛生法施行令第21条第9号で定める酸素欠乏危険\n場所において作業を行う場合の当該作業場について、半月以内ごとに\n1回、定期に、当該作業場における空気中の酸素の濃度を測定しなければ\nならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            },
+            {
+              "categoryName": "労働者災害補償保険法",
+              "questions": [
+                {
+                  "id": "sharosi_R7_rousai_Q01_1",
+                  "groupId": "sharosi_R7_rousai_Q01",
+                  "statement": "労災保険法の適用に関する次の記述のうち、正しいものはどれか。\n選択肢A：出向元事業に雇用される労働者が、その雇用関係を存続したまま、出向\n元事業主の命により出向先事業の業務に従事する在籍型出向の場合、当該\n労働者に係る労災保険給付は、常に出向先事業に係る保険関係によるもの\nとされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q01_2",
+                  "groupId": "sharosi_R7_rousai_Q01",
+                  "statement": "労災保険法の適用に関する次の記述のうち、正しいものはどれか。\n選択肢B：派遣労働者に係る労災保険給付は、常に派遣元事業に係る保険関係によ\nるものとされている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q01_3",
+                  "groupId": "sharosi_R7_rousai_Q01",
+                  "statement": "労災保険法の適用に関する次の記述のうち、正しいものはどれか。\n選択肢C：障害者総合支援法に基づく就労継続支援を行う事業場で就労する障害者\nは、雇用契約の締結の有無にかかわらず、労災保険法が適用される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q01_4",
+                  "groupId": "sharosi_R7_rousai_Q01",
+                  "statement": "労災保険法の適用に関する次の記述のうち、正しいものはどれか。\n選択肢D：インターンシップにおいての実習は、見学や体験的なものであることを\n原則としていることから、当該実習に参加する学生に労災保険法が適用さ\nれることはない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q01_5",
+                  "groupId": "sharosi_R7_rousai_Q01",
+                  "statement": "労災保険法の適用に関する次の記述のうち、正しいものはどれか。\n選択肢E：育児休業を取得する公立小学校教諭の業務を処理するために、当該育児\n休業請求に係る期間を任期の限度として臨時的任用された者には、その勤\n務の態様にかかわらず、労災保険法が適用される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q04_1",
+                  "groupId": "sharosi_R7_rousai_Q04",
+                  "statement": "休業補償給付に関する次の記述のうち、正しいものはどれか。\n選択肢A：第1種特別加入者の給付基礎日額として厚生労働大臣が定める額は、そ\nの最高額が25，000円であり、その最低額が2，000円である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q04_2",
+                  "groupId": "sharosi_R7_rousai_Q04",
+                  "statement": "休業補償給付に関する次の記述のうち、正しいものはどれか。\n選択肢B：労災保険法第8条の2第2項は、業務災害により休業補償給付を支給す\nべき事由が生じた日が当該休業補償給付に係る療養を開始した日から起算\nして3年を経過した日以後の日である場合において、同条同項各号のいず\nれかに該当するときは、当該休業補償給付を受けるべき者の休業給付基礎\n日額は、当該者の基準日（当該休業補償給付を受けるべき者の当該休業補\n償給付を支給すべき事由が生じた日の属する四半期の初日）における年齢\nの属する年齢階層について厚生労働大臣が定めた額とする旨規定している。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q04_3",
+                  "groupId": "sharosi_R7_rousai_Q04",
+                  "statement": "休業補償給付に関する次の記述のうち、正しいものはどれか。\n選択肢C：休業補償給付は、労働者が業務上の傷病により療養のため労働不能の状\n態にあって賃金を受けることができない場合であっても、出勤停止の懲戒\n処分を受けたために雇用契約上の賃金請求権を有しない場合には支給され\nない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q04_4",
+                  "groupId": "sharosi_R7_rousai_Q04",
+                  "statement": "休業補償給付に関する次の記述のうち、正しいものはどれか。\n選択肢D：休業特別支給金の支給対象となる日について休業補償給付を受けること\nができる者は、当該休業特別支給金の支給申請を、当該休業補償給付の請\n求後に行わなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q04_5",
+                  "groupId": "sharosi_R7_rousai_Q04",
+                  "statement": "休業補償給付に関する次の記述のうち、正しいものはどれか。\n選択肢E：休業補償給付を受ける労働者が、同一の事由について厚生年金保険法に\n基づく障害厚生年金又は国民年金法に基づく障害基礎年金を受けることが\nできるときは、当該労働者に支給する休業補償給付の額は、当該障害厚生\n年金又は当該障害基礎年金と傷病補償年金との調整について定める率を用\nいて算定されるが、当該算定された額が労災保険法施行令第1条第1項で\n定める額を下回る場合には、同条同項で定める額となる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q05_1",
+                  "groupId": "sharosi_R7_rousai_Q05",
+                  "statement": "介護補償給付に関する次の記述のうち、正しいものはどれか。\n選択肢A：療養補償給付を受ける権利を有する労働者は、病院又は診療所に入院\nし、介護を受けている間、介護補償給付を受けることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q05_2",
+                  "groupId": "sharosi_R7_rousai_Q05",
+                  "statement": "介護補償給付に関する次の記述のうち、正しいものはどれか。\n選択肢B：障害補償年金を受ける権利を有する労働者は、障害者総合支援法第5条\n第11項に規定する障害者支援施設に入所し、同法同条第7項が定める生\n活介護を受けている間、併せて介護補償給付を受けることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q05_3",
+                  "groupId": "sharosi_R7_rousai_Q05",
+                  "statement": "介護補償給付に関する次の記述のうち、正しいものはどれか。\n選択肢C：障害補償一時金の支給を受けた労働者が、加齢により介護を要する状態\nとなった場合、介護補償給付を受けることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q05_4",
+                  "groupId": "sharosi_R7_rousai_Q05",
+                  "statement": "介護補償給付に関する次の記述のうち、正しいものはどれか。\n選択肢D：業務災害により両眼を失明し、障害等級第1級の障害補償年金を受ける\n労働者は、他に障害を負っているか否かにかかわらず、常時介護を要する\n障害の程度にあるとして、介護補償給付を受けることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q05_5",
+                  "groupId": "sharosi_R7_rousai_Q05",
+                  "statement": "介護補償給付に関する次の記述のうち、正しいものはどれか。\n選択肢E：介護補償給付の額は、その月において、介護に要する費用を支出して介\n護を受けた日がない場合であって、親族による介護を受けた日があるとき\nは、障害の程度に応じて定額とされている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q06_1",
+                  "groupId": "sharosi_R7_rousai_Q06",
+                  "statement": "二次健康診断等給付に関する次の記述のうち、誤っているものはどれか。\n選択肢A：二次健康診断等給付を行う病院又は診療所の指定は、都道府県労働局長\nが行う。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q06_2",
+                  "groupId": "sharosi_R7_rousai_Q06",
+                  "statement": "二次健康診断等給付に関する次の記述のうち、誤っているものはどれか。\n選択肢B：二次健康診断等給付として行われる二次健康診断は、対象労働者一人に\nつき、1年度内1回に限り支給される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q06_3",
+                  "groupId": "sharosi_R7_rousai_Q06",
+                  "statement": "二次健康診断等給付に関する次の記述のうち、誤っているものはどれか。\n選択肢C：二次健康診断等給付として行われる特定保健指導（二次健康診断の結果\nに基づき行われる保健指導）は、医師又は保健師による面接によって行わ\nれ、栄養指導、運動指導及び生活指導の内容により行われる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q06_4",
+                  "groupId": "sharosi_R7_rousai_Q06",
+                  "statement": "二次健康診断等給付に関する次の記述のうち、誤っているものはどれか。\n選択肢D：特別加入者は、二次健康診断等給付の対象とならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q06_5",
+                  "groupId": "sharosi_R7_rousai_Q06",
+                  "statement": "二次健康診断等給付に関する次の記述のうち、誤っているものはどれか。\n選択肢E：二次健康診断等給付は、労働安全衛生法第66条第1項の規定に基づき\n行われた直近の健康診断において、血圧検査等所定の検査を受けた労働者\nが、当該検査項目のいずれかに異常の所見があると診断されたときに、当\n該労働者に対し、その請求に基づき行われる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q07_1",
+                  "groupId": "sharosi_R7_rousai_Q07",
+                  "statement": "労災保険法施行規則第46条の17第12号にいう特定フリーランス事業に\n係る特別加入団体（以下本問において「特別加入団体」という。）に関する次の\n記述のうち、誤っているものはどれか。\n選択肢A：特別加入団体として承認を受けるためには、特定の業種に関わらないフ\nリーランス全般の支援のための活動実績（活動期間が1年以上、100名以\n上の会員等がいること）を有している必要がある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q07_2",
+                  "groupId": "sharosi_R7_rousai_Q07",
+                  "statement": "労災保険法施行規則第46条の17第12号にいう特定フリーランス事業に\n係る特別加入団体（以下本問において「特別加入団体」という。）に関する次の\n記述のうち、誤っているものはどれか。\n選択肢B：特別加入団体として承認を受けるためには、市町村ごとに加入希望者が\n訪問可能な事務所を設け、都道府県を単位として団体を運営する必要がある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q07_3",
+                  "groupId": "sharosi_R7_rousai_Q07",
+                  "statement": "労災保険法施行規則第46条の17第12号にいう特定フリーランス事業に\n係る特別加入団体（以下本問において「特別加入団体」という。）に関する次の\n記述のうち、誤っているものはどれか。\n選択肢C：特別加入団体は、少なくとも年に1回以上、加入者に対して災害防止等\nに関する研修会等を実施する必要がある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q07_4",
+                  "groupId": "sharosi_R7_rousai_Q07",
+                  "statement": "労災保険法施行規則第46条の17第12号にいう特定フリーランス事業に\n係る特別加入団体（以下本問において「特別加入団体」という。）に関する次の\n記述のうち、誤っているものはどれか。\n選択肢D：特別加入団体は、特定フリーランス事業を行う者として特別加入した者\nの災害発生時の労災給付請求に際し、当該者が提出することとなる請求書\n等の作成支援を行うことを求められる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q07_5",
+                  "groupId": "sharosi_R7_rousai_Q07",
+                  "statement": "労災保険法施行規則第46条の17第12号にいう特定フリーランス事業に\n係る特別加入団体（以下本問において「特別加入団体」という。）に関する次の\n記述のうち、誤っているものはどれか。\n選択肢E：保険給付に関する事務は、特別加入団体の主たる事務所の所在地を管轄\nする労働基準監督署長が行うこととされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q08_1",
+                  "groupId": "sharosi_R7_rousai_Q08",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢A：二以上の有期事業が一括されて一の事業として労働保険徴収法が適用さ\nれる場合であって、労働保険徴収法施行規則第17条第3項で定める規模\nの事業のとき、同法第20条に規定するいわゆる有期事業のメリット制の\n適用対象とされる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q08_2",
+                  "groupId": "sharosi_R7_rousai_Q08",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢B：労働保険徴収法第7条の適用により一括有期事業とみなされた場合、概\n算保険料申告書、確定保険料申告書は当該一括有期事業に係る労働保険料\nの納付事務を取り扱う一の事務所の所在地を管轄する都道府県労働局歳入\n徴収官に提出しなければならないが、一括有期事業報告書は一括された事\n業ごとに作成し、各事業の所在地を管轄する都道府県労働局歳入徴収官に\nそれぞれ提出しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q08_3",
+                  "groupId": "sharosi_R7_rousai_Q08",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢C：労働保険徴収法第7条の適用による一括有期事業を開始したときには、\n初めに保険関係成立届を提出することとなるが、この届を一度提出してお\nけば、以後何年でもこの一括有期事業が継続している限り、当該一括有期\n事業に含まれる個々の事業については、その都度保険関係成立届を提出す\nる必要はない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q08_4",
+                  "groupId": "sharosi_R7_rousai_Q08",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢D：労働保険徴収法第7条の適用により一括された個々の有期事業につい\nて、その後、事業の規模の変更等があった場合には、当初の一括の扱いと\nされず、新たに独立の有期事業として取り扱われる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q08_5",
+                  "groupId": "sharosi_R7_rousai_Q08",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢E：労働保険徴収法第7条の適用により一括有期事業とみなされるための\n要件として、立木の伐採の事業以外の事業にあっては請負金額の上限が定\nめられているが、当該請負金額を計算するに当たって、事業主が注文者か\nらその事業に使用する機械器具等の貸与を受けた場合には、厚生労働大臣\nが定める事業の種類に該当する事業を除き、当該機械器具等の損料に相当\nする額（消費税等相当額を除く。）を請負代金の額（消費税等相当額を除く。）\nから控除することとされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q09_1",
+                  "groupId": "sharosi_R7_rousai_Q09",
+                  "statement": "次に示す業態をとる事業についての労働保険料に関する記述のうち、誤って\nいるものはどれか。\n保険関係成立年月日：令和3年8月5日\n事業の種類：小売業\n労働保険関係の概要：\n・保険料の滞納はない。\n・一般保険料以外の対象となる者はいない。\n・社会保険適用事業所である。\n・令和7年度の概算保険料の額は875，000円である。\n令和6年度及び7年度の労災保険率：1000分の3\n令和6年度の雇用保険率：1000分の15．5\n令和7年度の雇用保険率：1000分の14．5\n令和7年度の雇用保険二事業の保険率：1000分の3．5\n令和6年度の確定賃金総額：5，000万円\n令和7年度に支払いが見込まれる賃金総額：6，000万円\n選択肢A：令和6年度中に請負契約を締結し、使用従属関係が認められない労務提\n供を行った請負人に対して支払った報酬額は、令和6年度の確定賃金総額\nに含まれていない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q09_2",
+                  "groupId": "sharosi_R7_rousai_Q09",
+                  "statement": "次に示す業態をとる事業についての労働保険料に関する記述のうち、誤って\nいるものはどれか。\n保険関係成立年月日：令和3年8月5日\n事業の種類：小売業\n労働保険関係の概要：\n・保険料の滞納はない。\n・一般保険料以外の対象となる者はいない。\n・社会保険適用事業所である。\n・令和7年度の概算保険料の額は875，000円である。\n令和6年度及び7年度の労災保険率：1000分の3\n令和6年度の雇用保険率：1000分の15．5\n令和7年度の雇用保険率：1000分の14．5\n令和7年度の雇用保険二事業の保険率：1000分の3．5\n令和6年度の確定賃金総額：5，000万円\n令和7年度に支払いが見込まれる賃金総額：6，000万円\n選択肢B：令和7年度の概算保険料のうち、労災保険の保険料の額は150，000円で\nあり、当該事業主がすべて負担しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q09_3",
+                  "groupId": "sharosi_R7_rousai_Q09",
+                  "statement": "次に示す業態をとる事業についての労働保険料に関する記述のうち、誤って\nいるものはどれか。\n保険関係成立年月日：令和3年8月5日\n事業の種類：小売業\n労働保険関係の概要：\n・保険料の滞納はない。\n・一般保険料以外の対象となる者はいない。\n・社会保険適用事業所である。\n・令和7年度の概算保険料の額は875，000円である。\n令和6年度及び7年度の労災保険率：1000分の3\n令和6年度の雇用保険率：1000分の15．5\n令和7年度の雇用保険率：1000分の14．5\n令和7年度の雇用保険二事業の保険率：1000分の3．5\n令和6年度の確定賃金総額：5，000万円\n令和7年度に支払いが見込まれる賃金総額：6，000万円\n選択肢C：当該事業主は令和7年度の概算保険料の納付に当たって、口座振替によ\nる場合を除き、概算保険料を概算保険料申告書に添えて令和7年7月10\n日までに納付しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q09_4",
+                  "groupId": "sharosi_R7_rousai_Q09",
+                  "statement": "次に示す業態をとる事業についての労働保険料に関する記述のうち、誤って\nいるものはどれか。\n保険関係成立年月日：令和3年8月5日\n事業の種類：小売業\n労働保険関係の概要：\n・保険料の滞納はない。\n・一般保険料以外の対象となる者はいない。\n・社会保険適用事業所である。\n・令和7年度の概算保険料の額は875，000円である。\n令和6年度及び7年度の労災保険率：1000分の3\n令和6年度の雇用保険率：1000分の15．5\n令和7年度の雇用保険率：1000分の14．5\n令和7年度の雇用保険二事業の保険率：1000分の3．5\n令和6年度の確定賃金総額：5，000万円\n令和7年度に支払いが見込まれる賃金総額：6，000万円\n選択肢D：当該事業主が令和7年度の概算保険料の延納を申請して認められた場\n合、第2期分として納付する概算保険料の額は291，667円となる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q09_5",
+                  "groupId": "sharosi_R7_rousai_Q09",
+                  "statement": "次に示す業態をとる事業についての労働保険料に関する記述のうち、誤って\nいるものはどれか。\n保険関係成立年月日：令和3年8月5日\n事業の種類：小売業\n労働保険関係の概要：\n・保険料の滞納はない。\n・一般保険料以外の対象となる者はいない。\n・社会保険適用事業所である。\n・令和7年度の概算保険料の額は875，000円である。\n令和6年度及び7年度の労災保険率：1000分の3\n令和6年度の雇用保険率：1000分の15．5\n令和7年度の雇用保険率：1000分の14．5\n令和7年度の雇用保険二事業の保険率：1000分の3．5\n令和6年度の確定賃金総額：5，000万円\n令和7年度に支払いが見込まれる賃金総額：6，000万円\n選択肢E：令和7年度の確定賃金総額が6，000万円となった場合の確定保険料のう\nち、当該事業主が負担することとなる一般保険料の額は総額720，000円と\nなる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q10_1",
+                  "groupId": "sharosi_R7_rousai_Q10",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢A：事業主は、労災保険の特別加入の申請、変更届、脱退申請等に関する手\n続について、労働保険事務組合に処理を委託することができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q10_2",
+                  "groupId": "sharosi_R7_rousai_Q10",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢B：事業主が処理すべき労働保険事務を代理して処理できる労働保険事務組\n合とは、労働保険徴収法第33条に規定する団体等であって法人でなけれ\nばならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q10_3",
+                  "groupId": "sharosi_R7_rousai_Q10",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢C：政府が労働保険事務組合に労働保険事務の処理を委託した事業主に対し\nてすべき労働保険料等についての督促状による督促を、直接当該事業主に\n対してすることなく当該労働保険事務組合に対して行った場合、その効果\nは当該事業主に対して及ばない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q10_4",
+                  "groupId": "sharosi_R7_rousai_Q10",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢D：督促状による督促があった旨の通知を労働保険事務組合から受けた滞納\n事業主が、労働保険事務処理規約等に規定する期限までに労働保険料の納\n付のための金銭を当該労働保険事務組合に交付しなかったために延滞金を\n徴収される場合、当該労働保険事務組合は延滞金の納付責任を負う。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_rousai_Q10_5",
+                  "groupId": "sharosi_R7_rousai_Q10",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢E：労働保険事務組合に労働保険事務の処理を委託した事業主に使用されて\nいた者が、前年に当該労働保険事務組合の虚偽の届出により労災保険の保\n険給付を不正に受給していた場合、政府は当該労働保険事務組合に対し\nて、当該不正受給者と連帯し、受給金額の全部又は一部を返還すべきこと\nを命ずることができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            },
+            {
+              "categoryName": "雇用保険法",
+              "questions": [
+                {
+                  "id": "sharosi_R7_koyou_Q01_1",
+                  "groupId": "sharosi_R7_koyou_Q01",
+                  "statement": "任意適用事業に関する次の記述のうち、正しいものはどれか。\n選択肢A：公益財団法人（公益社団法人及び公益財団法人の認定等に関する法律（平\n成18年法律第49号）に基づき公益認定を受けた一般財団法人）である事業\n主の事務所は、雇用保険法第5条第1項の規定にかかわらず任意適用事業\nであり、厚生労働大臣の認可を受けて適用事業所となることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q01_2",
+                  "groupId": "sharosi_R7_koyou_Q01",
+                  "statement": "任意適用事業に関する次の記述のうち、正しいものはどれか。\n選択肢B：年間のうちごく短期間のみ陸上で行われる水産養殖業を営む個人経営事\n業所が8人の労働者を雇用している場合、雇用保険法第5条第1項の規定\nにかかわらず当該事業所は任意適用事業であり、厚生労働大臣の認可を受\nけて適用事業所となることができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q01_3",
+                  "groupId": "sharosi_R7_koyou_Q01",
+                  "statement": "任意適用事業に関する次の記述のうち、正しいものはどれか。\n選択肢C：雇用保険法附則第2条第1項に定める任意適用事業については、事業主\nが任意加入の申請をし、厚生労働大臣の認可があった場合、当該認可の翌\n日にその事業の雇用保険に係る保険関係が成立する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q01_4",
+                  "groupId": "sharosi_R7_koyou_Q01",
+                  "statement": "任意適用事業に関する次の記述のうち、正しいものはどれか。\n選択肢D：常時10人の労働者を雇用する動物の飼育の事業を行う個人経営事業所\nが、労働者の退職により労働者数が5人未満となった場合、事業の性質上\n速やかに補充を要し、事業の規模からみて5人未満の状態が一時的であっ\nても、雇用保険法附則第2条第1項に定める任意適用事業となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q01_5",
+                  "groupId": "sharosi_R7_koyou_Q01",
+                  "statement": "任意適用事業に関する次の記述のうち、正しいものはどれか。\n選択肢E：1週間の所定労働時間が20時間以上である3人の労働者及び1週間の\n所定労働時間が20時間未満である5人の労働者を雇用する植物の植栽の\n事業を行う個人経営事業所は、雇用保険法第5条第1項の規定にかかわら\nず任意適用事業であり、厚生労働大臣の認可を受けて適用事業所となるこ\nとができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q02_1",
+                  "groupId": "sharosi_R7_koyou_Q02",
+                  "statement": "雇用保険適用事業所に係る届出に関する次の記述のうち、誤っているもの\nはどれか。\nなお、本問における事業主は、労働保険事務組合に雇用保険事務を委託し\nない者である。\n選択肢A：事業の種類を変更した事業所の事業主は、その変更があった事項及び変\n更の年月日を記載した届書を、その変更があった日の翌日から起算して\n10日以内に、その事業所の所在地を管轄する公共職業安定所長に提出し\nなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q02_2",
+                  "groupId": "sharosi_R7_koyou_Q02",
+                  "statement": "雇用保険適用事業所に係る届出に関する次の記述のうち、誤っているもの\nはどれか。\nなお、本問における事業主は、労働保険事務組合に雇用保険事務を委託し\nない者である。\n選択肢B：会社の合併を理由として事業所を廃止する事業主は、当該事業所の所在\n地を管轄する公共職業安定所長に対し、当該事業所の合併に係る契約書等\n必要な書類を添付して事業所廃止届を提出しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q02_3",
+                  "groupId": "sharosi_R7_koyou_Q02",
+                  "statement": "雇用保険適用事業所に係る届出に関する次の記述のうち、誤っているもの\nはどれか。\nなお、本問における事業主は、労働保険事務組合に雇用保険事務を委託し\nない者である。\n選択肢C：製造販売の事業を行う事業所から製造部門が分離され、それぞれ独立し\nた事業所となって事業所が2つに分割された場合、分割された事業所のう\nち従たる事業所について、その事業所の所在地を管轄する公共職業安定所\n長に、事業所の設置を届け出なければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q02_4",
+                  "groupId": "sharosi_R7_koyou_Q02",
+                  "statement": "雇用保険適用事業所に係る届出に関する次の記述のうち、誤っているもの\nはどれか。\nなお、本問における事業主は、労働保険事務組合に雇用保険事務を委託し\nない者である。\n選択肢D：事業主が行わなければならない事項を行わせる代理人を選任していた事\n業主が、当該事業所を廃止したことに伴い当該代理人を解任したときは、\n当該廃止した事業所の所在地を管轄する公共職業安定所長に対して雇用保\n険代理人解任届を提出しなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q02_5",
+                  "groupId": "sharosi_R7_koyou_Q02",
+                  "statement": "雇用保険適用事業所に係る届出に関する次の記述のうち、誤っているもの\nはどれか。\nなお、本問における事業主は、労働保険事務組合に雇用保険事務を委託し\nない者である。\n選択肢E：事業主は、雇用保険事業所非該当承認を受けていた施設が事業拡大によ\nり一の事業所と認められるに至った場合、当該事業所の所在地を管轄する\n公共職業安定所長に事業所設置届を提出しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q03_1",
+                  "groupId": "sharosi_R7_koyou_Q03",
+                  "statement": "教育訓練給付金に関する次の記述のうち、正しいものはどれか。\n選択肢A：一般教育訓練を受け、修了した者に支給される教育訓練給付金の額は、\n20万円を上限とする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q03_2",
+                  "groupId": "sharosi_R7_koyou_Q03",
+                  "statement": "教育訓練給付金に関する次の記述のうち、正しいものはどれか。\n選択肢B：特定一般教育訓練を受け、修了した一般被保険者が、当該訓練の受講料\nと別に支出した検定試験の受験料は、特定一般教育訓練給付金の支給対象\nである教育訓練経費に含まれない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q03_3",
+                  "groupId": "sharosi_R7_koyou_Q03",
+                  "statement": "教育訓練給付金に関する次の記述のうち、正しいものはどれか。\n選択肢C：雇用保険法第60条の2に規定する支給要件期間が3年以上である者で\nあって、離職後1年以内に特定一般教育訓練の受講を開始し、修了し、当\n該教育訓練に係る資格を取得し、かつ、一般被保険者として当該教育訓練\nを修了した日の翌日から起算して1年以内に雇用された者は、当該教育訓\n練の受講のために支払った費用の額に100分の80を乗じて得た額の教育\n訓練給付金を受給することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q03_4",
+                  "groupId": "sharosi_R7_koyou_Q03",
+                  "statement": "教育訓練給付金に関する次の記述のうち、正しいものはどれか。\n選択肢D：専門実践教育訓練を開始した日前において高年齢被保険者の資格を喪失\nした者は、教育訓練給付金を受給することができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q03_5",
+                  "groupId": "sharosi_R7_koyou_Q03",
+                  "statement": "教育訓練給付金に関する次の記述のうち、正しいものはどれか。\n選択肢E：基本手当を受給している期間であっても、他の要件を満たす限り教育訓練\n支援給付金を受給することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q04_1",
+                  "groupId": "sharosi_R7_koyou_Q04",
+                  "statement": "次の①から⑤の過程を経た者の⑤の離職時における基本手当に係る受給期間\nの限度として正しいものはどれか。\nなお、当該者は適用事業所Ｘ及び適用事業所Ｙでその他欠勤・休職がな\nかったものとする。\n① 20歳0月で適用事業所Ｘに雇用され、初めて一般被保険者となった。\n② 育児休業給付金の支給に係る休業を31歳0月から12月間取得し、更に\n34歳0月から12月間取得し、その後職場復帰した。\n③ 39歳0月で適用事業所Ｘを離職した。\n④ 失業等給付を受給せず39歳2月で一般被保険者として適用事業所Ｙに\n雇用された。\n⑤ 適用事業所Ｙの移転により、通勤することが困難になったため45歳8\n月で離職した。なお、適用事業所Ｙの離職時、その者は雇用保険法第22\n条第2項が定める就職が困難な者でなく、職業に就くことができる状態に\nあった。\n選択肢A：1年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q04_2",
+                  "groupId": "sharosi_R7_koyou_Q04",
+                  "statement": "次の①から⑤の過程を経た者の⑤の離職時における基本手当に係る受給期間\nの限度として正しいものはどれか。\nなお、当該者は適用事業所Ｘ及び適用事業所Ｙでその他欠勤・休職がな\nかったものとする。\n① 20歳0月で適用事業所Ｘに雇用され、初めて一般被保険者となった。\n② 育児休業給付金の支給に係る休業を31歳0月から12月間取得し、更に\n34歳0月から12月間取得し、その後職場復帰した。\n③ 39歳0月で適用事業所Ｘを離職した。\n④ 失業等給付を受給せず39歳2月で一般被保険者として適用事業所Ｙに\n雇用された。\n⑤ 適用事業所Ｙの移転により、通勤することが困難になったため45歳8\n月で離職した。なお、適用事業所Ｙの離職時、その者は雇用保険法第22\n条第2項が定める就職が困難な者でなく、職業に就くことができる状態に\nあった。\n選択肢B：1年と30日",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q04_3",
+                  "groupId": "sharosi_R7_koyou_Q04",
+                  "statement": "次の①から⑤の過程を経た者の⑤の離職時における基本手当に係る受給期間\nの限度として正しいものはどれか。\nなお、当該者は適用事業所Ｘ及び適用事業所Ｙでその他欠勤・休職がな\nかったものとする。\n① 20歳0月で適用事業所Ｘに雇用され、初めて一般被保険者となった。\n② 育児休業給付金の支給に係る休業を31歳0月から12月間取得し、更に\n34歳0月から12月間取得し、その後職場復帰した。\n③ 39歳0月で適用事業所Ｘを離職した。\n④ 失業等給付を受給せず39歳2月で一般被保険者として適用事業所Ｙに\n雇用された。\n⑤ 適用事業所Ｙの移転により、通勤することが困難になったため45歳8\n月で離職した。なお、適用事業所Ｙの離職時、その者は雇用保険法第22\n条第2項が定める就職が困難な者でなく、職業に就くことができる状態に\nあった。\n選択肢C：1年と60日",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q04_4",
+                  "groupId": "sharosi_R7_koyou_Q04",
+                  "statement": "次の①から⑤の過程を経た者の⑤の離職時における基本手当に係る受給期間\nの限度として正しいものはどれか。\nなお、当該者は適用事業所Ｘ及び適用事業所Ｙでその他欠勤・休職がな\nかったものとする。\n① 20歳0月で適用事業所Ｘに雇用され、初めて一般被保険者となった。\n② 育児休業給付金の支給に係る休業を31歳0月から12月間取得し、更に\n34歳0月から12月間取得し、その後職場復帰した。\n③ 39歳0月で適用事業所Ｘを離職した。\n④ 失業等給付を受給せず39歳2月で一般被保険者として適用事業所Ｙに\n雇用された。\n⑤ 適用事業所Ｙの移転により、通勤することが困難になったため45歳8\n月で離職した。なお、適用事業所Ｙの離職時、その者は雇用保険法第22\n条第2項が定める就職が困難な者でなく、職業に就くことができる状態に\nあった。\n選択肢D：4年",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q04_5",
+                  "groupId": "sharosi_R7_koyou_Q04",
+                  "statement": "次の①から⑤の過程を経た者の⑤の離職時における基本手当に係る受給期間\nの限度として正しいものはどれか。\nなお、当該者は適用事業所Ｘ及び適用事業所Ｙでその他欠勤・休職がな\nかったものとする。\n① 20歳0月で適用事業所Ｘに雇用され、初めて一般被保険者となった。\n② 育児休業給付金の支給に係る休業を31歳0月から12月間取得し、更に\n34歳0月から12月間取得し、その後職場復帰した。\n③ 39歳0月で適用事業所Ｘを離職した。\n④ 失業等給付を受給せず39歳2月で一般被保険者として適用事業所Ｙに\n雇用された。\n⑤ 適用事業所Ｙの移転により、通勤することが困難になったため45歳8\n月で離職した。なお、適用事業所Ｙの離職時、その者は雇用保険法第22\n条第2項が定める就職が困難な者でなく、職業に就くことができる状態に\nあった。\n選択肢E：4年と30日",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q05_1",
+                  "groupId": "sharosi_R7_koyou_Q05",
+                  "statement": "定年退職者等の基本手当に関する次の記述のうち、正しいものはどれか。\n選択肢A：60歳の定年に達した後、1年更新の再雇用制度により65歳まで引き続\nき雇用されることとなった場合に、63歳の更新時に更新を希望せずに退\n職したときは、受給期間の延長が認められない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q05_2",
+                  "groupId": "sharosi_R7_koyou_Q05",
+                  "statement": "定年退職者等の基本手当に関する次の記述のうち、正しいものはどれか。\n選択肢B：船員であった被保険者が、労働協約、就業規則等により制度的に勤務延\n長又は再雇用制度が設けられていない事業所を55歳の定年により離職し\nた場合、当該離職により受給資格を取得したときは、受給期間の延長が認\nめられない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q05_3",
+                  "groupId": "sharosi_R7_koyou_Q05",
+                  "statement": "定年退職者等の基本手当に関する次の記述のうち、正しいものはどれか。\n選択肢C：定年退職者が離職後一定期間求職の申込みをしないことを希望する場合\nの受給期間延長の申出は、やむを得ない理由がない限り、当該申出に係る\n離職の日の翌日から起算して1か月以内にしなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q05_4",
+                  "groupId": "sharosi_R7_koyou_Q05",
+                  "statement": "定年退職者等の基本手当に関する次の記述のうち、正しいものはどれか。\n選択肢D：定年退職者等の受給期間の延長を5か月認められた者が、当該5か月の\n延長期間内に負傷により職業に就くことができない期間が連続して90日\n間ある場合、当該負傷により職業に就くことができない期間に係る受給期\n間は延長されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q05_5",
+                  "groupId": "sharosi_R7_koyou_Q05",
+                  "statement": "定年退職者等の基本手当に関する次の記述のうち、正しいものはどれか。\n選択肢E：受給期間の延長の措置を受けようとする者は、当該延長の申出を郵送に\nより行うことができず、当該者が管轄公共職業安定所に出頭し当該延長を\n申し出なければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q07_1",
+                  "groupId": "sharosi_R7_koyou_Q07",
+                  "statement": "解雇の効力について争いがある場合の基本手当に関する次の記述のうち、\n誤っているものはどれか。\n選択肢A：離職を認めず解雇の効力について争っているものの基本手当を受給して\nいる受給資格者が、事業所との間で雇用関係は継続するがその間賃金は支\n払わない旨の裁判上の和解が成立したときは、当該賃金を支払わないとさ\nれた間に支給を受けた基本手当を返還しないことができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q07_2",
+                  "groupId": "sharosi_R7_koyou_Q07",
+                  "statement": "解雇の効力について争いがある場合の基本手当に関する次の記述のうち、\n誤っているものはどれか。\n選択肢B：基本手当を受給している者に対し賃金支払いの仮処分命令により解雇時\nに遡及して賃金が支払われた場合、当該者は支給を受けた基本手当を返還\nしなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q07_3",
+                  "groupId": "sharosi_R7_koyou_Q07",
+                  "statement": "解雇の効力について争いがある場合の基本手当に関する次の記述のうち、\n誤っているものはどれか。\n選択肢C：解雇の効力について係争中に事業所が廃止となり、解雇無効の判決が確\n定しても原状回復の実現が不可能と認められる場合には、判決に先立って\n行われた資格喪失の確認処分は取り消されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q07_4",
+                  "groupId": "sharosi_R7_koyou_Q07",
+                  "statement": "解雇の効力について争いがある場合の基本手当に関する次の記述のうち、\n誤っているものはどれか。\n選択肢D：Ｘ社を解雇された基本手当の受給資格者が、Ｘ社における解雇の効力に\nついて係争中に適用事業所であるＹ社に就職し一般被保険者の資格を取得\nした。その後、Ｘ社に係る解雇無効の判決が確定し、Ｙ社就職中の収入を\n控除してＸ社の賃金が支払われた。この場合、Ｙ社就職中の収入の額がＸ\n社から支払われた賃金の額以上である期間については、当該者の希望によ\nり、いずれか一方の事業主との雇用関係について被保険者資格を取得する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q07_5",
+                  "groupId": "sharosi_R7_koyou_Q07",
+                  "statement": "解雇の効力について争いがある場合の基本手当に関する次の記述のうち、\n誤っているものはどれか。\n選択肢E：労働者が事業主の行った解雇について労働組合法第7条に違反するから\n無効であると主張し、当該労働者が加入する労働組合が労働委員会に対し\nて不当労働行為の申立てをしその効力を争っている場合においては、救済\n命令が確定するまでは、他の要件を満たす限り当該労働者は基本手当の支\n給を受けることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q08_1",
+                  "groupId": "sharosi_R7_koyou_Q08",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢A：継続事業を営む事業主が、当該事業に係る労働保険事務の処理を労働保\n険事務組合に委託している場合、令和6年11月1日に保険関係が成立し\nた事業について当該保険年度の概算保険料を延納することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q08_2",
+                  "groupId": "sharosi_R7_koyou_Q08",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢B：令和7年8月1日に保険関係が成立した一括有期事業について、納付す\nべき当該保険年度の概算保険料の額が50万円のとき、事業主は当該概算\n保険料を延納することができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q08_3",
+                  "groupId": "sharosi_R7_koyou_Q08",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢C：一般保険料の算定基礎となる賃金総額の見込額を500万円として算定し\n納期限までに概算保険料を納付した後、賃金総額の見込額が1，200万円に\n増加し、増加後の賃金総額の見込額に基づき算定した概算保険料の額と既\nに納付した概算保険料との差額が122，500円であるとき、事業主はその差\n額を所定の期限までに納付書を添えて納付しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q08_4",
+                  "groupId": "sharosi_R7_koyou_Q08",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢D：事業主が所定の納期限までに概算保険料申告書を提出しなかったため、\n政府が納付すべき概算保険料の額を決定し、これを当該事業主に対して令\n和7年8月20日に通知を発した場合、当該事業主の未納額の納期限は同\n年9月19日となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q08_5",
+                  "groupId": "sharosi_R7_koyou_Q08",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢E：政府が保険年度の中途で保険料率の改定を行い、雇用保険率が引き上げ\nられた場合、事業主が既に概算保険料の延納を認められているとき、当該\n事業主は所轄都道府県労働局歳入徴収官が発する追加徴収の通知により指\n定された納期限までに延納の申請をすることで追加徴収される概算保険料\nについても延納することができ、その最初の期分の追加徴収される概算保\n険料の納期限は、当該通知を発した日が令和7年10月20日であった場\n合、同年11月19日となる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q09_1",
+                  "groupId": "sharosi_R7_koyou_Q09",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、誤っているものは\nどれか。\nなお、本問において「特例対象者」とは、雇用保険法第22条第5項に規定\nする者をいう。\n選択肢A：特例納付保険料を納付することができる事業主は、2年以内の算定基礎\n期間を遡及して計算することが可能な特例対象者を雇用していた事業主で\nある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q09_2",
+                  "groupId": "sharosi_R7_koyou_Q09",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、誤っているものは\nどれか。\nなお、本問において「特例対象者」とは、雇用保険法第22条第5項に規定\nする者をいう。\n選択肢B：特例納付保険料の納付手続については、労働保険徴収法第15条及び同\n法第19条に定める概算・確定保険料の納付手続に係る規定は適用されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q09_3",
+                  "groupId": "sharosi_R7_koyou_Q09",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、誤っているものは\nどれか。\nなお、本問において「特例対象者」とは、雇用保険法第22条第5項に規定\nする者をいう。\n選択肢C：特例納付保険料の納付の申出は、事業主の氏名又は名称及び住所又は所\n在地、労働保険番号並びに特例納付保険料の額を記載した書面を都道府県\n労働局長に提出することによって行わなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q09_4",
+                  "groupId": "sharosi_R7_koyou_Q09",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、誤っているものは\nどれか。\nなお、本問において「特例対象者」とは、雇用保険法第22条第5項に規定\nする者をいう。\n選択肢D：特例納付保険料の対象事業主が労働保険事務組合に労働保険事務の処理\nを委託している場合、当該労働保険事務組合は特例納付保険料の納付等に\n係る事務を処理することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q09_5",
+                  "groupId": "sharosi_R7_koyou_Q09",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、誤っているものは\nどれか。\nなお、本問において「特例対象者」とは、雇用保険法第22条第5項に規定\nする者をいう。\n選択肢E：特例納付保険料の納付の申出を行った対象事業主が、特例納付保険料を\n納付する場合の納付先は、日本銀行又は都道府県労働局収入官吏とされて\nいる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q10_1",
+                  "groupId": "sharosi_R7_koyou_Q10",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢A：概算保険料額の認定決定の処分がなされ、当該処分について不服がある\n者は、所轄都道府県労働局の労働保険審査官に対して審査請求をすること\nができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q10_2",
+                  "groupId": "sharosi_R7_koyou_Q10",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢B：概算保険料額の認定決定の処分がなされ、当該処分に不服がある場合、\n当該処分があったことを知った日から3か月以内かつ処分の日から1年以\n内でなければ、取消訴訟を提起することができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q10_3",
+                  "groupId": "sharosi_R7_koyou_Q10",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢C：概算保険料額の認定決定の処分がなされ、当該処分に不服がある場合、\n審査請求の裁決を経た後でなければ、当該処分の取消しの訴えを提起する\nことができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q10_4",
+                  "groupId": "sharosi_R7_koyou_Q10",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢D：当該保険年度の概算保険料を期限内に申告納付したが、誤って当該概算\n保険料を同一期限内に再度納付したため誤納金が生じた場合、再度納付し\nた日の翌日から起算して2年を経過したとき、当該誤納金の還付を受ける\n権利は時効によって消滅する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_koyou_Q10_5",
+                  "groupId": "sharosi_R7_koyou_Q10",
+                  "statement": "労働保険の保険料の徴収等に関する次の記述のうち、正しいものはどれか。\n選択肢E：概算保険料の確定精算に基づき納付すべき不足額が時効で消滅している\n場合、納付義務者がその時効による利益を放棄して納付する意思を示した\nときは、政府はその徴収権を行使できる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            },
+            {
+              "categoryName": "労務管理その他の労働及び社会保険に関する一般常識",
+              "questions": [
+                {
+                  "id": "sharosi_R7_ippan_Q01_1",
+                  "groupId": "sharosi_R7_ippan_Q01",
+                  "statement": "我が国の外国人雇用に関する次の記述のうち、正しいものはどれか。\nなお、本問は、「令和5年外国人雇用実態調査（厚生労働省）」を参照してお\nり、当該調査による用語及び統計等を利用している。\n選択肢A：外国人常用労働者（雇用保険被保険者数5人以上事業所）は約160万人と\nなっており、産業別にみると、「製造業」が最も多くなっている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q01_2",
+                  "groupId": "sharosi_R7_ippan_Q01",
+                  "statement": "我が国の外国人雇用に関する次の記述のうち、正しいものはどれか。\nなお、本問は、「令和5年外国人雇用実態調査（厚生労働省）」を参照してお\nり、当該調査による用語及び統計等を利用している。\n選択肢B：外国人常用労働者の国籍・地域をみると、「中国（香港、マカオ含む）」が\n最も多く、次いで「ベトナム」、「フィリピン」の順となっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q01_3",
+                  "groupId": "sharosi_R7_ippan_Q01",
+                  "statement": "我が国の外国人雇用に関する次の記述のうち、正しいものはどれか。\nなお、本問は、「令和5年外国人雇用実態調査（厚生労働省）」を参照してお\nり、当該調査による用語及び統計等を利用している。\n選択肢C：外国人常用労働者の職業をみると、「専門的・技術的職業従事者」が最も\n多く、次いで「生産工程従事者」、「サービス職業従事者」の順となっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q01_4",
+                  "groupId": "sharosi_R7_ippan_Q01",
+                  "statement": "我が国の外国人雇用に関する次の記述のうち、正しいものはどれか。\nなお、本問は、「令和5年外国人雇用実態調査（厚生労働省）」を参照してお\nり、当該調査による用語及び統計等を利用している。\n選択肢D：外国人労働者を雇用する理由（事業所計）をみると、「日本人と同等また\nはそれ以上の活躍を期待して」が最も多く、次いで「労働力不足の解消・緩和\nのため」、「事業所の国際化、多様性の向上を図るため」、「日本人にはない\n知識、技術の活用を期待して」の順となっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q01_5",
+                  "groupId": "sharosi_R7_ippan_Q01",
+                  "statement": "我が国の外国人雇用に関する次の記述のうち、正しいものはどれか。\nなお、本問は、「令和5年外国人雇用実態調査（厚生労働省）」を参照してお\nり、当該調査による用語及び統計等を利用している。\n選択肢E：外国人労働者の雇用に関する課題（事業所計）をみると、「在留資格申請\n等の事務負担が面倒・煩雑」が最も多く、次いで「日本語能力等のために\nコミュニケーションが取りにくい」、「在留資格によっては在留期間の上限\nがある」、「文化、価値観、生活習慣等の違いによるトラブルがある」の順\nとなっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q02_1",
+                  "groupId": "sharosi_R7_ippan_Q02",
+                  "statement": "我が国の障害者雇用に関する次の記述のうち、誤っているものはどれか。\nなお、本問は、「令和5年度障害者雇用実態調査（厚生労働省）」を参照して\nおり、当該調査による用語及び統計等を利用している。\n選択肢A：産業別に身体障害者の雇用者数の割合をみると、「製造業」で最も多く雇\n用され、次いで「卸売業、小売業」となっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q02_2",
+                  "groupId": "sharosi_R7_ippan_Q02",
+                  "statement": "我が国の障害者雇用に関する次の記述のうち、誤っているものはどれか。\nなお、本問は、「令和5年度障害者雇用実態調査（厚生労働省）」を参照して\nおり、当該調査による用語及び統計等を利用している。\n選択肢B：企業規模別に身体障害者の雇用者数の割合をみると、「100～499人規\n模」で最も多く、次いで「1，000人以上規模」、「30～99人規模」、「5～29\n人規模」の順となっている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q02_3",
+                  "groupId": "sharosi_R7_ippan_Q02",
+                  "statement": "我が国の障害者雇用に関する次の記述のうち、誤っているものはどれか。\nなお、本問は、「令和5年度障害者雇用実態調査（厚生労働省）」を参照して\nおり、当該調査による用語及び統計等を利用している。\n選択肢C：身体障害者の雇用上の課題がある事業所の割合は6割を超えている。こ\nのうち、課題として回答されたものの中では、「会社内に適当な仕事があ\nるか」が最も多く、次いで「職場の安全面の配慮が適切にできるか」、「障害\n者を雇用するイメージやノウハウがない」の順となっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q02_4",
+                  "groupId": "sharosi_R7_ippan_Q02",
+                  "statement": "我が国の障害者雇用に関する次の記述のうち、誤っているものはどれか。\nなお、本問は、「令和5年度障害者雇用実態調査（厚生労働省）」を参照して\nおり、当該調査による用語及び統計等を利用している。\n選択肢D：身体障害者の雇用上の配慮をしている事業所の割合は5割を超えてい\nる。このうち、配慮していることとして回答されたものの中では、「休暇\nを取得しやすくする、勤務中の休憩を認める等休養への配慮」が最も多\nく、次いで「通院・服薬管理等雇用管理上の配慮」、「短時間勤務等勤務時\n間の配慮」の順となっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q02_5",
+                  "groupId": "sharosi_R7_ippan_Q02",
+                  "statement": "我が国の障害者雇用に関する次の記述のうち、誤っているものはどれか。\nなお、本問は、「令和5年度障害者雇用実態調査（厚生労働省）」を参照して\nおり、当該調査による用語及び統計等を利用している。\n選択肢E：身体障害者を雇用する上で関係機関に期待する取組としては、「具体的\nな労働条件、職務内容、環境整備などが相談できる窓口の設置」が最も多\nく、次いで「障害者雇用支援設備・施設・機器の設置のための助成・援\n助」、「障害者雇用に関する広報・啓発」の順となっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q03_1",
+                  "groupId": "sharosi_R7_ippan_Q03",
+                  "statement": "労働者派遣に関する次の記述のうち、正しいものはどれか。\nなお、本問は、「令和4年派遣労働者実態調査（事業所調査）（厚生労働省）」\nを参照しており、当該調査による用語及び統計等を利用している。\n選択肢A：派遣労働者が就業している事業所について、全労働者数に対する派遣労\n働者の割合を産業別にみると、「宿泊業、飲食サービス業」の割合が最も高\nくなっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q03_2",
+                  "groupId": "sharosi_R7_ippan_Q03",
+                  "statement": "労働者派遣に関する次の記述のうち、正しいものはどれか。\nなお、本問は、「令和4年派遣労働者実態調査（事業所調査）（厚生労働省）」\nを参照しており、当該調査による用語及び統計等を利用している。\n選択肢B：派遣労働者が就業している事業所について、派遣労働者を就業させる理\n由（複数回答3つまで）をみると、「雇用管理の負担が軽減されるため」の割\n合が最も高く、次いで「一時的・季節的な業務量の変動に対処するため」、\n「欠員補充等必要な人員を迅速に確保できるため」の順となっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q03_3",
+                  "groupId": "sharosi_R7_ippan_Q03",
+                  "statement": "労働者派遣に関する次の記述のうち、正しいものはどれか。\nなお、本問は、「令和4年派遣労働者実態調査（事業所調査）（厚生労働省）」\nを参照しており、当該調査による用語及び統計等を利用している。\n選択肢C：派遣労働者が就業している事業所について、全労働者数に対する派遣労\n働者の割合を事業所規模別にみると、事業所規模が小さいほど高くなって\nいる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q03_4",
+                  "groupId": "sharosi_R7_ippan_Q03",
+                  "statement": "労働者派遣に関する次の記述のうち、正しいものはどれか。\nなお、本問は、「令和4年派遣労働者実態調査（事業所調査）（厚生労働省）」\nを参照しており、当該調査による用語及び統計等を利用している。\n選択肢D：派遣労働者が就業している事業所について、過去1年間（令和3年10月\n1日から令和4年9月30日）における派遣労働者に対する教育訓練・能力\n開発の実施の有無をみると、「実施した」が約3割となっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q03_5",
+                  "groupId": "sharosi_R7_ippan_Q03",
+                  "statement": "労働者派遣に関する次の記述のうち、正しいものはどれか。\nなお、本問は、「令和4年派遣労働者実態調査（事業所調査）（厚生労働省）」\nを参照しており、当該調査による用語及び統計等を利用している。\n選択肢E：派遣労働者が就業している事業所について、派遣労働者の不合理な待遇\n格差の解消に向けた派遣先労働者の待遇情報及び派遣労働者の派遣先にお\nける職務の評価情報の提供について、派遣元事業所から情報の提供が求め\nられ、実際に提供したことがある事業所を提供した情報の種類別にみる\nと、「福利厚生施設（給食施設、休憩室、更衣室）」の割合が最も高く、次い\nで「派遣先が行った派遣労働者の職務の評価情報（働きぶりや勤務態度）」、\n「業務に必要な能力を付与するための教育訓練」の順となっている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q04_1",
+                  "groupId": "sharosi_R7_ippan_Q04",
+                  "statement": "労働契約法等に関する次の記述のうち、誤っているものはどれか。\n選択肢A：「労働者と使用者との間に当該労働者の職種や業務内容を特定のものに\n限定する旨の合意がある場合には、使用者は、当該労働者に対し、その個\n別的同意なしに当該合意に反する配置転換を命ずる権限を有しないと解さ\nれる。」とするのが、最高裁判所の判例である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q04_2",
+                  "groupId": "sharosi_R7_ippan_Q04",
+                  "statement": "労働契約法等に関する次の記述のうち、誤っているものはどれか。\n選択肢B：労働契約法第3条第2項は、労働契約の締結又は変更に当たり、均衡を\n考慮することが重要であることから、労働契約の締結当事者である労働者\n及び使用者が、労働契約を締結し、又は変更する場合には、就業の実態に\n応じて、均衡を考慮すべきものとするという「均衡考慮の原則」を規定して\nいるが、この考慮すべき均衡には、異なる雇用形態間の均衡も含まれる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q04_3",
+                  "groupId": "sharosi_R7_ippan_Q04",
+                  "statement": "労働契約法等に関する次の記述のうち、誤っているものはどれか。\n選択肢C：労働契約法第4条第1項は、「使用者は、労働者に提示する労働条件及\nび労働契約の内容について、労働者の理解を深めるようにするものとす\nる。」と定めているが、これには労働契約の締結前において使用者が提示し\nた労働条件について説明等をする場面や、労働契約が締結又は変更されて\n継続している間の各場面が広く含まれるものであり、労働基準法第15条\n第1項により労働条件の明示が義務付けられている労働契約の締結時より\n広いものである。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q04_4",
+                  "groupId": "sharosi_R7_ippan_Q04",
+                  "statement": "労働契約法等に関する次の記述のうち、誤っているものはどれか。\n選択肢D：「労働者が使用者（出向元）との間の雇用契約に基づく従業員たる身分を\n保有しながら第三者（出向先）の指揮監督の下に労務を提供するという形態\nの出向（いわゆる在籍出向）が命じられた場合において、その後出向元が、\n出向先の同意を得た上、右出向関係を解消して労働者に対し復帰を命ずる\nについては、原則として当該労働者の同意を得る必要があるものと解すべ\nきである。」とするのが、最高裁判所の判例である。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q04_5",
+                  "groupId": "sharosi_R7_ippan_Q04",
+                  "statement": "労働契約法等に関する次の記述のうち、誤っているものはどれか。\n選択肢E：労働契約法第18条第1項に基づき、有期契約労働者が無期労働契約へ\nの転換を申し込むことができる権利（以下本肢において「無期転換申込権」\nという。）が生じている有期労働契約の契約期間が満了する日までの間に無\n期転換申込権を行使しなかった場合であっても、引き続き有期労働契約が\n更新された場合は、新たに無期転換申込権が発生し、有期契約労働者は、\n更新後の有期労働契約の契約期間が満了する日までの間に、無期転換申込\n権を行使することが可能である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q05_1",
+                  "groupId": "sharosi_R7_ippan_Q05",
+                  "statement": "社会保険労務士法令に関する次の記述のうち、正しいものはどれか。\n選択肢A：社会保険労務士法第2条第1項第1号の2にいう「提出に関する手続を\n代わつてする」は、法律行為の代理のことをいい、本来事業主が意思決定\nすべき事項にも及ぶため、代理業務、即ち申告、申請、不服申立等につい\nて事業主その他の本人から委任を受けて代理人として事務を処理すること\nが含まれる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q05_2",
+                  "groupId": "sharosi_R7_ippan_Q05",
+                  "statement": "社会保険労務士法令に関する次の記述のうち、正しいものはどれか。\n選択肢B：特定社会保険労務士は、男女雇用機会均等法に定める調停手続において\n紛争当事者の代理人としての業務を行うことができ、調停委員や相手方の\n当事者への説明、主張、陳述、答弁等のほか、調停案の受諾、拒否もその\n業務に含まれる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q05_3",
+                  "groupId": "sharosi_R7_ippan_Q05",
+                  "statement": "社会保険労務士法令に関する次の記述のうち、正しいものはどれか。\n選択肢C：社会保険労務士について、社会保険労務士法第25条の2（不正行為の指\n示等を行った場合の懲戒）や同法第25条の3（一般の懲戒）に規定する行為\n又は事実があると認めたときは、社会保険労務士会の会員、社会保険労務\n士会又は全国社会保険労務士会連合会に限り、厚生労働大臣に対し、当該\n社会保険労務士の氏名及びその行為又は事実を通知し、適当な措置をとる\nべきことを求めることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q05_4",
+                  "groupId": "sharosi_R7_ippan_Q05",
+                  "statement": "社会保険労務士法令に関する次の記述のうち、正しいものはどれか。\n選択肢D：社会保険労務士法人の社員には、社会保険労務士でない者もなることが\nできる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q05_5",
+                  "groupId": "sharosi_R7_ippan_Q05",
+                  "statement": "社会保険労務士法令に関する次の記述のうち、正しいものはどれか。\n選択肢E：社会保険労務士法人の社員は、第三者のためにその属する社会保険労務\n士法人の業務の範囲に属する業務を行ってはならないが、自己のためにこ\nれを行うことはできる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q06_1",
+                  "groupId": "sharosi_R7_ippan_Q06",
+                  "statement": "社会保険制度の被保険者及び給付に関する次の記述のうち、正しいものは\nどれか。\n選択肢A：国民健康保険において、国民健康保険法第54条の4第1項によると、\n市町村（特別区を含む。以下本問において同じ。）及び国民健康保険組合\nは、被保険者が療養の給付（保険外併用療養費に係る療養及び特別療養費\nに係る療養を含む。）を受けるため病院又は診療所に移送されたとき、当該\n被保険者の属する世帯の世帯主又は組合員に対する移送費は、支給しない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q06_2",
+                  "groupId": "sharosi_R7_ippan_Q06",
+                  "statement": "社会保険制度の被保険者及び給付に関する次の記述のうち、正しいものは\nどれか。\n選択肢B：後期高齢者医療制度において、高齢者医療確保法第54条第1項による\nと、被保険者は、厚生労働省令で定めるところにより、被保険者の資格の\n取得及び喪失に関する事項その他必要な事項を市町村に届け出なければな\nらない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q06_3",
+                  "groupId": "sharosi_R7_ippan_Q06",
+                  "statement": "社会保険制度の被保険者及び給付に関する次の記述のうち、正しいものは\nどれか。\n選択肢C：介護保険において、65歳以上の被保険者に関しては、介護保険法第9\n条によると、市町村の区域内に住所を有する65歳以上の者（生活保護法に\nよる保護を受けている世帯（その保護を停止されている世帯を除く。）に属\nする者を除く。）は、当該市町村が行う介護保険の被保険者とする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q06_4",
+                  "groupId": "sharosi_R7_ippan_Q06",
+                  "statement": "社会保険制度の被保険者及び給付に関する次の記述のうち、正しいものは\nどれか。\n選択肢D：船員保険において、船員保険法第94条によると、行方不明手当金の額\nは、1日につき、被保険者が行方不明となった当時の標準報酬日額の100\n分の80に相当する金額とする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q06_5",
+                  "groupId": "sharosi_R7_ippan_Q06",
+                  "statement": "社会保険制度の被保険者及び給付に関する次の記述のうち、正しいものは\nどれか。\n選択肢E：国民健康保険において、国民健康保険法第58条第1項及び第2項によ\nると、市町村及び国民健康保険組合は、被保険者の出産及び死亡に関して\nは、条例又は規約の定めるところにより、出産育児一時金の支給又は葬祭\n費の支給若しくは葬祭の給付を行うものとする。これらの保険給付のほ\nか、条例又は規約の定めるところにより、傷病手当金の支給も行うことが\nできる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q07_1",
+                  "groupId": "sharosi_R7_ippan_Q07",
+                  "statement": "確定拠出年金法に関する次の記述のうち、正しいものはどれか。\n選択肢A：確定拠出年金法第62条第2項によると、個人型年金の老齢給付金の受\n給権を有する者であった者は、個人型年金加入者となることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q07_2",
+                  "groupId": "sharosi_R7_ippan_Q07",
+                  "statement": "確定拠出年金法に関する次の記述のうち、正しいものはどれか。\n選択肢B：国民年金基金連合会（以下本問において「連合会」という。）は、少なくとも\n10年ごとに、個人型年金加入者数の動向、企業型年金の実施の状況、国\n民生活の動向等を勘案し、個人型年金規約の内容について再検討を加え、\n必要があると認めるときは、個人型年金規約を変更しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q07_3",
+                  "groupId": "sharosi_R7_ippan_Q07",
+                  "statement": "確定拠出年金法に関する次の記述のうち、正しいものはどれか。\n選択肢C：個人型年金の給付は、老齢給付金、遺族給付金及び死亡一時金とする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q07_4",
+                  "groupId": "sharosi_R7_ippan_Q07",
+                  "statement": "確定拠出年金法に関する次の記述のうち、正しいものはどれか。\n選択肢D：確定拠出年金法第60条第1項及び第3項によると、連合会は、政令で\n定めるところにより、運営管理業務を確定拠出年金運営管理機関に委託す\nることができる。また、確定拠出年金運営管理機関は、政令で定めるとこ\nろにより、当該委託を受けた運営管理業務の一部を他の確定拠出年金運営\n管理機関に再委託することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q07_5",
+                  "groupId": "sharosi_R7_ippan_Q07",
+                  "statement": "確定拠出年金法に関する次の記述のうち、正しいものはどれか。\n選択肢E：個人型年金加入者期間を計算する場合には、月によるものとし、個人型\n年金加入者の資格を取得した月からその資格を喪失した月の前月までをこ\nれに算入する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q08_1",
+                  "groupId": "sharosi_R7_ippan_Q08",
+                  "statement": "高齢者医療確保法に関する次の記述のうち、正しいものはどれか。\n選択肢A：後期高齢者医療広域連合、都道府県及び市町村（特別区を含む。）は、後\n期高齢者医療に関する収入及び支出について、政令で定めるところによ\nり、特別会計を設けなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q08_2",
+                  "groupId": "sharosi_R7_ippan_Q08",
+                  "statement": "高齢者医療確保法に関する次の記述のうち、正しいものはどれか。\n選択肢B：後期高齢者医療広域連合が行う後期高齢者医療の被保険者は、後期高齢\n者医療広域連合の区域内に住所を有する75歳以上の者のみとされる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q08_3",
+                  "groupId": "sharosi_R7_ippan_Q08",
+                  "statement": "高齢者医療確保法に関する次の記述のうち、正しいものはどれか。\n選択肢C：高齢者医療確保法第109条によると、普通徴収の方法によって徴収する\n保険料の納期は、後期高齢者医療広域連合の条例で定める。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q08_4",
+                  "groupId": "sharosi_R7_ippan_Q08",
+                  "statement": "高齢者医療確保法に関する次の記述のうち、正しいものはどれか。\n選択肢D：高齢者医療確保法第111条によると、後期高齢者医療広域連合は、条例\nで定めるところにより、特別の理由がある者に対し、保険料を減免し、又\nはその徴収を猶予することができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_ippan_Q08_5",
+                  "groupId": "sharosi_R7_ippan_Q08",
+                  "statement": "高齢者医療確保法に関する次の記述のうち、正しいものはどれか。\n選択肢E：後期高齢者医療広域連合が行う後期高齢者医療の被保険者は、当該後期\n高齢者医療広域連合の区域内に住所を有しなくなった日に他の後期高齢者\n医療広域連合の区域内に住所を有するに至ったときは、その日の翌日か\nら、その資格を喪失する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            },
+            {
+              "categoryName": "健康保険法",
+              "questions": [
+                {
+                  "id": "sharosi_R7_kenkou_Q01_1",
+                  "groupId": "sharosi_R7_kenkou_Q01",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢A：健康保険組合は、議決機関として組合会が置かれている。組合会議員の\n定数は偶数で、その半数は設立事業所の事業主及び設立事業所に使用され\nる者のうちから選定し、他の半数は、被保険者である組合員において互選\nする。組合会議員の任期は5年とし、補欠の組合会議員の任期は、前任者\nの残任期間とする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q01_2",
+                  "groupId": "sharosi_R7_kenkou_Q01",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢B：被保険者の資格を喪失した日の前日まで引き続き1年以上被保険者で\nあった者が、被保険者の資格を喪失した日後6か月以内に出産したとき\nは、出産した日の翌日から起算して5年を経過する日までの間、被保険者\nとして受けることができるはずであった出産育児一時金の支給を最後の保\n険者から受けることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q01_3",
+                  "groupId": "sharosi_R7_kenkou_Q01",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢C：日本年金機構の理事長は、収納職員が交替するときは、年金事務所ごと\nに機構の職員のうちから検査員を命じて、当該収納職員の帳簿金庫を検査\nさせなければならない。また、前任の収納職員は、交替の日をもって、そ\nの月分の保険料等収納簿の締切りをし、健康保険法の規定による検査を受\nけた上、引継ぎの年月日を記入し、後任の収納職員とともに記名して認印\nを押さなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q01_4",
+                  "groupId": "sharosi_R7_kenkou_Q01",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢D：日雇特例被保険者は、介護保険第2号被保険者に該当しなくなったとき\n又は該当することになったときは、5日以内に、厚生労働大臣又は指定市\n町村長に日雇特例被保険者手帳を提出して、その交換を申請しなければな\nらない。なお、介護保険適用除外に該当、非該当の届出は、当該申請と同\n時に行うものとされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q01_5",
+                  "groupId": "sharosi_R7_kenkou_Q01",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢E：日雇拠出金の規定により日雇関係組合から徴収する日雇拠出金の額は、\n当該年度の概算日雇拠出金の額とする。ただし、前年度の概算日雇拠出金\nの額が前年度の確定日雇拠出金の額を超えるときは、当該年度の概算日雇\n拠出金の額からその超える額を控除して得た額とするものとし、前年度の\n概算日雇拠出金の額が前年度の確定日雇拠出金の額に満たないときは、当\n該年度の概算日雇拠出金の額にその満たない額を加算して得た額とする。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q03_1",
+                  "groupId": "sharosi_R7_kenkou_Q03",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢A：日雇特例被保険者又はその被扶養者は、保険者より交付された特別療養\n費受給票を保険医療機関等に提出して、特別療養費の支給を受けることが\nできる。特別療養費受給票は、特別療養費の支給を受けることのできる日\n雇特例被保険者で、初めて特別療養費の支給に係る日雇特例被保険者手帳\nの交付を受けた日の属する月の初日から起算して3か月（月の初日に日雇\n特例被保険者手帳の交付を受けた者については、2か月）を経過していな\nい者等の申請により、保険者が交付する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q03_2",
+                  "groupId": "sharosi_R7_kenkou_Q03",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢B：偽りその他不正の行為によって保険給付を受けた者から保険者がその保\n険給付の価額の全部又は一部を徴収する場合において、事業主が虚偽の報\n告若しくは証明をし、又は保険医療機関において診療に従事する保険医若\nしくは主治の医師が、保険者に提出されるべき診断書に虚偽の記載をした\nため、その保険給付が行われたものであるときは、保険者は、当該事業\n主、保険医又は主治の医師に対し、保険給付を受けた者に連帯して徴収金\nを納付すべきことを命ずることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q03_3",
+                  "groupId": "sharosi_R7_kenkou_Q03",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢C：日雇特例被保険者を使用する事業主（日雇特例被保険者が1日において\n2以上の事業所に使用される場合においては、その者を使用するそれぞれ\nの事業主）は、日雇特例被保険者を使用する日ごとに、その者及び自己の\n負担すべきその日の標準賃金日額に係る保険料を納付する義務を負う。事\n業主は、この規定により保険料を納付したときは、日雇特例被保険者の負\n担すべき保険料額に相当する額をその者に支払う賃金から控除することが\nできる。この場合においては、事業主は、その旨を日雇特例被保険者に告\nげなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q03_4",
+                  "groupId": "sharosi_R7_kenkou_Q03",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢D：事業主は、被保険者の資格の取得及び喪失の確認又は標準報酬（標準報\n酬月額及び標準賞与額をいう。）の決定若しくは改定の通知があったとき\nは、速やかに、これを被保険者又は被保険者であった者に通知しなければ\nならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q03_5",
+                  "groupId": "sharosi_R7_kenkou_Q03",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢E：保険料等の賦課若しくは徴収の処分又は滞納処分に不服のある者は、社\n会保険審査会に対して審査請求をすることができる。この不服申立てに対\nする審査は一審制で行われる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q04_1",
+                  "groupId": "sharosi_R7_kenkou_Q04",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢A：被保険者は、介護保険第2号被保険者に該当しない被保険者又はその被\n扶養者が介護保険第2号被保険者に該当するに至ったときは、遅滞なく、\n所定の事項を記載した届書を事業主を経由して厚生労働大臣又は健康保険\n組合に届け出なければならない。ただし、被保険者又はその被扶養者が\n40歳に達したときは、この限りでない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q04_2",
+                  "groupId": "sharosi_R7_kenkou_Q04",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢B：保険者等は、被保険者の報酬月額が、定時決定、資格取得時決定、育児\n休業等終了時改定若しくは産前産後休業終了時改定の規定によって算定す\nることが困難であるとき、又は定時決定、資格取得時決定、随時改定、育\n児休業等終了時改定若しくは産前産後休業終了時改定の規定によって算定\nした額が著しく不当であると認めるときは、これらの規定にかかわらず、\nその算定する額を当該被保険者の報酬月額とする。上記の場合において、\n保険者が健康保険組合であるときは、算定方法は規約で定めなければなら\nない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q04_3",
+                  "groupId": "sharosi_R7_kenkou_Q04",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢C：事業主は、健康保険法の規定に基づいて事業主がしなければならない事\n項につき代理人に処理させるとき、又は代理人を解任したときは、速やか\nに、文書でその旨を厚生労働大臣又は健康保険組合に届け出なければなら\nない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q04_4",
+                  "groupId": "sharosi_R7_kenkou_Q04",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢D：政府は、当該年度の健康勘定に前年度の決算上の剰余金が繰り入れられ\nたときは、遅滞なく、協会に対し、当該繰り入れられた額（保険料等に係\nるもの以外のものとして厚生労働大臣が定めるものを除く。）を保険料等交\n付金として交付する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q04_5",
+                  "groupId": "sharosi_R7_kenkou_Q04",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢E：訪問看護療養費の額は、当該指定訪問看護につき指定訪問看護に要する\n平均的な費用の額を勘案して厚生労働大臣が定めるところにより算定した\n費用の額から、その額に健康保険法第74条第1項各号に掲げる場合の区\n分に応じ、同項各号に定める割合を乗じて得た額（療養の給付に係る同項\nの一部負担金について第75条の2第1項各号の措置が採られるべきとき\nは、当該措置が採られたものとした場合の額）を控除した額とする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q05_1",
+                  "groupId": "sharosi_R7_kenkou_Q05",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢A：資格確認書の交付を受けている任意継続被保険者が資格を喪失したとき\nは、事業主は遅滞なく資格確認書を回収して、5日以内にこれを保険者に\n返納しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q05_2",
+                  "groupId": "sharosi_R7_kenkou_Q05",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢B：療養費の支給対象となる柔道整復師の施術において、脱臼又は骨折（不全\n骨折を含む。）に対する施術については、医師の同意を得たものでなければ\nならない。また、応急手当をする場合はこの限りではないが、応急手当後\nの施術は医師の同意が必要である。医師の同意は個々の患者が医師から得\nてもよく、また、施術者が直接医師から得てもよいが、いずれの場合で\nあっても医師の同意は、患者を診察した上で書面により与えられることを\n要する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q05_3",
+                  "groupId": "sharosi_R7_kenkou_Q05",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢C：保険医療機関等である病院又は診療所は、食事療養に要した費用につい\nてその支払を受ける際、当該支払をした被保険者が請求した場合には、厚\n生労働省令で定めるところにより、領収証を交付しなければならない。こ\nの領収証には、入院時食事療養費に係る療養について被保険者から支払を\n受けた費用の額のうち食事療養標準負担額とその他の費用の額とを区分し\nて記載しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q05_4",
+                  "groupId": "sharosi_R7_kenkou_Q05",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢D：厚生労働大臣は、保険医療機関の指定の申請があった場合において、当\n該申請に係る病床の種別に応じ、医療法第7条の2第1項に規定する地域\nにおける保険医療機関の病床数が、その指定により同法第30条の4第1\n項に規定する医療計画において定める基準病床数を勘案して厚生労働大臣\nが定めるところにより算定した数を超えることになると認める場合（その\n数を既に超えている場合を含む。）であって、当該病院又は診療所の開設者\n又は管理者が同法第30条の11の規定による都道府県知事の勧告を受け、\nこれに従わないときは、その申請に係る病床の全部又は一部を除いて、そ\nの指定を行うことができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q05_5",
+                  "groupId": "sharosi_R7_kenkou_Q05",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢E：被扶養者が肺癌により療養の給付を受けている間に被保険者が死亡した\n場合、被扶養者の概念を死亡当時そのものによって生計を維持していたも\nのと解釈して、被保険者の死亡後も療養の給付は認められる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q06_1",
+                  "groupId": "sharosi_R7_kenkou_Q06",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢A：国庫は、予算の範囲内において、健康保険事業の執行に要する費用のう\nち、特定健康診査等の実施に要する費用の全部を補助することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q06_2",
+                  "groupId": "sharosi_R7_kenkou_Q06",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢B：健康保険法における被扶養者とは、日本国内に住所を有するもの又は外\n国において留学をする学生その他の日本国内に住所を有しないが、渡航目\n的その他の事情を考慮して日本国内に生活の基礎があると認められるもの\nとして厚生労働省令で定めるものをいう。ただし、後期高齢者医療の被保\n険者等である者その他健康保険法の適用を除外すべき特別の理由がある者\nとして厚生労働省令で定める者はこの限りではない。厚生労働省令で定め\nる者とは、日本の国籍を有しない者であって、出入国管理及び難民認定法\n（以下「入管法」という。）第7条第1項第2号の規定に基づく入管法別表第\n1の5の表の下欄に掲げる活動として法務大臣が定める活動のうち、本邦\nにおいて2年を超えない期間滞在し、観光、保養その他これらに類似する\n活動を行うものをいう。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q06_3",
+                  "groupId": "sharosi_R7_kenkou_Q06",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢C：被保険者が、事業主夫婦の寝室に侵入し、就寝中の両人及び使用人に傷\n害を与えて、現場にて自殺した場合、被保険者の自殺による死亡は故意に\n基づく事故であり、自殺による埋葬料は支給されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q06_4",
+                  "groupId": "sharosi_R7_kenkou_Q06",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢D：自動車事故による被害を受けた場合の医療保険の給付と自動車損害賠償\n保障法に基づく自動車損害賠償責任保険（以下「自賠責保険」という。）によ\nる給付の関係について、加害者が不明のひき逃げ等の場合や自賠責保険の\n補償の範囲を超える賠償義務が発生した場合には、被害者の加入する医療\n保険の保険者が給付を行ったとしても、その保険者は求償する相手先がな\nいケースや結果的に求償が困難なケースが生じるので、医療保険の保険者\nは、求償する相手先がないことや結果的に求償が困難であることから医療\n保険の給付を行わない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q06_5",
+                  "groupId": "sharosi_R7_kenkou_Q06",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢E：高額療養費制度において、自己負担限度額を超える一部負担金の支払い\nの免除については、限度額適用認定証等を提示した場合だけではなく、健\n康保険証としての利用登録を行ったマイナンバーカード（以下「マイナ保険\n証」という。）により保険資格の確認を行う場合についても対象となってお\nり、マイナ保険証を利用する場合には、医療機関等の窓口において、限度\n額適用認定証等を提示せずとも、自己負担限度額を超える一部負担金の支\n払いが免除される。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q07_1",
+                  "groupId": "sharosi_R7_kenkou_Q07",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢A：保険者は、社会保険診療報酬支払基金等に健康保険法第205条の4第1項\n第2号又は第3号に掲げる事務を委託する場合は、厚生労働大臣若しくは\n健康保険組合が被保険者の資格の得喪の確認を行った日（事業主の届出に\nよる場合には、当該届出を受けた日）、当該保険者が任意継続被保険者の\n資格取得の申出を受けた日又は資格喪失の申出を受けた日の属する月の末\n日から5日以内に、当該確認、届出又は申出に係る被保険者の資格に係る\n情報を、電子情報処理組織を使用する方法その他の情報通信の技術を利用\nする方法により、社会保険診療報酬支払基金又は国民健康保険団体連合会\nに提供するものとする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q07_2",
+                  "groupId": "sharosi_R7_kenkou_Q07",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢B：出産育児一時金等（出産育児一時金及び家族出産育児一時金をいう。）の\n医療機関等（病院、診療所又は助産所をいう。）への直接支払制度は、被保\n険者等が医療機関等との間に、出産育児一時金等の支給申請及び受取に係\nる代理契約を締結の上、出産育児一時金等の額を限度として、医療機関等\nが被保険者等に代わって出産育児一時金等の支給申請及び受取を直接保険\n者と行うことにより、被保険者等があらかじめまとまった現金を用意した\n上で医療機関等の窓口において出産費用を支払う経済的負担の軽減を図る\nものである。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q07_3",
+                  "groupId": "sharosi_R7_kenkou_Q07",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢C：資格確認書の書面による交付又は電磁的方法による提供を求める被保険\n者（以下本肢において「申請者」という。）は、申請者の氏名及び被保険者等\n記号・番号又は個人番号等を記載した申請書を保険者に提出して、その交\n付又は提供を申請しなければならない。この場合において、当該申請書の\n提出は、申請者が任意継続被保険者である場合を除き、事業主を経由して\n行うが、災害その他やむを得ない事情により、事業主を経由して行うこと\nが困難であると保険者が認めるときは、事業主を経由することを要しない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q07_4",
+                  "groupId": "sharosi_R7_kenkou_Q07",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢D：短時間労働者の被保険者資格の取得要件について、常時50人を超える\nと見込んで特定適用事業所該当届を提出して適用された後、実際には常時\n50人を超えなかった場合は遡及取消となる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q07_5",
+                  "groupId": "sharosi_R7_kenkou_Q07",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢E：入院時生活療養費の額は、当該生活療養につき生活療養に要する平均的\nな費用の額を勘案して厚生労働大臣が定める基準により算定した費用の額\n（その額が現に当該生活療養に要した費用の額を超えるときは、当該現に\n生活療養に要した費用の額）から、平均的な家計における食費及び光熱水\n費の状況並びに病院及び診療所における生活療養に要する費用について介\n護保険法第51条の3第2項第1号に規定する食費の基準費用額及び同項\n第2号に規定する居住費の基準費用額に相当する費用の額を勘案して厚生\n労働大臣が定める額（所得の状況、病状の程度、治療の内容その他の事情\nをしん酌して厚生労働省令で定める者については、別に定める額）を控除\nした額である。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q08_1",
+                  "groupId": "sharosi_R7_kenkou_Q08",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢A：被保険者が資格喪失後何らの手続をとることなく相当期間を経過したた\nめ、受給資格期間は満たしているが、資格喪失後の継続給付を受ける権利\nの一部が既に時効により消滅している場合、時効未完成の期間については\n同一の保険者から傷病手当金の給付を受けることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q08_2",
+                  "groupId": "sharosi_R7_kenkou_Q08",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢B：日本年金機構は、保険料の滞納処分等を行う場合には、あらかじめ財務\n大臣の認可を受けるとともに、滞納処分等実施規程に従い、税務署職員に\n行わせなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q08_3",
+                  "groupId": "sharosi_R7_kenkou_Q08",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢C：健康保険組合が管掌する健康保険の被保険者に関する一般保険料率は、\n1，000分の30から1，000分の130までの範囲内において決定する。健康\n保険組合が一般保険料率を変更しようとするときは、理事長は、社会保障\n審議会の議を経てその変更について厚生労働大臣の認可を受けなければな\nらない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q08_4",
+                  "groupId": "sharosi_R7_kenkou_Q08",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢D：保険者は、被保険者又は被保険者であった者の被扶養者が、正当な理由\nなしに療養に関する指示に従わないときは、当該被扶養者に係る保険給付\nの全部又は一部を行わないことができる。療養に関する指示に従わないと\nきとは、保険者又は療養担当者の療養の指揮に関する明白な意志表示が\nあったにもかかわらず、これに従わない者（作為又は不作為の場合を含\nむ。）等をいう。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q08_5",
+                  "groupId": "sharosi_R7_kenkou_Q08",
+                  "statement": "健康保険法に関する次の記述のうち、正しいものはどれか。\n選択肢E：選定療養において、後発医薬品（ジェネリック医薬品）のある先発医薬品\n（長期収載品）の処方を希望する場合、後発医薬品のある先発医薬品の薬価\nから当該先発医薬品の後発医薬品の薬価を控除して得た価格に4分の1を\n乗じて得た価格を用いて診療報酬の算定方法の例により算定した点数に\n10円を乗じて得た額を支払わなければならない。なお、後発医薬品がい\nくつか存在する場合は、薬価が一番高い後発医薬品との価格差により計算\nする。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q10_1",
+                  "groupId": "sharosi_R7_kenkou_Q10",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢A：保険者は、震災、風水害、火災その他これらに類する災害により、住\n宅、家財又はその他の財産について著しい損害を受けた被保険者であっ\nて、保険医療機関又は保険薬局に一部負担金を支払うことが困難であると\n認められるものに対し、一部負担金を減額することや一部負担金の支払を\n免除すること、保険医療機関又は保険薬局に対する支払に代えて一部負担\n金を直接に徴収することとし、その徴収を猶予することができるが、一部\n負担金等の徴収猶予については当該被保険者の申請により、6か月以内の\n期間を限って行うものとされている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q10_2",
+                  "groupId": "sharosi_R7_kenkou_Q10",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢B：同一の月に同一の保険医療機関において、入院中に脳神経外科で手術\nし、退院後に外来で脳神経内科を受診した場合、高額療養費の算定上、同\n一の保険医療機関で受けた療養とみなされる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q10_3",
+                  "groupId": "sharosi_R7_kenkou_Q10",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢C：不妊治療の経済的負担の軽減を図るため、近年高額の医療費がかかる不\n妊治療に要する費用に対する助成や支援が拡充され、令和4年度からは一\n般不妊治療や生殖補助医療が新たに保険適用されたところであるが、医療\n上必要があると認められない、患者の都合による精子の凍結又は融解を\n行った場合には健康保険法における選定療養の対象とされる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q10_4",
+                  "groupId": "sharosi_R7_kenkou_Q10",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢D：被保険者（年収300万円）と同居している母（58歳、障害者ではない。）\nは、年額100万円の遺族年金を受給しながらパートタイム労働者として勤\n務しているが、健康保険の被保険者にはなっていない。このとき、母の\nパートタイム労働者としての給与の年間収入額が120万円であった場合、\n母は当該被保険者の被扶養者になることができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kenkou_Q10_5",
+                  "groupId": "sharosi_R7_kenkou_Q10",
+                  "statement": "健康保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢E：被保険者（年収500万円）と別居している単身世帯の父（68歳、障害者で\nはない。）が、日本国内に住所を有するものであって、年額130万円の老齢\n年金を受給しながら被保険者から年額150万円の援助を受けている場合に\nは、父は当該被保険者の被扶養者になることができる。なお、父は老齢年\n金以外の収入はないものとする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            },
+            {
+              "categoryName": "厚生年金保険法",
+              "questions": [
+                {
+                  "id": "sharosi_R7_kousei_Q01_1",
+                  "groupId": "sharosi_R7_kousei_Q01",
+                  "statement": "厚生年金保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢A：年金の支給は、年金を支給すべき事由が生じた月の翌月から始め、権利\nが消滅した月で終わる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q01_2",
+                  "groupId": "sharosi_R7_kousei_Q01",
+                  "statement": "厚生年金保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢B：適用事業所である甲に使用されていた被保険者乙は、令和7年4月1日\nに甲に使用されなくなったが、同日、別の適用事業所である丙に使用され\nるに至り、被保険者資格の得喪が生じた。この場合、乙の甲での被保険者\n資格は令和7年4月1日に喪失し、乙は同日に丙での被保険者資格を取得\nする。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q01_3",
+                  "groupId": "sharosi_R7_kousei_Q01",
+                  "statement": "厚生年金保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢C：厚生労働大臣は、被保険者の資格に関する決定に関し、必要があると認\nめるときは、適用事業所の事業主又は被保険者に対して、文書その他の物\n件を提出すべきことを命じることができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q01_4",
+                  "groupId": "sharosi_R7_kousei_Q01",
+                  "statement": "厚生年金保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢D：老齢厚生年金の受給権者が、その受給権を取得した当時、加給年金額の\n加算の対象となる配偶者及び1人の子がいたが、受給権を取得した2年後\nに第2子が誕生した。この場合、当該第2子（受給権者によって生計を維\n持しているものとする。）については加給年金額の加算の対象とはならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q01_5",
+                  "groupId": "sharosi_R7_kousei_Q01",
+                  "statement": "厚生年金保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢E：障害等級2級に該当する障害厚生年金の受給権者が、更に障害厚生年金\nの受給権を取得した。この場合、新たに取得した障害厚生年金が厚生年金\n保険法第54条第1項（障害補償による支給停止）の規定によりその支給を\n停止すべきものであるときは、その停止すべき期間、その者に対して従前\nの障害厚生年金が支給される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q02_1",
+                  "groupId": "sharosi_R7_kousei_Q02",
+                  "statement": "合意分割（厚生年金保険法第78条の2に規定する離婚等をした場合におけ\nる標準報酬の改定の特例をいう。）に関する次の記述のうち、誤っているもの\nはどれか。\n選択肢A：甲と乙は離婚したが、合意分割の請求前に甲が死亡した。その後、乙\nは、甲の死亡した日から起算して15日目に、所定の事項が記載された公\n正証書を添えて合意分割の請求を行った。この場合、甲が死亡した日の前\n日に当該請求があったものとみなされる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q02_2",
+                  "groupId": "sharosi_R7_kousei_Q02",
+                  "statement": "合意分割（厚生年金保険法第78条の2に規定する離婚等をした場合におけ\nる標準報酬の改定の特例をいう。）に関する次の記述のうち、誤っているもの\nはどれか。\n選択肢B：合意分割の按分割合について当事者の合意のための協議が調わないと\nき、又は協議をすることができないときには、当事者の申立てにより、家\n庭裁判所が請求すべき按分割合を定めることができるが、この申立ては当\n事者の一方のみによってすることができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q02_3",
+                  "groupId": "sharosi_R7_kousei_Q02",
+                  "statement": "合意分割（厚生年金保険法第78条の2に規定する離婚等をした場合におけ\nる標準報酬の改定の特例をいう。）に関する次の記述のうち、誤っているもの\nはどれか。\n選択肢C：当事者又はその一方は、原則として、実施機関に対し、標準報酬改定請\n求を行うために必要な情報の提供を請求することができるが、標準報酬改\n定請求後にはこの請求を行うことができない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q02_4",
+                  "groupId": "sharosi_R7_kousei_Q02",
+                  "statement": "合意分割（厚生年金保険法第78条の2に規定する離婚等をした場合におけ\nる標準報酬の改定の特例をいう。）に関する次の記述のうち、誤っているもの\nはどれか。\n選択肢D：対象期間標準報酬総額の算定において、対象期間の全部又は一部が平成\n15年4月1日前であるときは、同日前の対象期間に係る被保険者期間の\n各月の標準報酬月額に1．3を乗じて得た額並びに同日以後の対象期間に係\nる被保険者期間の各月の標準報酬月額（厚生年金保険法第26条第1項の規\n定により同項に規定する従前標準報酬月額が当該月の標準報酬月額とみな\nされた月にあっては、当該従前標準報酬月額）及び標準賞与額に、それぞ\nれ当事者を受給権者とみなして対象期間の末日において適用される再評価\n率を乗じて得た額の総額が当該対象期間標準報酬総額とされる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q02_5",
+                  "groupId": "sharosi_R7_kousei_Q02",
+                  "statement": "合意分割（厚生年金保険法第78条の2に規定する離婚等をした場合におけ\nる標準報酬の改定の特例をいう。）に関する次の記述のうち、誤っているもの\nはどれか。\n選択肢E：老齢厚生年金の受給権者について、合意分割の標準報酬の改定又は決定\nが行われたときは、当該標準報酬の改定又は決定が行われた日の属する月\nの翌月から、年金の額が改定される。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q04_1",
+                  "groupId": "sharosi_R7_kousei_Q04",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢A：保険給付の受給権者が死亡した場合の未支給の保険給付の支給を請求で\nきる遺族の範囲については、厚生年金保険法第37条第1項に規定されて\nいるが、これには受給権者の死亡の当時その者と生計を同じくしていた受\n給権者の配偶者の甥は含まれない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q04_2",
+                  "groupId": "sharosi_R7_kousei_Q04",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢B：事業主は、その厚生年金保険に関する書類を、その完結の日から3年\n間、保存しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q04_3",
+                  "groupId": "sharosi_R7_kousei_Q04",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢C：老齢厚生年金の額に加算する加給年金の額の計算において、その額に\n50円未満の端数が生じたときはこれを切り捨て、50円以上100円未満の\n端数が生じたときはこれを100円に切り上げるものとされている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q04_4",
+                  "groupId": "sharosi_R7_kousei_Q04",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢D：第3号厚生年金被保険者に係る事務を担当する実施機関としては地方公\n務員共済組合、全国市町村職員共済組合連合会及び地方公務員共済組合連\n合会があるが、厚生年金保険法第84条の5第1項の規定による拠出金の\n納付に関する事務は、地方公務員共済組合が行う。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q04_5",
+                  "groupId": "sharosi_R7_kousei_Q04",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢E：事故が第三者の行為によって生じた場合において、受給権者が、当該第\n三者から同一の事由について損害賠償を受けたときは、政府等は、その価\n額の限度で、保険給付をしないことができるとされているが、受給権者が\n当該第三者から損害賠償を受ける前に保険給付を受けたときは、政府が、\n受給権者が第三者に対して有する損害賠償の請求権を取得することはない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q05_1",
+                  "groupId": "sharosi_R7_kousei_Q05",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢A：65歳未満で特別支給の老齢厚生年金の受給権を有する者が、厚生年金\n保険の被保険者である月に高年齢雇用継続給付を受給できるときは、在職\nによる年金の支給停止に加えて、年金の一部が支給停止される。これによ\nり支給停止される年金額は、高年齢雇用継続給付の支給率の変更にあわせ\nて、令和7年度より、最大で標準報酬月額の6％となった。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q05_2",
+                  "groupId": "sharosi_R7_kousei_Q05",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢B：厚生年金保険の適用事業所以外の事業所に使用される70歳以上の者\nで、高齢任意加入被保険者となっている者は、保険料の全額を負担する義\n務を負う。ただし、事業主の同意があるときは、被保険者と事業主の半額\nずつの負担になる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q05_3",
+                  "groupId": "sharosi_R7_kousei_Q05",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢C：2以上の船舶の船舶所有者が同一である場合には、当該2以上の船舶を\n1つの適用事業所とすることができるが、その際は、厚生労働大臣の承認\nを受けなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q05_4",
+                  "groupId": "sharosi_R7_kousei_Q05",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢D：障害基礎年金の支給を受けている者に子の加算が行われているとき（当\n該子について加算する額に相当する部分の全額につき支給停止されている\nときを除く。）に、当該子に係る加給年金額が加算された老齢厚生年金が併\n給されることとなった場合は、当該老齢厚生年金については、その間、当\n該子について加算する額に相当する部分の支給が停止される。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q05_5",
+                  "groupId": "sharosi_R7_kousei_Q05",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢E：国家公務員であった者が、令和7年7月21日に退職し、その翌日に厚\n生年金保険の被保険者資格を喪失した。その後、同年7月28日に民間企\n業に就職し、厚生年金保険の被保険者資格を取得した。この場合、同年7\n月は、第2号厚生年金被保険者であった月とみなされる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q06_1",
+                  "groupId": "sharosi_R7_kousei_Q06",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢A：被保険者期間が6月以上である日本国籍を有しない者（国民年金の被保\n険者でないものに限る。）であって、老齢厚生年金の受給資格期間を満たさ\nない等の支給要件を満たした者は、脱退一時金の支給を請求することがで\nきる。ただし、その者が日本の永住資格を有するときは、この限りでない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q06_2",
+                  "groupId": "sharosi_R7_kousei_Q06",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢B：脱退一時金の支給を受けた者は、その後、再び脱退一時金の支給要件を\n満たすことがあったとしても、脱退一時金の支給を請求することはできない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q06_3",
+                  "groupId": "sharosi_R7_kousei_Q06",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢C：政府は、国民年金事業に関する財政の現況及び見通し又は厚生年金保険\n事業に関する財政の現況及び見通しの作成にあたり、その作成年のおおむ\nね100年後に、国民年金法等の一部を改正する法律（平成16年法律第104\n号）附則第2条第1項の規定によって算出するいわゆるモデル年金の所得\n代替率が50％を下回ることが見込まれる場合、調整期間の終了について\n検討を行い、その結果に基づいて調整期間の終了その他の措置を講じなけ\nればならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q06_4",
+                  "groupId": "sharosi_R7_kousei_Q06",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢D：初診日は、原則として初めて治療目的で医療機関を受診した日とし、健\n康診断を受けた日（以下本肢において「健診日」という。）は初診日として取\nり扱わないこととされている。ただし、初めて治療目的で医療機関を受診\nした日の医証（医療機関による初診日の証明）を得られない場合であって、\n医学的見地からただちに治療が必要と認められる健診結果である場合につ\nいては、請求者から健診日を初診日とするよう申立てがあれば、健診日を\n初診日とし、健診日を証明する資料を求めた上で、初診日を認めることが\nできるとされている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q06_5",
+                  "groupId": "sharosi_R7_kousei_Q06",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢E：障害等級2級の障害厚生年金を受給する夫が死亡し、子のいない妻が遺\n族厚生年金を受給する場合、夫死亡時の妻の年齢によっては、中高齢寡婦\n加算が行われることがある。ただし、当該死亡した夫の厚生年金保険の被\n保険者期間の月数が240未満である場合は、中高齢寡婦加算は行われない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q07_1",
+                  "groupId": "sharosi_R7_kousei_Q07",
+                  "statement": "厚生年金保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢A：地方公共団体の議会の議員が老齢厚生年金の受給権者であるときは、当\n該議員が厚生年金保険の被保険者ではないとしても、議員報酬の月額及び\n期末手当の額と老齢厚生年金の額に応じて、老齢厚生年金の一部又は全額\nが支給停止となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q07_2",
+                  "groupId": "sharosi_R7_kousei_Q07",
+                  "statement": "厚生年金保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢B：特定適用事業所以外の適用事業所（国又は地方公共団体の適用事業所を\n除く。）は、労使合意により、任意特定適用事業所の申出をすることができ\nる。この労使合意を行う上での同意の対象となる者には、厚生年金保険法\n第27条に規定する70歳以上の使用される者は含まれない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q07_3",
+                  "groupId": "sharosi_R7_kousei_Q07",
+                  "statement": "厚生年金保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢C：障害等級2級の障害厚生年金の額は、老齢厚生年金の報酬比例部分の算\n定式により計算した額となる。ただし、年金額の計算の基礎となる被保険\n者期間の月数が300に満たないときは、これを300として計算する。ま\nた、生年月日に応じた給付乗率の引上げは行われない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q07_4",
+                  "groupId": "sharosi_R7_kousei_Q07",
+                  "statement": "厚生年金保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢D：厚生年金保険の被保険者が70歳に到達した場合は、被保険者資格を喪\n失する。その後、同一の事業所で同一の労働条件で勤務を継続したとして\nも、被保険者ではないため、厚生年金保険料を納付する必要はない。ただ\nし、在職老齢年金の仕組みによる支給停止の対象となることがある。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q07_5",
+                  "groupId": "sharosi_R7_kousei_Q07",
+                  "statement": "厚生年金保険法に関する次の記述のうち、誤っているものはどれか。\n選択肢E：厚生年金保険法第42条に規定する老齢厚生年金を繰上げ受給している\n者で65歳に達していない場合は、在職定時改定が適用されない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q08_1",
+                  "groupId": "sharosi_R7_kousei_Q08",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢A：理美容の事業で、常時5人以上の従業員を使用する個人事業所は、厚生\n年金保険の強制適用事業所となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q08_2",
+                  "groupId": "sharosi_R7_kousei_Q08",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢B：被保険者が自殺により保険事故を自ら生じさせたときは、被保険者の遺\n族に対して、当該死亡を支給事由とする遺族厚生年金は支給しない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q08_3",
+                  "groupId": "sharosi_R7_kousei_Q08",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢C：偽りその他不正の手段により保険給付を受けた者があるときは、実施機\n関は、受給額に相当する金額の全部又は一部をその者から徴収しなければ\nならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q08_4",
+                  "groupId": "sharosi_R7_kousei_Q08",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢D：受給権者が、正当な理由がなく、厚生労働省令に定める事項の届出、又\nは書類その他の物件を提出しないときは、保険給付の支払いを差し止める\nことができる。その後、当該差止事由が消滅したときでも、差し止められ\nた分の支給は行われない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q08_5",
+                  "groupId": "sharosi_R7_kousei_Q08",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢E：被保険者に対する情報の提供として、実施機関は、被保険者に対し、保\n険料納付の実績及び将来の給付に関する必要な情報を通知している。厚生\n年金保険法施行規則は、この通知（厚生労働大臣が行うものに限る。）に記\n載する事項を規定しているが、その1つに、被保険者期間における標準報\n酬月額及び標準賞与額に応じた保険料（被保険者の負担するものに限る。）\nの総額がある。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q09_1",
+                  "groupId": "sharosi_R7_kousei_Q09",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢A：厚生年金保険法第81条の2第1項に規定される育児休業期間中の厚生\n年金保険料の免除の規定について、育児休業等の期間が1か月以下の場合\nは、その月の標準報酬月額に係る保険料は免除されるが、その月の標準賞\n与額に係る保険料についても免除される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q09_2",
+                  "groupId": "sharosi_R7_kousei_Q09",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢B：厚生労働大臣は、納入の告知をした保険料額が当該納付義務者が納付す\nべき保険料額を超えていることを知ったとき、又は納付した保険料額が当\n該納付義務者が納付すべき保険料額を超えていることを知ったときは、そ\nの超えている部分に関する納入の告知又は納付を、その納入の告知又は納\n付の日の翌日から1年以内の期日に納付されるべき保険料について納期を\n繰り上げてしたものとみなすことができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q09_3",
+                  "groupId": "sharosi_R7_kousei_Q09",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢C：事業主は、被保険者に対して通貨をもって賞与を支払う場合において\nは、被保険者の負担すべき標準賞与額に係る保険料に相当する額を当該賞\n与から控除することができる。なお、保険料を控除したときは、事業主\nは、保険料の控除に関する計算書を作成し、その控除額を被保険者に通知\nしなければならない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q09_4",
+                  "groupId": "sharosi_R7_kousei_Q09",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢D：前月から引き続き厚生年金保険の被保険者の資格を有する65歳以後の\n老齢厚生年金の受給権者の総報酬月額相当額が改定された場合は、新たな\n総報酬月額相当額に基づいて支給停止額が再計算され、当該総報酬月額相\n当額の改定が行われた月の翌月から支給される年金額が改定される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kousei_Q09_5",
+                  "groupId": "sharosi_R7_kousei_Q09",
+                  "statement": "厚生年金保険法に関する次の記述のうち、正しいものはどれか。\n選択肢E：60歳台前半において、障害等級2級の障害基礎年金及び障害厚生年金\nの受給権者が、雇用保険法の規定による基本手当を受けることができると\nきは、障害厚生年金については、基本手当との間で調整が行われるため、\n支給停止の対象となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            },
+            {
+              "categoryName": "国民年金法",
+              "questions": [
+                {
+                  "id": "sharosi_R7_kokumin_Q01_1",
+                  "groupId": "sharosi_R7_kokumin_Q01",
+                  "statement": "国民年金法に関する次の記述のうち、誤っているものはどれか。\n選択肢A：給付を受ける権利は、その権利を有する者の請求に基づいて、厚生労働\n大臣が裁定する。また、脱退一時金についての裁定の請求は、国民年金法\n施行規則に定める事項を記載した請求書を日本年金機構に提出することに\nよって行わなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q01_2",
+                  "groupId": "sharosi_R7_kokumin_Q01",
+                  "statement": "国民年金法に関する次の記述のうち、誤っているものはどれか。\n選択肢B：被保険者の資格に関する処分、給付に関する処分（共済組合等が行った\n障害基礎年金に係る障害の程度の診査に関する処分を除く。）又は保険料そ\nの他この法律の規定による徴収金に関する処分の取消の訴えは、当該処分\nについての審査請求に対する社会保険審査官の決定を経た後でなければ提\n起することができない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q01_3",
+                  "groupId": "sharosi_R7_kokumin_Q01",
+                  "statement": "国民年金法に関する次の記述のうち、誤っているものはどれか。\n選択肢C：市町村長（特別区の区長を含む。）は、国民年金法第16条に規定する給付\nを受ける権利の裁定（国民年金法施行令第1条の2第3号イからトまでに\n掲げる給付を受ける権利の裁定に限る。）の請求の受理及びその請求に係る\n事実についての審査に関する事務に関して、請求書、申請書又は届書を受\n理したときは、必要な審査を行い、これを日本年金機構に送付しなければ\nならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q01_4",
+                  "groupId": "sharosi_R7_kokumin_Q01",
+                  "statement": "国民年金法に関する次の記述のうち、誤っているものはどれか。\n選択肢D：厚生労働大臣は、国民年金法による年金たる給付の受給権の裁定をした\nときは、原則として、国民年金法施行規則第65条第2項各号に掲げる事\n項を記載したその年金の年金証書を作成し、これを同条第1項で規定され\nる通知書に添えて、その受給権者に交付しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q01_5",
+                  "groupId": "sharosi_R7_kokumin_Q01",
+                  "statement": "国民年金法に関する次の記述のうち、誤っているものはどれか。\n選択肢E：老齢基礎年金の受給権者は、その個人番号を変更したときは、氏名、生\n年月日及び住所、変更前及び変更後の個人番号、個人番号の変更年月日を\n記載した届書を、速やかに、日本年金機構に提出しなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q03_1",
+                  "groupId": "sharosi_R7_kokumin_Q03",
+                  "statement": "国民年金法に関する次の記述のうち、誤っているものはどれか。\n選択肢A：国民年金法第30条の4の規定による障害基礎年金は、当該障害基礎年\n金の受給権者の前年の所得が政令で定める額を超えた場合に、その全部又\nは2分の1に相当する部分が支給停止される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q03_2",
+                  "groupId": "sharosi_R7_kokumin_Q03",
+                  "statement": "国民年金法に関する次の記述のうち、誤っているものはどれか。\n選択肢B：「国民年金・厚生年金保険障害認定基準」によると、自閉症、アスペル\nガー症候群その他の広汎性発達障害、学習障害、注意欠陥多動性障害等の\n発達障害があり、社会性やコミュニケーション能力が乏しく、かつ、不適\n応な行動がみられるために日常生活への適応にあたって援助が必要である\n障害の状態のものは、知的障害等の他の障害を併発していなくても、当該\n発達障害のみで障害基礎年金の認定の対象となる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q03_3",
+                  "groupId": "sharosi_R7_kokumin_Q03",
+                  "statement": "国民年金法に関する次の記述のうち、誤っているものはどれか。\n選択肢C：疾病にかかり、又は負傷し、かつ、その傷病（以下「基準傷病」という。）\nに係る初診日において、被保険者（被保険者であった者であって、日本国\n内に住所を有し、かつ60歳以上65歳未満であるものを含む。）であって、\n基準傷病以外の傷病により障害の状態にあるものが、基準傷病に係る障害\n認定日以後65歳に達する日の前日までの間において、初めて、基準傷病\nによる障害（以下「基準障害」という。）と他の障害とを併合して障害等級に\n該当する程度の障害の状態に該当するに至ったとき（基準傷病の初診日\nが、基準傷病以外の傷病（基準傷病以外の傷病が2以上ある場合は、基準\n傷病以外のすべての傷病）の初診日以降であるときに限る。）は、その者に\n基準障害と他の障害とを併合した障害の程度による障害基礎年金を支給する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q03_4",
+                  "groupId": "sharosi_R7_kokumin_Q03",
+                  "statement": "国民年金法に関する次の記述のうち、誤っているものはどれか。\n選択肢D：国民年金法第30条の4の規定による障害基礎年金は、受給権者が、恩\n給法に基づく年金たる給付、労災保険法の規定による年金たる給付その他\nの年金たる給付であって政令で定めるものを受けることができるとき、刑\n事施設、労役場その他これらに準ずる施設に拘禁されているとき、少年院\nその他これに準ずる施設に収容されているとき又は日本国内に住所を有し\nないときは、その該当する期間、その支給を停止する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q03_5",
+                  "groupId": "sharosi_R7_kokumin_Q03",
+                  "statement": "国民年金法に関する次の記述のうち、誤っているものはどれか。\n選択肢E：国民年金法において、老齢基礎年金、障害基礎年金及び遺族基礎年金に\nは失権が規定されているが、付加年金及び寡婦年金には失権が規定されて\nいない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q04_1",
+                  "groupId": "sharosi_R7_kokumin_Q04",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢A：国民年金の被保険者期間を計算する場合には、被保険者資格を取得した\n日の属する月からその資格を喪失した日の属する月までをこれに算入する。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q04_2",
+                  "groupId": "sharosi_R7_kokumin_Q04",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢B：被保険者の種別（国民年金の第1号被保険者、第2号被保険者、第3号\n被保険者のいずれであるかの区別をいう。）に変更があった月は、変更前の\n種別の被保険者であった月とみなす。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q04_3",
+                  "groupId": "sharosi_R7_kokumin_Q04",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢C：震災、風水害、火災その他これらに類する災害により、被保険者あるい\nはその世帯主や配偶者が所有する住宅や家財その他の財産について、被害\n金額が、その価格のおおむね2分の1以上である損害を受けたときは、保\n険金や損害賠償金等により補充された金額の多寡にかかわらず、申請に\nよって保険料の納付が全額免除される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q04_4",
+                  "groupId": "sharosi_R7_kokumin_Q04",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢D：租税その他の公課は、給付として支給された金銭を標準として課すこと\nができないが、老齢基礎年金及び付加年金には、所得税、住民税等の租税\nを課すことができる。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q04_5",
+                  "groupId": "sharosi_R7_kokumin_Q04",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢E：令和7年1月から、保険料を2年前納する場合に、最初の4月が到来す\nるまで1か月分ずつ割引された保険料を口座振替し、4月から2年分（24\nか月分）の保険料をまとめて前納する2年前納（4月開始）という方法を選\n択できる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q05_1",
+                  "groupId": "sharosi_R7_kokumin_Q05",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢A：年金給付を受ける権利は、その支給すべき事由が生じた日から5年を経\n過すると時効によって消滅するため、障害認定日において、当該障害が、\n障害等級に該当する程度の障害の状態にない場合で、その後に障害の程度\nが増進したときでも、障害基礎年金の請求は、当該障害認定日から5年を\n経過する前に行わなければならない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q05_2",
+                  "groupId": "sharosi_R7_kokumin_Q05",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢B：失踪の宣告を受けたことにより死亡したとみなされた者の子に対する遺\n族基礎年金は、失踪の宣告を受けた日において子の年齢が18歳に達する\n日以後の最初の3月31日に達している場合であっても、失踪の宣告を受\nけた者の所在が明らかでなくなった日が、18歳に達する日以後の最初の3\n月31日までの間であれば、その日まで遡って受給できる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q05_3",
+                  "groupId": "sharosi_R7_kokumin_Q05",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢C：夫が死亡したことにより遺族基礎年金の受給権を有する妻が、直系姻族\nと養子縁組したときは、妻の受給権は消滅するが、子に対する遺族基礎年\n金の支給停止は解除される。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q05_4",
+                  "groupId": "sharosi_R7_kokumin_Q05",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢D：遺族基礎年金の受給権を有する子が2人以上ある場合において、その子\nのうち1人以上の子の所在が1年以上明らかでないときは、その子に対す\nる遺族基礎年金は、他の子の申請によって、その所在が明らかでなくなっ\nた時に遡って、その支給を停止する。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q05_5",
+                  "groupId": "sharosi_R7_kokumin_Q05",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢E：失踪の宣告を受けた者に係る消滅時効の起算日は、死亡したとみなされ\nた日の翌日であり、死亡したとみなされた日の翌日から2年を経過した後\nに、死亡一時金の請求権は時効によって消滅するため、死亡一時金は支給\nされない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q09_1",
+                  "groupId": "sharosi_R7_kokumin_Q09",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢A：国民年金法附則第5条に基づく任意加入被保険者については、厚生労働\n大臣に任意加入の申出をした日に資格を取得することになっているが、日\n本国内に住所を有する60歳以上65歳未満の者の場合は、最長60歳まで\n遡って任意加入被保険者の資格を取得することができる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q09_2",
+                  "groupId": "sharosi_R7_kokumin_Q09",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢B：国民年金法第5条第1項の規定する保険料納付済期間には、保険料を納\n付することを要しないとされた第1号被保険者の産前産後期間は含まれる\nが、滞納処分により徴収された保険料に係る第1号被保険者としての被保\n険者期間は含まれない。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q09_3",
+                  "groupId": "sharosi_R7_kokumin_Q09",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢C：昭和35年4月14日生まれの者の年金加入歴が下記のとおりであると\nき、この者が65歳から老齢基礎年金を受給する場合の年金額を算出する\n際に算入される月数の合計は444月となる。\n第1号被保険者期間 132月（保険料納付済月数108月、保険料未納月数\n24月）\n第2号被保険者期間 12月（すべて20歳以上60歳未満の期間）\n第3号被保険者期間 336月",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q09_4",
+                  "groupId": "sharosi_R7_kokumin_Q09",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢D：老齢基礎年金の受給権は、受給権者が死亡したときは消滅することに\nなっているが、受給権者が日本国内に住所を有しなくなった場合において\nもそのことを理由として消滅することになっている。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q09_5",
+                  "groupId": "sharosi_R7_kokumin_Q09",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢E：国民年金基金が支給する一時金については、給付として支給を受けた金\n銭を標準として、租税その他の公課を課することはできない。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q10_1",
+                  "groupId": "sharosi_R7_kokumin_Q10",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢A：60歳以上の妻が支給の対象となる寡婦年金は、夫が死亡した日の属す\nる月の翌月からその支給が始まるが、60歳未満の妻が支給の対象となる\n寡婦年金については、妻が60歳に達した日の属する月からその支給が始\nまる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q10_2",
+                  "groupId": "sharosi_R7_kokumin_Q10",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢B：障害基礎年金の受給権者が、厚生年金保険法第47条第2項に規定する\n障害等級に該当する程度の障害の状態にない場合は、65歳に達したとき\nに当該障害基礎年金の受給権は消滅する。ただし、65歳に達した日にお\nいて、同項に規定する障害等級に該当する程度の障害の状態に該当しなく\nなった日から起算して同項に規定する障害等級に該当する程度の障害の状\n態に該当することなく5年を経過していないときは除かれる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q10_3",
+                  "groupId": "sharosi_R7_kokumin_Q10",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢C：厚生労働大臣は、障害基礎年金の受給権者について、その障害の程度を\n診査し、その程度が従前の障害等級以外の障害等級に該当すると認めると\nきは、障害基礎年金の額を改定することができるが、改定後の額による障\n害基礎年金の支給は、改定が行われた日の属する月から始められる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q10_4",
+                  "groupId": "sharosi_R7_kokumin_Q10",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢D：配偶者に支給する遺族基礎年金については、子が2人以上ある場合で\nあって、その子のうち1人を除いた子の1人又は2人以上が、障害等級\n（1級・2級）に該当する障害の状態にあるときを除いて、18歳に達した\n日以後の最初の3月31日が終了したときに年金額が減額改定される。ま\nた、障害等級（1級・2級）に該当する障害の状態にある子の場合は、20\n歳に達した日以後の最初の3月31日が終了したときに年金額が減額改定\nされる。",
+                  "answer": false,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                },
+                {
+                  "id": "sharosi_R7_kokumin_Q10_5",
+                  "groupId": "sharosi_R7_kokumin_Q10",
+                  "statement": "国民年金法に関する次の記述のうち、正しいものはどれか。\n選択肢E：国民年金法第96条第4項及び第5項の規定による滞納処分によって受\nけ入れた金額を保険料に充当する場合においては、さきに経過した月の保\n険料から順次これに充当し、1か月の保険料の額に満たない端数は、納付\n義務者に交付するものとされている。",
+                  "answer": true,
+                  "explanation": "",
+                  "lawReviewed": false,
+                  "lawBaseYear": 2025
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
