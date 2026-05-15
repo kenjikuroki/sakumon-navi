@@ -22,7 +22,7 @@
                   "groupId": "kanri_R6_Q40",
                   "statement": "Ａが,同一の年に同一の簡易裁判所において,少額訴訟による審理及び裁判を求めることができる回数には制限がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "少額訴訟は60万円以下の金銭請求について簡易裁判所に提起する手続き。30万円を超える場合でも地方裁判所ではなく簡易裁判所に提起する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -31,7 +31,7 @@
                   "groupId": "kanri_R6_Q17",
                   "statement": "二酸化炭素 低下 平方根",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "コンクリートの中性化は大気中のCO2が侵入することで生じ、pHが低下する。中性化深さは経過年数の平方根（√t）に比例して進行する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -40,7 +40,7 @@
                   "groupId": "kanri_R6_Q32",
                   "statement": "理事長は,総会の決議によって,理事のうちから選任する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、理事長は理事会の決議によって理事の中から選任する。総会の決議ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -49,7 +49,7 @@
                   "groupId": "kanri_R6_Q46",
                   "statement": "管理費及び修繕積立金等について明確に区分して経理が行われていること",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "マンション管理適正化推進計画の基準において、長期修繕計画の作成または見直しは「5年以内」に行われていることが要件。10年以内は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -58,7 +58,7 @@
                   "groupId": "kanri_R6_Q16",
                   "statement": "権原者は,防火管理者に,消防計画を作成させなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "消防法上、防火管理者の選任義務が生じるのは収容人員50人以上の場合（マンションは共同住宅に該当）。30人では選任義務はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -67,7 +67,7 @@
                   "groupId": "kanri_R6_Q13",
                   "statement": "調査は,一級建築士,二級建築士又は建築物調査員にさせなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築基準法第12条に基づく特定建築物の定期調査・報告は、3年以内ごとに行わなければならない。5年ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -76,7 +76,7 @@
                   "groupId": "kanri_R6_Q14",
                   "statement": "専ら防災のために設ける備蓄倉庫の用途に供する部分",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建築基準法では、共同住宅の共用廊下・階段の用に供する部分の床面積は容積率の算定から除外される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -85,7 +85,7 @@
                   "groupId": "kanri_R6_Q14",
                   "statement": "宅配ボックスを設ける部分",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建築基準法では、共同住宅の共用廊下・階段の用に供する部分の床面積は容積率の算定から除外される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -94,7 +94,7 @@
                   "groupId": "kanri_R6_Q17",
                   "statement": "二酸化炭素 上昇 2乗",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "コンクリートの中性化は大気中のCO2が侵入することで生じ、pHが低下する。中性化深さは経過年数の平方根（√t）に比例して進行する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -103,7 +103,7 @@
                   "groupId": "kanri_R6_Q15",
                   "statement": "住宅用スプリンクラー",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "消防法第9条の2により、住宅の関係者は住宅用防災機器（住宅用防災警報器など）を設置・維持しなければならない。スプリンクラーや漏電ブレーカーは対象外。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -112,7 +112,7 @@
                   "groupId": "kanri_R6_Q36",
                   "statement": "婚姻の届出をしていないが組合員と事実上婚姻関係と同様の事情にある者は,組合員の代理人となることができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、婚姻届は出していないが事実上婚姻関係と同様の事情にある者（事実婚）も組合員の代理人として議決権を行使できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -121,7 +121,7 @@
                   "groupId": "kanri_R6_Q03",
                   "statement": "委任者は,受任者に不利な時期になる場合や,当該委任契約が受任者の利益（専ら報酬を得ることによるものを除く。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "民法252条ただし書により、保存行為（物の現状維持に必要な行為）は他の共有者の意思に反しても行うことができる。委任の解除は受任者に不利な時期でも可能（民法651条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -130,7 +130,7 @@
                   "groupId": "kanri_R6_Q08",
                   "statement": "出納業務として,マンションの各専有部分の水道料の計算,収納をマンション管理業者に委託することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "管理員の立会業務（工事の完了確認）は完了の事実を確認するものであり、設計図書のとおりに施工されているかを詳細に確認する技術的検査は含まない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -139,7 +139,7 @@
                   "groupId": "kanri_R6_Q14",
                   "statement": "共用の廊下又は階段の用に供する部分",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築基準法では、共同住宅の共用廊下・階段の用に供する部分の床面積は容積率の算定から除外される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -148,7 +148,7 @@
                   "groupId": "kanri_R6_Q11",
                   "statement": "（借 方） （貸 方）支払保険料 720,000 普通預金 1,440,000保険積立金 720,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "保険料の月次仕訳では、当月分を支払保険料、翌月以降分を前払保険料に計上し、長期保険の積立部分は保険積立金として区分する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -157,7 +157,7 @@
                   "groupId": "kanri_R6_Q23",
                   "statement": "収支計画の不確定な要素として,修繕積立金の運用利率,借入金の金利,物価・工事費価格及び消費税率の変動などがある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "推定修繕工事費の単価の地域差は、労務費にも一定の地域差が存在する。材料費だけでなく労務費も地域差を考慮する必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -166,7 +166,7 @@
                   "groupId": "kanri_R6_Q16",
                   "statement": "権原者は,防火管理者に,消防計画に基づく消火,通報及び避難の訓練を実施させなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "消防法上、防火管理者の選任義務が生じるのは収容人員50人以上の場合（マンションは共同住宅に該当）。30人では選任義務はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -175,7 +175,7 @@
                   "groupId": "kanri_R6_Q12",
                   "statement": "普通預金 3,000,000 未収入金 90,000管理費収入 1,940,000修繕積立金収入 970,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "発生主義により、当月分の管理費・修繕積立金は収入計上し、未収分は未収入金、前受分は前受金で処理する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -184,7 +184,7 @@
                   "groupId": "kanri_R6_Q46",
                   "statement": "管理者等が定められていること",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "マンション管理適正化推進計画の基準において、長期修繕計画の作成または見直しは「5年以内」に行われていることが要件。10年以内は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -193,7 +193,7 @@
                   "groupId": "kanri_R6_Q11",
                   "statement": "（借 方） （貸 方）保険積立金 1,440,000 普通預金 1,440,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "保険料の月次仕訳では、当月分を支払保険料、翌月以降分を前払保険料に計上し、長期保険の積立部分は保険積立金として区分する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -202,7 +202,7 @@
                   "groupId": "kanri_R6_Q17",
                   "statement": "酸素 上昇 平方根",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "コンクリートの中性化は大気中のCO2が侵入することで生じ、pHが低下する。中性化深さは経過年数の平方根（√t）に比例して進行する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -211,7 +211,7 @@
                   "groupId": "kanri_R6_Q17",
                   "statement": "酸素 低下 2乗",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "コンクリートの中性化は大気中のCO2が侵入することで生じ、pHが低下する。中性化深さは経過年数の平方根（√t）に比例して進行する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -220,7 +220,7 @@
                   "groupId": "kanri_R6_Q40",
                   "statement": "少額訴訟によって訴えを提起する場合,その上限額は60万円である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "少額訴訟は60万円以下の金銭請求について簡易裁判所に提起する手続き。30万円を超える場合でも地方裁判所ではなく簡易裁判所に提起する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -229,7 +229,7 @@
                   "groupId": "kanri_R6_Q45",
                   "statement": "ＡはＢに対し,当該マンションの管理が委託されているときは,その管理委託契約の内容について説明しなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建業法35条により、住宅性能評価を受けた新築住宅の場合、その旨は重要事項として説明しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -238,7 +238,7 @@
                   "groupId": "kanri_R6_Q13",
                   "statement": "特定行政庁への報告は,建築物の所有者と管理者が異なる場合においては,管理者が行わなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築基準法第12条に基づく特定建築物の定期調査・報告は、3年以内ごとに行わなければならない。5年ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -247,7 +247,7 @@
                   "groupId": "kanri_R6_Q19",
                   "statement": "簡易専用水道の供給を受けるために設けられる水槽の有効容量の合計は,10m3を超えるものとする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "専用水道とは、寄宿舎等の自家用水道で1日最大給水量20m³超かつ100人超に供給するもの。50人・30m³の記述は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -256,7 +256,7 @@
                   "groupId": "kanri_R6_Q04",
                   "statement": "管理組合は,マンション管理業者に管理事務を行わせるために管理事務室を使用させる場合は,有償で使用させるものとする。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理委託契約書によると、マンション管理業者は管理組合の承諾を得れば、報告を電磁的方法で行うことができる。管理事務室は無償提供が原則。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -265,7 +265,7 @@
                   "groupId": "kanri_R6_Q05",
                   "statement": "Ａ及びＢは,管理委託契約の成立の証として契約書1通を作成し,Ａ及びＢが記名押印した上,Ａが当該契約書を保有した。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理委託契約書では、契約書は2通作成し管理組合とマンション管理業者が各1通ずつ保管する。1通のみ作成して一方が保管する規定はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -274,7 +274,7 @@
                   "groupId": "kanri_R6_Q05",
                   "statement": "Ａは,Ｂがマンション管理業の登録の取消しの処分を受けたため,Ｂに対して何らの催告をせず,Ｂとの管理委託契約を解除した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理委託契約書では、契約書は2通作成し管理組合とマンション管理業者が各1通ずつ保管する。1通のみ作成して一方が保管する規定はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -283,7 +283,7 @@
                   "groupId": "kanri_R6_Q46",
                   "statement": "長期修繕計画の作成または見直しが10年以内に行われていること",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "マンション管理適正化推進計画の基準において、長期修繕計画の作成または見直しは「5年以内」に行われていることが要件。10年以内は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -292,7 +292,7 @@
                   "groupId": "kanri_R6_Q36",
                   "statement": "組合員が代理人により議決権を行使しようとする場合は,当該組合員が代理権を証する書面を理事長に提出しなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、婚姻届は出していないが事実上婚姻関係と同様の事情にある者（事実婚）も組合員の代理人として議決権を行使できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -301,7 +301,7 @@
                   "groupId": "kanri_R6_Q12",
                   "statement": "普通預金 3,000,000 管理費収入 180,000修繕積立金収入 90,000前受金 2,730,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "発生主義により、当月分の管理費・修繕積立金は収入計上し、未収分は未収入金、前受分は前受金で処理する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -310,7 +310,7 @@
                   "groupId": "kanri_R6_Q26",
                   "statement": "区分所有者は,集会において,区分所有者及び議決権の各4分の3以上の多数で,復旧決議をすることができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "区分所有法第61条により、大規模滅失後に自己判断で共用部分を復旧した区分所有者は、他の区分所有者に費用の分担を請求することができない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -319,7 +319,7 @@
                   "groupId": "kanri_R6_Q44",
                   "statement": "特定転貸事業者又は勧誘者（特定転貸事業者が特定賃貸借契約の締結についての勧誘を行わせる者をいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "特定賃貸借契約（マスターリース契約）とは、特定転貸事業者が賃貸人から住宅を賃借する契約のことであり、入居者との転貸借契約ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -328,7 +328,7 @@
                   "groupId": "kanri_R6_Q13",
                   "statement": "特定行政庁への報告は,5年間隔で行わなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建築基準法第12条に基づく特定建築物の定期調査・報告は、3年以内ごとに行わなければならない。5年ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -337,7 +337,7 @@
                   "groupId": "kanri_R6_Q43",
                   "statement": "マンションの新規供給戸数は,2008年以降,一貫して減少している。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "国土交通省の統計によると、建替え工事が完了したマンションの件数は2023年3月時点の累計で250件を超えている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -346,7 +346,7 @@
                   "groupId": "kanri_R6_Q41",
                   "statement": "マンション建替事業を行う団体を法人とするか否かは,当該団体の任意で決めることができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "マンション建替円滑化法上、マンション建替事業を行う団体（マンション建替組合）は法人とされており、法人化するかどうかを任意に決めることはできない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -355,7 +355,7 @@
                   "groupId": "kanri_R6_Q15",
                   "statement": "漏電ブレーカー（漏電遮断機）",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "消防法第9条の2により、住宅の関係者は住宅用防災機器（住宅用防災警報器など）を設置・維持しなければならない。スプリンクラーや漏電ブレーカーは対象外。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -364,7 +364,7 @@
                   "groupId": "kanri_R6_Q18",
                   "statement": "中性化により発生した,鉄筋の腐食に伴うコンクリートの浮きに対し,断面修復による工法を選定した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "塩害による浮きかかったコンクリートのひび割れに対し、樹脂注入工法は不適切。塩害の場合は塩分を除去した上での断面修復工法等が適切である。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -373,7 +373,7 @@
                   "groupId": "kanri_R6_Q43",
                   "statement": "建替え工事が完了したマンションの件数は,2023年3月時点の累計で,250件を超えている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "国土交通省の統計によると、建替え工事が完了したマンションの件数は2023年3月時点の累計で250件を超えている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -382,7 +382,7 @@
                   "groupId": "kanri_R6_Q36",
                   "statement": "収支予算を変更しようとする場合に,理事長は,その案を理事会に提出し,その承認を得れば足りる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、婚姻届は出していないが事実上婚姻関係と同様の事情にある者（事実婚）も組合員の代理人として議決権を行使できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -391,7 +391,7 @@
                   "groupId": "kanri_R6_Q18",
                   "statement": "コンクリートの乾燥収縮による幅0．3mm程度の挙動のあるひび割れ先行型劣化の補修に,Ｕカットシール材充填工法を選定した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "塩害による浮きかかったコンクリートのひび割れに対し、樹脂注入工法は不適切。塩害の場合は塩分を除去した上での断面修復工法等が適切である。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -400,7 +400,7 @@
                   "groupId": "kanri_R6_Q16",
                   "statement": "防火管理者は,政令で定める資格を有している必要がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "消防法上、防火管理者の選任義務が生じるのは収容人員50人以上の場合（マンションは共同住宅に該当）。30人では選任義務はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -409,7 +409,7 @@
                   "groupId": "kanri_R6_Q11",
                   "statement": "（借 方） （貸 方）支払保険料 1,440,000 普通預金 1,440,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "保険料の月次仕訳では、当月分を支払保険料、翌月以降分を前払保険料に計上し、長期保険の積立部分は保険積立金として区分する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -418,7 +418,7 @@
                   "groupId": "kanri_R6_Q43",
                   "statement": "マンション建替円滑化法に基づくマンション敷地売却の実績は,2016年以降毎年10件以上ある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "国土交通省の統計によると、建替え工事が完了したマンションの件数は2023年3月時点の累計で250件を超えている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -427,7 +427,7 @@
                   "groupId": "kanri_R6_Q41",
                   "statement": "マンション建替事業を行う団体を構成することができる者は,その施行マンションの建替え合意者又はその包括承継人に限られない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "マンション建替円滑化法上、マンション建替事業を行う団体（マンション建替組合）は法人とされており、法人化するかどうかを任意に決めることはできない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -436,7 +436,7 @@
                   "groupId": "kanri_R6_Q18",
                   "statement": "塩害によりコンクリートが浮きかかって生じたひび割れに対し,樹脂注入工法を選定した。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "塩害による浮きかかったコンクリートのひび割れに対し、樹脂注入工法は不適切。塩害の場合は塩分を除去した上での断面修復工法等が適切である。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -445,7 +445,7 @@
                   "groupId": "kanri_R6_Q41",
                   "statement": "マンション建替事業を行う団体は,その名称中に「マンション建替組合」という文字を用いなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "マンション建替円滑化法上、マンション建替事業を行う団体（マンション建替組合）は法人とされており、法人化するかどうかを任意に決めることはできない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -454,7 +454,7 @@
                   "groupId": "kanri_R6_Q40",
                   "statement": "30万円を超える少額訴訟の場合には,地方裁判所に提起しなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "少額訴訟は60万円以下の金銭請求について簡易裁判所に提起する手続き。30万円を超える場合でも地方裁判所ではなく簡易裁判所に提起する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -463,7 +463,7 @@
                   "groupId": "kanri_R6_Q22",
                   "statement": "推定修繕工事項目に建物及び設備の性能を向上する改修工事に係る項目を設定する場合には,その費用を含めた収支計画とする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "機械式駐車場がある場合でも、駐車場の長期修繕計画は全体の長期修繕計画に含めて作成することが望ましい（長期修繕計画作成ガイドライン）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -472,7 +472,7 @@
                   "groupId": "kanri_R6_Q16",
                   "statement": "居住者が30人のマンションでは,権原者は,防火管理者を定める必要がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "消防法上、防火管理者の選任義務が生じるのは収容人員50人以上の場合（マンションは共同住宅に該当）。30人では選任義務はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -481,7 +481,7 @@
                   "groupId": "kanri_R6_Q43",
                   "statement": "2022年末時点における築40年以上のマンションのストック戸数は,10年前と比べると,約2倍に増加している。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "国土交通省の統計によると、建替え工事が完了したマンションの件数は2023年3月時点の累計で250件を超えている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -490,7 +490,7 @@
                   "groupId": "kanri_R6_Q18",
                   "statement": "コンクリートのコールドジョイントによる幅0．2mm未満の,挙動のないひび割れ先行型劣化の補修に,シール工法を選定した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "塩害による浮きかかったコンクリートのひび割れに対し、樹脂注入工法は不適切。塩害の場合は塩分を除去した上での断面修復工法等が適切である。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -499,7 +499,7 @@
                   "groupId": "kanri_R6_Q12",
                   "statement": "（借 方） （貸 方）普通預金 3,000,000 管理費収入 2,000,000修繕積立金収入 1,000,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "発生主義により、当月分の管理費・修繕積立金は収入計上し、未収分は未収入金、前受分は前受金で処理する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -508,7 +508,7 @@
                   "groupId": "kanri_R6_Q11",
                   "statement": "支払保険料 60,000 普通預金 1,440,000前払保険料 660,000保険積立金 720,000",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "保険料の月次仕訳では、当月分を支払保険料、翌月以降分を前払保険料に計上し、長期保険の積立部分は保険積立金として区分する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -517,7 +517,7 @@
                   "groupId": "kanri_R6_Q13",
                   "statement": "調査の項目,方法及び結果の判定基準は国土交通大臣の定めるところによるものとする。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築基準法第12条に基づく特定建築物の定期調査・報告は、3年以内ごとに行わなければならない。5年ではない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -526,7 +526,7 @@
                   "groupId": "kanri_R6_Q14",
                   "statement": "エレベーターの昇降路の部分",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建築基準法では、共同住宅の共用廊下・階段の用に供する部分の床面積は容積率の算定から除外される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -535,7 +535,7 @@
                   "groupId": "kanri_R6_Q42",
                   "statement": "権利に関する登記の申請は,法令に別段の定めがある場合を除き,登記権利者及び登記義務者が共同してしなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "不動産登記の権利部は甲区（所有権に関する登記）と乙区（所有権以外の権利に関する登記）に区分される。抵当権は乙区に記録される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -544,7 +544,7 @@
                   "groupId": "kanri_R6_Q50",
                   "statement": "Ａは,基幹事務のうち,Ｂの会計の収入及び支出の調定に関する業務のみを第三者に再委託した。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "基幹事務（会計の収入・支出の調定など）の一部のみの再委託は禁止されている。基幹事務は一括して再委託するか、全て自社で行う必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -564,7 +564,7 @@
                   "groupId": "kanri_R5_Q06",
                   "statement": "管理組合及びマンション管理業者は,その相手方が,管理委託契約に定められた義務の履行を怠った場合は。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理委託契約書によると、管理委託契約の解約申入れは書面で行う必要がある。口頭での申入れによる終了は認められていない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -573,7 +573,7 @@
                   "groupId": "kanri_R5_Q16",
                   "statement": "電磁誘導法により,コンクリートの塩化物イオン濃度を推定した。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "電磁誘導法はコンクリート中の鉄筋の位置・かぶり厚さを推定する方法であり、塩化物イオン濃度の測定には用いない。塩化物イオン濃度はコア採取による化学分析等で測定する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -582,7 +582,7 @@
                   "groupId": "kanri_R5_Q30",
                   "statement": "管理組合が,Ａの滞納管理費について,Ａの301号室の区分所有権に対し先取特権を行使するためには。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "区分所有法8条により、管理費の先取特権は特別の先取特権として、抵当権に優先する場合がある。賃貸中の専有部分への先取特権行使には注意が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -591,7 +591,7 @@
                   "groupId": "kanri_R5_Q42",
                   "statement": "管理組合の組合員の氏名が記載されている組合員名簿が。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "個人情報取扱事業者は個人情報を取得した場合、あらかじめ利用目的を公表している場合を除き、速やかに本人に通知または公表しなければならない（個人情報保護法21条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -600,7 +600,7 @@
                   "groupId": "kanri_R5_Q40",
                   "statement": "管理費の滞納者が,管理組合に対し,滞納管理費の額と滞納している事実を認めた場合は。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "管理費の滞納に対して訴訟を提起するために、事前に内容証明郵便による督促を行う法的義務はない。訴状を裁判所に提出すれば訴訟提起できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -609,7 +609,7 @@
                   "groupId": "kanri_R5_Q04",
                   "statement": "ＡのＢに対する請負代金債務について,Ａの理事が当該債務を保証する旨の契約をＢとの間で締結する場合に。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "金銭債務の遅延損害金については、不可抗力を理由に免責されない（民法419条3項）。地震等の不可抗力による支払遅延でも遅延損害金の責任を負う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -618,7 +618,7 @@
                   "groupId": "kanri_R5_Q42",
                   "statement": "管理組合は,「個人情報取扱事業者」に該当しない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "個人情報取扱事業者は個人情報を取得した場合、あらかじめ利用目的を公表している場合を除き、速やかに本人に通知または公表しなければならない（個人情報保護法21条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -627,7 +627,7 @@
                   "groupId": "kanri_R5_Q04",
                   "statement": "ＡのＢに対する請負代金の支払期日の前日に,地震で管理事務室が損壊したため。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "金銭債務の遅延損害金については、不可抗力を理由に免責されない（民法419条3項）。地震等の不可抗力による支払遅延でも遅延損害金の責任を負う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -636,7 +636,7 @@
                   "groupId": "kanri_R5_Q13",
                   "statement": "（借 方） （貸 方）普通預金 300,000 駐車場使用料収入 300,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "駐車場使用料のうち、当月に役務提供が完了した分のみ収入計上し、翌月以降分は前受金、預かり税等は預り金として処理する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -645,7 +645,7 @@
                   "groupId": "kanri_R5_Q45",
                   "statement": "ＡがＢに対して交付する重要事項説明書に記名する宅地建物取引士は,専任の宅地建物取引士でなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建業法35条により、私道に関する負担がない場合でも「私道負担なし」という旨を重要事項として説明しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -654,7 +654,7 @@
                   "groupId": "kanri_R5_Q13",
                   "statement": "（借 方） （貸 方）普通預金 300,000 前受金 100,000預り金 200,000",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "駐車場使用料のうち、当月に役務提供が完了した分のみ収入計上し、翌月以降分は前受金、預かり税等は預り金として処理する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -663,7 +663,7 @@
                   "groupId": "kanri_R5_Q12",
                   "statement": "普通預金 3,000,000 未収入金 180,000管理費収入 2,280,000修繕積立金収入 540,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "発生主義により当月分を収入計上し、未収分は未収入金（資産）、前受分は前受金（負債）として区分処理する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -672,7 +672,7 @@
                   "groupId": "kanri_R5_Q16",
                   "statement": "反発度法により,コンクリートの圧縮強度を推定した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "電磁誘導法はコンクリート中の鉄筋の位置・かぶり厚さを推定する方法であり、塩化物イオン濃度の測定には用いない。塩化物イオン濃度はコア採取による化学分析等で測定する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -681,7 +681,7 @@
                   "groupId": "kanri_R5_Q28",
                   "statement": "総会の議題が専有部分でのペットの飼育を禁止にする件であったため。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、組合員の配偶者・一親等の親族は代理人になれる。甥（二親等）は一親等の要件を満たさないが、同居している場合は代理人として認められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -690,7 +690,7 @@
                   "groupId": "kanri_R5_Q39",
                   "statement": "競売手続によってマンションの区分所有権を取得した場合には,買受人は,前区分所有者の滞納管理費の支払義務を承継しない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "区分所有法8条・7条により、競売手続によってマンションの区分所有権を取得した買受人も、前区分所有者の滞納管理費の支払義務を承継する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -699,7 +699,7 @@
                   "groupId": "kanri_R5_Q02",
                   "statement": "Ａが被補助人である場合は,家庭裁判所が,Ａの補助人の請求により。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "成年被後見人は行為能力を制限されており、後見人の同意があっても単独で有効な法律行為はできない。後見人が代理して行う必要がある（民法7条・9条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -708,7 +708,7 @@
                   "groupId": "kanri_R5_Q12",
                   "statement": "普通預金 3,000,000 未収入金 180,000管理費収入 80。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "発生主義により当月分を収入計上し、未収分は未収入金（資産）、前受分は前受金（負債）として区分処理する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -717,7 +717,7 @@
                   "groupId": "kanri_R5_Q36",
                   "statement": "共用部分のうち各住戸に付属する玄関扉の改良工事で住宅の性能向上に資するものについて。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、各住戸に付属する玄関扉の改良工事で住宅性能向上に資するものは、計画修繕として管理組合が実施できる（管理組合費用負担）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -726,7 +726,7 @@
                   "groupId": "kanri_R5_Q20",
                   "statement": "停電時の予備電源として蓄電池を用いる非常用の照明装置にあっては,充電を行うことなく30分間継続して点灯し。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築基準法による非常用照明装置にLEDランプを用いる場合、常温下で床面の水平面照度1ルクス以上（蛍光灯は2ルクス以上）を確保する必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -735,7 +735,7 @@
                   "groupId": "kanri_R5_Q29",
                   "statement": "102号室について,Ｄは,所有の意思をもって,善意で,平穏に,かつ,公然と占有をするものと推定される。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "民法186条1項により、占有者は所有の意思をもって、善意で、平穏に、かつ公然と占有するものと推定される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -744,7 +744,7 @@
                   "groupId": "kanri_R5_Q22",
                   "statement": "修繕積立基金又は一時金の負担がある場合は,これらを修繕積立金会計とは区分して管理する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "修繕積立基金や一時金として徴収した資金は、修繕積立金会計に含めて管理する。別会計で管理するのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -753,7 +753,7 @@
                   "groupId": "kanri_R5_Q15",
                   "statement": "防火管理者として選任された旨の都道府県知事への届出",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "防火管理者として選任された場合、消防計画の作成や訓練の実施等の業務を行う義務があるが、都道府県知事への届出義務はない（消防長または消防署長への届出）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -762,7 +762,7 @@
                   "groupId": "kanri_R5_Q24",
                   "statement": "長期修繕計画の構成は,マンションの建物・設備の概要等,調査・診断の概要。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "長期修繕計画の構成は、①建物・設備の概要等、②調査・診断の概要、③長期修繕計画の内容、④修繕積立金の額の設定の4項目を基本とする（ガイドライン）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -771,7 +771,7 @@
                   "groupId": "kanri_R5_Q39",
                   "statement": "管理組合は,管理費が滞納されている場合,管理規約に遅延損害金の定めがないときでも,遅延損害金を請求することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法8条・7条により、競売手続によってマンションの区分所有権を取得した買受人も、前区分所有者の滞納管理費の支払義務を承継する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -780,7 +780,7 @@
                   "groupId": "kanri_R5_Q09",
                   "statement": "管理費等及び使用料の額並びに賦課徴収方法は,総会の決議事項とされる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、役員活動費の額および支払方法は総会の決議事項とされている。理事会決議のみでは決定できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -789,7 +789,7 @@
                   "groupId": "kanri_R5_Q41",
                   "statement": "新築住宅の売主は,構造耐力上主要な部分又は雨水の浸入を防止する部分として政 令で定めるものについて。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅の品質確保の促進等に関する法律（品確法）では、新築住宅とは建設完了から1年以内かつ未居住のもの。2年は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -798,7 +798,7 @@
                   "groupId": "kanri_R5_Q25",
                   "statement": "均等積立方式であっても,その後の長期修繕計画の見直しにより増額が必要になる場合もある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "段階増額積立方式は将来の増額を前提とするが、区分所有者の合意が得られない等の理由で増額が実現しない場合に修繕積立金が不足するリスクがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -807,7 +807,7 @@
                   "groupId": "kanri_R5_Q24",
                   "statement": "外壁の塗装や屋上防水などを行う大規模修繕工事の周期は部材や工事の仕様等により異なるが,一般的に12〜15年程度である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "長期修繕計画の構成は、①建物・設備の概要等、②調査・診断の概要、③長期修繕計画の内容、④修繕積立金の額の設定の4項目を基本とする（ガイドライン）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -816,7 +816,7 @@
                   "groupId": "kanri_R5_Q16",
                   "statement": "赤外線サーモグラフィにより,外壁のタイルの浮きを探査した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "電磁誘導法はコンクリート中の鉄筋の位置・かぶり厚さを推定する方法であり、塩化物イオン濃度の測定には用いない。塩化物イオン濃度はコア採取による化学分析等で測定する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -825,7 +825,7 @@
                   "groupId": "kanri_R5_Q09",
                   "statement": "修繕積立金の保管及び運用方法は,総会の決議事項とされる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、役員活動費の額および支払方法は総会の決議事項とされている。理事会決議のみでは決定できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -834,7 +834,7 @@
                   "groupId": "kanri_R5_Q03",
                   "statement": "本件売買契約が締結されたときに,ＣがＡに代理権がないことを知っていた場合は。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "無権代理において相手方Cが代理権のないことを知っていた（悪意）場合、Cは本人Bに対して追認するか否かを催告する権限を持たない（民法114条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -843,7 +843,7 @@
                   "groupId": "kanri_R5_Q12",
                   "statement": "普通預金 3,000,000 未収入金 200,000修繕積立金収入 100,000前受金 2,700,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "発生主義により当月分を収入計上し、未収分は未収入金（資産）、前受分は前受金（負債）として区分処理する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -852,7 +852,7 @@
                   "groupId": "kanri_R5_Q16",
                   "statement": "クラックスケールにより,コンクリートのひび割れ幅を測定した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "電磁誘導法はコンクリート中の鉄筋の位置・かぶり厚さを推定する方法であり、塩化物イオン濃度の測定には用いない。塩化物イオン濃度はコア採取による化学分析等で測定する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -861,7 +861,7 @@
                   "groupId": "kanri_R5_Q30",
                   "statement": "Ｂの抵当権の効力は,管理組合が滞納管理費の回収のために先取特権を行使する場合と同様に。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "区分所有法8条により、管理費の先取特権は特別の先取特権として、抵当権に優先する場合がある。賃貸中の専有部分への先取特権行使には注意が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -870,7 +870,7 @@
                   "groupId": "kanri_R5_Q32",
                   "statement": "集会の決議は,規約にその旨の定めがなければ,電磁的方法によることができない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "区分所有法第39条3項により、集会の決議は規約に定めがなくても、区分所有者全員の承諾があれば電磁的方法によることができる。規約が必要というのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -879,7 +879,7 @@
                   "groupId": "kanri_R5_Q42",
                   "statement": "管理組合の総会議事録の署名欄に書かれた氏名は,「個人情報」に該当しない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "個人情報取扱事業者は個人情報を取得した場合、あらかじめ利用目的を公表している場合を除き、速やかに本人に通知または公表しなければならない（個人情報保護法21条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -888,7 +888,7 @@
                   "groupId": "kanri_R5_Q43",
                   "statement": "「平成30年度マンション総合調査結果」によると,回答した区分所有者のうち永住するつもりである区分所有者は。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "平成30年度マンション総合調査によると、現在の修繕積立金の積立額が長期修繕計画に比べて不足しているマンションは3割を超えている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -897,7 +897,7 @@
                   "groupId": "kanri_R5_Q24",
                   "statement": "長期修繕計画においては,会計状況,設計図書等の保管状況等の概要について示す必要がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "長期修繕計画の構成は、①建物・設備の概要等、②調査・診断の概要、③長期修繕計画の内容、④修繕積立金の額の設定の4項目を基本とする（ガイドライン）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -906,7 +906,7 @@
                   "groupId": "kanri_R5_Q50",
                   "statement": "マンション管理業者は,公衆の見やすい場所に,その登録番号等を記載した標識を掲示しなければならないが。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "マンション管理適正化法では、マンション管理業者は契約成立時の書面を交付する際、管理業務主任者に記名させなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -915,7 +915,7 @@
                   "groupId": "kanri_R5_Q44",
                   "statement": "賃貸住宅管理業者は,その営業所又は事務所ごとに,賃貸住宅管理業に従事する者の数に対し。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "賃貸住宅管理業者の登録有効期間は5年で、満了前に更新申請した場合は有効期間満了後も処分があるまで登録の効力が継続する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -924,7 +924,7 @@
                   "groupId": "kanri_R5_Q36",
                   "statement": "区分所有者が,屋上からの雨漏りにより専有部分の使用に支障が生じ緊急を要するため当該共用部分の保存行為を行ったが。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、各住戸に付属する玄関扉の改良工事で住宅性能向上に資するものは、計画修繕として管理組合が実施できる（管理組合費用負担）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -933,7 +933,7 @@
                   "groupId": "kanri_R5_Q25",
                   "statement": "段階増額積立方式は,修繕資金需要に応じて積立金を徴収する方式であり,当初の負担額は小さく。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "段階増額積立方式は将来の増額を前提とするが、区分所有者の合意が得られない等の理由で増額が実現しない場合に修繕積立金が不足するリスクがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -942,7 +942,7 @@
                   "groupId": "kanri_R5_Q06",
                   "statement": "管理委託契約の更新について申出があった場合において。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理委託契約書によると、管理委託契約の解約申入れは書面で行う必要がある。口頭での申入れによる終了は認められていない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -951,7 +951,7 @@
                   "groupId": "kanri_R5_Q42",
                   "statement": "個人情報取扱事業者は,個人情報を取得した場合は,あらかじめその利用目的を公表している場合を除き。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "個人情報取扱事業者は個人情報を取得した場合、あらかじめ利用目的を公表している場合を除き、速やかに本人に通知または公表しなければならない（個人情報保護法21条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -960,7 +960,7 @@
                   "groupId": "kanri_R5_Q39",
                   "statement": "賃借人が賃貸借契約により管理費を管理組合に支払っていた場合でも,当該賃借人が管理費の支払いを滞納したときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法8条・7条により、競売手続によってマンションの区分所有権を取得した買受人も、前区分所有者の滞納管理費の支払義務を承継する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -969,7 +969,7 @@
                   "groupId": "kanri_R5_Q03",
                   "statement": "ＣがＢに対し,相当の期間を定めて,その期間内にＡの無権代理行為を追認するかどうかを確答すべき旨を催告した場合において。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "無権代理において相手方Cが代理権のないことを知っていた（悪意）場合、Cは本人Bに対して追認するか否かを催告する権限を持たない（民法114条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -978,7 +978,7 @@
                   "groupId": "kanri_R5_Q45",
                   "statement": "ＡはＢに対して,当該住戸の台所や浴室などの設備の整備状況について,説明をしなければならない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "宅建業法35条により、私道に関する負担がない場合でも「私道負担なし」という旨を重要事項として説明しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -987,7 +987,7 @@
                   "groupId": "kanri_R5_Q41",
                   "statement": "新築住宅とは,新たに建設された住宅で,かつ,まだ人の居住の用に供したことのないもので。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "住宅の品質確保の促進等に関する法律（品確法）では、新築住宅とは建設完了から1年以内かつ未居住のもの。2年は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -996,7 +996,7 @@
                   "groupId": "kanri_R5_Q25",
                   "statement": "段階増額積立方式は,将来の増額が決まっているため,修繕積立金が不足することはない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "段階増額積立方式は将来の増額を前提とするが、区分所有者の合意が得られない等の理由で増額が実現しない場合に修繕積立金が不足するリスクがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1005,7 +1005,7 @@
                   "groupId": "kanri_R5_Q12",
                   "statement": "（借 方） （貸 方）普通預金 3,000,000 管理費収入 2,400,000修繕積立金収入 600,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "発生主義により当月分を収入計上し、未収分は未収入金（資産）、前受分は前受金（負債）として区分処理する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1014,7 +1014,7 @@
                   "groupId": "kanri_R5_Q02",
                   "statement": "Ａが被保佐人である場合は,家庭裁判所は,Ａの請求により。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "成年被後見人は行為能力を制限されており、後見人の同意があっても単独で有効な法律行為はできない。後見人が代理して行う必要がある（民法7条・9条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1023,7 +1023,7 @@
                   "groupId": "kanri_R5_Q09",
                   "statement": "役員活動費の額及び支払方法を決めるにあたっては,理事会の決議で足りる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、役員活動費の額および支払方法は総会の決議事項とされている。理事会決議のみでは決定できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1032,7 +1032,7 @@
                   "groupId": "kanri_R5_Q19",
                   "statement": "湯待ち時間とは,給湯栓を開放してから湯が出てくるまでの時間のことである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "密閉燃焼式FF方式とは、ファンにより屋外から強制的に燃焼用空気を取り入れ、ファンにより強制的に排気する方式（強制給排気）。自然換気力による排気は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1041,7 +1041,7 @@
                   "groupId": "kanri_R5_Q03",
                   "statement": "ＣがＢに対し,相当の期間を定めて,その期間内にＡの無権代理行為を追認するかどうかを確答すべき旨を催告した場合において。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "無権代理において相手方Cが代理権のないことを知っていた（悪意）場合、Cは本人Bに対して追認するか否かを催告する権限を持たない（民法114条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1050,7 +1050,7 @@
                   "groupId": "kanri_R5_Q30",
                   "statement": "Ａが,301号室をＣに賃貸している場合に,Ａが,管理組合及びＢに対する債務について不履行を生じさせたときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法8条により、管理費の先取特権は特別の先取特権として、抵当権に優先する場合がある。賃貸中の専有部分への先取特権行使には注意が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1059,7 +1059,7 @@
                   "groupId": "kanri_R5_Q03",
                   "statement": "Ａの行為は無権代理行為であるが,Ｂが追認をすれば,本件売買契約は有効となる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "無権代理において相手方Cが代理権のないことを知っていた（悪意）場合、Cは本人Bに対して追認するか否かを催告する権限を持たない（民法114条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1068,7 +1068,7 @@
                   "groupId": "kanri_R5_Q04",
                   "statement": "ＢのＡに対する請負代金債権について,ＡＢ間においてその譲渡を禁止する旨の特約があった場合に。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "金銭債務の遅延損害金については、不可抗力を理由に免責されない（民法419条3項）。地震等の不可抗力による支払遅延でも遅延損害金の責任を負う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1077,7 +1077,7 @@
                   "groupId": "kanri_R5_Q32",
                   "statement": "集会の議事録は,規約にその旨の定めがなくても,電磁的記録により作成することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法第39条3項により、集会の決議は規約に定めがなくても、区分所有者全員の承諾があれば電磁的方法によることができる。規約が必要というのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1086,7 +1086,7 @@
                   "groupId": "kanri_R5_Q20",
                   "statement": "単相3線式では,電圧線と中性線を使用することで,100ボルトの電気機械器具が利用できる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築基準法による非常用照明装置にLEDランプを用いる場合、常温下で床面の水平面照度1ルクス以上（蛍光灯は2ルクス以上）を確保する必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1095,7 +1095,7 @@
                   "groupId": "kanri_R5_Q39",
                   "statement": "専有部分の売買契約によって,滞納されていた管理費の支払義務は区分所有権を取得した買主に承継されるが。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法8条・7条により、競売手続によってマンションの区分所有権を取得した買受人も、前区分所有者の滞納管理費の支払義務を承継する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1104,7 +1104,7 @@
                   "groupId": "kanri_R5_Q29",
                   "statement": "Ｄは,102号室の専有部分の区分所有権について時効によって取得した場合でも。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "民法186条1項により、占有者は所有の意思をもって、善意で、平穏に、かつ公然と占有するものと推定される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1113,7 +1113,7 @@
                   "groupId": "kanri_R5_Q36",
                   "statement": "専用使用部分である窓ガラスが,当該住戸の区分所有者の過失により破損した場合には。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、各住戸に付属する玄関扉の改良工事で住宅性能向上に資するものは、計画修繕として管理組合が実施できる（管理組合費用負担）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1122,7 +1122,7 @@
                   "groupId": "kanri_R5_Q40",
                   "statement": "管理費の滞納者が死亡し,その相続人全員が相続放棄した場合は,いずれの相続人も滞納管理費債務を負わない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "管理費の滞納に対して訴訟を提起するために、事前に内容証明郵便による督促を行う法的義務はない。訴状を裁判所に提出すれば訴訟提起できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1131,7 +1131,7 @@
                   "groupId": "kanri_R5_Q19",
                   "statement": "密閉燃焼式のガス機器の強制給排気方式とは,ファンにより屋外より燃焼用空気を取り入れ,自然換気力により排気する方式をいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "密閉燃焼式FF方式とは、ファンにより屋外から強制的に燃焼用空気を取り入れ、ファンにより強制的に排気する方式（強制給排気）。自然換気力による排気は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1140,7 +1140,7 @@
                   "groupId": "kanri_R5_Q44",
                   "statement": "賃貸住宅管理業者の登録は,5年ごとにその更新を受けなければ,その期間の経過によって効力を失うが。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "賃貸住宅管理業者の登録有効期間は5年で、満了前に更新申請した場合は有効期間満了後も処分があるまで登録の効力が継続する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1149,7 +1149,7 @@
                   "groupId": "kanri_R5_Q28",
                   "statement": "管理費等相当額を家賃に含めて支払っている賃借人は,管理費等の値上げが総会の議題となっている場合でも。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、組合員の配偶者・一親等の親族は代理人になれる。甥（二親等）は一親等の要件を満たさないが、同居している場合は代理人として認められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1158,7 +1158,7 @@
                   "groupId": "kanri_R5_Q25",
                   "statement": "均等積立方式は,将来にわたり定額負担として設定するため,将来の増額を組み込んでおらず。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "段階増額積立方式は将来の増額を前提とするが、区分所有者の合意が得られない等の理由で増額が実現しない場合に修繕積立金が不足するリスクがある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1167,7 +1167,7 @@
                   "groupId": "kanri_R5_Q15",
                   "statement": "避難又は防火上必要な構造及び設備の維持管理",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "防火管理者として選任された場合、消防計画の作成や訓練の実施等の業務を行う義務があるが、都道府県知事への届出義務はない（消防長または消防署長への届出）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1176,7 +1176,7 @@
                   "groupId": "kanri_R5_Q29",
                   "statement": "Ａ,Ｂ,Ｃは,共有する区分所有権について5年を超えない期間内は分割をしない旨の契約をしていた場合であっても。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "民法186条1項により、占有者は所有の意思をもって、善意で、平穏に、かつ公然と占有するものと推定される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1185,7 +1185,7 @@
                   "groupId": "kanri_R5_Q28",
                   "statement": "水漏れ事故により,他の専有部分に対して物理的に又は機能上重大な影響を与えるおそれがあることから。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、組合員の配偶者・一親等の親族は代理人になれる。甥（二親等）は一親等の要件を満たさないが、同居している場合は代理人として認められる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1194,7 +1194,7 @@
                   "groupId": "kanri_R5_Q40",
                   "statement": "管理費の滞納者に対して訴訟を提起するためには,事前に内容証明郵便による督促を行う必要がある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "管理費の滞納に対して訴訟を提起するために、事前に内容証明郵便による督促を行う法的義務はない。訴状を裁判所に提出すれば訴訟提起できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1203,7 +1203,7 @@
                   "groupId": "kanri_R5_Q13",
                   "statement": "（借 方） （貸 方）普通預金 300,000 駐車場使用料収入 100,000預り金 200,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "駐車場使用料のうち、当月に役務提供が完了した分のみ収入計上し、翌月以降分は前受金、預かり税等は預り金として処理する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1212,7 +1212,7 @@
                   "groupId": "kanri_R5_Q15",
                   "statement": "消防の用に供する設備等の点検及び整備",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "防火管理者として選任された場合、消防計画の作成や訓練の実施等の業務を行う義務があるが、都道府県知事への届出義務はない（消防長または消防署長への届出）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1221,7 +1221,7 @@
                   "groupId": "kanri_R5_Q43",
                   "statement": "2021年末時点における分譲マンションストック総数は,700万戸を超えている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "平成30年度マンション総合調査によると、現在の修繕積立金の積立額が長期修繕計画に比べて不足しているマンションは3割を超えている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1230,7 +1230,7 @@
                   "groupId": "kanri_R5_Q45",
                   "statement": "ＡはＢに対して,当該マンションについて,私道に関する負担がない場合であっても,これがない旨の説明をしなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建業法35条により、私道に関する負担がない場合でも「私道負担なし」という旨を重要事項として説明しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1239,7 +1239,7 @@
                   "groupId": "kanri_R5_Q32",
                   "statement": "議決権の行使は,集会の決議又は規約にその旨を定めることにより,書面に代えて電磁的方法によることができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法第39条3項により、集会の決議は規約に定めがなくても、区分所有者全員の承諾があれば電磁的方法によることができる。規約が必要というのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1248,7 +1248,7 @@
                   "groupId": "kanri_R5_Q15",
                   "statement": "消防計画に基づく消火,通報及び避難の訓練の実施",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "防火管理者として選任された場合、消防計画の作成や訓練の実施等の業務を行う義務があるが、都道府県知事への届出義務はない（消防長または消防署長への届出）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1257,7 +1257,7 @@
                   "groupId": "kanri_R5_Q32",
                   "statement": "管理規約は,規約にその旨の定めがなくても,電磁的記録により作成することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法第39条3項により、集会の決議は規約に定めがなくても、区分所有者全員の承諾があれば電磁的方法によることができる。規約が必要というのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1266,7 +1266,7 @@
                   "groupId": "kanri_R5_Q06",
                   "statement": "マンション管理業者が管理組合に対し,自らの役員が反社会的勢力ではないことを確約したが。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理委託契約書によると、管理委託契約の解約申入れは書面で行う必要がある。口頭での申入れによる終了は認められていない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1275,7 +1275,7 @@
                   "groupId": "kanri_R5_Q22",
                   "statement": "修繕積立金は,マンションの建替えを目的とした調査等に要する経費に充当する場合に取り崩すことができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "修繕積立基金や一時金として徴収した資金は、修繕積立金会計に含めて管理する。別会計で管理するのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1284,7 +1284,7 @@
                   "groupId": "kanri_R5_Q44",
                   "statement": "賃貸住宅管理業者は,管理受託契約を締結しようとするときは,賃貸人に対し。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "賃貸住宅管理業者の登録有効期間は5年で、満了前に更新申請した場合は有効期間満了後も処分があるまで登録の効力が継続する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1293,7 +1293,7 @@
                   "groupId": "kanri_R5_Q22",
                   "statement": "修繕積立金は,不測の事故や自然災害による被害の復旧など。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "修繕積立基金や一時金として徴収した資金は、修繕積立金会計に含めて管理する。別会計で管理するのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1302,7 +1302,7 @@
                   "groupId": "kanri_R5_Q02",
                   "statement": "Ａが成年被後見人である場合は,Ａは,あらかじめその後見人の同意を得ることにより。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "成年被後見人は行為能力を制限されており、後見人の同意があっても単独で有効な法律行為はできない。後見人が代理して行う必要がある（民法7条・9条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1311,7 +1311,7 @@
                   "groupId": "kanri_R5_Q41",
                   "statement": "新築住宅の瑕疵担保責任について,瑕疵を修補する責任に限定し。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅の品質確保の促進等に関する法律（品確法）では、新築住宅とは建設完了から1年以内かつ未居住のもの。2年は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1320,7 +1320,7 @@
                   "groupId": "kanri_R5_Q22",
                   "statement": "長期修繕計画の作成に要する経費は,管理組合の財産状態等に応じて管理費又は修繕積立金のどちらからでも充当することができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "修繕積立基金や一時金として徴収した資金は、修繕積立金会計に含めて管理する。別会計で管理するのは誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1329,7 +1329,7 @@
                   "groupId": "kanri_R5_Q13",
                   "statement": "（借 方） （貸 方）普通預金 300,000 前受金 300,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "駐車場使用料のうち、当月に役務提供が完了した分のみ収入計上し、翌月以降分は前受金、預かり税等は預り金として処理する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1338,7 +1338,7 @@
                   "groupId": "kanri_R5_Q02",
                   "statement": "Ａが成年被後見人である場合は,Ａの後見人がＡを代理して当該住戸の区分所有権を売却するためには。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "成年被後見人は行為能力を制限されており、後見人の同意があっても単独で有効な法律行為はできない。後見人が代理して行う必要がある（民法7条・9条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1347,7 +1347,7 @@
                   "groupId": "kanri_R5_Q19",
                   "statement": "深夜電力温水器とは,夜間の電力を使用して加熱した水をタンク内にためておいて給湯するものである。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "密閉燃焼式FF方式とは、ファンにより屋外から強制的に燃焼用空気を取り入れ、ファンにより強制的に排気する方式（強制給排気）。自然換気力による排気は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1356,7 +1356,7 @@
                   "groupId": "kanri_R5_Q36",
                   "statement": "区分所有者は専有部分の床のフローリングの設置をしようとするときは,理事長にその旨を申請し。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、各住戸に付属する玄関扉の改良工事で住宅性能向上に資するものは、計画修繕として管理組合が実施できる（管理組合費用負担）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1365,7 +1365,7 @@
                   "groupId": "kanri_R5_Q19",
                   "statement": "潜熱回収型ガス給湯機の潜熱回収で発生する酸性の凝縮水は,確実に機器内で中和処理し,排水系統に排出する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "密閉燃焼式FF方式とは、ファンにより屋外から強制的に燃焼用空気を取り入れ、ファンにより強制的に排気する方式（強制給排気）。自然換気力による排気は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1374,7 +1374,7 @@
                   "groupId": "kanri_R5_Q24",
                   "statement": "長期修繕計画においては,維持管理の状況として,法定点検等の実施,調査・診断の実施。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "長期修繕計画の構成は、①建物・設備の概要等、②調査・診断の概要、③長期修繕計画の内容、④修繕積立金の額の設定の4項目を基本とする（ガイドライン）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1383,7 +1383,7 @@
                   "groupId": "kanri_R5_Q41",
                   "statement": "新築住宅の売買契約において,特約により,構造耐力上主要な部分及び雨水の浸入を防止する部分だけでなくその他の部分も含め。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "住宅の品質確保の促進等に関する法律（品確法）では、新築住宅とは建設完了から1年以内かつ未居住のもの。2年は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1392,7 +1392,7 @@
                   "groupId": "kanri_R5_Q50",
                   "statement": "マンション管理業者は,契約の成立時の書面を交付するときは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "マンション管理適正化法では、マンション管理業者は契約成立時の書面を交付する際、管理業務主任者に記名させなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1401,7 +1401,7 @@
                   "groupId": "kanri_R5_Q40",
                   "statement": "管理費の滞納者が死亡した場合は,その相続人が,当該マンションに居住しているか否かにかかわらず。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "管理費の滞納に対して訴訟を提起するために、事前に内容証明郵便による督促を行う法的義務はない。訴状を裁判所に提出すれば訴訟提起できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1410,7 +1410,7 @@
                   "groupId": "kanri_R5_Q20",
                   "statement": "建築物への電力の供給は,供給電圧により,「低圧」,「高圧」,「特別高圧」の3種類に分けられる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築基準法による非常用照明装置にLEDランプを用いる場合、常温下で床面の水平面照度1ルクス以上（蛍光灯は2ルクス以上）を確保する必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1419,7 +1419,7 @@
                   "groupId": "kanri_R5_Q29",
                   "statement": "101号室の区分所有権について,Ａが分割を請求した場合,Ａ,Ｂ,Ｃの協議が調わないときは。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "民法186条1項により、占有者は所有の意思をもって、善意で、平穏に、かつ公然と占有するものと推定される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1428,7 +1428,7 @@
                   "groupId": "kanri_R5_Q50",
                   "statement": "マンション管理業者は,毎月,管理事務の委託を受けた管理組合のその月における会計の収入及び支出の状況に関する書面を作成し。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "マンション管理適正化法では、マンション管理業者は契約成立時の書面を交付する際、管理業務主任者に記名させなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1437,7 +1437,7 @@
                   "groupId": "kanri_R5_Q06",
                   "statement": "管理組合及びマンション管理業者は,その相手方に対し,少なくとも3月前に書面又は口頭で解約の申入れを行うことにより。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理委託契約書によると、管理委託契約の解約申入れは書面で行う必要がある。口頭での申入れによる終了は認められていない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1446,7 +1446,7 @@
                   "groupId": "kanri_R5_Q43",
                   "statement": "マンションの新規供給戸数は,2000年以降,一貫して増加傾向にある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "平成30年度マンション総合調査によると、現在の修繕積立金の積立額が長期修繕計画に比べて不足しているマンションは3割を超えている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1455,7 +1455,7 @@
                   "groupId": "kanri_R5_Q04",
                   "statement": "Ｂが,Ａに対し契約で定めた工事代金より高い金額を請求したところ,Ａがそれに気づかずに請求された金額を支払った場合には。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "金銭債務の遅延損害金については、不可抗力を理由に免責されない（民法419条3項）。地震等の不可抗力による支払遅延でも遅延損害金の責任を負う。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1464,7 +1464,7 @@
                   "groupId": "kanri_R5_Q44",
                   "statement": "賃貸住宅管理業を営もうとする者は,二以上の都道府県の区域内に事務所を設置してその事業を営もうとする場合は国土交通大臣の。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "賃貸住宅管理業者の登録有効期間は5年で、満了前に更新申請した場合は有効期間満了後も処分があるまで登録の効力が継続する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1473,7 +1473,7 @@
                   "groupId": "kanri_R5_Q09",
                   "statement": "災害等により総会の開催が困難である場合に,応急的な修繕工事の実施等を理事会で決議したときには。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、役員活動費の額および支払方法は総会の決議事項とされている。理事会決議のみでは決定できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1482,7 +1482,7 @@
                   "groupId": "kanri_R5_Q30",
                   "statement": "Ｂの抵当権の効力は,301号室の専有部分と共に,当該マンションの共用部分等のＡの共有持分にも及ぶが。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "区分所有法8条により、管理費の先取特権は特別の先取特権として、抵当権に優先する場合がある。賃貸中の専有部分への先取特権行使には注意が必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1491,7 +1491,7 @@
                   "groupId": "kanri_R5_Q20",
                   "statement": "建築基準法により,設置が義務付けられる非常用の照明装置の照明器具にＬＥＤランプを用いる場合は。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建築基準法による非常用照明装置にLEDランプを用いる場合、常温下で床面の水平面照度1ルクス以上（蛍光灯は2ルクス以上）を確保する必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1500,7 +1500,7 @@
                   "groupId": "kanri_R5_Q43",
                   "statement": "「平成30年度マンション総合調査結果」によると,現在の修繕積立金の積立額が長期修繕計画に比べて不足しているマンションは。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "平成30年度マンション総合調査によると、現在の修繕積立金の積立額が長期修繕計画に比べて不足しているマンションは3割を超えている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
@@ -1520,7 +1520,7 @@
                   "groupId": "kanri_r4_Q45",
                   "statement": "宅地建物取引業者は,契約の解除に関する定めがあるときは,その内容を37条書面 に記載しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "宅建業法37条書面（契約書面）には規約で定められた専有部分の用途制限（ペット禁止等）の記載義務はない（35条の重要事項説明書には記載必要）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1529,7 +1529,7 @@
                   "groupId": "kanri_r4_Q50",
                   "statement": "事務所 30 6",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "マンション管理業者は事務所ごとに、管理事務の委託を受けた管理組合数30組合につき1人以上の管理業務主任者を設置しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1538,7 +1538,7 @@
                   "groupId": "kanri_r4_Q37",
                   "statement": "ア ウ イ エ オ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "民法491条により、弁済の充当順序は費用→利息→元本の順。複数の債務がある場合は費用（督促費用等）が最優先される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1547,7 +1547,7 @@
                   "groupId": "kanri_r4_Q19",
                   "statement": "中性化深さは経過年数（t）に比例するので,鉄筋に到達するまで約25年かかる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "中性化深さは経過年数の平方根に比例する。25年で20mmなら比例定数=20/√25=4。かぶり40mmに到達するまでの年数t：4√t=40 → t=100年。竣工後75年後（100-25=75年後）に到達。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1556,7 +1556,7 @@
                   "groupId": "kanri_r4_Q16",
                   "statement": "器具備品 3,500,000 普通預金 3,500,000 修繕費 450,000 未払金 450,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "前月に計上した未払金の支払と当月発生した修繕費を区分して仕訳する。資本的支出（器具備品）と修繕費の区分判断も重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1565,7 +1565,7 @@
                   "groupId": "kanri_r4_Q12",
                   "statement": "監事は,いつでも,理事及び管理組合の職員に対して業務の報告を求め,又は業務 及び財産の状況の調査をすることができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、監事は理事が不正行為をするおそれがあるときに臨時総会を招集することができるが、理事会を直接招集する権限はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1574,7 +1574,7 @@
                   "groupId": "kanri_r4_Q25",
                   "statement": "長期修繕計画は,計画的に見直す必要があり,また,その際には,併せて,修繕積 立金の額も見直す必要がある。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "長期修繕計画の計画期間は、新築・既存マンションどちらの場合も、30年以上かつ大規模修繕工事が2回含まれる期間以上とする。既存マンションで期間が異なるという記述は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1583,7 +1583,7 @@
                   "groupId": "kanri_r4_Q21",
                   "statement": "鉄(cid:7690)については,ディスクグラインダーを用いて除去した後に,水洗いした。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "カビの除去にワイヤブラシを使用すると胞子が飛散するため不適切。カビは薬剤（防カビ剤）による処理が適切であり、水洗いだけでは再発する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1592,7 +1592,7 @@
                   "groupId": "kanri_r4_Q17",
                   "statement": "「主要構造部」とは,壁,柱,床,はり,屋根又は階段をいい,建築物の構造上重 要でない部分を除く。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築基準法第2条第1号では「建築物」に建築設備を含むと定義されている。建築設備を含まないという記述は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1601,7 +1601,7 @@
                   "groupId": "kanri_r4_Q08",
                   "statement": "報告連絡業務には,立会結果等の報告,事故等発生時の連絡が含まれる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "管理員の立会業務には工事・修繕の完了確認や災害・事故等の処理の立会いが含まれるが、専有部分の鍵の保管は含まれない（立会業務の範囲外）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1610,7 +1610,7 @@
                   "groupId": "kanri_r4_Q06",
                   "statement": "マンション管理業者は,管理組合の要求に基づいて,自己の名をもって総会議事録 を作成し,組合員等に交付する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理委託契約書「別表第1」によると、マンション管理業者は各種点検・検査結果を管理組合に報告するとともに、改善等の必要がある事項について具体的な方策を助言する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1619,7 +1619,7 @@
                   "groupId": "kanri_r4_Q43",
                   "statement": "建替えが行われたマンションの件数は,令和3年4月1日時点の累計で,100件未 満である。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "国土交通省統計によると、令和2年末時点での築40年超のマンション戸数は100万戸を超え、令和12年末には200万戸超、令和22年末には400万戸超と急増する見込み。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1628,7 +1628,7 @@
                   "groupId": "kanri_r4_Q02",
                   "statement": "時効の利益は,時効完成後には放棄することができない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "時効の利益は時効完成前に放棄することはできないが（民法146条）、時効完成後であれば当事者が任意に放棄することができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1637,7 +1637,7 @@
                   "groupId": "kanri_r4_Q19",
                   "statement": "中性化深さは経過年数の立方根（3 t ）に比例するので,鉄筋に到達するまで約175 年かかる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "中性化深さは経過年数の平方根に比例する。25年で20mmなら比例定数=20/√25=4。かぶり40mmに到達するまでの年数t：4√t=40 → t=100年。竣工後75年後（100-25=75年後）に到達。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1646,7 +1646,7 @@
                   "groupId": "kanri_r4_Q43",
                   "statement": "分譲マンションストック総数は,昭和43年以降増加傾向であったが,令和元年を ピークに減少に転じている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "国土交通省統計によると、令和2年末時点での築40年超のマンション戸数は100万戸を超え、令和12年末には200万戸超、令和22年末には400万戸超と急増する見込み。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1655,7 +1655,7 @@
                   "groupId": "kanri_r4_Q17",
                   "statement": "「大規模の修繕」とは,建築物の主要構造部の一種以上について行う過半の修繕を いう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築基準法第2条第1号では「建築物」に建築設備を含むと定義されている。建築設備を含まないという記述は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1664,7 +1664,7 @@
                   "groupId": "kanri_r4_Q35",
                   "statement": "区分所有者の一人が借地契約を解除された場合には,当該区分所有者は,敷地利用 権を有しない区分所有者となる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "各区分所有者が土地所有者と個別に借地契約を締結している場合、一人の借地契約が解除されると、その区分所有者は敷地利用権のない区分所有者となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1673,7 +1673,7 @@
                   "groupId": "kanri_r4_Q28",
                   "statement": "ｇ=（ａ+ｂ）'ｅ'ｆ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "修繕積立金の月額単価g = （推定修繕工事費合計ａ＋調査診断費ｂ＋その他ｃ） ÷ 専有面積の合計ｅ ÷ 計画期間ｆ で算出する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1682,7 +1682,7 @@
                   "groupId": "kanri_r4_Q21",
                   "statement": "カビについては,ワイヤブラシでかき落とした後に,水洗いした。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "カビの除去にワイヤブラシを使用すると胞子が飛散するため不適切。カビは薬剤（防カビ剤）による処理が適切であり、水洗いだけでは再発する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1691,7 +1691,7 @@
                   "groupId": "kanri_r4_Q24",
                   "statement": "非常用エレベーターの乗降ロビーの床面積は,非常用エレベーター1基について 10m2以上としなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築基準法により非常用エレベーターの設置義務があるのは高さ31mを超える建築物。40mは誤り（31m超が正しい基準）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1700,7 +1700,7 @@
                   "groupId": "kanri_r4_Q16",
                   "statement": "（借 方） （貸 方） 修繕費 3,950,000 普通預金 3,950,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "前月に計上した未払金の支払と当月発生した修繕費を区分して仕訳する。資本的支出（器具備品）と修繕費の区分判断も重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1709,7 +1709,7 @@
                   "groupId": "kanri_r4_Q21",
                   "statement": "塵埃については,ブラシを用いて水洗いした。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "カビの除去にワイヤブラシを使用すると胞子が飛散するため不適切。カビは薬剤（防カビ剤）による処理が適切であり、水洗いだけでは再発する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1718,7 +1718,7 @@
                   "groupId": "kanri_r4_Q37",
                   "statement": "オ ウ ア イ エ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "民法491条により、弁済の充当順序は費用→利息→元本の順。複数の債務がある場合は費用（督促費用等）が最優先される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1727,7 +1727,7 @@
                   "groupId": "kanri_r4_Q20",
                   "statement": "外気温の変動による挙動が大きいひび割れ幅1．0mmの補修に,可撓性エポキシ樹  脂による充填工法を適用した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "挙動が大きい（温度変化で開閉する）ひび割れには注入工法は不適切。Uカットシール材充填工法など挙動に追従できる工法を選定する必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1736,7 +1736,7 @@
                   "groupId": "kanri_r4_Q20",
                   "statement": "外気温の変動による挙動が小さいひび割れ幅0．1mmの補修に,ポリマーセメント ペーストによるひび割れ被覆工法を適用した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "挙動が大きい（温度変化で開閉する）ひび割れには注入工法は不適切。Uカットシール材充填工法など挙動に追従できる工法を選定する必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1745,7 +1745,7 @@
                   "groupId": "kanri_r4_Q30",
                   "statement": "共用部分に係る火災保険料に充当する場合",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、修繕積立金はマンション建替えに係る調査費用（合意形成のための調査等）に充当する場合に取り崩すことができる。通常の管理費用には充当できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1754,7 +1754,7 @@
                   "groupId": "kanri_r4_Q30",
                   "statement": "共用部分の階段のすべり止めに数箇所の剥離が生じたため,その補修費に充当する 場合",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、修繕積立金はマンション建替えに係る調査費用（合意形成のための調査等）に充当する場合に取り崩すことができる。通常の管理費用には充当できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1763,7 +1763,7 @@
                   "groupId": "kanri_r4_Q18",
                   "statement": "住宅用防災警報器とは,住宅における火災の発生を未然に又は早期に感知して報知 する警報器をいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "消防法により住宅用防災警報器は寝室・階段など複数箇所への設置が必要。台所のみへの設置では要件を満たさない（市町村条例で追加設置箇所が定められる場合がある）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1772,7 +1772,7 @@
                   "groupId": "kanri_r4_Q04",
                   "statement": "Ｂの抵当権は,Ａに対しては,被担保債権が存在していても,時効によって消滅す る。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "抵当権設定時に土地が更地であった場合、後に建物が建っても法定地上権は成立しない。更地を競落したCはAに明渡しを求めることができる（民法388条は更地に不適用）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1781,7 +1781,7 @@
                   "groupId": "kanri_r4_Q08",
                   "statement": "点検業務には,建物の外観目視点検,無断駐車等の確認が含まれる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "管理員の立会業務には工事・修繕の完了確認や災害・事故等の処理の立会いが含まれるが、専有部分の鍵の保管は含まれない（立会業務の範囲外）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1790,7 +1790,7 @@
                   "groupId": "kanri_r4_Q34",
                   "statement": "規約の保管場所は,建物内の見やすい場所に掲示しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法では、管理者がいない場合は規約または集会の決議で定めた区分所有者が規約を保管する（区分所有法33条）。建物を使用している占有者という規定はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1799,7 +1799,7 @@
                   "groupId": "kanri_r4_Q37",
                   "statement": "イ オ ア ウ エ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "民法491条により、弁済の充当順序は費用→利息→元本の順。複数の債務がある場合は費用（督促費用等）が最優先される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1808,7 +1808,7 @@
                   "groupId": "kanri_r4_Q34",
                   "statement": "区分所有者全員で構成する団体に管理者が選任されている場合には,規約は,管理 者が保管しなければならない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "区分所有法では、管理者がいない場合は規約または集会の決議で定めた区分所有者が規約を保管する（区分所有法33条）。建物を使用している占有者という規定はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1817,7 +1817,7 @@
                   "groupId": "kanri_r4_Q17",
                   "statement": "「建築物」とは,土地に定着する工作物のうち,屋根及び柱若しくは壁を有するも のなどをいい,建築設備を含まない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "建築基準法第2条第1号では「建築物」に建築設備を含むと定義されている。建築設備を含まないという記述は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1826,7 +1826,7 @@
                   "groupId": "kanri_r4_Q20",
                   "statement": "外気温の変動による挙動が小さいひび割れ幅0．5mmの補修に,アクリル樹脂系注 入材による注入工法を適用した。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "挙動が大きい（温度変化で開閉する）ひび割れには注入工法は不適切。Uカットシール材充填工法など挙動に追従できる工法を選定する必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1835,7 +1835,7 @@
                   "groupId": "kanri_r4_Q22",
                   "statement": "ガス給湯機の能力表示における1号とは,毎分流量1ℓの水の温度を25℃上昇させ る能力をいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "CO2冷媒ヒートポンプ給湯機（エコキュート）は貯湯タンクを必要とし、加熱した湯をタンクに貯めてから供給する。タンク不要という記述は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1844,7 +1844,7 @@
                   "groupId": "kanri_r4_Q28",
                   "statement": "ｇ=（ａ+ｂ+ｃ）'ｅ'ｆ",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "修繕積立金の月額単価g = （推定修繕工事費合計ａ＋調査診断費ｂ＋その他ｃ） ÷ 専有面積の合計ｅ ÷ 計画期間ｆ で算出する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1853,7 +1853,7 @@
                   "groupId": "kanri_r4_Q28",
                   "statement": "ｇ=（ａ+ｂ+ｃ）'ｄ'ｆ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "修繕積立金の月額単価g = （推定修繕工事費合計ａ＋調査診断費ｂ＋その他ｃ） ÷ 専有面積の合計ｅ ÷ 計画期間ｆ で算出する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1862,7 +1862,7 @@
                   "groupId": "kanri_r4_Q08",
                   "statement": "受付等の業務には,宅配物の預かり,引渡し,利害関係人に対する管理規約等の閲 覧が含まれる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "管理員の立会業務には工事・修繕の完了確認や災害・事故等の処理の立会いが含まれるが、専有部分の鍵の保管は含まれない（立会業務の範囲外）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1871,7 +1871,7 @@
                   "groupId": "kanri_r4_Q08",
                   "statement": "立会業務には,災害,事故等の処理の立会い,そのための専有部分の(cid:20276)の保管が含 まれる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "管理員の立会業務には工事・修繕の完了確認や災害・事故等の処理の立会いが含まれるが、専有部分の鍵の保管は含まれない（立会業務の範囲外）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1880,7 +1880,7 @@
                   "groupId": "kanri_r4_Q30",
                   "statement": "ＷＥＢ会議システムを用いて理事会を開催するため,パソコン数台を購入する費用 に充当する場合",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、修繕積立金はマンション建替えに係る調査費用（合意形成のための調査等）に充当する場合に取り崩すことができる。通常の管理費用には充当できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1889,7 +1889,7 @@
                   "groupId": "kanri_r4_Q07",
                   "statement": "管理事務室は,管理組合がマンション管理業者に管理事務を行わせるため,有償で 使用させるものとしている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理委託契約書では、管理組合がマンション管理業者に管理事務を行わせるために管理事務室を使用させる場合、無償で使用させることとされている。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1898,7 +1898,7 @@
                   "groupId": "kanri_r4_Q23",
                   "statement": "換気効率の指標の一つである「空気齢」は,その数値が小さいほど,その地点に供 給される空気が汚染されている可能性が高い。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "空気齢とは、空気が給気口から当該地点に到達するまでの時間の指標であり、数値が小さいほど新鮮な空気（換気効率が高い）。汚染されているというのは逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1907,7 +1907,7 @@
                   "groupId": "kanri_r4_Q37",
                   "statement": "ウ イ エ ア オ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "民法491条により、弁済の充当順序は費用→利息→元本の順。複数の債務がある場合は費用（督促費用等）が最優先される。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1916,7 +1916,7 @@
                   "groupId": "kanri_r4_Q12",
                   "statement": "監事は,管理組合の業務の執行及び財産の状況について不正があると認めるときは, 臨時総会を招集することができる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、監事は理事が不正行為をするおそれがあるときに臨時総会を招集することができるが、理事会を直接招集する権限はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1925,7 +1925,7 @@
                   "groupId": "kanri_r4_Q13",
                   "statement": "収支決算の結果,管理費に余剰を生じた場合には,その余剰は翌年度における管理 費に充当する。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、管理組合の会計処理に関する細則の変更は、普通決議（過半数）で行う。特別多数決議（4分の3以上）は規約変更等に必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1934,7 +1934,7 @@
                   "groupId": "kanri_r4_Q21",
                   "statement": "油脂類については,中性洗剤洗いをした後に,水洗いした。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "カビの除去にワイヤブラシを使用すると胞子が飛散するため不適切。カビは薬剤（防カビ剤）による処理が適切であり、水洗いだけでは再発する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1943,7 +1943,7 @@
                   "groupId": "kanri_r4_Q18",
                   "statement": "住宅の関係者には,住宅用防災警報器を設置する義務に加えて,適切に維持する義 務が課せられている。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "消防法により住宅用防災警報器は寝室・階段など複数箇所への設置が必要。台所のみへの設置では要件を満たさない（市町村条例で追加設置箇所が定められる場合がある）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1952,7 +1952,7 @@
                   "groupId": "kanri_r4_Q02",
                   "statement": "地上権や地役権についても,時効による権利の取得が認められる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "時効の利益は時効完成前に放棄することはできないが（民法146条）、時効完成後であれば当事者が任意に放棄することができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1961,7 +1961,7 @@
                   "groupId": "kanri_r4_Q04",
                   "statement": "抵当権設定当時,甲土地上にＡ所有の建物があった場合には,当該抵当権の効力は 当該建物にも及ぶ。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "抵当権設定時に土地が更地であった場合、後に建物が建っても法定地上権は成立しない。更地を競落したCはAに明渡しを求めることができる（民法388条は更地に不適用）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1970,7 +1970,7 @@
                   "groupId": "kanri_r4_Q17",
                   "statement": "「敷地」とは,一の建築物又は用途上不可分の関係にある二以上の建築物のある一 団の土地をいう。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "建築基準法第2条第1号では「建築物」に建築設備を含むと定義されている。建築設備を含まないという記述は誤り。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1979,7 +1979,7 @@
                   "groupId": "kanri_r4_Q04",
                   "statement": "抵当権の設定行為において別段の合意がない限り,被担保債権の利息は当該抵当権 によって担保されない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "抵当権設定時に土地が更地であった場合、後に建物が建っても法定地上権は成立しない。更地を競落したCはAに明渡しを求めることができる（民法388条は更地に不適用）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1988,7 +1988,7 @@
                   "groupId": "kanri_r4_Q13",
                   "statement": "駐車場使用料収入は,当該駐車場の管理に要する費用に充てるほか,修繕積立金と して積み立てる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、管理組合の会計処理に関する細則の変更は、普通決議（過半数）で行う。特別多数決議（4分の3以上）は規約変更等に必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -1997,7 +1997,7 @@
                   "groupId": "kanri_r4_Q50",
                   "statement": "営業所 10 3",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "マンション管理業者は事務所ごとに、管理事務の委託を受けた管理組合数30組合につき1人以上の管理業務主任者を設置しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2006,7 +2006,7 @@
                   "groupId": "kanri_r4_Q01",
                   "statement": "委任者は,受任者に不利な時期には,委任契約を解除することができない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "民法643条・648条により、委任契約は原則として無償であり、特約がなければ受任者は報酬を請求できない。受任者は委任者の請求があれば随時状況を報告する義務がある（645条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2015,7 +2015,7 @@
                   "groupId": "kanri_r4_Q35",
                   "statement": "敷地利用権を有しない区分所有者は,土地所有者に対して当該区分所有権を時価で 買い取るように請求することができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "各区分所有者が土地所有者と個別に借地契約を締結している場合、一人の借地契約が解除されると、その区分所有者は敷地利用権のない区分所有者となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2024,7 +2024,7 @@
                   "groupId": "kanri_r4_Q16",
                   "statement": "修繕費 1,450,000 未払金 1,450,000 未払金 3,500,000 普通預金 3,500,000",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "前月に計上した未払金の支払と当月発生した修繕費を区分して仕訳する。資本的支出（器具備品）と修繕費の区分判断も重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2033,7 +2033,7 @@
                   "groupId": "kanri_r4_Q18",
                   "statement": "住宅用防災警報器は,市町村の火災予防条例による別段の定めがある場合を除き, 台所にのみ設置すればよい。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "消防法により住宅用防災警報器は寝室・階段など複数箇所への設置が必要。台所のみへの設置では要件を満たさない（市町村条例で追加設置箇所が定められる場合がある）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2042,7 +2042,7 @@
                   "groupId": "kanri_r4_Q16",
                   "statement": "未払金 3,500,000 普通預金 3,500,000 修繕費 450,000 未払金 450,000",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "前月に計上した未払金の支払と当月発生した修繕費を区分して仕訳する。資本的支出（器具備品）と修繕費の区分判断も重要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2051,7 +2051,7 @@
                   "groupId": "kanri_r4_Q02",
                   "statement": "消滅時効が完成し,時効が援用されて権利が消滅すると,その権利は最初からな かったものとされる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "時効の利益は時効完成前に放棄することはできないが（民法146条）、時効完成後であれば当事者が任意に放棄することができる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2060,7 +2060,7 @@
                   "groupId": "kanri_r4_Q43",
                   "statement": "令和2年末時点における分譲マンションストック総数は,900万戸を超えている。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "国土交通省統計によると、令和2年末時点での築40年超のマンション戸数は100万戸を超え、令和12年末には200万戸超、令和22年末には400万戸超と急増する見込み。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2069,7 +2069,7 @@
                   "groupId": "kanri_r4_Q35",
                   "statement": "土地所有者と各区分所有者との間で締結された借地契約相互の関係は,一つの借地 契約を準共有する関係にある。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "各区分所有者が土地所有者と個別に借地契約を締結している場合、一人の借地契約が解除されると、その区分所有者は敷地利用権のない区分所有者となる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2078,7 +2078,7 @@
                   "groupId": "kanri_r4_Q20",
                   "statement": "外気温の変動による挙動が大きいひび割れ幅0．5mmの補修に,ポリマーセメント ペーストによる注入工法を適用した。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "挙動が大きい（温度変化で開閉する）ひび割れには注入工法は不適切。Uカットシール材充填工法など挙動に追従できる工法を選定する必要がある。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2087,7 +2087,7 @@
                   "groupId": "kanri_r4_Q06",
                   "statement": "マンション管理業者は,年に一度,管理組合の組合員の管理費等の滞納状況を,当 該管理組合に報告する。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理委託契約書「別表第1」によると、マンション管理業者は各種点検・検査結果を管理組合に報告するとともに、改善等の必要がある事項について具体的な方策を助言する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2096,7 +2096,7 @@
                   "groupId": "kanri_r4_Q13",
                   "statement": "管理組合の会計処理に関する細則の変更は,総会の特別多数決議を経なければなら ない。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、管理組合の会計処理に関する細則の変更は、普通決議（過半数）で行う。特別多数決議（4分の3以上）は規約変更等に必要。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2105,7 +2105,7 @@
                   "groupId": "kanri_r4_Q19",
                   "statement": "中性化深さは経過年数の二乗（t2）に比例するので,鉄筋に到達するまで約10年 かかる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "中性化深さは経過年数の平方根に比例する。25年で20mmなら比例定数=20/√25=4。かぶり40mmに到達するまでの年数t：4√t=40 → t=100年。竣工後75年後（100-25=75年後）に到達。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2114,7 +2114,7 @@
                   "groupId": "kanri_r4_Q12",
                   "statement": "監事は,理事が不正の行為をし,若しくは当該行為をするおそれがあると認めると きは,直ちに,理事会を招集することができる。",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、監事は理事が不正行為をするおそれがあるときに臨時総会を招集することができるが、理事会を直接招集する権限はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2123,7 +2123,7 @@
                   "groupId": "kanri_r4_Q12",
                   "statement": "監事は,理事会に出席し,必要があると認めるときは,意見を述べなければならな い。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、監事は理事が不正行為をするおそれがあるときに臨時総会を招集することができるが、理事会を直接招集する権限はない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2132,7 +2132,7 @@
                   "groupId": "kanri_r4_Q28",
                   "statement": "ｇ=（ａ+ｂ）'ｄ'ｆ",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "修繕積立金の月額単価g = （推定修繕工事費合計ａ＋調査診断費ｂ＋その他ｃ） ÷ 専有面積の合計ｅ ÷ 計画期間ｆ で算出する。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2141,7 +2141,7 @@
                   "groupId": "kanri_r4_Q01",
                   "statement": "受任者は,特約がなければ,委任者に対して報酬を請求することができない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "民法643条・648条により、委任契約は原則として無償であり、特約がなければ受任者は報酬を請求できない。受任者は委任者の請求があれば随時状況を報告する義務がある（645条）。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2150,7 +2150,7 @@
                   "groupId": "kanri_r4_Q30",
                   "statement": "建物の建替えに係る合意形成に必要となる事項の調査に要する経費に充当する場合",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "標準管理規約では、修繕積立金はマンション建替えに係る調査費用（合意形成のための調査等）に充当する場合に取り崩すことができる。通常の管理費用には充当できない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2159,7 +2159,7 @@
                   "groupId": "kanri_r4_Q19",
                   "statement": "中性化深さは経過年数の平方根（ t ）に比例するので,鉄筋に到達するまで約75 年かかる。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "中性化深さは経過年数の平方根に比例する。25年で20mmなら比例定数=20/√25=4。かぶり40mmに到達するまでの年数t：4√t=40 → t=100年。竣工後75年後（100-25=75年後）に到達。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2168,7 +2168,7 @@
                   "groupId": "kanri_r4_Q40",
                   "statement": "当該マンションが建設工事の完了の日から起算して1年を経過して初めて分譲され た場合には,品確法上の担保責任は問えない。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "品確法の瑕疵担保責任期間は引渡しから10年間。転売された場合でも、転得者は最初の引渡しから10年以内であれば当初の売主に対し責任追及できる。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2177,7 +2177,7 @@
                   "groupId": "kanri_r4_Q50",
                   "statement": "営業所 30 6",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "マンション管理業者は事務所ごとに、管理事務の委託を受けた管理組合数30組合につき1人以上の管理業務主任者を設置しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2186,7 +2186,7 @@
                   "groupId": "kanri_r4_Q50",
                   "statement": "事務所 10 3",
                   "answer": false,
-                  "explanation": "",
+                  "explanation": "マンション管理業者は事務所ごとに、管理事務の委託を受けた管理組合数30組合につき1人以上の管理業務主任者を設置しなければならない。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 },
@@ -2195,7 +2195,7 @@
                   "groupId": "kanri_r4_Q23",
                   "statement": "全熱交換型の換気は,「第1種換気方式」である。",
                   "answer": true,
-                  "explanation": "",
+                  "explanation": "空気齢とは、空気が給気口から当該地点に到達するまでの時間の指標であり、数値が小さいほど新鮮な空気（換気効率が高い）。汚染されているというのは逆。",
                   "lawReviewed": false,
                   "lawBaseYear": 2025
                 }
