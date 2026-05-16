@@ -118,6 +118,28 @@
       background: #fff; color: var(--text); font-size: 24px; cursor: pointer;
     }
 
+    .mobile-drawer {
+      display: none; position: fixed; inset: 0; z-index: 200;
+    }
+    .mobile-drawer.open { display: block; }
+    .drawer-overlay {
+      position: absolute; inset: 0; background: rgba(0,0,0,0.4);
+    }
+    .drawer-panel {
+      position: absolute; top: 0; right: 0; bottom: 0; width: min(280px, 85vw);
+      background: #fff; padding: 24px 20px; display: flex; flex-direction: column; gap: 4px;
+      box-shadow: -4px 0 24px rgba(0,0,0,0.12);
+    }
+    .drawer-close {
+      align-self: flex-end; background: none; border: none; font-size: 24px; cursor: pointer;
+      color: var(--muted); margin-bottom: 12px; padding: 4px;
+    }
+    .drawer-panel a {
+      display: block; padding: 14px 8px; font-size: 16px; font-weight: 700;
+      color: var(--text); border-bottom: 1px solid var(--line);
+    }
+    .drawer-panel a:hover { color: var(--blue); }
+
     section, footer { scroll-margin-top: 80px; }
 
     .hero {
@@ -443,7 +465,20 @@
 <a href="#app">アプリ</a>
 <a href="mailto:sanataro2025@protonmail.com">お問い合わせ</a>
 </nav>
-<button aria-label="メニューを開く" class="menu-button">☰</button>
+<button aria-label="メニューを開く" class="menu-button" id="menuBtn">☰</button>
+
+<div class="mobile-drawer" id="mobileDrawer">
+  <div class="drawer-overlay" id="drawerOverlay"></div>
+  <div class="drawer-panel">
+    <button class="drawer-close" id="drawerClose" aria-label="閉じる">✕</button>
+    <a href="#qualifications" onclick="closeDrawer()">資格一覧</a>
+    <a href="#popular" onclick="closeDrawer()">人気資格</a>
+    <a href="#promo" onclick="closeDrawer()">アプリ</a>
+    <a href="/privacy.html">プライバシーポリシー</a>
+    <a href="/terms.html">利用規約</a>
+    <a href="/operator.html">運営者情報</a>
+  </div>
+</div>
 </div>
 </header>
 <main>
@@ -1797,6 +1832,14 @@
     }, { rootMargin: '-50% 0px -50% 0px' });
 
     sections.forEach(s => observer.observe(s));
+
+    // Mobile drawer
+    const drawer = document.getElementById('mobileDrawer');
+    function openDrawer() { drawer.classList.add('open'); document.body.style.overflow = 'hidden'; }
+    function closeDrawer() { drawer.classList.remove('open'); document.body.style.overflow = ''; }
+    document.getElementById('menuBtn').addEventListener('click', openDrawer);
+    document.getElementById('drawerClose').addEventListener('click', closeDrawer);
+    document.getElementById('drawerOverlay').addEventListener('click', closeDrawer);
   </script>
 </body>
 </html>
