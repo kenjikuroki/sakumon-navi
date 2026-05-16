@@ -119,7 +119,7 @@
     }
 
     .mobile-drawer {
-      display: none; position: fixed; inset: 0; z-index: 200;
+      display: none; position: fixed; inset: 0; z-index: 9999;
     }
     .mobile-drawer.open { display: block; }
     .drawer-overlay {
@@ -139,6 +139,7 @@
       color: var(--text); border-bottom: 1px solid var(--line);
     }
     .drawer-panel a:hover { color: var(--blue); }
+    body.drawer-open .hero-visual { visibility: hidden; }
 
     section, footer { scroll-margin-top: 80px; }
 
@@ -467,6 +468,9 @@
 </nav>
 <button aria-label="メニューを開く" class="menu-button" id="menuBtn">☰</button>
 
+</div>
+</header>
+
 <div class="mobile-drawer" id="mobileDrawer">
   <div class="drawer-overlay" id="drawerOverlay"></div>
   <div class="drawer-panel">
@@ -479,8 +483,7 @@
     <a href="/operator.html">運営者情報</a>
   </div>
 </div>
-</div>
-</header>
+
 <main>
 <section class="hero">
 <div class="container hero-inner">
@@ -1835,8 +1838,16 @@
 
     // Mobile drawer
     const drawer = document.getElementById('mobileDrawer');
-    function openDrawer() { drawer.classList.add('open'); document.body.style.overflow = 'hidden'; }
-    function closeDrawer() { drawer.classList.remove('open'); document.body.style.overflow = ''; }
+    function openDrawer() {
+      drawer.classList.add('open');
+      document.body.style.overflow = 'hidden';
+      document.body.classList.add('drawer-open');
+    }
+    function closeDrawer() {
+      drawer.classList.remove('open');
+      document.body.style.overflow = '';
+      document.body.classList.remove('drawer-open');
+    }
     document.getElementById('menuBtn').addEventListener('click', openDrawer);
     document.getElementById('drawerClose').addEventListener('click', closeDrawer);
     document.getElementById('drawerOverlay').addEventListener('click', closeDrawer);
