@@ -1853,5 +1853,86 @@
     document.getElementById('drawerClose').addEventListener('click', closeDrawer);
     document.getElementById('drawerOverlay').addEventListener('click', closeDrawer);
   </script>
+  <script>
+  // アプリリンクデータ: カードのh3テキスト → アプリ情報
+  const SAKUSAKU_ID = "6768983288";
+  // サクサク過去問対応資格（現在2資格。拡張時はここに追加）
+  const SAKUSAKU_QUALIFICATIONS = new Set([
+    "運行管理者（貨物）",
+    "運行管理者（旅客）",
+  ]);
+  const APP_MAP = {
+    "ITパスポート":                         [{ name: "ITパスポート対策", id: "6759912345" }],
+    "工事担任者（第2級デジタル通信）":         [{ name: "第2級デジタル通信対策", id: "6759118181" }],
+    "運行管理者（貨物）":                     [{ name: "運行管理者 貨物", id: "6757323892" }, { name: "運行管理者 貨物 ４択", id: "6757862966" }],
+    "運行管理者（旅客）":                     [{ name: "運行管理者 旅客", id: "6757635041" }, { name: "運行管理者 旅客 4択", id: "6757896364" }],
+    "ドローン国家資格（一等・二等）":           [{ name: "ドローン一等", id: "6758681333" }, { name: "ドローン二等", id: "6758681298" }],
+    "第二種電気工事士":                       [{ name: "第2種電気工事士対策", id: "6760922562" }],
+    "消防設備士（甲4類・乙6類）":             [{ name: "消防設備士 甲4類対策", id: "6761318611" }, { name: "消防設備士 乙6類対策", id: "6759912507" }],
+    "建築物環境衛生管理技術者（ビル管理士）":   [{ name: "ビル管理士対策", id: "6760922687" }],
+    "2級造園施工管理技士":                    [{ name: "2級造園施工管理技士対策", id: "6759118070" }],
+    "2級管工事施工管理技士":                  [{ name: "2級管工事施工管理技士対策", id: "6759118178" }],
+    "2級舗装施工管理技術者":                  [{ name: "2級舗装施工管理技術者対策", id: "6759118125" }],
+    "第3種下水道技術検定":                    [{ name: "第3種下水道技術検定対策", id: "6759118088" }],
+    "浄化槽管理士":                          [{ name: "浄化槽管理士対策", id: "6759117951" }],
+    "危険物取扱者（乙種第4類）":              [{ name: "乙4対策", id: "6757264559" }, { name: "乙4 五択問題", id: "6757969079" }],
+    "高圧ガス（丙種化学・液石）":             [{ name: "高圧ガス（丙種化学）対策", id: "6760922777" }],
+    "第三種冷凍機械責任者":                   [{ name: "第三種冷凍機械責任者対策", id: "6759912625" }],
+    "液化石油ガス設備士":                     [{ name: "液化石油ガス設備士対策", id: "6761318415" }],
+    "毒物劇物取扱責任者":                     [{ name: "毒物劇物取扱責任者対策", id: "6761318661" }],
+    "公害防止管理者（大気・水質）":            [{ name: "公害防止管理者(大気)対策", id: "6759117983" }, { name: "公害防止管理者(水質)対策", id: "6759118144" }],
+    "潜水士":                               [{ name: "潜水士対策", id: "6757600308" }, { name: "潜水士 選択問題", id: "6758617558" }],
+    "FP技能検定（3級・2級）":               [{ name: "FP3級対策", id: "6759912401" }],
+    "宅建（宅地建物取引士）":                [{ name: "宅地建物取引士対策", id: "6759912472" }],
+    "第一種衛生管理者":                      [{ name: "衛生管理者対策", id: "6757323378" }],
+    "管理業務主任者":                        [{ name: "管理業務主任者対策", id: "6760922707" }],
+    "二級ボイラー技士":                      [{ name: "2級ボイラー対策", id: "6757297431" }],
+    "貸金業務取扱主任者":                    [{ name: "貸金業務取扱主任者対策", id: "6759912312" }],
+    "国内旅行業務取扱管理者":                [{ name: "国内旅行業務取扱管理者対策", id: "6759912485" }],
+  };
+
+  function appStoreUrl(id) {
+    return `https://apps.apple.com/jp/app/id${id}`;
+  }
+
+  document.querySelectorAll('.qualification-card').forEach(card => {
+    const h3 = card.querySelector('h3');
+    if (!h3) return;
+    const title = h3.textContent.trim();
+    const apps = APP_MAP[title] || [];
+    const hasSakusaku = SAKUSAKU_QUALIFICATIONS.has(title);
+    if (apps.length === 0 && !hasSakusaku) return;
+
+    const wrap = document.createElement('div');
+    wrap.style.cssText = 'margin-top:10px;display:flex;flex-wrap:wrap;gap:6px;';
+
+    apps.forEach(app => {
+      const a = document.createElement('a');
+      a.href = appStoreUrl(app.id);
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.textContent = `📱 ${app.name}`;
+      a.style.cssText = 'display:inline-flex;align-items:center;gap:4px;padding:5px 10px;background:#f0f9ff;border:1px solid #bae6fd;border-radius:20px;font-size:12px;font-weight:600;color:#0369a1;text-decoration:none;';
+      wrap.appendChild(a);
+    });
+
+    if (hasSakusaku) {
+      const a = document.createElement('a');
+      a.href = appStoreUrl(SAKUSAKU_ID);
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.textContent = '⚡ サクサク過去問';
+      a.style.cssText = 'display:inline-flex;align-items:center;gap:4px;padding:5px 10px;background:#eff6ff;border:1px solid #93c5fd;border-radius:20px;font-size:12px;font-weight:600;color:#1d4ed8;text-decoration:none;';
+      wrap.appendChild(a);
+    }
+
+    const officialLink = card.querySelector('.official-link');
+    if (officialLink) {
+      officialLink.parentNode.insertBefore(wrap, officialLink);
+    } else {
+      card.appendChild(wrap);
+    }
+  });
+  </script>
 </body>
 </html>
