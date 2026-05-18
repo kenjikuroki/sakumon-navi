@@ -1895,6 +1895,25 @@
     return `https://apps.apple.com/jp/app/id${id}`;
   }
 
+  function makeAppRow(label, color, items) {
+    const row = document.createElement('div');
+    row.style.cssText = 'display:flex;align-items:center;gap:8px;flex-wrap:wrap;';
+    const lbl = document.createElement('span');
+    lbl.textContent = label;
+    lbl.style.cssText = `font-size:11px;font-weight:700;color:${color};white-space:nowrap;min-width:80px;`;
+    row.appendChild(lbl);
+    items.forEach(({ text, href }) => {
+      const a = document.createElement('a');
+      a.href = href;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.textContent = text;
+      a.style.cssText = `display:inline-flex;align-items:center;padding:4px 12px;background:#fff;border:1.5px solid ${color};border-radius:20px;font-size:12px;font-weight:600;color:${color};text-decoration:none;`;
+      row.appendChild(a);
+    });
+    return row;
+  }
+
   document.querySelectorAll('.qualification-card').forEach(card => {
     const h3 = card.querySelector('h3');
     if (!h3) return;
@@ -1903,34 +1922,30 @@
     const hasSakusaku = SAKUSAKU_QUALIFICATIONS.has(title);
     if (apps.length === 0 && !hasSakusaku) return;
 
-    const wrap = document.createElement('div');
-    wrap.style.cssText = 'margin-top:10px;display:flex;flex-wrap:wrap;gap:6px;';
+    const section = document.createElement('div');
+    section.style.cssText = 'margin-top:12px;padding:10px 12px;background:#f8fafc;border-radius:10px;border:1px solid #e2e8f0;display:flex;flex-direction:column;gap:8px;';
 
-    apps.forEach(app => {
-      const a = document.createElement('a');
-      a.href = appStoreUrl(app.id);
-      a.target = '_blank';
-      a.rel = 'noopener';
-      a.textContent = `📱 ${app.name}`;
-      a.style.cssText = 'display:inline-flex;align-items:center;gap:4px;padding:5px 10px;background:#f0f9ff;border:1px solid #bae6fd;border-radius:20px;font-size:12px;font-weight:600;color:#0369a1;text-decoration:none;';
-      wrap.appendChild(a);
-    });
+    const header = document.createElement('div');
+    header.style.cssText = 'font-size:11px;font-weight:700;color:#64748b;letter-spacing:0.05em;';
+    header.textContent = '📲 iOSアプリで学ぶ';
+    section.appendChild(header);
+
+    if (apps.length > 0) {
+      const items = apps.map(app => ({ text: app.name, href: appStoreUrl(app.id) }));
+      section.appendChild(makeAppRow('🎯 オリジナル問題', '#0369a1', items));
+    }
 
     if (hasSakusaku) {
-      const a = document.createElement('a');
-      a.href = appStoreUrl(SAKUSAKU_ID);
-      a.target = '_blank';
-      a.rel = 'noopener';
-      a.textContent = '⚡ サクサク過去問';
-      a.style.cssText = 'display:inline-flex;align-items:center;gap:4px;padding:5px 10px;background:#eff6ff;border:1px solid #93c5fd;border-radius:20px;font-size:12px;font-weight:600;color:#1d4ed8;text-decoration:none;';
-      wrap.appendChild(a);
+      section.appendChild(makeAppRow('📚 過去問ベース', '#1d4ed8', [
+        { text: 'サクサク過去問', href: appStoreUrl(SAKUSAKU_ID) }
+      ]));
     }
 
     const officialLink = card.querySelector('.official-link');
     if (officialLink) {
-      officialLink.parentNode.insertBefore(wrap, officialLink);
+      officialLink.parentNode.insertBefore(section, officialLink);
     } else {
-      card.appendChild(wrap);
+      card.appendChild(section);
     }
   });
   </script>
